@@ -48,21 +48,20 @@ export const defaultContentPageLayout: PageLayout = {
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
-export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+// quartz.layout.ts 片段
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
+    // ... 其他組件
     Component.Explorer(),
+    // 加入以下這段
+    Component.Html(`
+      <div style="margin-top: 2rem;">
+        <iframe
+          src="https://meow.camera/#7351858487559773974"
+          style="width: 100%; height: 400px; border: 1px solid #e5e5e5; border-radius: 8px;"
+          allow="microphone">
+        </iframe>
+      </div>
+    `),
   ],
-  right: [],
-}
