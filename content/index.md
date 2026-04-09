@@ -1,5 +1,5 @@
 ---
-title: Welcome to StochasticautomaticacademicSloppinator9000 (SaaS9000)
+title: StochasticautomaticacademicSloppinator9000 (SaaS9000)
 ---
 
 This is the blasphemy to the humanity and clankery.
