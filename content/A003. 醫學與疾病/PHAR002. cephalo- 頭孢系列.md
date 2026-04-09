@@ -1,0 +1,94 @@
+- [[PHAR000. 一些藥]]
+- Cephaeline 副吐根素
+- - - 
+- Cephalosporium (舊稱)頭孢霉屬，(現稱)枝頂孢霉屬
+- - - 
+- # β-內醯胺 (β-lactam)
+***
+- Cephalosporin 頭孢菌素
+- Cephem 頭孢烯
+- Carbacephem 碳頭孢烯
+- Cephamycin 頭黴素
+- - - 
+- **Gen 1 (PEcK)**
+- Cephapirin 頭孢匹林
+	- Streptococcus 鏈球菌
+- Cefazolin 頭孢唑啉
+- Cephalothin 頭孢噻 (ㄙㄞˋ)吩
+- Cefazaflur 頭孢氮氟
+- Cefazedone 頭孢西酮
+- Cefradine 頭孢拉定
+- Cefroxadine 頭孢沙定
+- Cefaloglycin 頭孢甘酸
+- Cefalonium 頭孢洛寧
+- Cefaloridine 頭孢噻啶
+- Cefatrizine 頭孢曲嗪
+- Ceftezole 頭孢替唑
+- Cefadroxil 頭孢卓西
+- Cephradine 頭孢華定
+- - -
+- **Gen 2 (HEN)**
+- Ceforanide 頭孢雷特
+- Cefmetazole 頭孢美唑
+- Cefonicid 頭孢尼西
+- Cefoxitin 頭孢西丁
+- Cefotetan 頭孢替坦
+- Cefuzonam 頭孢唑喃
+- Cefminox 頭孢米諾
+- Cefbuperazone 頭孢拉宗
+- Loracarbef 氯碳頭孢
+- Cefaclor 頭孢克洛
+- Cepaprozil 頭孢丙烯
+- Cefuroxime 頭孢呋辛
+- Cefuroxime axetil 頭孢呋辛酯
+- Cefamandole 頭孢孟多
+- - -
+- **Gen 3**
+- Cefotiam 頭孢替安
+- Ceftriaxone 頭孢曲松
+- Ceftazidime 頭孢他啶
+- Cefoperazone 頭孢哌酮
+- Cefdinir 頭孢地尼
+- Cefcapene 頭孢卡品
+- Cefdaloxime 頭孢達肟
+- Ceftizoxime 頭孢唑肟
+- Cefmenoxime 頭孢甲肟
+- Cefotaxime 頭孢噻肟
+- Cefixime 頭孢克肟
+- Cefpodoxime Prexetil 頭孢泊肟酯
+- Ceftibuten 頭孢布烯
+- Cefetamet 頭孢他美
+- Cefodizime 頭孢地嗪
+- Cefpimizole 頭孢咪唑
+- Cefsulodin 頭孢磺啶
+- Cefteram 頭孢特侖
+- Cefditoren 頭孢妥侖
+- Ceftiolene 頭孢噻林
+- Oxacephem 氧頭孢烯
+	- Latamoxef 拉氧頭孢
+	- Flomoxef 氟氧頭孢
+- - - 
+- **Gen 4**
+- Cefepime 頭孢吡肟
+- Cefozopran 頭孢唑蘭
+- Cefpirome 頭孢匹羅
+- Cefquinome 頭孢喹肟 (也可做獸醫用藥)
+- - - 
+- **Gen 5**
+- Ceftaroline fosamil 頭孢洛林
+- Ceftolozane 頭孢洛扎
+- Ceftobiprole 頭孢比普
+---
+- **螯鐵蛋白 SIderophore**
+- Cefiderocol 頭孢地爾
+---
+- **獸醫用藥 Veterinary medicine**
+- Ceftiofur 頭孢噻呋
+- Cefovecin 頭孢維星
+
+
+
+
+
+
+

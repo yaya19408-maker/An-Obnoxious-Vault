@@ -1,0 +1,119 @@
+- Nerve
+- - - 
+- ***System***
+- Central nervous system (CNS) 中樞神經系統
+	- Brain + spinal cord $\longrightarrow$ collect & integrate PNS signals
+- Peripheral nervous system (PNS)
+	- Spinal nerves
+		- Intervertebral foramen 椎間孔
+			- Foramen (plural: foramina) 骨頭內孔洞
+	- Cranial nerves
+- Somatic nervous system (SNS) 軀體神經系統
+- Autonomic nervous system (ANS) 自律神經系統
+- Synpathetic nervous system 交感神經系統
+	- Sympathetic trun ganglia 交感神經幹神經節
+		- = Parabertebral ganglia 脊柱旁神經節
+- Parasynpathetic nervous system 副交感神經系統
+- Enteric nervous system (ENS) 腸神經系統
+- Circulatory system
+	- Cardiovascular system
+	- Lymphatic system
+- - - 
+- ***神經***
+- Neuron
+	- Multipolar neuron 多極神經元
+	- Bipolar neuron 雙極神經元
+	- Pseudounipolar neuron 假單極神經元
+	- Preganglionic neuron 節前神經元
+	- Postganglionic neuron 節後神經元
+	- Sympathetic noradrenergic neuron 交感正腎上腺素神經元
+		- Noradrenaline 正腎上腺素
+		- Adrenergic receptor 腎上腺素受體
+- Dendrite/Dendritic cell
+- Cytoplasm (cell body)
+- Myelin sheath
+	- Myelin
+		- Lipid
+- Axon
+- Axon terminal
+- Synapse
+- - - 
+- ***核***
+- Nucleus
+	- Basal nuclei/basal ganglia 基底核
+		- Ganglion (plu: ganglia) 神經節
+	- Locus coeruleus 藍斑核
+	- Ventral tegmental nuclei 腹側背蓋核
+	- Nucleus reticularis pontis oralis 腦橋核
+	- Cuneate nucleus 楔狀核
+		- Precuneus 楔前葉
+	- Monoaminergic nuclei 單胺核
+	- Cholinergic nuclei 膽鹼核
+	- Caudate 尾核
+	- Putamen 殼核
+	- Nucleus accubens 伏隔核
+	- Raphe nuclei 縫核
+- - - 
+- ***骨***
+- Cervix $\rightarrow$ cervical (C1-C8) 頸椎(子宮頸)
+- Thorax $\rightarrow$ thoracic (T1-T12) 胸椎
+- Loin $\rightarrow$ lumbar (L1-L5) 腰椎
+- Sacrum $\rightarrow$ sacral (S1-S5) 骶骨
+- Coccyx $\rightarrow$ coccygeal 尾椎
+- Spine/Vertebral column 脊椎
+	- Spinal cord 脊髓 (transverse 橫切面)
+		- Anterior horn 前角細胞
+		- Posterior horn 後角細胞
+- Sternum 胸骨
+	- Retrosternal pain 胸骨後疼痛
+- - - 
+- ***動詞***
+- Innervate 受神經支配
+- Enervate 衰頹/式微
+- - -
+- 腦
+- Prosencephalon/Forebrain 前腦
+- Telencephalon 端腦
+- Diencephalon 間腦
+	- Thalamus 視丘
+		- Epithalamus 上視丘
+			- Habenular trigone 韁三角
+			- Habenular commisure 韁連合
+			- Pineal body 松果體=Pineal gland 松果腺=Epiphysis cerebri 腦上體
+		- Hypothalamus 下視丘
+			- Paraventricular nucleus 腦室壁核
+		- Subthalamus 底視丘
+		- Relay nuclei 中繼核團
+		- Associative nuclei 連結核團
+- Mesenphalon/Midbrain 中腦
+	- Midbrain aqueduct 中腦導水管
+		- Periaqueductal gray (PAG) 中腦導水管周圍灰質
+			- Periaqueductal gray nuclei 中腦導水管周圍灰質神經核
+- Rhombencephalon/Hindbrain 後腦/菱腦
+	- Metencephalon 中後腦
+		- Pons 腦橋
+			- Bulbopontine sulcus <font color="#a5a5a5">(cranial)</font>延髓腦腦溝
+				- Abducens nerve 外旋神經
+				- Facial nerve 顏面神經
+					- Facial nerve paralysis/Facial palsy 面癱
+						- Bell's palsy 貝爾氏麻痺
+						- Mobius syndrome 牟比士症後群
+				- Vestibulocochlear nerve 前庭耳蝸神經
+					- Cochlear 耳蝸
+						- Cochlear nucleus 耳蝸核
+			- Brain stem <font color="#a5a5a5">(caudal)</font>腦幹
+			- Basilar sulcus <font color="#a5a5a5">(ventral)</font> 基底溝
+			- Middle cerebellar peduncle <font color="#a5a5a5">(laterally intersected)</font>小腦中腳
+		- Cerebellum 小腦
+- Myelencephalon/Medulla oblongata 延腦
+	- Oliver 橄欖
+		- Superior olivery nucleus 上橄欖核
+			- Medial lemniscus 內側丘系
+			- Lateral lemniscus 外側丘系
+			- Inferior olivery nucleus 下橄欖核
+- Pulvinar 枕核/丘腦枕
+- Visual cortex 視覺皮層
+	- Striate cortex 紋狀皮層
+	- Extrastriate cortex 紋外皮層
+	- Strial subregion 紋狀體
+- Koniocortex 感覺型粒狀皮層

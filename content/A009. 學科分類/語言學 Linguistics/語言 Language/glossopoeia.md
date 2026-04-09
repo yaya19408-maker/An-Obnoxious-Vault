@@ -1,0 +1,221 @@
+---
+cssclasses:
+  - center-titles
+  - page-white
+tags:
+  - linguistics
+banner: 
+aliases:
+  - 人工語言
+  - 人造語言
+  - conlang
+  - constructed language
+relevance: "[[A005. poe(i)n- 詩; 生]]"
+relevance 2: 
+cover: 
+disambiguation:
+---
+Date: 2024-08-08
+File Creation Date: 2024-07-28 20:48
+Last Modified: 2024-08-04 16:34
+File folder: 語言學 Linguistics
+- ## **glossopoeia 人工語言(概念)**
+	- 指製造語言的過程
+	- **constructed language (conlang) 人工語言**
+		- 許多因特定目的、用途，為了某特定使用族群，而人為創造出來的語言，包括文法、單字等等。
+		- 依意圖分為
+			- **auxiliary language (auxlang) 輔助語言**
+				- 亦稱 International Auxiliary Language (IAL) 國際輔助語言
+				- *Esperanto 世界語*
+					- L. L. Zamenhof (1887)
+					- 有史以來最流行的輔助語言，包括可能多達200萬的使用者，是有史以來使用人數最多的人工語言，也是迄今為止唯一擁有自己的母語使用者的語言（大約1000人）
+					- Esperanto II 世界語II
+						- René de Saussure (1937)
+						- the last Esperantido
+				- *Ido 伊多語* (世界語優化版)
+					- 1907
+					- 最成功的 Esperantido 世界語延伸語種
+				- Europanto 歐洲語
+					- Diego Marani (1996)
+				- Interlingua 國際語
+					- International Auxiliary Language Association (IALA, 1951)
+				- Interlingue 西方國際語
+					- Edgar de Wahl (1922)
+					- 舊稱Occidental 西方語
+				- International Sign (IS)/Gestuno 國際手語
+					- $\in$ visual language 視覺語言
+				- Glosa 格羅沙語
+					- Lancelot Hogben et al. (1943)
+					- 最初稱為Interglossa，大多數為希臘-拉丁詞彙
+				- Novial 諾維亞語
+					- Otto Jespersen (1928)
+				- Volapük 沃拉普克語
+					- Johann Martin Schleyer (1879)
+					- 在國際輔助語上第一個引起國際上的興趣
+				- Solresol 索來索語
+					- François Sudre (1827)
+					- 在唱名音節上以音高水平之不同的發音而做語義辨識(一種"音樂語言")，但無需音樂知識。
+				- Communicationssprache 通信語
+					- Joseph Schipfer (1839)
+					- an auxlang based on French
+				- Universalglot 萬有語
+					- Jean Pirro (1868)
+					- an a posteriori auxlang before Volapük
+				- Spokil 斯博科語
+					- Adolph Nicolas (1887, 1890)
+					- an a priori auxlang after Volapük
+				- Mundolinco 世界林科語
+					- J. Braakman (1888)
+					- the first Esperantido 
+				- Bolak 柏拉語 (藍語言) (obsolete)
+					- Léon Bollack (1899)
+				- Idiom Neutral 中性成語
+					- Waldemar Rosenberger (1902)
+					- 由前沃拉普克語提倡者所創造的自然主義國際輔助語
+				- Latino sine Flexione 無屈折拉丁語
+					- Giuseppe Peano (1903)
+					- 在1908年替代Idiom Neutral
+				- Ro 羅歐語
+					- Rev. Edward Powell Foster (1904)
+					- 使用知識來分類的先驗性語言
+				- Adjuvilo 阿丟維羅語
+					- Claudius Colas (1910)
+					- 由"世界語語系"之概念所創建之語言，卻在伊多語使用者裡造成異議
+				- Sona 索娜語
+					- Kenneth Searight (1935)
+					- 黏著語，以嘗試使用普遍性的詞彙而聞名。其360個詞根可組合成新詞。
+				- Mondial 蒙迪艾爾語
+					- Helge Heimer (1940s)
+				- Blissymbols 布里斯字符
+					- Charles Bliss (1949)
+					- 表意文字系統，自成語法及句法
+					- $\in$ visual language
+				- Intal 尹塔爾語
+					- Erich Weferling (1956)
+					- 致力於統合人工語言的最普通系統
+				- Romanid 羅曼艾德語
+					- Zoltán Magyar (1956)
+					- 基於羅曼語族的區域性人工語言
+				- Lingua sistemfrater 西斯藤法斯特語
+					- Pham Xuan Thai (1957)
+					- 希臘-拉丁詞彙和東南亞語言的語法
+				- Neo 尼歐語
+					- Arturo Alfandari (1961)
+				- Babm 巴本語
+					- Rikichi Okamoto (1962)
+					- 以使用拉丁字母為輔音音素文字聞名
+				- Guosa
+					- Alexander Igbinéwéká (1965, 西非)
+				- Arcaicam Esperantom 仿古世界語
+					- Manuel Halvelik (1969)
+					- 為"世界語文學"的發展而創建之語種
+				- Afrihili
+					- K. A. Kumi Attobrah (1970)
+					- a pan-African auxlang
+				- Eurolengo
+					- Leslie Jones (1972)
+					- English + Espanol
+				- Kotava 寇塔瓦語
+					- Staren Fetcey (1978)
+					- 複雜的前設性國際輔助語，專注於文化中立性
+				- Uropi
+					- Joël Landais (1986)
+					- 根基於共同印歐語系語言之語根及印歐語言之常見語法要點
+				- Unish
+					- 韓國世宗大學語言研究學院 (1996)
+				- Lingua Franca Nova (LFN) 新通用語
+					- C. George Boeree et al. (1998)
+					- 字彙基於羅曼語族而語法類如克里奧爾形態 (Creole)
+				- Slovianski
+					- Ondrej Rečnik, Gabriel Svoboda, Jan van Steenbergen, Igor Polyakov (2006)
+					- 基於斯拉夫語言的自然主義造語
+				- Sambahsa-Mundialect
+					- Oliver Simon (2007)
+					- 簡化的原始印歐語與其他語言的混合
+				- Neoslavonic 新斯拉夫語
+					- Vojtěch Merunka (2009)
+					- 古教會斯拉夫語的現代化形式
+				- Lingwa de Planeta, Lidepla (LdP) 地球同語
+					- Dmitri Ivanov (2010)
+					- 阿拉伯語、漢語、英語、法語、德語、印地語、波斯語、葡萄牙語、俄語和西班牙語的世界語言
+				- Interslavic 斯拉夫共通語
+					- Jan van Steenbergen, Vojtěch Merunka (2011)
+					- a pan-Slavic auxlang
+					- Slovianski + Neoslavonic
+			- controlled natural language 約限自然語
+				- Basic English 基本英語
+					- Charles Kay Ogden (1925)
+				- Special English 慢速英語
+					- Voice of America (VOA, 美國之音，1959)
+				- Globish 全球語
+					- Jean Paul Nerrière (2004，IBM某任副總裁)
+				- E-Prime
+					- D. David Bourland Jr. (1940s) 
+					- 去除了be動詞（包括所有變位、縮寫等形式）的英語。強調用經驗並非判斷進行表達，以使作者與讀者能更容易地區分事實與意見。
+				- Simplified Technical English (STE) 簡化技術英語
+					- European Association of Aerospace Industries (1983)
+					- 力求在很大程度上減少技術文本（如手冊）的複雜性和模糊性
+				- Simplified English 簡化英語
+					- Madhukar Gogate (1998)
+					- 以英語為基礎，但獨立於英語
+				- Plain English 簡明英語
+					- 1998，旨在更直接、更簡短、更清晰的語言表達，避免了許多成語、行話和外來詞。(George Orwell?)
+				- 國語 (KMT，1923): 基於北京話，為國族主義而修改出的國語
+			- ritual language 儀式語言
+				- Eskayan
+					- Mariano Datahan (1920)
+					- 語法上以宿霧語的保和方言為基礎
+				- Medefaidrin
+					- Obɛri Ɔkaimɛ church (1930s)
+					- 奈及利亞基督教會使用；據說有神聖的起源
+				- Damin
+					- Lardil people (n.d., 拉迪爾人)
+					- 由以拉迪爾語為母語的人創造；是唯一非洲之外使用搭嘴音作為其音位的語言
+			- artistic language (artlang) 藝術語言
+				- jokelang 笑話語言
+					- Europanto
+					- Transpiranto
+					- Oou
+					- DiLingo
+					- Gulevache
+					- Unwinese/gobbledygook
+					- Infltionary Language
+			- engineering language (engelang) 工程語言
+				- philosophical language 哲學語言
+					- 又稱ideal language 理想語言
+					- An Essay Towards a Real Character, and a Philosophical Language (文章出處，無語言名)
+						- John Wilkins (1668)
+						- 對一種能夠達到哲學精確性的符號語言提出了詳細的建議
+					- toki pona 道本語
+						- Sonja Lang (2001)
+						- 極簡主義語言，有120-137個以上的單詞，有700多名使用者
+					- Logopandecteision 泛標誌語
+						- Sir Thomas Urquhart (1653)
+						- 對一個非常複雜的分類學語言的建議
+					- Ithkuil
+						- John Quijada (1978)
+						- 形態複雜的語言，旨在簡單明確地表達更深層次的人類認知，特別是在範疇化方面。作為先創哲學語言和邏輯語言的交匯點，它儘可能地消除自然語言中可能出現的語意模糊和歧義
+					- Isotype
+						- Otto Neurath et al. (1925)
+						- 一種象形符號語言
+					- aUI
+						- W. John Weilgart (1962)
+						- 每個音素也是一個語素和一個義素，因此，一個詞可以表達一個複雜的概念 (polysemy)
+						- phoneme-morpheme-seme equivalence
+				- logical language 邏輯語言
+					- Loglan 邏格語
+						- James Cooke Brown (1955)
+						- 為測試薩丕爾-沃夫假說而構造，是Lojban的靈感來源
+					- Lojban 邏輯語
+						- Logical Language Group (LLG, 1987)
+						- 邏輯上和句法上排除歧義的語言；Loglan的繼承者
+					- Characteristica universalis 通用表意文字
+						- Gottfried Wilhelm (von) Leibniz (1676)
+						- 通用的形式化語言；該語言能夠表達數學、科學以及形上學（純粹哲學）方面的概念。一種可以在通用邏輯運算或者說推理演算框架之下加以使用的語言
+				- experimental language 實驗語言
+					- Láadan 拉丹語
+						- Suzette Haden Elgin (1982)
+						- 一種面向女性而設計的聲調語言；創建該語言是為了測試自然語言是否偏向於男性
+					- Kēlen
+						- Sylvia Sotomayor	(2009)
+						- 試圖消除動詞的外星語言，挑戰普遍特徵

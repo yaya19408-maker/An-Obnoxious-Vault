@@ -1,0 +1,834 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - attribute
+  - physics
+aliases:
+  - 空間性
+relevance: "[[時間 Temporality]]"
+relevance 2: "[[BIBL004. Mpiua Tiostouea|Mpiua Tiostouea: the Cursed Time Traveler Language]]"
+disambiguation: 
+banner: 
+media: 
+---
+Date: 2024-08-12
+File Creation Date: 2024-01-25 22:24
+Last Modified: 2024-08-12 17:52
+File folder: 屬性
+# Spatiality 空間
+
+>[!definition]
+Spatiality and Temporality are the modes of thinking we formulate when perceiving objects and their movement. Therefore, the perception of space or time is inevitably tinged with subjectivity due to the differences in historical, social, and cultural environments.
+**Spatiality & Temporality = perceptions of space & time**
+[Sci-Hub | Spatiality and temporality](https://sci-hub.se/https://doi.org/10.1016/j.lingua.2020.103011)
+See: [[時間 Temporality]]
+## **[[閾限 Liminality|Liminality 閾限]]**
+## **[[Liminal space 閾限空間]]**
+## **[[The Backrooms 後室]]**
+## **[[A026. -sphere 層；圈；域|Sphere 圈；層；域]]**
+## **[[Lost Continents 失落大陸]]**
+# [[A022. worlds 世界|worlds 世界]]
+## Topos
+- topos
+	- (topology) 拓撲斯；拓子
+		- a category that behaves like the category of sheaves of sets on a topological space
+	- (literary) 意象；套式
+		- 一種在一剎那間表現出來的理性與感性的集合體
+## Utopias 理想鄉
+- Avalon, Insula Avallonis, Ynys Afallonis 阿瓦隆
+	- Isle of the Blessed 天佑之島
+	- Isle of the Apples 蘋果島
+		- from Geofferey of Monmoth (1150) - Vita Merlini
+			- 維塔梅里 (蒙茅斯的傑弗裏，1150)
+	- Celtic: abal (apple)
+- Nirai-Kanai 儀來河內
+	- Niraya-Kanaya (from Omoro Sōshi 思草紙, 1531-1623)
+- Shambhala 香巴拉
+	- Godwin (1996, p. 79): Left Hand Way
+	- Shangri-La 香格里拉
+		- from James Hilton (1933) - Lost Horizon
+			- 消失的地平線 (詹姆斯希爾頓, 1933)
+- Eden 伊甸園
+	- Urgatic: 'dn (a place that is well-watered throughout)
+- Yomi 黃泉
+	- Izanami (Yomo-tsu-Ōkami) 黃泉津大神伊邪那美
+	- Yomotsu Hirasaka 黃泉比良坂
+- Arcadia 阿（爾）卡迪亞
+	- locus amoenus - delightful place
+	- Et in Arcadia ego. (painting) 即使在樂園裏也有我；阿爾卡迪雅的牧人
+		- by Nicolas Poussin (1628)
+- Hourai 蓬萊
+	- Penglai (Immortal Island) 蓬萊仙島
+	- Bồng Lai (Vietnam)
+	- Classic of Mountains and Seas (Shan-hai Ching)　山海經
+	- Kwaidan: Stories and Studies of Strange Things 怪談（小泉八雲）
+- Mag Mell 歡喜之平原 (瑪格梅爾)
+	- ectrae 歷險
+		- Ectrae Nerai 涅拿歷險記
+		- Ectrae Fergusa maic Léti 雷奇之子弗格斯歷險記
+		- Agallamh na Senóbach 故人奇譚
+	- immram 遠航
+- El Dorado 黃金國 (埃爾多拉多)
+	- 人類群星閃耀時
+	- The Golden One
+	- Muisca 穆伊斯庫人
+- Canaan 迦南；客納罕
+	- Promised Land 應許之地
+	- Semitic: kn (subjugated)
+	- Canaanites 迦南人
+- Zipangu, Cipangu 吉龐 (日本國)
+	- The Travel of Marco Polo 馬可波羅遊記
+- Tir na nÓg 青春之地 (提爾納諾)
+	- Tir Tairngire 應許之地
+	- Tir fo Thuinn 浪下之地
+- Shangdu, Xanadu 上都；仙那度
+	- Kubla Khan: or A Vision in a Dream 忽必烈汗 (1797) (poem)
+- Elysium 至福樂土 (伊利森)
+	- Ēlýsion pedión
+	- Fortunate Isles 神佑羣嶼
+	- Greek: ἀλύτως (alytōs, incorruptible)
+- Agartha 雅戈泰
+	- from Louis Jacolliot (1873) - Les Fils du Dieu 神之子
+	- hollow Earth 地球空洞説
+	- esotericism 秘契主義
+	- occultism 神秘學
+	- Godwin (1976, p. 79): Right Hand Way
+- Tamoanchan 塔摩安羌
+	- San Lorenzo Tenochtitlán (B.C. 5000 ~ B.C. 2050) 聖洛倫索－特諾奇蒂特蘭
+- Mukaukyou 無何有之鄉；烏有鄉
+	- Zhuangzi 莊子
+- Paraíso 天堂 (帕拉伊索)
+	- from Spanish, Galician, Portuguese
+- Aaru 雅盧
+	- Sekhet-Aaru (Fields of Reeds) 蘆葦原
+- Gokuraku Jōdo 極樂淨土
+	- Sukhāvatī 西方淨土；極樂世界；須(呵) 摩提；蘇珂嚩帝
+	- Land of Bliss
+	- Western Pure Land
+- Valhalla 英靈殿；瓦爾哈拉
+	- Valhǫll 被弒者之殿
+	- Valhalla (crator) 瓦爾哈拉撞擊坑
+	- Walhalla (德) 瓦爾哈拉神殿
+- Aethiopia 古伊索比亞
+	- (Kingdom of) Kush 庫施；古實王國
+		- Kushite Empire 
+	- Triakontaschoinos 特拉康塔斯科諾斯，後分裂為：
+		- Nobatia 諾巴提亞
+		- Makuria 馬庫裏亞
+		- Alodia 阿洛迪亞
+- Ophir 俄斐
+	-  in Tel Qasile (now: Tel Aviv 特拉維夫)
+	- 人類群星閃耀時
+- Kitezh 奇鐵茲城；基捷日城
+	- in Lake Svetloyar 斯韋特洛亞爾湖(底)
+- Sheba, Saba 示巴；塞伯邑
+	- Sabaeans 賽柏伊人
+- Paipatirōma 南波照間島
+	- Minami Hateruma Island
+- Hyperborea 許珀耳波瑞亞 (極北之地，北境)
+	- Boreas 希臘北風神玻瑞亞斯
+		- Roman mythology: Aquilo, Septentrio
+	- Riphean Mountains, Eurasia 裏菲山，歐亞大陸
+		- Greco-Roman geography 希臘－羅馬地理學
+	- ecumene 已知世界
+- The Garden of the Hesperides 赫斯珀裏得斯聖園
+	- Atlas (Father) 亞特拉斯
+	- Hysperus (evening) 赫斯珀洛斯
+- Ryūgū-jō
+	- Urahima Tarō
+- Al-Wakwak 佤克佤克
+	- from Ibn Khordadbeh (870CE) - Book of Roads and Kingdoms
+		- 伊本·胡爾達茲比赫的道里邦國志
+- Scheria 謝裏亞
+	- from Odyssey 奧德賽
+	- Corcyra (now: Corfu) 科基拉
+- Cockaigne 科凱因
+	- from George Ellis (1790) - Specimen of Early English Poets 早期英國詩歌範本
+		- The Land of Cockaigne 科凱因之地
+	- gluttony (7 deadly sins) 暴食
+- The Great Unity, Datong 大同
+	- Lĭyùn 禮運
+	- The World is Held in Common 天下為公
+- Neorxnawang 天國；天堂
+	- Old English: Green Field
+		- neorxena-
+			- distorted from grœne (green)
+		- -wang
+			- Gothic: waggs (paradisus)
+- Basileia (tou Theou) 天主的國
+	- Latin: Regnum Dei
+- Heaven 天國
+	- Latin: Regnum caelorum
+- The Summerland 夏日之地
+	- The Craft (Wicca) 威卡教
+		- afterlife 來世
+	- spiritualism 靈學；招魂術
+		- from Emanuel Swedenborg (1758) - Heaven and Hell
+	- neo-theosophy 新神智學
+		- plane 秘隱
+			- astral plane (ap) 星光界；星幽界
+				- astral body 星光體
+				- astral light 星氣光
+			- ether plane 以太界
+				- medium 靈媒
+				- ectoplasm 外質
+			- mental plane 精神界
+		- satcitananda 存在－意識－法喜
+		- trikaladristi (Triple Time Vision) 凌駕過去、現今、未來之識
+- Panchia 潘翠亞島
+	- from Euhermerus - Hiera anagraphē 聖紀銘文
+	- pan (all) + chaios (noble)
+- Devachan 天界；德瓦查；提婆牀
+	- Helena Petrovna Blavatsky - The Secret Doctrine 奧秘的信條
+	- Charles Webster Leadbeater - Devachanic Plane 天人層
+- Nirvana 涅槃
+	- pari-nirvāṇa 般涅槃
+## Utopia (烏)托邦；域
+- utopia 烏托邦；理想鄉；無何有之地
+	- ού (u-, no) 
+	- εὖ (eu-, good)
+	- τόπος (topos, place)
+	- nowhere/good place
+	- Plato (390 BC) - Res Publica 柏拉圖－理想國
+	- palingenesis 再生；輪迴轉世
+	- apoctastasis 復興説；復原返本
+	- Original Affluent Society 初民富饒社會
+	- post-scarcity economics 後稀缺經濟
+	- late capitalism 晚期資本主義
+	- Icarians 伊加利亞運動
+		- Étienne Cabet 埃蒂耶納·卡貝
+		- Voyage en Icane (1842) 伊加利亞旅行記
+	- utopian socialism 空想社會主義
+	- Fourierism 傅立葉主義
+		- Charles Fourier 夏爾·傅立葉
+		- associationism 聯結論
+		- phalanstery 法倫斯泰爾主義
+	- Owenism 歐文主義
+		- Robert Owen 羅伯特·歐文
+		- New Harmony 新和諧主義
+	- extropianism 反熵主義
+		- Max More (2003) - The Principles of Extropy 反熵主義原則
+		- extropy 反熵 <> entropy 熵；亂度
+			- the extent of a living or organizational system's:
+				- intelligence
+				- functional order
+				- vitality
+				- capacity
+				- drive for improvement
+		- transhumanism 超人類主義
+	- technoutopianism 科技烏托邦主義
+		- techno-utopia 科技烏托邦
+			- cyberdelic 賽博迷幻文化
+			- cyber-utopianism 賽博烏托邦主義
+			- Singularitarianism 科技奇點主義
+				- technological singularity 科技奇點
+		- technetopia, autopia 自動烏托邦
+			- a world where technology has advanced to the point where everything is automated
+- dystopia 反烏托邦
+	- George Orwell (1949) - Nineteen Eighty-four 1984 喬治歐維爾的一九八四
+	- Aldous Huxley (1932) - Brave New World 阿道斯赫胥黎的美麗新世界
+	- Ray Bradbury (1953) - Fahrenheit 451 華氏451度
+	- Kevin Willmott (2004) - C.S.A.: The Conferderate States of America 
+		- CSA：美利堅聯盟國
+		- mockumentary 偽紀錄片
+	- Yevgeny Zamyatin (1921) - We 我們
+		- dystopia of identity
+- ecotopia 生態烏托邦
+	- Ernest Callenbach (1975) - Ecotopia: The Notebooks and Reports of William Weston
+	- green politics, ecopolitics 綠色政治
+- Nutopia 新烏托邦
+	- by John Lennon and Yono Ono in 1973
+		- 約翰藍儂與小野洋子創立的私人國家 (micronation)
+- pornotopia 色情烏托邦
+	- Steven Marcus (1960) - The Other Victorians 另類的維多利亞人
+	- erotica 情色
+	- pornography 色情作品
+		- Paul Preciado (2008) - Testo Junkie 睪固酮藥癮
+			- pharmacopornography 藥理色情學
+	- jouissance 絕爽
+		- Jacques Lacan 雅各·拉岡：「jouissance即受苦，痛苦的快樂。」
+- intimatopia 親密烏托邦
+	- Elizabeth Woledge (2006) - Intimatopia: genre intersections between slash and the mainstream
+	- a fantasy world that serves as an ideal setting for sexually charged relationships involving a high degree of sustained emotional intimacy
+- romantopia, Romancelandia 浪漫烏托邦
+	- a fantasy world which serves as an ideal setting for romance mainly by women
+- heterotopia 異托邦；異域；異質空間
+	- Michel Foucault (1986) - Of Other Places 米歇爾·傅柯的論其他空間
+		- 6 principles
+			- 普遍性：suspended norms or behaviors
+				- crisis heterotopia 危機性異域
+					- 青少年時期
+					- 經期
+					- 孕期
+				- heterotopia of deviation 偏差性異域
+					- asylum
+					- prison
+					- rest home
+					- hospital
+			- 情境差異：socially reflective
+				- cementary (worship vs. omen)
+			- 矛盾並置：simultaneously juxtaposed
+				- heterotopia of juxtaposition 並置性異域
+					- garden
+					- theater
+			- 時間交互：accumulative or transitory
+				- heterotopia of time 時間性異域
+					- 互動
+						- heterochrony 異質時間
+						- heterotopia 異質空間
+					- museum
+					- library
+					- festival
+					- resort
+			- 開放或封閉：not fully accessible
+				- heterotopia of ritual or purification 儀式/淨化性異域
+					- military camp
+					- imprisonment
+					- sauna
+					- hammam
+			- 兩極分化：functionally polarized
+				- heterotopia of illusion 虛幻異域
+					- 真實世界以隔間分別虛幻地展示
+					- brothel
+				- heterotopia of compensation 補償異域
+					- 精密規劃且井然有序的完美空間
+					- colony
+			- 傅柯：「船隻是異托邦的經典例子。」
+				- ship is "somewhere of nowhere" 沒有地方的地方
+					- 自我封閉 (船艙) 向無邊界 (大海)
+					- 航線和港口導向不同空間即交流形式
+					- 見證地區在不同時間、情境、條件下的差異
+- panopticon 全視空間：all-seeing 一覽無遺
+	- Jeremy Bentham (1785) 邊沁
+		- institutionalization 體制化
+		- panopticism 全景敞視主義
+		- utilitarianism 功利主義
+	- 市民(citizens)偶爾監視(occasionally surveillance)監視者(獄卒，supervisor)
+	- 而監視者(supervisor)會隨時監視(constant surveillance)被監視者(supervisee)
+		- surveillance 監視 $\leftrightharpoons$ normalization 正規化 $\leftrightharpoons$ examination 評量
+		- 第一層監視：observed by power 權力監視
+			- 獄卒監視犯人，犯人不能監視獄卒
+		- 第二層監視：self-discipline 自我規訓
+			- 獄卒不一定監視犯人，犯人監管自己
+		- 第三層監視：mutual observation 相互監視
+			- 犯人監管彼此
+	- 權力機制(power mechanism)與個體(individual) 相互制衡
+- uchronia (what-if) 烏有史；如果當時
+	- Charles Renouvier (1876) - Uchronie
+	- alternate history 架空歷史小説
+		- Robert Harris (1992) - Fatherland
+	- what-if stories 假設情況敍事
+	- speculative fiction 推想虛構作品
+	- anachronism 時代錯置：不合時宜、張飛打嶽飛
+		- out-of-place artifacts (OOPArt) 時代錯誤遺物
+	- synchrony 共時性
+		- law of identity 同一律
+			- A=A (tautology 恆真式；套套邏輯)
+		- law of contradiction 矛盾律
+			- $\lnot$ (P $\land$ $\lnot$ P)
+				- not (P and not P)
+		- law of excluded middle 排中律
+			- P (P $\lor$ $\lnot$ P)
+				- P (P or not P)
+	- Emmanuel Lévinas 伊曼紐爾·列維納斯
+		- anteriority that is older than the a priori 比先驗更早的在先性
+- allotopia 他托邦；他域
+	- Umberto Eco (1985) - Sugli specchi e altri saggi
+		- Allotopia is a narrative pivoted around the creation of a world "structurally different".
+		- Allotopia presumes that our world is really different from the one we know by allowing the occurrence of things normally unheard of, such as animal speaks, warlocks, fairies, and so on.
+	- scholastic philosophy: ens chimericum (chimeric entities)
+	- William Ockham (1980): the impossibilia
+	- Groupe μ: semiological contradictions (a black snow, night is day)
+		- These contradictions are also known as "breaks in isotopy" that can, under specific criteria, produce a polyisotopy which is a necessary condition for the poeticity of the text.
+	- Arising from a seemingly contradictory and illogical otherness, it creates the otherworld－an allotopia, a place different in its properties from the one we know.
+	- Wilheim Füger: allotopias with figmenta pura (pure figments of imagination)
+	- defamiliarization/ostranenie 陌生化 & cognitive estrangement 認知疏離 are more real
+	- dispotif 佈置
+		- introduced by Michel Foucault
+			- institutional, physical, and administrative mechanisms and knowledge structures which enhance and maintain the exercise of power within the social body
+	- Linda Hutcheon: coherent heterocosm
+		- heterocosm, another cosmos, a second ordered referential system
+	- Lisbeth Klastrup and Susana Tosca
+		- worldness (3 dimensions)
+			- mythos
+			- topos (Mikhail Bakhtin's chronotope)
+			- ethos
+	- Michal Kłosiński - Hermeneutyka gier wideo (Video Hermeneutics)
+		- Verwandlung/alloeosis: true mimesis of allotopia
+		- altenation: il mondo alternativo
+	- Bernhard Waldenfels: otherness from the juxtaposition of the interior and exterior
+		- the exterior: externum, extraneum, éstranger, stranger, foreigner, alienum, ajeno
+	- xenotopography: depiction of the other and the otherness
+	- Lebenswelt (lifeworld) 生活世界
+		- [[A022. worlds 世界|worlds]]
+		- Heimwelt (home-world) 我羣世界
+		- Fremwelt (alien-world) 他羣世界
+
+| ALLOTOPIA                    | classical rhetorical argument | Marcus Cicero |
+| ---------------------------- | ----------------------------- | ------------- |
+| probable, likely, reasonable | eikós                         | versimile     |
+| plausible, persuasive        | pithanon                      | credible      |
+- allotope, allotopy 異相符素：contrasted seme 對比重複的符素
+	- A norm opposed to that of isotopy, when claiming that some pictures are "isotopical" on the plastic level, i.e., have only one kind of shape, contrary to normal pictures, which must mean that the latter have allotopy as their norm (Groupe μ, 1970).
+		- 紅綠燈作為交通權威的指示符號，紅、黃、綠燈表重複規律和整體功能，但也各自象徵不同的功能。
+- isotopia 同域；同質空間
+	- the sameness as being identical, homogeneous, and analogous; alongside them, there are different places as heterotopias (Lefebvre, 2003)
+	- isotopia: abstract space
+	- heterotopia: differential space
+	- utopia: non-place, everywhere and nowhere embedded the idea of momentality
+
+| isotopia: abstract space | heterotopia: differential space |
+| ------------------------ | ------------------------------- |
+| exchange value           | use value                       |
+| domination               | appropriation                   |
+| sameness                 | differences                     |
+| homogeneous              | heterogeneous                   |
+| capitalism               | socialism                       |
+| conceived & lived space  | perceived & lived space         |
+- isotope, isotopy 同相符素；(chemistry) 同位素；(math) 合痕
+	- morphemic derivatives of the central isopoteme
+	- A. J. Greimas (1966)
+		- Isotopies consist in the permanence of contextual features ("classemes"), whose variations, instead of destroying the unity of the "text", serve to confirm it.
+	- 同相符素 (isotopes, repeated semes) 不在同個位置，而是重複出現在多個符號活動 (semiosis) 間的某些符素範疇 (semic categories) 中
+		- 符號活動(semiosis)中任一元素，只要意識形成此連結，都有可能形成重複印跡。
+		- 同相符素 (isotopes) 可以是同形素 (homonyms)、同義素 (synonyms)、相似組段 (similar syntagmas)、相似主題 (similar themes) 及 Philiooe Hamon (1992) 的增生 (hypertrophy)
+	- isotopeme 同相符位
+		- Radim (2012)
+		- It is considered to be an abstract unit (isotopeme), or the underlying structural description of an isotopy, which is fully describable in the global context only
+	- polyisotopy 多重同相符素
+		- Erõss (2008)
+			- the co-existence of the emerged, the referred, and the submerged, the union of their horizons of meaning
+		- Botelho (2017)
+			- related to the way the poem is made of "announcements" that show polysemous forms of reality representation
+- metatopia & metachronia 元托邦；統合空間與架空統合時間
+	- Umberto Eco (1985)
+		- Metatopia and metachronia, wherein a possible world represents the future of its real counterpart and, even though structurally different, remains plausible and probable precisely due to the fact that all the changes it may undergo are the extension of the tendencies observable in the real world.
+- protopia 進托邦
+	- Kevin Kelly (2010) - What Technology Wants
+	- Kevin Kelly (2016) - The Inevitable
+		- 12 inevitables
+			- becoming 形成
+			- cognifying 認知
+			- flowing 流動
+			- screening 屏讀
+			- accessing 使用
+			- sharing 共享
+			- filtering 過濾
+			- remixing 再混合
+			- interacting 互動
+			- tracking 追蹤
+			- questioning 提問
+			- beginning 著手
+- Hrvoje Hirsl (2016)
+	- entropia: entropic utopia 熵托邦
+		- potential problems of establishing an utopia
+		- 政治系統的集體結構化 vs. 自然法則與個人自由
+			- 限制與自然衝突 vs. 混亂失序
+	- prototopia: prototypic utopia 原托邦
+		- recent historical resources of utopian ideas
+		- 近代反映烏托邦式自由、公平及延續的社會實踐
+			- decentralized autonomous organization (DAO) 去中心化自治組織
+			- high frequency trading (HFT) 高頻交易
+			- fully-automated luxury communism 全自動奢侈共產主義
+			- universal basic income (UBI) 普遍基本收入
+			- Project Cubersin
+			- The Dark Enlightenment
+			- anarcho-capitalism
+			- transhumanism/extropism
+	- polytopia: diversified utopia 多元烏托邦
+		- opportunities and diversities of establishing utopia
+		- 客製化個人偏好、絕對自由、無拘無束，你來決定 (Youtopia)
+- post-utopia 後烏托邦
+	- Jorge León Casero & Julia Urabayen (2024) - Rethinking Democracy for Post-Utopian World
+	- The post-utopia entails an ante-litteram detachment from cyberpunk imaginaries capable of reconfiguring some of the latter's main literary references, under the ecological-synergestic-anti-speciesist-non-technocratic horizon recently called "solarpunk".
+- Woketopia 覺醒烏托邦
+	- James MacPherson (2021) - Notes from Woketopia: Laying Bare the Lunacy of Woke Culture
+	- woke
+		- Lead Belly (1938): stay woke
+		- Marcus Garvey (1923): wokeness
+			- "Wake up Africa! Wake up Ethiopia!"
+		- woke-washing
+		- woke capitalism
+			- Mirzaei & Abas (2019): "Get woke, go broke."
+- Transtopia 跨性別烏托邦
+	- Howard Chiang (2021)
+		- Transphobia in the Sinophone Pacific
+			- Defined as the antidote to transphobia, transtopia challenges a minoritarian view of transgender experience and makes room for the variability of transness on a historical continuum.
+- Homotopia 同性戀烏托邦
+	- an association since 2003
+		- Founded in 2003, Homotopia is a Liverpool-based arts and social justice organisation making a cultural impact through art and activism.
+- whitetopia 白人烏托邦 (derogatory, slang)
+	- a white or white-majority suburb or community
+- Afrotopia 非洲烏托邦
+	- Felwine Sarr (2020)
+		- an active utopia that aims to uncover the immense arena of potentialities within the real Africa and fertilize them
+- Syntopia 合托邦；共托邦: 罪惡與理想共存的共同場域
+	- Kazt James E. & Ronald E. Rice (2002) - Syntopia: Access, Civic Involvement, and Social Interaction on the Net
+	- etymology: syn + topia "共同的場域，together place"
+		- 網路、行動通訊科技、無中介的人際互動與社羣關係
+	- homophone: sin, syn的發音類似罪惡 (sin) = 罪惡的場域
+		- 象徵網路的黑暗面
+	- synthesis
+		- The Syntopia Project
+			- Internet usage: equally accessible
+			- associated with increased community and political involvement
+			- associated with significant and increased online and offline social interactions
+			- Internet: important and multiplicative social capital resources
+- pantopia 泛托邦
+	- Paula Arcari (2019) - Making Sense of 'Food' Animals: A Critical Exploration of the Persistence of 'Meat'
+		- Pantopia is instead "the place of everywhere" (Jacobson 2013:233), evocative of creative possibilities rather than impossibilities
+	- Pandemonium, Pandemethics, Pantopia: What's in a Word?
+	- Esthetic Experiments: Interdisciplinary Challenges in American Studies
+		- Pantopia of Transference: Of Future and Sound; the Soloist and the Sonic Unconscious
+- paratopia 附托邦
+	- Dominique Maingueneau (2023) - Paratopia: Literature as Discourse
+		- the place belonging to, and at the same time not belonging to a certain space
+		- paratopic space (next place)
+			- space that exists 'next to' and 'beyond' story space
+		- Paratopia is not the absence of any place, but a difficult negotiation between place and no place.
+		- social paratopia
+			- not belonging to the group to which they are supposed to belong
+		- spatial paratopia
+			- living apart
+		- temporal paratopia
+			- not belonging to their own era (anachronism?)
+		- linguistic paratopia
+			- not writing in their own mother tongue or the language in use around them
+			- translingual paratopia
+				- J. Öri (2015)
+					- characterized by transgression: tramsgression meaning at the same time the continuous flow between boundaries －from the language to another, from one culture to another－and the breaking of literary and linguistic norms
+- orthotopia 正托邦
+	- The mirror opposite of heterotopia, Nicolas of Cusa gives us a reason to suspect, would have been an orthotopia, which he did not term as such, but whose description fits what he designated as the space of the maximum absolutum.
+	- While rhetoric is based on the persuasive and argumentative force of verbal and nonverbal sequences, and while violence draws on the threat of force, bureaucracy relies on the authoritative potential of regularized practices. Each of these components is both an 'orthotopia', that is an hegemonic mode of production of social action and power through which inequality is reproduced and justified.
+	- energotopia, orthotopia (lack references)
+		- Junyi Lv - Energy Museums in Motu: Heterotopia, Orthotopia, and Energotopia
+- retrotopia 返托邦；逆托邦
+	- visions located in the the lost/stolen/abandoned but undead past, instead of being tied to the not-yet-unborn and so inexistent future, as was their twice-removed forebear
+- ambitopia 歧托邦
+	- Avirup Ghosh (2024)
+		- a response to ambiguity in archival spacing and temporalization, emphasizing liberation and confinement
+	- Jacques Derrida
+		- le futur 未來：(future) 將要成為 (ce qui sera, being 存有)
+		- l' avenir 到來：(advent) 將要來 (ce qui adviendra, coming 來臨)
+- enantiotopia (ostensibly opposite utopia) 鏡像烏托邦
+	- a utopia that achieves the opposite of what it ostensibly sets out to
+- anatopia 失托邦
+	- the subjective experience of a disrupted place, one where people are in-between other places, have experienced, or are anticipating, change, or disruption but it is, still, a 'place'
+- phototopia 攝托邦
+	- As the utopia of the archive and techno-utopia support each other, by seeking to document, restore, and recreate life through photographs, a phototopia would therefore be an utopia for the survival of the species, based on exhaustive documentation of them.
+	- photogenetics 攝影遺傳分析
+	- technoutopian discourse 科技烏托邦式言談
+- mnemotopia 憶托邦
+	- 影像不啻取代人們的記憶，且終將成為持續被修復的憶托邦
+	- refers to the idea of a place imbued with a high symbolic significance for the collective memory
+- ideotopia 意托邦
+	- the territory of ideology, the basis for formation of urban spaces so that manifests the governance of ideology on urban life
+- geotopia 幾何烏托邦
+	- an abstract concept in geometry which forms the basis of urban space in natural and Euclidean geometry
+- biotopia 生物烏托邦
+	- the methods used in working with natural elements, traditional building material
+- reatopia 聯托邦
+	- the quality of human social relations in the urban environment
+- econotopia 經濟烏托邦
+	- the quality of economic human relations in the urban environment
+- sociotopia (social space) 社會烏托邦
+	- Angelo Turco (2003) - Sociotopie: isitituzioni postmoderne della soggettività
+		- a sphere of physical and symbolic interaction in which the subject exercises and develops his own attitude to living with other subject of the territory, to live a land that he perceives as his own
+- privatopia 私托邦
+	- 以捍衞私有財產權的一種動員，用暴力和憤怒來迎接對權利和價值的威脅
+- spatiotopia 空間場域
+	- the physical arrangement and aesthetic effect of co-presence of panels, gutters, frames, word balloons, and other comic architecture
+	- the systematic distribution of the space on the graphic page in order to give the graphic aesthetic, the driving force of reading
+- Paul Laffoley (2013) - The Boston Visionary Cell
+	- kenotopia 空托邦
+		- keno-, empty
+		- in which lives are lived in a space of comfort and ignorance, free of stress, striving, or goals. This is the space of kitsch (媚俗)
+	- oligotopia 寡托邦
+		- in which a group of lives develops a system by which they can leave the path of utopia and enter kenotopia en masse. This is the space of the bureaucratic; its vector veers away from the one until it is stopped when it runs into a pre-existing kenotopic space
+- Jorge Ferdinand Gonzalo (2011)
+	- Zombie Spaces 生死空間
+		- "temporary alternation", spaces shaped by fragmented ideas that never fully materialize configured from the combination of speculative logic, public efforts driven by private interests, replication of decontextualized models, disconnected chronotopes, tensions between the local and the non-local, the appearance of new activities that displace the previous ones.
+		- zombie (voodoo ritual): a person whose will has been taken away
+	- spectrotopia 鬼魅烏托邦
+		- a space could end up becoming two "spectres" or "ghosts" that repeatedly try to reproduce their own transformation process
+- pharmacotopia 藥托邦
+	- Aleksandra Bartoszko (2019)
+	- an idealized and overly optimistic imaginary of pharmaceuticals' universal efficacy
+- Peter Zhang (2023) - Media and Internality: the Matrix of Becoming
+	- semiotopia 符托邦；符拓邦
+	- metatopia 玄托邦
+	- intertopia 間托邦
+		- church is a liminal space between heaven and Earth
+	- interology 間通論
+		- can be fruitfully envisioned as a philosophy of such prepositions as
+			- within
+			- between
+			- across
+			- through
+			- with
+			- around
+			- and (present and absent)
+	- interality 中間性
+- identitopia 身分烏托邦
+	- an idealized space within media fandom where identity and communal practices thrive harmoniously
+	- Media fandom scholarship makes it suitable to analyze as an identitopia. Recently, the figure of the fandom antifan or anti, an individual deemed hostile to fan pleasure, particularly around shipping practices and fanwork production, has gained prominence in fandom discussions. The anti is seen to interrupt through policing and puritanism
+	- pseudo-identitopia 偽身分烏托邦
+		- Localising the centres of public activities in Auckland's Policentric Urbanism
+		- A pseudo-identitopia of the 'hybrid placeness turn' where algorithmically controlled of sociospatial relational systems produce 'relational domains' multidimensional engegement that conceive the individual as transduced prosumer or produser.
+- Mihai I. Spariosu (2015) - Exile, Theotopia, and Atopia: Mann’s Joseph and His Brothers and Bulgakov’s Master and Margarita
+	- theotopia 神托邦：the various religious utopias from Plato to St. Augustine to Dante and other Christian artists, theologians, and philosophers
+	- utopia 烏托邦：ludic-liminal spaces and their interpretive relevance
+	- atopia 閾限烏托邦：an emotionally neutral liminal space where the exiled person (or any other self-aware individual or community, for that matter) perceives radical liminality as an oppotunity and not as a "dead end" or terrifying "bottomless abyss", using it as a portal to access alternative worlds or even to start building entirely new ones
+- monotopia 單托邦
+	- _Making European Space_ explores how future visions of Europe's physical space are being decisively shaped by transnational politics and power struggles, which are being played out in new multi-level arenas of governance across the European Union. At stake are big ideas about mobility and friction, about relations between core and peripheral regions, and about the future Europe's cities and countryside. The book builds a critical narrative of the emergence of a new discourse of Europe as 'monotopia', revealing a very real project to shape European space in line with visions of high speed, frictionless mobility, the transgression of borders, and the creation of city networks. The narrative explores in depth how the particular ideas of mobility and space which underpin this discourse are being constructed in policy making, and reflects on the legitimacy of these policy processes. In particular, it shows how spatial ideas are becoming embedded in the everyday practices of the social and political organisation of space, in ways that make a frictionless Europe seem natural, and part of a common European territorial identity.
+	- In this book, we argue that a core dimension of the European project is the making of a single European space – a monotopia – and that this spatial agenda is becoming more explicit, and more coherent, with the advent of a new field of European spatial policy, which is embedding new ideas about relationships across space in a multi-level, transnational field of activity.
+	- the term monotopia captures the idea of a one-dimensional (mono) discourse of space and territory (topia/topos). It is our aim here to reveal the discourse of ‘Europe as monotopia’ as an organising set of ideas that looks upon the European Union territory within a single overarching rationality of making a ‘one space’, made possible by seamless networks enabling frictionless mobility.
+- Peter D. Tame, Isotopias: Places and Spaces in French War Fiction of the Twentieth and Twenty-First Centuries
+	- oneirotopia 夢境：a dream space
+	- aretotopia 戰場：a war space
+	- thanatopia 死後世界：a death space
+	- cornutopia 農境：the space of plenty found in the grocery in Au Bon Beurre.
+	- psychotopia 心境：individual characters who are also presented as spatial entities in the narrative with their own inner world
+	- dramatopia 劇中場景
+		- Carnavalesque scenes at the front are compared to a stage set, and this is thus also a dramatopia, demonstrating the creation of an intergeneric isotopia.
+	- Les Croix de Bois is presented as a memotopia of martyrdom; three arenas are operating here, the microtopia of the individual soldier, the mesotopia (intermediate space) of Eastern France, and the macrotopia of France.
+		- microtopia 微托邦：the microscopic space
+		- macrotopia 宏托邦：the macroscopic space
+		- mesotopia 介托邦：intermediate space (area)
+	- sacrotopia 血肉之境：the space of flesh
+		- The cemetery, that is such a vital part of the narrative, is both sacrotopia, thanatopia and memotopia, a sacred site of death where the drama of a double death, namely the risk that the crosses to the dead will also disappear, means this is a memotopia threatened by amnesia.
+			- The cemetery is the space of flesh, death, and memory.
+	- intermedial isotopia 媒間同托邦
+		- draw on elements from different media (painting, film etc.)
+	- intergeneric isotopia 類間同托邦：combine different genres.
+	- isotopic modes (critical apparatus):
+		- loss
+		- possession
+		- repression
+		- alienation (including displacement)
+	- bistopia 灰托邦
+		- Defined in the glossary as a grey, indeterminate zone, created, we learn, from the archaic adjective for grey ‘bis/bise’ (pronounced bi/bize), in the chapter on Modiano we discover the reason for the italicisation of bis in this neologism which is that it has another meaning, of repetition, created from the etymologically unrelated adverb bis.
+		- Furthermore, there seem to be layers of irreality within the notion of isotopia; for example, the Republican view of Spain in L’Espoir is described as “increasingly isotopic” (p. 164), as a utopian dream whose spaces are “isotopic in the fictitious L’Espoir” (p. 161) and as “components of an isotopic Spain that lived on in the memories of the veterans…for several decades” (p. 161).
+	- Le Diable au corps contrasts the mesotopia of the “love-nest” of Marthe and François, an erotopia, with the front, and the utopia and ludotopia of the Marne as opposed to the dystopias of Paris and the battlefields.
+		- erotopia 愛托邦
+		- ludotopia 遊戲人間
+	- Roux le Bandit is set in the Cévennes, a rural landscape invested with special qualities as Roux, a deserter from the war, becomes a kind of hermit priest, a prophet figure. A rurotopia, then, that is also a sacrotopia with thanatopic and memotopic dimensions.
+		- rurotopia 郊托邦
+	- Malraux’s L'Espoir (1937) features here as a novel of the fight between Fascists and anti-Fascists in the Spanish civil war. The analysis focuses upon the struggle for the country, the iconic scenes of the land viewed from the airplane, so confusingly for the peasant on his first flight finding the terrain unrecognizable from that perspective, and the grandiose descent from the mountain of the injured airman. Full attention is paid to the metaphysical dimension of redemptive fraternity in an indifferent universe (the “metatopia”), and the redemptive power of art.
+		- metatopia 形上烏托邦
+			- the space of metaphysical dimension
+	- Un Balcon en forêt (1958), and accentuating the dream qualities of this oneirotopia, the dramatopia created by the theatricality of the setting, imbued also with Shakespearean subtexts, and the forest as memotopia, marked by memories of childhood and the hypotopia of the main character’s slumbering state.
+		- hypotopia 眠托邦
+			- the space of slumbering state
+	- In Suite française, a claustrotopia of closed doors and windows dominates, as the French domestic spaces replicate the prison their country has become, though combined with the violation of Germans being billeted inside French houses, whereas the fact there is hardly any mention of Jewish difficulties is read as an indication that “the Jews lost their ‘space’ in occupied France” (p. 280).
+		- claustrotopia 屠托邦
+			- the space relating to the Holocaust
+- lexicotopia 辭托邦
+	- Vladimir Ž. Jovanović (2007) - Oryx and Crake: A lexicotopia translated
+		- Although it has been suggested by the critics of her style that “She wants to get ideas across to you, not to spend her energy polishing the sentences”, Margaret Atwood has created a work of art which has developed a particular relationship with words, and due to its richness in lexical terms, it can perhaps qualify as a lexicotopia, as well.
+		- GM hysteria  (genetic modification hysteria) 基改歇斯底里
+		- superswallowers, ultralife, ultra-shaved, super-cerebellum, supervirulent, pseudospeciation, mega-millions, micro-coded, multiorganifer
+		- neo-con
+			- the workings of two word-formation processes, namely derivation and clipping.
+			- tensicity, fibracionous
+## -topy 部位
+- exotopy 身處外部；外位性；存在於外部性
+	- Mikhail M. Bakhtin
+	- Exotopy actually assumes the status of intermediation and represents and attempt to conceptualize the 'outside' as traversing, transitioning, continuitu between two discourses.
+		- exotopy: at once outsidedness and lack
+		- Exotopy refers to the opposite of positive reality, to an outside context, which is not simply located on the exterior of a surface or structure, but also in the sence of functioning as a lack in relation to it.
+	- exotopia 外托邦
+		- Russian: vnenakhodimost (outsidedness)
+		- a principle of non-conindence which allows us to reflect on the relationship between one's own society and a foreign culture: only through the eye of the outsider or the foreigner can understand one's own culture.
+	- extimacy 外親性；外密性；離密性；外內性：intimate exteriority (extimité)
+		- Jacques Lacan (1960)
+		- What we described as the central place, as the intimate exteriority or extimacy, that is the Thing.
+			- Möbius strip 莫比烏斯環
+				- demonstrate the paradox of extimacy: the real is all at once exterior to the symbolic and central to it in the sense of exception
+					- 'excluded in the interior'
+		- 心理分析把內在和外在、容器和內容物之間的對立給顯題化
+			- torus 環面
+				- 拓樸學 （topology）的torus和莫比帶（moebius strip, Möbius strip）將外內性的結構表達地很適切
+		- 真實界（the Real）同樣處於內部和外部；無意識並不是純粹的內在心理系統，而是主體間的外在結構，且大它者 （the big Other）雖居於我的中心，但卻是迥異於我的事物
+			- 主體中心在外，即外-中心（ex-centric）
+- splanchnology 內臟學
+	- topography 地形圖
+	- holotopy 全域性；全局關係；全身器官位置：相對於全身
+		- location of organ in regions of body
+	- skeletopy 骨域性；骨骼關聯；全身骨骼位置：相對於骨骼
+		- projection of organ on skeleton
+	- syntopy 同域性；同調；器官相對位置：相對於器官
+		- position of organ according to the another organ
+	- histopy 組織關聯
+		- the relation of the layers, coats or tissues of an organ among themselves, e.g., hyperkeratinization (角質化，increase in the number of cells in the epidermis)
+	- atopy 異位
+		- the tendency to produce an exaggerated immunoglobulin E (IgE) immune response to otherwise harmless substances in the environment
+		- atopic dermatitis 異位性皮膚炎
+	- ectopy 期外收縮；（心臟）異位
+		- ventricular ectopy 心室異位
+		- ectopic beats 異位搏動
+		- ectopia 異位
+			- ectopia cordis interna (Tin Man syndrome) 心臟異位；胸外心
+				- 心臟在胸腔位置異常
+			- thoraco-abdominal ectopia cordis 胸腹性心臟異位
+			- posterior pituary ectopia 腦垂體後葉異位
+			- diastole 心臟舒張期
+- somatotopy (somatotopic mapping) 軀體拓樸
+	- the point-for-point correspndence of an area of the body to a specific point on the central nervous system (CNS)
+- retinotopy (retinotopic mapping) 網膜拓樸對應
+	- 視野中任一位置都會引發一個視覺區某一位置的反應
+		- 影像位置和神經反應位置是一對一的對應關係
+		- functional magnetic resonance imaging (fMRI)
+	- 人體視覺系統的運作原理
+		- 如果把人眼比作相機，“拍攝”到的畫面呈現在位於眼球壁內層的視網膜上，並由這一透明薄膜投射到腦內負責處理視覺信息的視覺皮層。視網膜上的“像素點”與視覺皮層上的信息投射點之間存在一一對應的“拓撲”關係，這種點對點的圖像投射又稱“視網膜拓撲投射圖”。神經科學家運用fMRI技術化無形的投射過程為有形，記錄並探索其中的奧秘。
+		- ![[空間 Spatiality-20250213221723390.webp]]
+- tonotopy (tonotopic mapping) 頻率拓樸
+	- the spatial arrangement of where the sound of different frequency are procesed in the brain
+	- 耳蝸的不同部分與不同聲音頻率的規則對應關係
+- chemotopy 化學嗅覺拓樸
+	- Travers (1993)
+	- the orderly arrangement of olfactory glomeruli
+- gustotopy (gustotopic mapping) 味覺拓樸
+	- Chen et al. (2011)
+	- the topogrraphic separation of sweet and bitter taste into distinct and nonoverlapping gustatory fields in the primary taste cortex
+- orthotopy (orthotopic model) 原位模式
+	- something that occurs in the normal or usual place in the body
+	- 癌細胞移植到動物體內的位置，就是癌症原來發生的位置
+- paratope (antigen-binding site) 抗原結合位
+	- the part of an antibody which recognizes and binds to an antigen
+- epitope (antigen-determinant site) 抗原決定位；（抗原）表位
+	- a localized region on the surface of an antigen that is recognized by the immune system
+- spatiotopy (spatiotopic representation) 立體表徵；空間皮層映射
+	- a fundamental organizing principle of the visual brain
+- cardiotopy 心域性
+	- the concept that connects the image of the heart in poetic, philosophical, and religious contexts
+- hierotopy (sacred space) 神聖空間
+	- Alexei Lidov (2002)
+	- 研究人類如何用創意建造敬拜神的空間
+	- a special form of human creativity and also a related academic field where specific examples of such creativity are studied
+- ontotopy (ontological space) 本體空間
+	- the real status of a thing that does not change in its transfiguration － a piece of paper smeared with paints remains unchanged even when it is interpreted or even enjoyed as a picture of a man or an animal
+	- distinguishes between hominized and non-hominized things
+- glossotope 溝通空間
+	- geolinguistic concepts which are exclusively speech-based are not compatible with an approach founded in the speaker's language repertoire and routine using these language in specific linguistic environments
+	- isogloss 等語線
+		- a line which marks the border of a distribution area according to the liinguistic features
+	- glossotop, glossotopy 行話 = jargon
+		- Arthur Beyrer (2009)
+- topology (音譯) 拓撲學，拓樸學；(意譯) 位相 (幾何) 學
+	- Lebniz: geometria situs 位置的幾何學；analysis situs 位相分析
+	- topological features: connected 連通性、compact 緊緻性
+	- homotopy 同倫：continuum, equivalence
+		- 兩函數之間的連續變化，表示了連續函數間的等價關係
+			- homology 同調
+			- homotopy theory 同倫類型論 (HoTT)
+				- a formal system for mathematical constructions and proofs, in which the basic objects, types, may be regarded as "spaces" or ∞-groupoids, and all constructions are automatically "continuous" or equivalence-variant
+					- HoTT is:
+						- homotopy (type theory)
+						- (homotopy type) theory
+					- groupoid 羣胚；廣羣：conceptualized group
+						- 配有二元運算 （通常為加法與乘法），且態射 （morphism）皆可逆
+						- ∞-groupoid ∞-廣羣
+							- 考慮所有同倫等價關係及進階特性（無窮）
+					- HoTT = ITT + UA + HIT
+						- ITT: intuitionistic type theory 直覺類型論
+							- Per Martin Löf (1972)
+						- UA: univalence axiom 泛等公理
+							- Vladimir Voevodsky (2006)
+						- HIT: higher inductive types 高階歸納類型
+							- Bauer, Lumsdaine, Shulman (2011)
+					- synthetic homotopy theory 合成同倫論
+					- computer formalization 計算機形式化
+	- cohomotopy group 餘倫羣
+		- 從一空間至標準球面的連續映射
+		- cohomology 餘調
+	- homeotopy 自同胚同倫
+		- homeomorphism 同胚
+	- isotopy 合痕；同痕
+		- continuous and bijective (volume preserving)
+		- 能將一個扭結逐漸而不斷裂地變換成另一個扭結
+			- 即扭結在三維空間不自相交
+	- autotopy 自同痕
+		- an isotopy from a quasigroup to itself
+			- automorphism 自同構
+				- 數學物件到自身的同構 (homomorphism)，可看作對象的對稱或範疇論 (category theory) 的自同態 (endomorphism)
+		- a generalization of a more partial notion of "automorphism" and reflects in some sense the "regularity" or "symmetry" of a quasigroup as a combinatorial object
+- schizotopy 思覺失調傾向: a mood disorder that causes people to be withdrawn, exhibit eccentric behavior, and to ruminate obsessively about something.
+	- If you're saying, _'yep! That's me!'_ than you should know this: Schizotopic traits are apparent in many people to a mild degree. The people who have to worry about this disorder are the people who truly cannot function on a daily basis because of these mood swings characteristic of extreme Schizotopy.
+	- For your edification, here are the symptoms:
+		- A cold or inappropriate affect
+		- Anhedonia
+		- Odd or eccentric behavior
+		- A tendency to social withdrawal
+		- Paranoid or bizarre ideas not amounting to true delusions
+		- Obsessive ruminations
+		- Thought disorder and perceptual disturbances
+		- Occasional transient quasi-psychotic episodes with intense illusions, auditory or other hallucinations, and delusion-like ideas, usually occurring without external provocation
+- diasystem, polylectal grammar (sociolinguistics; dialectology) 通變系統
+	- a linguistic analysis set up to encode or represent a range of related varieties in a way that displays their structural differences
+	- dialect 方言
+	- dialogue 對話
+	- 共時的方言比較、方言對應關係的模式
+		- diatopy (diatopic variation) 地理方言型：(space) 隨地點變化
+		- diachrony (diachronic variation) 歷時型：(time) 隨時間變化
+		- diaphasy (diaphasic variation), stylistic variation 情境型：(situation) 隨情境變化
+		- diastraty (diastratic variation) 社會方言型：(social group) 隨社會族羣變化
+		- diamesy (diamesic variation) 媒介型：(medium) 隨溝通媒介變化
+		- (論外) idiosyncrasy (idiosyncratic variation) 偏好型：(preference) 隨不同身分的偏好差異而變化
+		- (論外) diaspora 流散；散居
+			- Diaspora這個詞源自希臘語diasperien，其中前綴dia-表示跨越，sperien意為分散、散播。根據韋氏字典，當diaspora的首個字母d作大寫時，與猶太人的「大流亡」歷史有關。這個詞可以指生活在巴勒斯坦或現代以色列之外的散居猶太人，也可以指古巴勒斯坦以外猶太人的散居地。
+			- 如今，diaspora更常見的意思是指那些離開他們祖先的故土很遙遠的人，或是這類人棲居的地方，又或者是人們遠離既定或祖傳家園的行動、遷徙或分散。在新聞報導中，diaspora是個經常出現的詞彙。當這個羣體的對象指涉的羣體中國人時，就會使用Chinese diaspora一詞，這個詞經常被翻譯為「海外華裔」、「海外華人」。
+			- Chinese diaspora多次出現在時報的一些報導中，如《瘋狂的亞洲富人恐在中國遭遇滑鐵盧》一文中提到：「這一鮮明的對比反映出大陸中國人與海外華裔之間巨大的經歷差異，尤其是與在西方國家作為少數族裔的華人羣體的經歷差異。」
+				- 「The stark contrast speaks to the wide gap between the mainland Chinese experience and the Chinese diaspora experience — and in particular, the experience of ethnic Chinese communities who are minority populations in Western countries.」
+- teleotopy (cultural teleotopy)
+	- Denoux, 2003a: 3 types of MAD
+		- MAD: modes d' apprehension de la différence, ways of apprehending the cultural difference
+			- 4 identified poles
+				- teleonomic design
+					- assimilation
+					- deculturation
+				- teleotopic design
+					- interculturation
+					- integration
+	- includes a multiculturalist positioning of acceptance and respect toward diversity; it creates fake correspondences between cultures which are imaginarily perceived as complementary, symmetric, or opposite because of a mirror effect bias
+	- historical teleonomy
+	- intercultural heteronomy
+- topicity (stereochemistry) 位置因素；空間排列結構
+	- the stereochemical relationship between substituents and the structure to which they are attached
+		- homotopic 同位
+			- replacing 2 protons with a different group gives the same compound
+		- enantiotopic, prochiral 對映位
+			- replacing 2 protons with a different group gices a pair of enantiomers
+		- diastereotopic 非對映位
+			- replacing 2 protons with a different group gives a pair of diastereomers and are chemically nonequivalent to give 2 signals
+		- heterotopic 異位
+			- replacing 2 protons with a different group gives different compound, which is neither diastereotopic or enantiotopic
+		- 其他 (only coined once)
+			- atropisotopic
+			- anotopic
+			- elastotopic
+			- tautotopic
+## tope 境
+- chirotope 對掌性擬陣
+	- an oriented matroid (擬陣) that exhibits the concept of chirality
+		- qubitope 量子位元對掌性擬陣
+			- a generalization of a chirotope involving qubits (量子位元，quantum bit)
+				- hypermatrix 泛矩陣
+				- hyperdeterminant 泛行列式
+				- spacetime 時空
+- ecotope 生態區；生境區
+	- spatial eco-space
+	- the smallest ecologically distinct landscape features in a landscape mapping and classification system
+		- biotope 羣落生境
+			- zootope 動物生境
+				- Zootopia (movie) 動物方城市
+			- phytotope 植物生境
+			- anthrotope 人類生境
+				- anthropogenic factors, societal-economic data
+		- geotope 地質生境
+- phonotope 聲境
+	- a territorialized acoustic space, a soundscape defined by the members of a given collective
+		- It almost seems logical that a Vergesellschatung of the phonotope would mirror the Vergesellschatung.
+			- communitization (Vergesellschatung) 社區化
+- three aspects related to EFL students at different stages: (1)how storytelling contributes to vocabulary acquisition, verbal expression, and their attitude toward reading; (2) what materials are more conducive to English language development; (3) what conditions lead to higher motivation to read, especially among high school students.

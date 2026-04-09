@@ -1,0 +1,503 @@
+---
+cssclasses:
+  - center-titles
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png
+aliases:
+  - 語料庫語言學
+author: 
+genre: 
+tags:
+  - reading
+---
+Date: 2024-09-12 14:35
+File Creation Date: 2024-09-12 14:35
+Last Modified: 2024-09-12 14:35
+File folder: A004. 筆記與讀物
+https://www.clarin.eu/resource-families/multimodal-corpora
+# 2024.09.12 Corpus Linguistics
+## Chapter 1
+### Corpus Linguistics: Introduction
+- Corpus
+	- Definition:
+		- written/spoken words stored electrronically for the analysis using specialized software
+		- a collection of texts, written or spoken, stored on a computer
+			- written texts (can be used to track vocabulary acquisition)
+				- scanning (OCR: Optical Character Recognition)
+				- typing
+				- downloading
+				- files
+			- spoken texts (time-consuming to assemble)
+				- record & transcribe
+				- coded for different speaker turns
+				- interruptions
+				- speaker overlaps
+				- truncated utterances (truncation)
+				- extra-linguistic information
+					- giggling
+					- door closes in background
+					- dog barking
+			- mixed texts (both spoken and written)
+		- a principled collection of texts
+			- Biber, Conrad and Reppen, 1998
+			- a collection of texts assumed to be representative of a given language put together so that it can be used for linguistic analysis
+			- representativeness
+				- how many texts must be included in the corpus
+				- how many words per text sample
+			- variables
+				- age
+				- gender
+				- location
+				- type os school
+				- level
+				- teacher
+				- years of experience
+				- nationality
+				- Native Speaker (NS) or Non-Native Speaker (NNS)
+		- quantitative
+			- results of occurences (frequencies)
+			- e.g., examine how many times the words *fire* and *blaze* occur
+				- when taking about destructive outbreaks of fire, the word *blaze* is more frequently used in newspaper articles than in general English conversation
+		- qualitative
+			- how a word/phrase is used across a corpus
+			- look beyond the frequency of the word's occurence
+	- designing a corpus depends on:
+		- class size
+		- level of instruction
+		- native/non-native speakers
+	- for:
+		- research: language variety
+			- to study how a lexical item/pattern is used to compare the use of an item in different language varieties
+				- (*will* and *shall* in AE/BE)
+		- reference: collocations
+			- search a corpus to find out what preposition most commonly follows a specific word
+				- preposition most commonly follows bargain as a verb
+					- *for* or *with*
+		- teaching: frequency of word use
+			- word frequency lists
+	- spoken corpus
+		- recording devices (12,000~15,000/hr)
+		- consent from the speakers
+		- documentation
+			- manual transcription
+			- plain text
+	- written corpus
+		- input
+			- download
+			- re-typing
+			- OCR (Optical Character Recognition 光學字元辨識)
+	- concordancing
+		- the concordance lines give a rich insight into how the word collocates with other words and also finds idiomatic usage
+			- ![[BIBL016. Corpus Linguistics-20240913154439349.webp]]
+		- Key-Word-In-Context (KWIC)
+		- Node: the targeted word
+	- keyword analysis
+		- special words
+		- key words are those whose frequency is unusually hish in comparison with some norm
+			- Scott, 1999
+		- key words are not usually the most frequent words in a text
+		- key words are the more "unusually frequent"
+	- cluster analysis
+		- combination of words or chunks, giving insights into how we describe the vocabulary of a language
+			- "I mean" "I know"
+		- look for word combinations
+			- 2-, 3-, 4-, 5-, or 6-word combinations
+	- lexico-grammatical query
+		- provide us with many examples of the search item in its context of use
+		- whereas a corpus will not tell us the meaning of the word or phrase
+			- therefore, it requires us to deduce and combine
+	- **==lexical-grammatical profile==**
+		- collocates 搭配詞
+			- which word(s) occur most frequently
+		- chunk/idiom 語塊
+			- groups of words that can be found together in language
+			- binominals/trinominals?
+				- wine and dine 設酒宴盛情款待
+				- safe and sound 安然無恙
+				- ready, willing and able
+		- syntactic restrictions
+			- are there syntactic patterns which restrict the word?
+			- for example, are there prepositions that go with the word?
+			- what are its typical clause-prepositions?
+				- initial
+				- medial
+				- final
+			- are there any tense/aspect restrictions?
+		- semantic restrictions
+			- the word/phrase is applied to humans only, or is never used with an intensifier
+				- e.g., 
+					- "The mountain eats sincerity."
+					- "Colorless green ideas sleep furiously."
+		- prosody
+			- 'Semantic prosody' means simply that words, as well as having typical collocates, tend to occur in particular environments
+		- EXAMPLE: "abroad"
+			- random sample of 60 concordance lines for abroad, based on  million words of mixed written texts (CIC)
+			- collocates
+				- be, been, go, trip, travel, work
+			- chunks/idioms
+				- 'home and abroad'
+			- syntax
+				- abroad only seems to be used adverbially
+					- work abroad
+			- semantics
+				- abroad can be used with static or dynamic verbs
+			- prosody
+				- abroad is anywhere
+	- steps to make a basic corpus
+		- spoken corpus
+			- create a design rationale
+				- design principle
+					- representativeness
+				-  feasibility
+					- what is available?
+					- what is ethical?
+					- what is legal?
+				- decide what you wish to represent and consider how best you can represent this for your purposes
+			- record data
+				- consent form
+					- permission to record should be cleared inadvance
+					- sign
+					- authorizing the use of recordings for research (authentic texts)
+			- transcribe recordings and save as text files
+				- a challenge: be manually transcribed
+				- have the ability to be stored electronically
+					- save as plain text files
+				- the level of detail of the transcription is relative to the purpose of your corpus
+			- database texts
+				- transcription files need to be organized so that source information can be traced
+					- useful to retrieve information
+						- gender
+						- age
+						- number of speakers
+						- place of birth
+						- occupation
+						- level of education
+						- where the recording took place
+						- relationship of speakers
+			- check transcription
+				- the transcription needs to be checked with the original recording for accuracy
+		- written corpus
+			- create a design rationale
+				- what it is you want to represent
+				- how many texts you need to do this
+				- from how many sources
+				- over what period
+			- input texts
+				- depending on what form they are in
+				- re-typed/scanned (written texts)
+				- be electronic format (downloadable from the Internet)
+				- have special copyright restrictions
+				- saved as "plain text files"
+			- database texts
+				- texts in a corpus need to be traceable to its source information
+				- who wrote it
+				- where and when it was published
+				- genre
+				- number of words
+				- stored at the beginning of each file as header information
+	- lexicography
+		- practical lexicography
+			- the art/craft of composing, writing, and editing dictionaries
+				- basing dictionary entries on actual use rather than intuition
+		- theoretical lexicography
+			- the scholarly discipline of analyzing and describing the semantic, syntagmatic and paradigmatic relationships within the lexicon (vocabulary) of a language
+	- grammar
+		- the concept of 'pattern'
+			- major grammars of English are now corpus informed
+		- this grammar was based on the analysis of a 40 million word corpus of spoken and written texts
+		- it includes examples from sources such as
+			- websites
+			- magazines
+			- junkmail
+			- TV and radio programs
+			- recordings of people's everyday conversations
+	- stylistics
+		- study of the language of literature
+			- poem and prose
+		- corpus linguists have used evidence of these patterns to study creativity in language, both in fiction and in everyday language
+	- translation
+		- monolingual 
+		- comparable
+		- parallel
+		- descriptive translation
+			- looking at corpora of translations
+				- comparing these with corpora of original texts so as to establish the characteristics both peculiar and universal to translation texts
+			- components in two or more languages
+				- consisting of original texts and their translations
+					- a novel and its translation in another language
+	- forensic linguistics
+		- language use for law and crime
+		- the use of language in law and crime investigation
+			- analysis of the genuineness of documents
+				- confessions to suicide notes
+				- authorship identification in academic settings
+					- e.g., the issues of plagiarism
+				- ransom
+				- notes
+				- threat
+				- forensic phonetics
+					- e.g., speaker identification
+				- police interview and interrogation
+				- the discourse of the courtroom setting
+	- sociolinguistics data: SCOTS
+		- age
+		- gender
+		- level of education
+		- socio-economic background
+	- authentic examples
+		- Touchstone (series)
+	- data-driven learning (DDL)
+		- refers to the discovery amd exploration-based learning model based on corpus by usin the original data in the corpus or the retrieval results by the corpus retrieval tools
+		- an approach based on corpus and concordance-based materials to learn language
+		- patterning in the target language
+		- forming generalization of language
+		- CALL: Computer Assisted Language Learning
+	- authenticity
+		- authentic or contrived (tailored but unrealistic)
+		- the availability of corpus examples has produced a different perspective since we can find in corpora numerous examples of texts that are free
+		- a 'real' example of the target language
+		- the 'native speaker' and the classroom
+		- non-native speakers who have great affiliation to a language and are more competent in that language than native speakers.
+			- EFL: English as a Lingua-Franca for corpora
+	- SUE: Successful Users of English
+		- native/non-native speaking, as 'expert users'
+	- the influence of corpora to language teaching
+		- dictionary making
+		- spoken vs written discourse
+			- to present the vocabulary, grammar, and functions students encounter most often in real life
+			- to provide more realistic examples of language
+		- collocational knowledge
+			- collocational error is a common type of error for learners
+				- which lexical items co-occur frequently with others and how they combine within a sentence
+		- language testing
+			- as an archive of examination scripts
+			- to develop test materials
+- --
+# 2024.09.19
+## Chapter 2
+### Establishing basic and advanced levels in vocabulary learning
+- first 2000 words > 80% ($\approxeq$ 83%)
+	- $\approxeq$ 二八法則 Pareto Principle
+	- Zipf's Law 齊夫定律
+		- 最頻繁出現的字比第二名多兩倍，比第四名多四倍
+- lemma: look $\rightarrow$ looked, looking
+	- lemmatization could be unreliable
+- pronouns
+	- spoken: I, you
+	- written: he, she, it
+- Spoken
+	- discourse markers
+		- make openings and closings
+		- well (I'm considering)
+			- shifts in discourse from expected/predicted
+		- right (I have made the decision)
+			- to signal important communicative functions
+				- responding
+				- boundary-marking
+		- I mean (I would like to express something)
+			- non-shared knowledge
+				- to preface an explanation or expansion
+- Written
+	- functional > lexical:
+		- noun + preposition + noun
+		- $3^{rd}$ person references
+		- prepositions
+		- conjunctions
+- Core vocabulary
+	- an important index for words that should be included in the syllabus
+	- band
+		- A (1~500)
+		- B (501~1000)
+		- C (1001~1500)
+		- D (1501~2000)
+- modality
+	- epistemic modality: certainty
+	- deontic modality: necessity
+	- modal verbs: can, may, will, could, should, must
+	- lexical modal verbs: look, seem, sound
+	- lexical modal adjectives: possible, certain
+	- lexical modal adverbs: maybe, probably, definitely, apparently, possibly
+- stance wordsi
+	- just, A
+		- used in softened and polite utterances
+			- Could you just sign that for me please?
+	- basically, B
+	- clearly, C
+	- unfortunately, D
+- delexical verbs (all in band A) (+ n./prep./particles)
+	- do
+	- make
+	- take
+	- get
+- basic nouns
+	- general, non-concrete, concrete nouns
+- items in closed sets are not directly related to the respective frequency
+- general deictics: here, there, now, go
+- basic adjectives: good, fine, great, lovely...
+- basic adverbs
+- basic verbs: listen enjoy, accept, say, give...
+- chunks at the basic level
+	- a couple of
+	- at that time
+- targets
+- the vocabulary curve
+	- 5000~6000 word upper intermedate vocabulary offer around 90% comprehension
+	- de-motivating: insufficiently known to guess or infer the meaning of a certain word
+- breadth & depth
+- Sunday is the most frequent word in the BNC
+---
+# 2024.09.26
+## Chapter 3
+### Chunks
+- lexical chunks for fluency
+- chunk
+	- multi-word units (MWU) (日常用轉折語或助詞)
+		- you know
+		- I mean
+		- sort of
+		- at the end of the day
+	- essential for fluency
+	- syntactic and interactional
+	- pragmatic categories like discourse markers, face-saving strategies 
+		- (hedging are often chunk-based)
+	- Successful Users of English (SUEs)
+- single word (traditional teaching words)
+- collocation (words frequently appear together)
+	- Things turn black/grey.
+	- People go mad/insane.
+- strings of words (chunks, idioms, phrases)
+- pedagogical implications
+	- should focus on high-frequency chunks
+	- listening, noticing, and repeating chunks
+	- challenges
+		- some chunks may not be intuitive for learners (不太好聯想)
+		- idiomatic expressions are especially difficult to grasp (get不太到)
+		- learners need frequent exposure to chunks in context (要多接觸)
+- Fixed expressions, formulaic sequence, MWU
+---
+# 2024.10.17
+## Chapter 4
+### Idioms
+- business idioms
+	- problem-solving
+- teaching idioms
+	- culture relatability
+- idiom functions
+	- informal evaluation
+	- interative conversation
+	- summarized narratives
+- most frequent: fair enough
+- idioms versus chunks
+	- chunks: a kind of multi-word unit for memory (flexible)
+	- idioms: a kind of multi-word unit for native speaking (fixed)
+		- Sinclair's 2 principles
+			- idiom principle (fixedness, grammatical, deterministic)
+				- deterministic: the book (O), book the (X)
+			- open-choice (flexible, probabilistic)
+				- probabilistic (sequentially reversible or irreversible/whether the insertion is acceptable)
+				- sequentially reversible with different meanings
+					- black and blue (for metaphor it is acceptable)
+					- blue and black (for color it is acceptable)
+				- insertion with slightly different extent of meanings
+					- a (large/small) number of sth. 
+- frozen similes
+	- as mad as a hatter
+	- as black as your hat
+- possessive's phrases
+	- the lion's share
+- idiomatic noun compunds
+	- whitewash
+	- belly-full
+- formulae and discourse markers
+	- mind you
+	- to crown it all
+	- how's tricks?
+- cultural allusions
+- quotations
+- proverbs
+- slogans
+- catch phrases
+- certain everyday words do seem to be **idiom-prone**, probably because they are the foudations of basic cognitive metaphors
+	- body parts
+		- shoulder
+		- hand
+		- nose
+		- head
+		- face (x520 in CANCODE)
+			- let's face it 20
+			- on the face of ti 10
+			- face to face 6
+			- keep a straight face 4
+			- face up to 4
+			- till you're blue in the face 3
+			- fall flat on one's face 3
+			- shut your face 3
+	- money
+		- money talks
+		- put your money where your mouth is
+		- the smart money
+	- light and color
+		- be in the dark
+		- shed light on
+		- give the green light
+		- have green fingers
+	- clausal expressions for actions and states
+		- BrE, CANCODE: look down one's nose at sb.
+		- AmE, CIC: give sb. a hard time
+	- clausal expressions for things and events
+		- make sense
+		- it's a small world
+	- names for people
+		- B: man/woman of the world
+		- A: sugar daddy
+	- names for things and events
+		- B: pub crawl
+		- A: small talk
+	- discourse routines and interjections
+		- B: there you go
+		- A: here's the thing
+	- miscellaneous adjectival, adverbial, and prepositional expressions
+		- B: by and large
+		- A: top notch
+---
+# 2024.10.17
+## Chapter 5, 6
+### Grammar
+- yet: neg./question
+- as yet: neg. only
+- border: the boundary
+- bordering on: almost
+- be passive: action from the actants/agent, and the subject/patient receives the action.
+	- He was teased by his classmates
+		- focus on what the actants/agents (classmates) have done to the subject/patient (he)
+- get passive: unfortunate and uncomfortable
+	- He got teased by his classmates
+		- focus on the subject/patient (he) more
+- 's not: for pronouns
+	- She's not happy.
+- isn't: for NP
+	- The classroom isn't ready yet.
+---
+# 2024.11.07
+## Chapter 7
+### Listenership and Response
+- **minimal**: fillers (mmm, hmm, uh-huh, wow, right, fine)
+	- no engagement and involvement
+- **non-minimal**: absolute, adjectives, adverbs 
+	- wow as non-minimal
+		- an emotional reaction in addition to being a mere acknowledgement
+		- signal of personal engagement and involvement
+- **cultural variation**: dialects, "yeah" frequently varies
+- **contextual variation**: formal/casual, stylistics
+- **token**: for engagement and contextual use
+	- continuer response token
+	- convergence response token
+	- engagement response token
+		- affective level
+		- interactional level
+	- context-specific response token: favor, help, agreement
+- **backchanneling**: I am showing my respect to what you say to me even though I am too busy/distracted/inconvenient/actually confused to give an insightful answer or solution.
+- **negation of response tokens**: absolutely/certainly/definitely not
+- difference between listenership and response tokens
+	- listenership: responsive role (just showing you're listening)
+	- response tokens: discourse function (certain answers in  discourse)
+- lexical density = (lexical words/total words) x 100%

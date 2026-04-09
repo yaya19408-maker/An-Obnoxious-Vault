@@ -1,0 +1,2 @@
+***Kafkaesque Administrational Absurdity***
+Administration represents evaluative indispensability, however it could be subjective redundance for the workers due to not recognizing the substantiality of such work in that specific time point.

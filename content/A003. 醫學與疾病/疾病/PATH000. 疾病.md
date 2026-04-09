@@ -1,0 +1,78 @@
+[[PATH002. pathy]]
+[[BR002. pnea]] (呼吸病)
+[[PATH001. osis]]
+[[PATH003. Trauma]]
+[[PATH004. (WIP) Presby- 老年]]
+[[Metaplasia]]
+
+- Status epilepticus 重積性癲癇
+- Epileptic automatism 癲癇性自動症
+	- 失去意識 但身體還在動
+- Post-seizure epileptic automatism 癲癇發作後自動症
+- Nevus lipomatosus superficialis 表淺性脂肪瘤母斑
+- Scrotal eczema 陰囊濕疹
+- Congenital adrenal hyperplasia 腎上腺素綜合症後群
+	- Hydrocortisone 氫羥腎上腺皮質素
+- Acromegaly 肢端肥大症
+- Pituitary tumor 腦下垂體腫瘤
+- Waardenburg syndrome 瓦登伯革氏症候群
+- Bradycardia 心跳過慢
+- Hypotension 血壓過低
+- Hypoglycemia 血糖過低
+- Hypoxemia 低血氧症
+- Hypoxia 缺氧
+- Helcology 潰瘍學
+- Calcium pyrophosphate dihydrate crystal disease (CPPD) 二水合焦磷酸鈣晶體沉積病
+- Astasia-abasia 站立行走障礙
+- Gait inability 步態障礙
+- Fibrodysplasia ossificans progressiva (FOP) 石化症
+- Aphakia 無水晶體症
+- Trophotaeniae 後腸衍生胎盤
+- Syringomyelia 脊髓空洞症
+- Hyperekplexia hereditary (HPX) 遺傳性過度驚嚇症
+- Hereditary angioedema (HAE) 遺傳性血管性水腫
+- Premature ejaculation 早洩
+- Erectile dysfunction (ED) 勃起障礙
+- Hypogonal function 性腺功能減退
+- Tourette's syndrome
+	- Echolalia 模仿言語
+	- Palilalia 言語重複
+	- Coprolalia 穢語症
+- Lalochezia 粗口紓壓
+- Anorectal 肛腸的
+	- Allochezia 排便途徑異常
+	- Dyschezia 排便困難
+	- Hematochezia 血便
+		- Melena 黑血便 (or tarry stool)
+	- Prionochezia 排便含朊病毒
+		- Prion 朊病毒
+- Creutzfeldt-Jakob disease (CJD) 克雅二氏症 (好發於50~75歲)
+- Face pareidolia 面孔空想性錯視
+	- Occipital face area (OFA) 枕下回面孔區
+		- Inferior occipital gyrus 枕下回
+	- Fusiform face area (FFA) 梭狀回面孔區
+		- Fusiform gyrus 梭狀回
+	- Superior temporal sulcus (STS) 顳上溝
+- Gastroesophageal reflux disease (GERD) 胃食道逆流
+- Vesicoureteric reflux (VUR) 膀胱輸尿管逆流
+- Sleep paralysis 睡眠麻痺症 $\rightarrow$ 鬼壓床
+- Blindsight 盲視現象
+	- Voiding cys
+- Protuberance 突出/外凸
+- Caput medusae 血管怒張/蛇女頭狀臍圍靜脈曲張
+- Superficial vein engorgement 表面靜脈曲張
+- Sympathomimetic toxidrome tourethrogram 排尿膀胱尿道造影檢查
+- Parasomnia 類睡症
+- Sleep inertia (SI) 睡眠遲惰擬交感神經中毒綜合症
+- Atrial fibrillation (AFib) 房顫/心房纖維性顫動
+- Asboe-Hansen sign/Bulla spread sign 水泡向側擴散
+- Targetoid lesion 類標靶樣病灶
+	- Atypical flag target 類標靶樣
+- Lou Gehrig's disease 漸凍症
+	- Amyotrophic lateral sclerosis (ALS) 肌肉萎縮性脊髓側索硬化症/漸凍人症
+- Agnosia 失認症
+	- Asomatognosia 自體部位失認症
+	- Anosognosia 病覺缺失症
+		- Post-stroke paralytic limb disorder
+- Phocomelia 海豹肢症
+- Ectromelia virus 猴痘病毒

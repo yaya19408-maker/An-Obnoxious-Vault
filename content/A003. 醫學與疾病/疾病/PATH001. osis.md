@@ -1,0 +1,303 @@
+- [[Halitosis]] 口臭
+- [[Clasmatodendrosis]] (無中文)
+- [[Hydropneumatosis]] 水肺
+- Silicosis 矽肺
+	- Pneumonoultramicroscopicsilicovolcanoconiosis 火山矽肺病
+- Tuberculosis 肺結核
+- [[Supraspinatus tendinosis]] 棘上肌退化性肌腱疾患
+- [[Apoptosis]] 細胞凋亡
+	- [[Ferroptosis]] 鐵 (依賴性細胞)死亡
+- [[Necrosis]] 壞死
+	- Tissue necrosis 組織壞死
+- Necrobiosis 細胞漸進性壞死
+	- Gangrene 壞疽
+- Necrobacillosis 壞死桿菌症
+- Melioidosis 類鼻疽 (melis 驢子的瘟熱 + oid 類似 + osis)
+	- Burkholderia pseudomallei 類鼻疽桿菌
+	- Maleus 鼻疽
+-  [[PATH005. ptosis]] /blepharoptosis 眼瞼下垂/上瞼下垂
+- Cell division 細胞分裂－Mitosis 有絲分裂－Meiosis 減數分裂
+	- Cytokinesis 細胞質分裂
+	- Myzocytosis (微生物)吸食作用
+	- Exocytosis 胞吐作用
+		- Degranulation 脫粒作用
+	- Endocytosis 胞吞作用
+		- Receptor-mediated endocytosis 受器媒介胞吞
+		- Clathrin-mediated endocytosis 網格蛋白媒介胞吞
+		- Fluid-phase endocytosis 液相胞吞
+		- Adsorption endocytosis 吸附胞吞
+		- Transcytosis 胞移作用
+		- Efferocytosis 胞葬作用
+			- Efferosome 胞葬體
+		- Pinocytosis 胞飲作用
+		- Phagocytosis 噬菌作用
+			- Bacteriophage 噬菌體
+			- Phagosome 吞噬體
+			- Phagocyte 吞噬細胞
+- Leukocytosis 白血球增多症
+- Sclerosis 硬化
+	- Cerebral arteriosclerosis 腦動脈硬化
+- Thanatosis 假死
+	- Tonic immobility 強直靜止/緊張性痲痺
+- [[Osmosis]] 滲透
+- Porosis 疏鬆
+	- Osteoporosis 骨質疏鬆
+- Syndesmosis 韌帶聯合關節
+- Poiesis 生成 (see [[A005. poe(i)n- 詩; 生]])
+- [[Genesis （器官）發生；生成]] 生成
+- Nitrogen narcosis (潛水)氮醉現象; 深水狂喜
+- Acanthosis 棘皮症
+- Acanthocytosis 棘紅細胞增多症
+- Sarcoidosis 結節病
+- Cyanosis 發紺
+- Neurocysticercosis 神經囊尾幼蟲症; 神經性豬囊尾蚴病
+	- Cysticercosis 囊尾幼蟲病
+- Protothecosis 原孢囊藻症
+- Adenomyosis 子宮腺肌病
+- Neurosis 神經官能症
+- Psychosis 精神病
+- Mydriasis 瞳孔放大=Dilated pupils
+- Miosis 瞳孔縮小=Constricted pupils
+- Genodermatosis 遺傳性皮膚病
+	- Heterochromia iridum 異色瞳
+- Emesis 嘔吐
+	- Hematemesis 嘔血
+- Ecchymosis 瘀斑
+	- Petechia 瘀點
+	- Purpura 紫斑
+- Thrombosis 血栓
+- Diverticulosis 憩室病
+	- Sigmoid colon 乙狀結腸
+	- Descending colon 下行結腸
+- Nephrosis 腎病
+- Sepsis 敗血症
+- Semiosis 符號過程
+	- Intersemiosis 符際協同
+- Biosis 生
+	- Synbiosis 共生
+		- Endosynbiosis 內共生
+	- Epibiosis 表棲附生
+	- Hypobiosis 抑育附生
+	- Cryptobiosis/Anabiosis 隱生![[Pasted image 20240206165300.png]]
+		- Anhydrobiosis 低濕隱生
+		- Cryobiosis 低溫隱生
+		- Biostasis 生物停滯
+			- Diapause 滯育
+				- Dormancy 休眠
+					- Aestivation 夏眠
+					- Hibernation 冬眠
+		- Osmobiosis 變滲隱生
+		- Anoxybiosis 缺氧隱生
+		- Chemobiosis 化學隱生
+	- Abiosis 無生命
+	- Saprobiosis 腐生作用
+	- Antibiosis 抗生作用
+	- Probiosis 益生菌生態
+		- Probiotics 益生菌
+	- Prebiosis 益生元作用
+		- Prebiotics 益生元
+	- Aerobiosis 好氧作用 <> Anaerobiosis 厭氧作用
+	- Parabiosis 異種共生
+	- Xenobiosis 異型共生
+		- Xenobiotics 異生素
+	- Trophobiosis 取食共生
+	- Kleptobiosis/Cleptobiosis 盜食共生
+		- Kleptoparasitism/Cleptoparasitism 盜食寄生
+	- Normobiosis 腸道菌叢生態
+		- Quorum sensing 群體感應
+	- Eubiosis 菌相平衡
+	- Dysbiosis 菌相失調
+	- Enterobiosis 腸道寄生
+	- Commensalism 片利共生
+		- Metabiosis 後寄生
+		- Phoresy 攜撥/寄載
+			- Pseudoscorpion 偽蠍
+		- Inquilinism 寄居
+	- Koinobiosis 共育寄生
+		- Koinobiont parasitoid 共育寄生體
+	- Idiobiosis 非共育寄生
+		- Idiobiont parasitoid 非共育寄生體
+			- Ectoparasitism/Ectoparasitic infection 外寄生物感染
+				- Ectoparasitoid 外寄生物
+				- Ectoparasiticide 殺外寄生物藥
+	- [[Plesiobiosis]] 異種共棲
+- Morphosis 變形
+	- [[Paedomorphosis]] 幼態延續
+- [[Biocoenosis]] 生物群落 
+- [[Hormesis]] 毒物興奮效應
+- Amyloidosis 澱粉樣蛋白疾病/類澱粉沉積症
+- Atherogenesis 粥狀斑生成
+- Atherosclerosis 動脈粥狀硬化
+	- = Arteriosclerotic vascular disease (ASVC) 
+- Hepatic Steatosis (HS) 肝脂肪變性 (脂肪肝)
+	- = Fatty Liver Disease (FLD) 脂肪性肝病
+	- Simple steatosis 單純脂肪變性
+	- Non-Alcoholic Steato-Hepatitis (NASH) 非酒精性脂性肝炎 
+	- Cirrhosis 肝硬化
+- Fibrosis 纖維化
+- [[Presbycusis]] 老年聽力退化
+- Homeosis 同源異形轉化
+- Hypostasis 位格合一
+- Iconostasis 聖幛
+- Parthenogenesis 單性生殖
+- Thermogenesis 產熱
+- Spermatogenesis 精子發生
+- Melanogenesis 黑色素生成
+- Anaphylaxis 過敏反應
+	- Bronchioconstriction 支氣管收縮
+	- Vasoconstriction 血管收縮
+- Sporotrichosis 申克氏孢子絲菌病
+	- 又稱玫瑰園丁症 Rose gardener's disease
+	- Sporothrix 申克氏孢子絲菌
+- Streptotrichosis/Dermatophylosis 嗜皮菌症
+- Thoracentesis 胸腔穿刺
+- Thoracocentesis 肋膜腔穿刺
+- Pleurodesis 肋膜粘連術
+	- Pleura 肋膜/胸膜
+	- Pleurisy 肋膜炎
+	- Pleurisy root 桔梗根
+	- Malignant pleural effusion (MPE) 惡性肋膜積水
+	- Tunneled pleural catheter (TPC) 肋膜植入導管
+- Stereopsis 立體感
+- Plasmopheresis 血漿置換術
+- Spinogenesis 脊柱生成
+- Lordosis 脊椎前凸
+- Kyphosis 脊椎後凸 (駝背)
+- Scoliosis 脊椎側彎
+- Spondylosis 椎關節病變
+- Spondylolisthesis 脊椎滑脫
+- Spondylolysis 脊椎崩解
+- Spondylitis 脊椎發炎
+- Onchocerciasis/River blindness 蟠尾絲蟲症/河盲症
+- Diaphoresis 發冷汗
+- Edwardsiellosis 愛德華氏病; 鰻魚肝腎病; 愛德華氏桿菌症
+- Delusional parasitosis (DP)/Parasitophobia 寄生蟲病妄想
+- Candidiasis/Moniliasis 念珠菌症 
+	- Candida parasilosis 近平滑念珠菌
+	- Candidemia 念珠菌菌血症
+	- Candiduria  念珠菌菌尿症
+	- Bactereuria 細菌性菌尿症
+- Maduromycosis 馬杜拉菌病，又稱:
+	- 馬杜拉足 (Madura-foot)
+	- 足菌腫 (Mycetoma)
+- Phycomycosis/Mucomycosis 毛黴菌病; 藻菌病
+- Aspergillosis/Pneumonomycosis 肺麴菌病
+	- Invasive aspergillosis 侵襲性肺麴菌病
+- Blastomycosis 芽生菌症
+	- Chromo (blasto) mycosis 著色芽生黴菌症
+		- Exophiala jeanselmei 甄氏外瓶黴
+- Brucellosis 布氏桿菌病
+- Pasteurellosis 巴氏桿菌病
+	- Pasteurization 巴氏殺菌
+- Staphylococcosis 葡萄球菌食物中毒症 (-cocco 球菌)
+	- 或 Staphylococcoceal enterotoxicosis
+	- Strephococcal infections 鏈球菌感染
+- Coccidioidomycosis 球菌症
+- Cryptococcosis 隱球菌症
+- Histoplasmosis 組織漿菌症
+- Yersiniosis 偽結核耶氏菌症
+- Campybacteriosis 曲狀桿菌症
+- Colibacteriosis 大腸桿菌症
+- Salmonellosis 沙門氏菌症
+- Shigellosis 志賀菌症
+- Dermatophytosis 皮癬菌症
+- Amebiasis 阿米巴痢疾
+- Balantidiasis 小袋蟲症
+- Giardiasis 梨形鞭毛蟲症
+- Hymenolepiasis 膜殼絛蟲症
+- Coenuriasis 共尾絛蟲症
+- Taeniasis 帶絛蟲症
+- Bertielliasis 裸頭絛蟲症
+- Diphyllobothriasis 闊節裂頭絛蟲症
+- Sparganosis 裂頭幼蟲症
+- Dipylidiasis 犬複殖器絛蟲症
+- Hymenolepiasis 短小膜殼絛蟲症
+- Mesocestodiasis 中殖孔絛蟲症
+- Railletiniasis 雷氏絛蟲症
+- Anisakiasis 安妮線蟲症/海獸胃線蟲症
+- Clonorchiasis 中華肝吸蟲症
+- Dicrocoeliasis 雙腔吸蟲症
+- Echinostomiasis 棘口吸蟲症
+- Fascioliasis 牛羊肝吸蟲症
+- Fasciolopsiasis 薑片吸蟲症
+- Gastrodiscoidiasis/Amphistomiasis 人雙口吸蟲症
+- Heterophyiasis 異形吸蟲症
+- Metagonimiasis 橫川吸蟲症
+- Paragonimiasis 衛氏肺吸蟲症
+- Schistomiasis 分體吸蟲症
+	- Schistosomal dermatitis 分體吸蟲性皮膚炎
+		- Cercanal dermatitis/Swimmer's itch
+- Dioctophymosis 膨節線蟲症
+- Dilofilariasis 心絲蟲感染
+- Filariasis 馬來亞絲蟲病
+- Gongylonemiasis 筒線蟲病
+- Loaiasis 羅阿絲蟲病
+- Thelaziasis 東方眼絲蟲症
+- Actinomycosis 放線菌症/顎腫 (Lumpy jaw)
+- Listeriosis 李斯特菌症
+- Nocardiosis 奴卡氏菌症
+- Adiaspiromycosis/Haplomycosis 不育大孢子病
+- Dracontiasis 龍線蟲症
+- Opisphorpiasis 後睪吸蟲症
+- Pentastomidiasis 舌形蟲症
+- Hydatidosis/Echinococcosis 胞蟲症
+- Trichinosis 旋毛蟲病
+- Leishmaniasis 利什曼原蟲症
+	- Cutaneous and mucocutaneous 皮膚型 (Oriental sore)
+	- Visceral 內臟型/黑熱病 (Dumdum fever)
+- Trypanosomiasis 錐蟲病
+	- American 美洲 (Chaga's disease)
+	- African 非洲 (Sleeping sickness)
+- Ancylostomiasis 鉤蟲症 (Hookworm disease)
+- Ascariasis 蛔蟲症 (Roundworm disease)
+- Enterobiasis 蟯蟲症
+- Trichuriasis 鞭蟲症
+- Tungiasis 沙蚤症
+- Capillariasis 毛細線蟲症
+- Lagochellascariasis 千里達線蟲症
+- Leptospirosis 鉤端螺旋體病
+- Legionellosis 退伍軍人病
+	- Legionella pneumophila 嗜肺性退伍軍人桿菌
+- Zoonosis 人畜共通傳染病
+	- Ehrlichiosis艾莉希氏體症
+- Anaplasmosis 無形體症
+	- Human granulocytic anaplasmosis 人粒細胞無形體病
+- Larval granulomatosis 仔蟲移行症
+- Oesophagostomiasis 腸結節蟲症
+- Ternidensiasis 管口線蟲症
+- Strongyloidiasis 類圓線蟲症
+- Trigostrongyloidiasis 毛狀圓蟲症
+- Syngamosis 張口蟲症
+- Piroplasmosis/Babesiosis 焦蟲症/巴貝氏蟲症
+	- Bovine babesiosis 牛焦蟲症
+- Sarcosporidiosis 肉孢子蟲病
+- Cyclosporiasis 環孢子蟲病
+- Conjunctivval rhinosporidosis 結膜鼻孢子蟲病
+- Cryptosporidiosis 隱孢子蟲症
+- Toxoplasmosis 弓形蟲感染症
+	- Infection mononucleosis 感染性單核球增多症
+- Plasticosis 塑化症/塑纖化
+- Lipomatosis 脂肪瘤增生
+- Myxomatosis 黏液瘤病
+- Idiopathic pulmonary hemosiderosis 特發性肺血鐵質沉積症
+- Keratosis 角化症
+	- Actinic keratosis 光化性角化病
+	- Hydrocarbon keratosis 烴角化症
+	- Keratosis pilaris 毛囊角化症
+	- Seborrheic keratosis 脂溢性角化症 (老人斑)
+	- Arsenical keratosis 砷角化症
+	- Keratoderma 角化性皮膚病
+- Lyme borreliosis 萊姆病
+- Myrmecosis 螞蟻侵體
+- Ketosis 酮症
+- Exosemiosis 符號外過程; 外符際性
+	- (1) Exosemiosis refers to communication by means of intentional signs should be considered <u>in opposition to</u> it.
+- Endosemiosis 體內符號過程
+	-  endosemiosis to designate semiotic processes taking place within organisms, in contrast to exosemiosis, which refers to sign process that occur between organisms. Uexküll et al. (1993) define endosemiosis as any semiotic interaction at a biological level.
+- Nepsis 警醒；節制、警慎修行
+	- 在開始這項研討前,讀者必須先吸收一些希臘語上的一些專有名詞，這樣就不會被英譯時所誤導。首先我們要了解的就是“NOUS”這個字代表“the eye of hear”(心眼)，這個字通常翻成“心智”或“智能”。在此我們一律沿用希臘字“NOUS”。這個字的形容詞是“NOETIC”心智的(noeros)。
+	- 另外的一組字PRAXI(action，行動)和 THEORIA (vision, 願景，意象)，這都是宗教文章上表達苦行修行及上帝所帶來的意象。在此以避免掉THEORIA所代表“深思熟慮”的意思。NEPSIS是一種神父在苦行時所有的一種節制的警戒心。通常被翻譯成警慎修行。形容詞是NEPTIC。
+	- HESYCHIA 是靜止，平靜的意思。在上帝面前所展示的平靜叫HESYCHASM。
+	- Philokalia
+- pyknosis 固縮；細胞緻密變化；染色質濃縮
+	- 細胞凋亡的形態學特徵包括有：染色質濃縮(_pyknosis_)、細胞質濃縮、細胞形態變得不規則而且有段裂(fragmentation)、及由凋亡細胞脫落出細胞凋亡體(apoptotic body)

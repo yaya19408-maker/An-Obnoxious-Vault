@@ -1,0 +1,520 @@
+- Quentin Meillasoux 甘丹梅亞蘇
+	- Time without Being
+	- anti-anthropocentrism
+	- possibility 可能性：一面骰子有六面，骰下去就會是1~6
+	- potentiality 潛在：在骰下去之前必定有一種骰出7或以上的維度
+- Ethan Nowak 伊森諾瓦克
+	- Language Loss and Illocutionary Silencing
+- Yang Lecun 楊立昆, Geoffrey Hinton 辛頓
+	- Deep Learning
+	- Winograd Schema Challenge (WSC)
+- Eric Dietrich 艾瑞克迪特里希
+	- Why Philosophy Makes No Progress
+- Gilbert Simondon 吉爾伯特西蒙東
+	- technology
+	- [individuation](https://philosophyandtechnology.network/du-mode-dexistence-des-objets-techniques-chinese-v2/)
+- Bruno Latour 拉圖爾
+	- ANT, STS
+	- socioconstructivism
+	- modern/premodern
+	- nature & society
+	- human/non-human
+- Herbert McLuhan 麥克魯漢
+	- law of medium
+- Yuk Hui 許煜
+	- philosophy of technology
+- Shoshana Zuboff 肖莎娜祖博夫
+	- surveillance capitalism
+- Friedrich Kittler 弗里德里希基特勒
+	- discourse network
+- Martha C. Nussbaum 瑪莎努斯鮑姆
+	- social justice, politics, emotion
+-  Alfred Korzybski 阿爾弗雷德·柯日布斯基
+	- general semantics
+	- theory of orders of abstraction
+- Régis Debray 德布雷
+- [[Paulo Freire 弗雷爾/弗雷萊]]
+- [[Paul-Michel Foucault 米歇爾傅柯]]
+- Paul Ricoeur 呂格爾
+- James Paul Gee 詹姆斯·保羅·吉
+	- 《什麼是好的遊戲學習》（What Video Games Have to Teach Us About Learning and Literacy）一書中，吉提出遊戲是理解和操作複雜系統的有效工具，能夠促進問題解決技巧、合作與競爭能力等多方面能力的發展
+	- 他強調將遊戲元素應用於學習過程中可以大大提高學生的動機和參與度。通過這種方式，學習變得更加互動和有趣，學生可以在一個更加吸引人的環境中發展關鍵技能，如批判性思維、團隊合作和創新能力
+	- Big D, small d (Discourse, discourse)
+		- Discourse 社會與歷史下身分的表述
+		- discourse 日常可見的話語
+	- Big C, small c (Conversation, conversation)
+		- Conversation 選邊站的公開辯論
+		- conversation 兩個或多個discourses組成的對談
+	- 6 things when speaking/writing
+		- meaning and value of the material world
+		- activities
+		- identities
+		- relationships
+		- politics
+		- connection and semiotics
+- Merleau-Ponty 梅洛龐帝
+	- embodiment 具身
+		- flesh 肉身
+		- chiasm 交叉
+	- 重視學生知覺於認知過程，提出在知覺是認識客觀知識的先決條件；而知覺來自於身體，所以重視學生身體各種官能的開展；重視人與真實事物的互動，所以強調實物教育優於抽象教育
+	- 當個人的知覺能在教學歷程中得以獲得開展，學習就不只停留在知識上的探索，而是能更近一步的讓學習成為身體感官的一環，讓學習內容更加具有意義並且更能深化
+- Jeremy Bentham 邊沁
+	- panopticism 全景敞視主義
+	- utilitarianism 功利主義
+	- 最大多數的最大幸福，七項標準
+		- duration 持久
+		- certainty/uncertainty 來源
+		- propinquity of remoteness 即時
+		- fecundity 衍生
+		- purity 純粹
+		- extension 延伸
+- Henry Giroux 亨利吉魯
+	- Border Pedagogy 邊界教育學
+	- [transformative critical pedagogy (Mark Hudson)](https://www.marxists.org/history/etol/newspape/atc/1734.html)
+	- 教師是轉化的知識份子
+		- 教師為轉化社會結構的力量
+		- 教師必須改造教育的情境
+		- 教師必須真正的投入實踐行動中
+	- "Gramsci’s notion that hegemony represents a pedagogical relationship through which the legitimacy of meaning and practice is struggled over makes it imperative that a theory of radical pedagogy take as its central task an analysis of both how hegemony functions in schools and how various forms of resistance and opposition either challenge or help to sustain it." 
+- Michael Apple 麥克艾波
+	- 選擇知識 (無論有無意識) 都與意識形態有關
+		- 教授社會地位高、文化資本多，但都是基於上層階級的樣貌
+		- 教材若是特定階級所制定，就意味著特定文化，也就構成意識形態，進而排擠其他階級的競爭機會
+- Peter McLaren 麥拉倫
+	- 教師即臨若門檻的僕人
+- [[Mikhail Bakhtin 巴赫金]]
+	- polyphony 複調性
+	- heteroglossia 雜語
+	- intertextuality 互文 (Mikhail Bakhtin, Julia Kristeva)
+	- dialogism 對話
+		- 對話是人生存的基本狀態。人的存在應該被當做一種存在的事件來看待，而個人的存在依賴於他者的存在
+		- border phenomenon 邊際現象
+			- 表述是介乎講者與講者之間，也介乎所述（what is said）和未述（what is not said）之間，有時「未說的」比「說的」更重要，這可謂「言外之意」。
+		- surplus of seeing 視域剩餘
+			- 藉著站在外圍，也藉著彼此的視域剩餘，我們大家不僅能夠互相看見，還能藉著別人的眼看得見本來被拒絕給予的自己
+	- carnivalesque 狂歡
+	- chronotope 時空體: how-it-was (Blommaert, 2015)
+		- Knowledge itself, however, is not enough; it makes us understandable but not necessarily understood. Available resources are not always accessible to all, and differences in accessibility result in differences in meaning effect—misunderstood, disqualified as irrelevant or untrue, pointless, or trivial.
+	- centipetal and centrifugal 向心力與離心力
+		- 在平常的話語中，兩組力量通常是相互交錯的，若只有向心力，就會傾向單一語調，製造出一種大一統的、極權主義神話；若只有離心力，則會支離破碎，毫無交雜。因而即使在眾聲喧嘩的語言世界中，人們仍然必須盡可能藉著語言的向心力達至某種程度的互相理解。
+	- addressivity 針對性：存在對我說話
+		- 表述是有對象的，來自一個特殊的時空
+	- answerability (sometimes responsivity) 可應答性：只有我能作出回應
+	- unfinalizability 未完成性；無終結性
+	- outsidedness 外在性
+		- vnenakbodimost (finding-oneself-outside) 抽離自己
+			- 因為「外在性」是自我與他人建立關係的必要條件，把自己與別人等同是不可能完全的，因為當我們「設身處地」地等同別人的時候，更重要的是，我們也「抽離自己」(vnenakbodimost, finding oneself outside），如此才能建立我們的自我意識。
+	- sobytijnost (eventness) 事件性
+		- 事件創制的具體過程，透過肉身化的缺席－在場關係，把藝術在可見與不可見之間擺盪的邊界具象化地呈現出來
+	- vzhivanie (identification, living-entering) 等同；進入生活
+	- transgredient 超在：兩人相互應答的自我超越或自我成就
+		- 主體的兩個方面，或兩個主體之間，互相對話、溝通，從而全面、整體地把握自己，超越自己
+	- prosaics 小說體
+		- 在各種文化形式（特別是小説）中併入日常方言和成語，有助於在一個更加開放、反思和對話的方向上轉變人的意識
+	- stylization 仿格體
+		- 確立這一風格的一切修辭手段的總和以前確實直接指物或述事，而後它才有可能成為風格上被模仿的對象
+	- parody 諷擬體
+		- 雖然也與仿格體話語一樣，是一種模仿和模擬他人話語的話語，但這裏模仿者抱着一種嘲弄、諷刺、奚落、挖苦的態度，作者的意向和立場與被模仿的對象格格不入，甚至截然對立
+	- hidden internal polemic discourse 暗辯體
+		- 積極主動地暗中回應他人話語，既然是暗中回應，那麼他人話語也就不出現在敍述中，但敍述人的話卻處處針對他人話語，根據想象中的他人話語做出或同意或否定或保留或據理力爭的答覆，這也就是所謂另有所指的話語、暗示的話語、話裏有話的話語
+	- Menippean satire 梅尼普式諷刺體：狂歡化的諷刺文體
+		- 以現實生活為原型諷刺，但並非最終目的，也不是為了揀選讀者的雙重思想，而是以一時一地之事入筆，可最後諷刺的卻是人類永恆的疾痾
+- Norman Fairclough 諾曼費爾克拉夫
+	- critical discourse analysis
+- Vladimir Yakovlevich Propp 普羅普
+	- 民間故事的31種敍事功能
+- [[Byung-Chul Han 韓炳哲]]
+	- The Burnout Society 倦怠社會
+	- The Transparency Society 透明社會
+	- The Palliative Society 妥協社會
+		- algophobia 怕痛
+		- society of survival (疫情後接續妥協社會的)苟活社會
+	- Infocracy 信息霸權
+	- Psychopolitics 精神政治
+	- The Agony of Eros 愛欲之死
+	- The Crisis of Narration 敍事的危機
+- [[Mark Fisher 馬克費雪]]
+	- capitalist realism 資本主義式現實主義
+	- acid communism 酸性共產主義
+	- [reflexive impotence 反身性無能](https://www.newinternationalism.net/?p=7375)
+	- Oedipod 俄狄播斯；戀撥放器
+	- K-punk
+- Nick Land 尼克蘭德
+	- accelerationism 加速主義
+	- hyperstition 超信：想像自身實現為現實
+- Paul B. Preciado 普雷西亞多
+	- Testo Junkie 睪固酮藥癮
+		- 性藥品成為生命治理 (Foucault + Butler + Derrida)
+		- 無套是權力，精液等同生命，保險套屬於機構與資本社羣的後天壓制與監控
+		- pharmacopornography 藥理色情學
+			- 將威而剛睪固酮黃體素快克出發的藥理／毒物學，混合萃取自成人片SM妓院同志個體快感區塊而成
+	- Dysphoria Mundi
+		- 「裡面，外面。滿盈，空缺。聖潔，有毒。男性，女性。白種，黑種。國民，異族。文化，自然。人類，動物。中心，邊緣。這裡，那邊。類比的，數位的。死亡的，有生命的」
+- [[Pierre Bourdieu 布迪厄]]
+	- capital 資本
+	- reflexivity 反身性
+	- habitus 慣習
+	- field 場域
+	- illusio 幻象
+- Hilary Putnam 普特南
+	- social capital (support, acknowledgement)
+	- brain in a vat 缸中之腦
+	- twin earth 孿生地球
+- Jan Blommaert 布洛馬爾特
+	- language ideology 語言意識形態
+		- language is an ideological object
+	- linguistic repertoire 語言技能
+		- 語言技能的不同元素會看似為一個相對「扁平」的語言、語言變體、溝通技巧「並置」，好像一個語言拼盤一樣，如同當某人説他會英語、法語和荷蘭語，你的腦中就呈現一盤沙拉，有一塊大火腿上寫「英語」、有一片萵苣上寫「法語」，另外有一個切半的水煮蛋上寫「荷蘭語」，依照大小，這個拼盤表示著那個人的法語最強、荷蘭語最弱
+	- synchronization 共時化
+		- 我們總是持續共時化一些事實上是多線的真實，他們其實是多重且非常不同的引線，引出人們的生命，以及他們所居的社會歷史
+	- superdiversity 超級多樣性
+- Stella Ting-Toomey 丁-圖米
+	- face negotiation theory
+	- identity negotiation theory
+- Bonny Norton 邦妮諾頓
+	- model of investment: capital, ideology, identity
+- Ron Darvin
+- Peter De Costa
+- Bill Cape
+- Mary Kalantzis
+- Sam Altman 山姆奧特曼
+- Alan Turing 艾倫圖靈
+- Karl Marx 馬克思
+	- Das Kapital 資本論
+	- alienation 異化
+- Vladimir Lenin 列寧
+- Max Weber 馬克斯韋伯
+- Ernst Engel 恩格爾
+	- Engel's curve 恩格爾曲線
+	- Engel's law 恩格爾定律
+		- 一個國家越窮，每個國民的平均收入中（或平均支出中）用於購買食物的支出所佔比例就越大，而隨著國家變得富裕，這個比例呈下降趨勢。
+- Emile Durkheim 塗爾幹
+	- Le Suicide 自殺論
+	- The Division of Labor in Society 社會分工論
+- Adam Smith 亞當斯密
+	- The Theory of Moral Sentiments 道德情操論
+	- The Wealth of Nations 國富論
+- Ludwig Feuerbach 費爾巴哈
+	- 人本説
+		- 人為國家社會活動的意義所在，並以人為本位重新檢視一切事物的價值，來反對唯心主義及宗教信仰
+- Jean-Jacques Rousseau 盧梭
+	- 主張人的教育來自三種途徑：人、事物及自然
+- David Hume 休謨
+	- A Treatise of Human Nature 人性論
+	- post hoc ergo propter hoc 它在那之後而來，故必然是從此而來
+	- (skepticism)我們的思考能力並沒有一個理性的基礎，因為沒有任何形式的理性可以證實這樣的能力
+- Voltaire 伏爾泰 (François-Marie Arouet)
+- Friedrich Hayek 海耶克
+	- The Road to Serfdom 通往奴役之路
+		- 計畫經濟導致極權主義
+	- 看不見的大手
+	- 自由市場經濟 (政府不可干涉)
+- John Keynes 凱因斯
+	- Keynesian economy (政府須幹預)
+- Louis Althusser 阿圖塞/阿爾都塞
+	- 意識形態無處不在
+	- For Marx 保衞馬克思
+		- 不再由人出發去解釋人，而是由人以外，構成人的各種物質的條件和社會的關係出發來解釋人
+	- interpellation 召喚；質詢
+	- subjectivation 主體化
+	- symptomatic reading 症狀閲讀法
+	- ideological state apparatus (ISA) 意識形態國家機器
+		- 壓迫型國家機器：透過軍隊、警察、監獄進行再製
+		- 意識形態國家機器：透過學校、教會、家庭進行再製
+	- post-Althusserianism 後阿圖塞主義
+		- Zizek認為Badiou的「忠誠於事件的主體」與Althusser的「被意識形態徵召的主體」（interpellated subject）的底藴並無二致；Ranciere嘗試繞過Althusser的「馬派學説＝科學」觀念，諸訴感性分享來建立政治共同體，還有Foucault、Bourdieu、Jameson乃至Zizek本人等等
+- Alain Badiou 巴迪歐
+	- 唯有相愛的人一直擁有差異性並且從差異性出發來體驗世界
+- Jacques Ranciere 洪席耶；朗西埃
+	- [Penser l'émancipation 思考解放](https://vocus.cc/article/63a25bb3fd897800010fb789)
+		- rigidification 僵化：將馬克思分為青年「意識形態」、成熟「科學時期」，就像將新興後現代，視為完美解決人類所有意識形態的「科學方法」，只是一種預設立場、自尋對立
+		- 「平等化」和「民主化」從未真正完成，而這正是政治激發思想，日新又新的不斷動能。於當今看似最民主的國家，仍然可看到一種「商品交換的偽平等性」，實為以新自由為名的資本主義宰制
+- Jacques Derrida 德希達
+	- Spectres of Marx 馬克思的幽靈
+		- hauntology 魂在論
+		- 馬克思肉身已死，思想猶在
+	- Of Grammatology 論文字學
+		- 書寫也逐漸在口述化
+		- phonocentrism 語音中心論
+		- logocentrism 邏各斯中心論
+	- differance 延異
+		- 不斷產生差異(difference) 與延後 (deferral)
+	- pharmakon 藥、potentia gaudendi 高潮潛力
+- Ludwig Wittgenstein 維特根斯坦
+	- language game 語言遊戲
+	- form of life 生活形式
+	- meaning is to use
+	- 語言的邊界，就是思想的邊界，就是世界的邊界
+- Jürgen Habermas 哈伯瑪斯/哈貝瑪斯
+	- communicative rationality 溝通理性
+		- ideal speech situation 理想言談情境
+		- truth 真實
+		- comprehensibility 理解
+		- truthfulness 真誠
+		- rightness 公正
+	- Historikerstreit (historian's dispute) 史家大論戰
+		- Habermas極力反對將德國歷史常態化，並強調德國亟需處理這段黑暗的過去
+	- disenchantment 袪魅 (消解神秘)
+- [[James Lantolf 蘭托夫]]
+	- sociocultural theory (SCT) 社會文化理論
+	- languaculture 語言文化
+	- genetic time scale 基因時間尺度
+		- physical time 物理時間
+			- thermodynamic entropy 熱力熵
+		- phylogenetic time 種系時間
+			- biological evolution 生物演化
+		- cult-hist time 文化歷史時間
+			- human culture & history of individual cultures 人類總體文化 & 個體歷史文化
+		- ontogenetic time 本體時間
+			- infancy, child, adolescent, adult, senior
+		- microgenetic 微觀時間
+			- second, minute, hour, day, week, month, year
+		- kairos (qualitative time) 感受時間
+			- critical moments 時機
+- [[Lev Vygotsky 維高斯基]]
+	- 並非限定於兒童心理學家
+	- Vygotsky 把馬克思的唯物辨證法和科學研究的一般方法引入心理學，他希望能在心理學構建一個像資本論 中“資本”一樣的概念。當然，他也受到了其他哲學家的影響，比如布魯克·斯賓諾莎，其一元論跟笛卡爾的二元論形成對立
+	- 他基於馬克思的科學分析原則提出了普通心理學理論。他指出觀察成人思維的心理表徵時，並無法區分哪些是源自生理因素，哪些是源自文化因素，而解開這一難題的唯一辦法是通過時間或歷史 的維度來研究認知。由此產生了著名的起源説 (genesis) ，即從四個層次來研究思維的發展過程
+		- 形態發生學(或稱羣體發生學，phylogenesis) ，將人類與動物(尤其是與高級類人猿類)區分開來
+		- 社會發生學(sociogenesis) ，探究人類文化歷史對思維的影響( 包括廣義和特殊文化)
+		- 個體發生學(ontogenesis) ，關注個體從兒童到成年的思維發展過程
+		- 微觀發生學 (microgenesis) ，聚焦短時間內的思維發展
+	- experimental-developmental 實驗發展法
+	- mediation 調節；中介
+	- private speech 私語
+	- inner speech 內語
+	- internalization 內化
+	- zone of proximal development (ZPD) 近側發展區；最近發展區
+		- more knowledgeable other (MKO) 程度更高的他人
+		- zone of next development (ZND) 接續發展區
+		- zone of actual development (ZAD) 實際發展區
+		- zone of engagement and participation (ZEP) 投入參與區 (Cope & Kalantzis, 2025; Zhang & Gee, 2023)
+	- cultural tools 文化工具
+	- symbolic tools 象徵工具
+	- 混用/誤解
+		- scaffolding 鷹架 (並不來自Vygotsky但被混用)
+		- situated learning 情境化學習 (Lave & Wenger)
+		- dialogism investment 對話理論 (Mikhail Bakhtin)
+		- community of practice 實踐社群理論 (Wenger)
+		- dynamic system theory 動態系統理論 (Larsen-Freeman)
+		- language socialization 語言社會化理論 (Hymes)
+		- corrective feedback 修正反饋 (Rod Ellis)
+- Aleksei N. Leontiev 列昂季耶夫
+	- activity theory 活動理論
+		- cultural-historical activity theory (CHAT) 文化歷史活動理論
+- John Dewey 杜威
+	- learning by doing 做中學
+	- immediate experience 直接經驗 (可改變原有的反省經驗)
+	- reflective experience 反思經驗 (源自直接經驗)
+- Maria Montessori 蒙特梭利
+	- order 秩序
+	- independence 獨立
+	- freedom 自由
+	- self-discipline 自律
+	- concentration 專注
+	- repetition of exercise 重複練習
+	- intelligence and creativity 智力與創造力
+	- sociability 社會性
+	- will and obedience 意志與服從
+- Jean Piaget 皮亞傑
+	- cognitive-developmental theory 認知發展期
+		- sensori-motor stage 感知運動期
+		- pre-operational stage 前運思期
+		- concrete operational stage 具體運思期
+		- formal operational stage 形式運思期
+	- schema 基模
+		- assimilation 同化
+		- accommodation 適應
+		- equilibrium/equilibration 平衡
+- Juan Pascual-Leone 帕斯誇爾-利昂納
+	- Neo-Piagetian 新皮亞傑學派
+	- theory of constructive operators (TCO) 建構運算子理論
+		- 4種類別
+			- dialectical constructivist epistemology 辯證建構認識論
+			- educational 教育 
+				- math, visuospatial, logic, language, science education, giftedness
+			- cognitive styles, individual differences, developmental neuropsychology, brain semantics
+			- mental health
+				- psychotherapy, mediation, human change
+		- 運算子種類
+			- M-operator: 工作記憶及心理注意力
+			- I-operator: 抑制作用及打斷注意力
+			- L-operator: 邏輯結構處理能力
+				- LA-operator: 邏輯結構情感學習力
+				- LB-operator: 邏輯結構存在學習力
+				- LC-operator: 邏輯結構內容學習力
+				- LM-operator: 邏輯結構心理學習力
+			- C-operaor: 內容學習能力
+			- F-operator: 新格式塔場效應 (neo-Gestaltist field effect)、最簡原則 (minimum principle)、刺激反應能力 (S-R compatibility)
+			- T-operator: 時間順序理解力
+			- S-operator: 空間座標關係理解力
+			- E-operator: 執行任務能力
+- Benjamin Bloom 布魯姆
+	- Bloom's Taxonomy 布魯姆分類學
+		- 三個領域 (domains)
+			- affective 態度
+				- receiving
+				- responding
+				- valuing
+				- organizing
+				- characterizing
+			- psychomotor 技巧
+			- cognitive 認知
+				- remembering
+				- comprehending
+				- applying
+				- analyzing
+				- evaluating
+				- creating
+	- Bloom's Taxonomy as a Diamond 布魯姆鑽石
+		- 在原有分類上依照耗費時間比例重劃圖形
+- John McHardy Sinclair 辛克萊
+	- COBUILD (corpus)
+	- corpus linguistics
+	- discourse analysis
+	- lexicography
+- Noam Chomsky 諾姆杭士基/諾姆喬姆斯基
+- Carol Chomsky 卡羅爾喬姆斯基
+- Steven Arthur Pink 史蒂芬平克
+- Steven Krashen 克拉申
+- Jerome Bruner 布魯納
+- Albert Bandura 班度拉
+- Eric Erikson 艾瑞克森
+- Michael Berzonsky
+- James Marcia
+- Maria Ruiu & Massimo Ragnedda 魯律&拉格奈達
+- Jean-Paul Sartre 沙特
+- Julia Kristeva 克里斯蒂娃
+- Theodor Adorno 阿多諾
+	- cultural industry 文化工業
+- Claude Levi-Strauss 李維史陀
+	- mytheme 神話素
+- Antonio Gramsci 葛蘭西
+	- cultural hegemony 文化霸權
+- Guy Debord 居伊德波
+	- society of spectacles 景觀社會
+- Jean-François Lyotard 李奧塔
+	- metanarrative 宏大敘事 vs histoire petit 野史
+- Jean Baudrillard 布希亞/鮑德里亞
+	- simulacrum 擬像
+	- hyperreality 超現實
+- Virilio 維洛裏奧
+	- dromocracy 速度政治
+	- dromology 速度學
+- Emmanuel Lévinas 列維納斯
+- Herbert Marcuse 馬庫色
+	- One Dimensional Man 單向度的人
+- Bertrand Russell 羅素
+- Daniel Dennett 丹尼特
+- Frederic Jameson 詹明信
+- Georg Wilhelm Friedrich Hegel 黑格爾
+- Martin Heidegger 海德格爾
+- Max Horkheimer 霍克海默
+- Baruch de Spinoza 斯賓諾沙
+- Edmund Burke 伯克
+- John Locke 洛克
+- Edmund Gustav Albrecht Husserl 胡塞爾
+- Immanuel Kant 康德
+- Giorgio Agamben 阿甘本
+	- Homo Sacer 神聖的人
+- René Decartes 笛卡兒
+	- cogito, ergo sum
+- William of Ockham 奧坎
+- Aristotle 亞裏士多德
+- Socrates 蘇格拉底
+- Plato 柏拉圖
+- Marcus Tullius Cicero 西塞羅
+- Dun Scotus 董思高
+- Willard Van OrmanQuine 蒯因
+- Simone De Beauvoir 西蒙波娃/波伏瓦
+- Albet Camus 卡繆/加繆
+- Judith Butler 朱迪斯巴特勒
+- Franz Fanon 法農
+- Marlene Dixon
+	- On the Super-Exploitation of Women
+	- democratic workers party
+- Nancy Fraser 南茜弗雷澤
+- Hannah Arendt 鄂蘭
+	- the banality of evil
+- Donna Haraway 唐娜哈拉威
+	- [cyborg, feminism, animal](https://www.mplus.org.hk/tc/magazine/donna-haraway-critique-anthropocene-capitalocene/)
+- Stuart Hall 斯圖亞特霍爾
+	- cultural identity
+- Benedict Anderson 班奈迪克安德森
+	- imagined communities
+- Friedrich Wilhelm Nietzsche 尼采
+- Albert Einstein 愛因斯坦
+- Kurt Friedrich Gödel 哥德爾
+- Maurits Cornelis Escher 埃舍爾
+- Johann Sebastian Bach 巴哈
+- Douglas Hofstadter 侯世達
+- Arnold van Gennep 阿諾爾德範亨內普 
+- Victor Turner 維克多特納
+- Fyodor Dostoevsky 杜斯托也夫斯基/陀思妥耶夫斯基
+- Arthur Schopenhauer 叔本華
+- Søren Aabye Kierkgaard 齊克果
+- Gottfried Wilhelm Lebniz 萊布尼茲
+- Oscar Wilde 王爾德
+- Samuel Beckett 貝克特
+- C. S. Lewis 路易斯
+- Franz Kafka 卡夫卡
+- George Orwell 喬治奧威爾
+	- 1984
+- Aldous Huxley 赫胥黎
+	- Brave New World
+- Ray Bradbury 布萊伯利
+	- Farenheit 451
+- William Gibson 吉布森
+	- Neuromancer
+- Harlan Ellison 艾里森
+	- I Have No Mouth, and I Must Scream
+- Wilfried Pareto 帕雷託
+- Karl Raimund Popper 波普爾
+- Henri Poincaré 龐加萊
+- Jean-Baptiste Say 賽伊
+	- Say's Law
+- Edward Wadie Said 薩依德
+- Lukács György 盧卡奇
+- Slavoj Žižek 紀傑克/齊澤克
+- Jacques Lacan 拉岡/拉康
+- Sigmund Freud 佛洛伊德
+- Carl Jung 榮格
+- Erich Fromm 佛洛姆
+- Alfred Adler 阿德勒
+- Valentin Voloshinov 沃洛西諾夫
+	- Freudomarxismus 佛洛伊德馬克思主義
+- Deleuze 德勒茲
+	- A Thousand Plateaus
+	- Capitalism and Schizophrenia
+	- rhizome
+	- body without organs (BWO)
+	- de-/reterritorialization
+	- stratification
+	- control society
+- Guattari 瓜塔裏
+	- chaosmosis
+- Raya Dunayevskaya 杜納耶夫斯卡婭
+- Roland Barthes 羅蘭巴特
+- Umberto Eco 艾柯
+- [[Augusto Ponzio (龐齊奧)]]
+- Michael Silverstein 希爾弗斯坦
+- Clifford Geertz 紀爾茲
+- Thomas Sebeok 西比奧克
+- Louis Hjelmslev 葉爾姆斯列夫 
+	- ceneme & plereme
+- Ferdinand de Saussure 索緒爾
+- Charles Sanders Peirce 皮爾士
+- Roman Jakobson 雅各布森
+- Lady Victoria Welby 韋爾比夫人
+	- significs
+- Groupe µ
+	- isotopy/polyisotopy
+- Frankfurt school 法蘭克福學派
+- Strong Programme 強綱領
+- Cybernetic Culture Research Unit (CCRU) 控制論文化研究小組
+- Gunther Kress 京特卡瑞斯
+- Carey Jewitt 嘉莉朱伊特
+- Theo van Leeuwen 西奧範勒文
+- Lim Fei Victor 林飛
+- Mark Forsyth 馬克福斯特
+- John Koenig 約翰·柯尼格

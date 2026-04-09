@@ -1,0 +1,9 @@
+---
+tags:
+  - scholar
+---
+- **Intersectionality (交織性)**：雖然詞彙由Crenshaw創造，但hooks深入探討了種族、階級與性別如何作為相互連鎖的壓迫系統（Imperialist White Supremacist Capitalist Patriarchy）。
+- **Margin as a Space of Radical Openness (邊緣作為激進開放的空間)**：邊緣不僅是被排斥的位置，更是一個具有抵抗與創造潛能的場所。在邊緣可以看清中心的盲點，發展反霸權的視角。
+- **Transgressing (越界)**：教育應是實踐自由的場所。教師應鼓勵學生越過種族、階級與性別的界線，進行批判性思考與對話（深受Freire影響）。
+- **Oppositional Gaze (對抗的凝視)**：黑人女性在歷史上被禁止觀看。發展出一種批判性的、反抗的凝視，是對白人優越主義再現體制的拒絕與解構。
+- **Love as Political Resistance (愛作為政治抵抗)**：愛不僅是私人情感，更是公共倫理。在壓迫文化中，愛（特別是黑人社群內部的愛）是一種療癒創傷與重建社群的革命性行動。

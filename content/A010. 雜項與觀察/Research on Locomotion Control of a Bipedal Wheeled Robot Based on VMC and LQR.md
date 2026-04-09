@@ -1,0 +1,18 @@
+- LQR: linear quadratic regulator
+- PID: proportional integral derivative
+	- HBVPID: hybrid bat-vulture proportional integral derivative
+		- WFAHBVPID
+			- wavelet-based fuzzy-adaptive hybrid bat-vulture proportional integral derivative
+	- MRPID: multi-resolution proportional integral derivative
+	- FOPID: fractional order proportional integral derivative
+- VMC: virtual model control
+- IDA-PBC: interconnection and damping assignment-passivity-based control
+- IMBC: intelligent motion and balance controller
+- MPC: model prediction controller
+- ESO: extended state observer
+- DC: direct current
+	- BLDC: brushless direct current
+- GA: ?
+- DE: ?
+- PSO: particle swarm optimization
+	- PSO-PID: particle swarm optimization proportional integral 

@@ -1,0 +1,315 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - multimodality
+  - paper
+author: Tony Cimasko & Dong-shin Shin (2017)
+aliases:
+  - Multimodal Resemiotization and Authorial Agency in an L2 Writing Classroom
+---
+# Abstract
+- **Objective**
+	- examine the composing process 調查作文過程
+	- authorial agency of a college ESL writer as the subject remediated an argumentative essay into a multimodal digital video
+		- 探討英語作為第二語言的大學生在把論說文運用的媒體轉化為一多模態數位影片的創作能動性
+	- expand aspects of multimodal writing and literacy practice by examining the discursive nature of the design process in linguistically and culturally diverse contexts.
+		- 以檢驗語言和文化多變的情境中之設計過程來拓展多模態寫作和素養實踐的相關方面
+- **Principles**
+	- sociosemiotic ethnography 社會符號民族誌
+	- resemiotization 再符號化
+	- recontextualization 再情境化
+- **Methodologies**
+	- argumentative paper 論說文
+	- video transcript 影片轉錄稿
+	- multimedia video 多媒體影片
+	- interview transcripts 面談轉錄稿
+	- observation notes 觀察日誌
+- **Data analysis**
+	- choice and orchestration of modal resources were shaped her textual identity construction work, efforts to accommodate perceived audiences, and previous experience with the medium.
+		- 文本身分構建形塑了模態資源的選擇和安排，並適應感知受眾及先前媒體經驗。
+	- Remediation with multimedia offered the student more semiotic resources to expand authorship, but the contextual forces of audience and medium bounded her authorial expression.
+		- 多模態的再媒體化提供學生更多符號資源去拓展作為作者的身分認同，但觀眾的語境力量和媒體綁住了作者視角出發的表達
+	- The student’s multimodal writing illustrated discursive processes of negotiating and performing authorial positions for rhetorical goals with awareness of the linguistic, social, and cultural contexts of text production.
+		- 學生的
+- --
+# Introduction
+- **Multimodal ensemble and writing:**
+	- Writers often strategically weave modes and discourses from different times and places into their texts when they engage in writing that integrates semiotic resources into a multimodal ensemble (e.g., Jewitt, 2006; Jewitt & Kress, 2003).
+- **Strategic and creative negotiation:**
+	- As Fraiberg (2010) puts it, the multimodal designer is “strategically and creatively negotiating” available modes for textual construction while “shuttling between discourses” (p. 103).
+- **L2 multimodal writing contexts:**
+	- It has been noted that research examining students’ composing processes across languages and modalities beyond their finished products has been given little attention in L2 multimodal writing contexts (Smith, Pacheco, & Almeida, 2017, p. 7; Toohey et al., 2015, p. 462).
+- **L2 multimodal affordances:**
+	- Much of the research in L2 contexts explicates authorship in relation to multimodal affordances (Hafner, 2015; Yang, 2012).
+---
+# Theoretical Framework
+## ***Resemiotization and Remediation***
+- **Design**
+	- Design captures the nature of contemporary multimodal composing, in which textual creation involves more than traditional language-based writing.
+	- *Design-based approach*
+		- A design-based approach makes nonlinguistic contents more than just illustrations or mechanical details; such content becomes an important, and sometimes central, conveyor of meaning in a composer’s text (Jewitt, 2005).
+- **Mode**
+	- Mode is a socially and culturally shaped meaning making resource, and can include, for instance, **“image, writing, layout, speech, moving image”** (Bezemer & Kress, 2008, p. 171).
+	- Modes are almost never found separately from a medium that carries modal resources into materially tangible use, otherwise known as a medium.
+	- *intermodal*
+		- The alternative intermodal meanings created among modes **illuminate semiotic synesthesia in authoring processes** (Kress, 2003).
+- **Medium**
+	- As Bezemer and Kress suggest, 
+		- a medium offers “changes to the uses, forms, and valuations of the mode of writing, socially through the potentials for semiotic action by sign makers” (p. 173).
+- **Language-based writing**
+	- For example, language-based writing has 
+		- “syntactic, lexical, and grammatical resources”; 
+		- “graphic resources such as font type, size”; 
+		- “resources for framing such as punctuation”; 
+		- and “the resource of color” 
+		- (however, font and color are modes of their own, see Prior, 2005)
+- ***Resemiotization***
+	- Resemiotization in design is a concept that delineates “**how meanings are shifted across semiotic modes**” (Iedema, 2001, p. 25) when “meaning material is moved from social site to social site, from medium to medium, and from context to context” (Bezemer & Kress, 2008, p. 169)
+	- It explains how **meaning making occurs between different semiotic systems and their materialities** “through taking up the materials at hand, putting them to present use, and thereby producing altered conditions for future action” (Prior, 2010, p. 1).
+	- Resemiotization that occurs **from medium to medium** could be referred to as **remediation**, while resemiotization **is interconnected with recontextualization**.
+	- Resemiotization **translates meanings across mediums** that involve changes of modes (Bezemer & Kress, 2008; Iedema, 2001; Kress, 2003; Unsworth, 2001; Wickman, 2010).
+	- *transformation*
+		- shifting semiotic materials within a single mode
+			- using information from a printed book in a traditional written research paper
+	- *transduction*
+		- changing semiotic materials from one mode to another
+			- changing a written description of a scene from a novel to an action video
+		- “the forms and structures within mode” and transduction accounts for shifts of semiotic materials across modes; that is, “transformation needs to be complemented by the concept of transduction” (Kress, 2003, p. 36).
+	- Resemiotizing practices are discursive processes of **recontextualizing texts within and across contexts**, given that meaning making is shaped by and shapes discourses operating in the contexts of text production.
+- ***Remediation***
+	- Bolter and Grusin (1999) explain remediation as **a social-technical-cultural composite**, in which “**one medium** might offer a more **appropriate** representation **than another**” (p. 44).
+	- To this, they introduce the concept of **hypermediacy** to explicate representational adequacies of communication media that are historically developed in the tension between transparency and opacity.
+## ***Recontextualization***
+- **Context**
+	- Context carries historically sedimented social and cultural discourses and ideologies **in a specific time and space.**
+- ***Recontextualization***
+	- As to transcontextuality, Bernstein (1996) introduces the concept recontextualization that illustrates **how real-life topics of social activities from noneducation fields are transformed into pedagogical discourses** in education.
+	- Semiotic materials from a context are moved into another context within “a recontextualizing principle which **selectively appropriates, relocates, refocuses, and relates other discourses to constitute its own order**” (p. 33).
+	- In discursive practice of recontextualization, sign makers/users appropriate discourses **for identities or authorial positions** that they intend to construct in texts.
+	- The principle of recontextualization is realized into textual practices through design processes such as **selection, arrangement, foregrounding**, and **social repositioning** in related rhetorical contexts (Bezemer & Kress, 2008).
+	- **Examples**
+		- *Discourse and genre changes*
+			- For example, Bezemer and Kress (2008) present an example of recontextualization of a science textbook on the digestive system through discourse and genre changes (pp. 186–190).
+				- The recontextualization changed rhetorical discourses of the original text **from a given-new structure to a real ideal structure** with different complexes of semiotic resources being foregrounded. This textual change brought about **different social relations between the author and audience**, by invoking “lower tier” readers of science through “simplicity of display” (p. 190)
+		- *Medial changes*
+			- Remediating **from a written paper to a video** (i.e., a **letter** written by former CIA director George Tenet was **recontextualized into a CBS Evening News broadcast**)
+			- Berkenkotter (2001) demonstrates the role of interrelated genre chains in the discursive practice of recontextualization of a psychotherapy session, as **spoken text** that was sequentially **transformed into therapist’s notes, case summaries, and claims** for insurance payments.
+		- *Medial, modal, and genre changes*
+			- Oddo (2013) introduces a recontextualization example of **a letter that involves medial, modal, and genre changes** with transformed discourses and styles.
+		- *Identity changes*
+			- Similarly, Tusting (2015) explicated **reframing identities** in writing processes across different local contexts in a First Communion preparation course, and recontextualized children’s identities in the parish.
+- **Transcontextuality**
+	- Transcontextual movements of semiotic resources illuminate trajectories of meaning-making practices.
+- **Genres, discourses, and styles**
+	- The values and ideologies of the new context transform genres, discourses, and styles of sign makers’ ways of representing and being. 
+	- In Bernstein’s concept, 
+		- genres are framing devices for institutionalized ways of interacting; 
+		- discourses are ways of representing; 
+		- and styles are ways of being, in other words, identities (Fairclough, 2005, p. 64).
+---
+# Research Design
+- 18 students in first-year ESL composition class at a U.S. university
+- mid-semester: complete the argumentative essay with chosen and interesting topic
+- late semester: remediation of the essay to the reconceived audiences and technologies involved
+	- Topic: euthanasia
+	- Tools
+		- PowerPoint (rest)
+		- Prezi (rest)
+		- moviemakers
+			- iMovie
+			- Microsoft MoveMaker
+			- Xtranormal (8)
+				- modes
+					- characters
+					- text
+					- colors
+					- voices
+					- sounds
+					- backgrounds
+					- camera angles
+- Interviews
+	- 2 formal (20 min)
+		- main questions
+			- computer and Internet skills
+			- reasons for selecting the Xtranormal option
+			- digital video experiences
+		- subquestions about contexts in a formal exit interview
+			- any challenges and opportunities that were experienced during the remediation
+			- any suggestions that she wanted to make for future remediation or multimedia projects
+	- 3 informal (10 min)
+		- design process
+			- how to select and synthesized ideas and modes
+			- how to decide what to focus on in the video
+			- what authorial stances that is intended to construct
+- **Micro-textual analysis** (Eggins, 2004; Halliday, 1985; Martin & White, 2005)
+	- investigating:
+		- employed modes
+		- transformational changes
+		- transductional changes
+		- rhetorical choices
+			- content
+			- style
+			- tone
+		- perceived audiences
+		- constructed social positions
+	- units:
+		- remediation
+		- arranging semiotic resources
+		- foregrounding the resources
+		- constructing social relationship in the nexus between text and context
+	- validity:
+		- triangulation across multiple domains of data
+		- different types of data
+		- member checking with the participant
+	- content (mode) changes:
+		- select
+		- delete
+		- add new
+	- **linguistic resources:**
+		- lexical density with frequency of **nominalization** and **sentence length**
+		- types and frequency of deictiv pronouns
+		- frequency of attitudinal lexis that describes
+			- emotion
+			- appreciation
+			- judgement
+			- (Martin & White, 2005)
+	- **paralinguistic resources:**
+		- gestures
+		- proxemics
+		- clothing
+	- **interpersonal relationships**
+		- examine the audiences addressed by the video
+		- with authorial stances
+			- ==rhetor-audience== relationships
+			- textual identities
+- **Multimodal analysis**
+	- employed modes (focus on words that were a primary mode for meaning making)
+		- spoken words
+		- backgrounds
+		- characters
+		- gestures
+		- voices
+		- camera-related resources
+	- single mode-based meanings
+	- intermodal meanings
+	- (Hull & Nelson, 2005; Oddo, 2013) copresent the modes in the timeline of the video within adjacent pairs of dialogue between the characters, considering:
+		- temporality
+		- segmentability
+		- analyzability
+---
+## Research Questions
+- **What kinds of modal choices and changes did an ESL student make when she remediated an argumentative essay into a digital video?**
+	- remediate the argument into an animated video
+		- modal changes characterizes the work
+		- retain key ideas through transformational changes from the linguistic mode-based essay
+		- turn ==monologic essay into dialogue video== (2 characters, Caucassian male and ebony female)
+			- drawing on the linkages between argumentative writing and formal debate
+		- remediation of argumentative essay into ==written dialogue was altered into spoken dialogue== involving transduction (written to spoken)
+		- the language of the script differs rhetorically from that of the paper (formal to informal)
+			- especially the casual discourse in the script of videos
+				- to better align w/ the norms of informal conversations among Internet youngsters
+		- ==new meanings are shifted across mediums==
+			- corresponding sentences to each other
+			- showing recontextualizing effects from the essay into the script
+- **What kinds of contextual factors shaped her modal choices and changes?** 
+	- the changes demonstrate the technological affordances that 
+		- the subject configured regarding 
+			- the new medium and 
+			- the efforts 
+			- to accommodate the genre of its video,
+				- as noted in the comment that "the videos show dialogues between 2 people"
+	- frequent employment of ==attitudinal lexis== (to mimic youngsters' style and emotion)
+		- useless
+		- silly
+		- tough
+		- awesome
+		- complementary gestures to augment emotional statements
+	- Through theis remediation, most of the important transductional designs met the norms of the medium, 
+		- while deemphasizing formal argumentative statements and emphasizing informal interactions.
+- **How did those choices and changes shape the rhetoric of her digital text and reposition her authorial stance?**
+	- **transformation** and **transduction** require:
+		- ==rearrange contents== of orignial essay
+		- bring ==certain elements to the foreground== of the video
+			- while reducing or eliminating other elements
+	- arrangements
+		- the video presents various aspects of argument in more or less the same order as they were presented in the paper.
+	- language identity construction
+		- in the context of being an ESL speaker, the subject performed as a L1 speaker, by presenting the argument in the voice provided by the software, even though the program supports the uploading mp3 files
+			- the reason is that the essay is about everybody's problem instead of ESL students only
+				- which shows that transcending the L2 identity was critical to make the argument more appealing to wider audiences.
+				- which also proves such an interest was to achieve a rhetorical goal
+					- rather tham representing L2 linguistic identity
+# Discussion
+- this **remediation of the essay into a video** was a mosaic that interweaved:
+	- academic discourse
+	- rhetorical norms
+	- genres of online videos
+	- authorial interests to construct identities
+- Bolter & Grusin, 1999, p. 232
+	- **the recontextualization of modal resources within a new medium** entailed:
+		- constantly making and breaking connections
+			- declaring allegiances and interestes and then renouncing them
+		- which means a new medium that carries available semiotic resources shapes the author's representation of his or her network of associations
+			- which could frequently change for communcation goals
+- **construction of textual identities through remediation**
+	- signals the "ludic" nature of multimodal writing
+		- with digital technologies
+			- that can lead to meaningful engagement for learning
+			- (Lotherington & Jenson, 2011, p. 232)
+- **Play**
+	- Warner (2004) shows that learners are engaged in “any sort of creative tinkering with normal set-ups (e.g., plays on words, play with ideas, identity play, play with genre expectations, etc.) for nearly any reason (e.g., fun, rehearsal, social relations)” (p. 72).
+- **Audiences**
+	- Nelson (2006) demonstrates that a student author over-accommodated audiences in multimodal composition “so as to maximize transparency of meaning for the imagined audience, that is appeal most directly to what they each think others would expect” (p. 70).
+	- When designated audiences are not identified in a remediation, designer’s prior experiences with multimedia lead her/him to invoke certain audiences for their text and to employ certain discourse norms of designing.
+- **Authorship**
+	- the authorial expression and agency presented through multimodal designing become the discourse options that text designers negotiate with audiences for authorial purposes, even though affordances of designing in multimedia could amplify authorship with an expanded semiotic repertoire in language learners’ communication practices (Dooley, 2008; Lam, 2013; Yang, 2012).
+- **Digital literacies and digital technologies**
+	- Leu (2002, p. 466) notes the transformation of traditional curricula into semiotically rich multimodal curricula through multimedia tools is deictic in its nature.
+# Conclusion
+- **understanding L2 learner’s multimodal designing process in a writing classroom**
+	- as complex as the contexts in which:
+		- the author, 
+		- audiences, 
+		- technologies, 
+		- genres, 
+		- and languages 
+		- are operating at 
+			- the immediate situational 
+			- and discursive cultural levels.
+- **any research into L2 learner’s multimodal writing process**
+	- should examine 
+		- how a designer negotiates their interest and agency to accommodate the audience’s expectations in a rhetorical context
+			- (Kress, 2010)
+- **Limitations**
+	- **mico-textual level analysis**
+		- Even though this case study examined <u>contextual factors</u> and <u>discourses</u> that shaped L2 learner’s choices and orchestrations of semiotic resources to explicate the design process of multimodal writing, 
+			- its examination was <u>done at the micro-textual level</u>, 
+				- focusing on immediate rhetorical contexts of the remediation project.
+- **Future studies**
+	- L2 learners’ <u>multimodal textual production</u> and 
+	- the reception of the texts by audiences with a thick description of rhetorical contexts, at both the <u>micro-textual and the macro-discursive or cultural levels</u>, 
+		- for a more comprehensive understanding of the complexity of multimodal writing and its uses.
+	- to look at multimodal text production 
+		- with various digital multimedia tools 
+			- (e.g., video-making, blogging, 3D animation, multimedia presentation) 
+		- in which L2 learners are engaged in multiple contexts, 
+			- to expand understanding of L2 multimodal writing, 
+				- which will add new depth to current understanding of multimodal writing as well as
+				- close the gap between L1 and L2 multimodal writing research.
+- **Implications**
+	- **Phenomena**
+		- As new media are introduced into composition classrooms for multimodal writing and remediation, 
+			- students’ perceptions and experiences with the media outside of class shape their view of how new technological affordances can be appropriated
+				- (Hafner, 2015; Jewitt, 2005; Shin & Cimasko, 2008; van Leeuwen, 2015).
+		- Linear, linguistic mode-based texts that typify traditional print-based media can be (re)mediated into nonlinear multimodal texts, 
+			- within casual and unconventional discourses that reflect the previous digital practices in which L2 students have been engaged.
+	- **Potential concerns/Double-sided knife**
+		- This kind of textual practice could lead to ==worries== about using multimedia and multimodal composition in L2 writing classrooms, which are “==caught between fear of the dangers of new technologies and hopes for the possibilities that such new technologies offer==” 
+			- (Barton & Potts, 2013, p. 816).
+			- **Technopanics versus New Digital Literacy**
+	- **Prospects**
+		- To promote meaningful and effective multimodal communication, 
+			- multimodal writing curricula should provide L2 writers with ==more explicit scaffolding== on how to ==configure modes available within new meaning-making tools== and 
+			- to appropriate discursive values drawn from ==spectrum of semiotic possibilities==, 
+			- while simultaneously valuing their previous experiences with multimodal digital texts outside the classroom as pedagogical resources for effective L2 writing instruction.

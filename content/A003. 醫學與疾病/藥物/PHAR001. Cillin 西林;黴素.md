@@ -1,0 +1,4 @@
+- Penicillin 盤尼西林/青黴素
+- Amoxicillin (AMO6) 阿莫西林/羥氨苄青黴素
+- Benzathine benzylpenicillin 苄星青黴素
+- Procaine benzylpenicillin 普魯卡因青黴素

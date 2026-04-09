@@ -1,0 +1,725 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - vocabulary
+aliases:
+  - 未分類詞彙
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+Date: 2024-08-22
+File Creation Date: 2023-06-28 20:42
+Last Modified: 2024-08-22 11:10
+File folder: A010. 雜項與觀察
+- 6/28
+- Petrichor 雨後清香
+- Lackadaisical 興致缺缺/空有一身軀殼而毫無生氣
+	 - lacking life, spirit, or zest : LANGUID
+	 - Lack + days + ical
+		 - Lackday! ([[archaism]]) 感嘆生活不順(唉!)
+- Kludge 臨時的解決方案/東拼西湊的成果
+	- 有成品但不盡完善，甚至不如預期
+		- e.g. 一件作品因工期不足/預算不夠等原因，最後成果雖説勉強通過，但比預計成果來的拙劣(高開低走)。
+- Consigliere [kohn-sil-YEH-reh] (義大利黑手黨)參謀/軍師
+	- https://www.zhihu.com/tardis/sogou/qus/46441643
+- Pareto-Optimal Front 帕雷託最適前沿
+	- Pareto efficiency/Pareto optimality, optimum 帕雷託效率/最適
+		- 達成條件: 定量資源在不損耗任何人的利益下分配
+		- (大家受益且無人委屈受害，沒有人受傷)
+- Myrmecophily 喜蟻現象
+	- Synbiosis/Mutualism with ants
+- Ailurophile 愛貓人士
+- Denaturation 變性
+	- Abiosis of protein or nucleic acid
+- Degenbrecher 鐧
+	- https://de.wikipedia.org/wiki/Degenbrecher
+- Transceiver 收發器
+- Plasmonics (奈米)電漿激元/電漿子光學
+- System-on-a-Chip (SoC) 單晶片系統
+- Devulcanization 去硫化 <> Vulcanization 硫化
+- Electrophysiology 電生理學
+- Triethoxyvinylsilane 乙烯基三乙氧基硅烷
+	- [Triethoxyvinylsilane 97 78-08-0](https://www.sigmaaldrich.com/TW/en/product/aldrich/175560)
+- Tetraethylorthosilicate (TEOS) 四乙氧基矽烷; 正矽酸四乙酯
+- Octadecane 十八烷
+- Thermogram 熱影像儀
+	- Thermography 紅外線熱影像技術
+- Thermodiagram 熱譜圖
+- Differential scanning calorimetry (DSC) 差示掃描量熱法
+- Microencapsulation Phase Change Material (MEPCM) 微膠囊相變材料
+- Anoncore 匿核
+- Chromecore 鉻核
+- Napalm 凝固汽油彈
+- Interneuron 中間神經元=Relay neuron 轉接神經元=Association neuron 共同神經元=Local circuit neuron 局部迴路神經元
+	- ∈ Multipolar neuron 多極神經元
+	- Located in CNS
+	- E.g. Motor neuron 運動神經元
+	- Afferent 上行 $\leftrightarrow$ Interneuron $\leftrightarrow$ Efferent 下行
+- Nanolamination 奈米層狀堆疊製備
+- Interglomerular circuit 腎小球間迴路
+- Intraglomerular mesangial cell 腎小球內繫膜細胞
+- Dacquoise 達克瓦茲
+- Refusal to share 同擔拒否 <> Same responsibility and welcoming 同擔歡迎
+- Low Density Lipoprotein (LDL) 低密度脂蛋白
+- Alpha Lipoic Acid 硫辛酸
+- Techno-economic analysis 技術經濟分析
+- Cryptanalysis 密碼分析
+- Desalination 海水淡化
+- Soil/Water salination 土壤/水質鹽鹼化
+- Cogeneration/Combine Heat and Power (CHP) 熱電聯產
+- Coalition 暫時敵盟聯合
+- [Hodiernum]( https://www.jstor.org/stable/44025549 )
+- Econometrics 計量經濟學
+- Swiftonomics (portmanteau) 泰勒絲經濟 (Swift Economics)
+- Eurafrika (portmanteau) 歐非利加 (Europe+Africa) [Eurafrika](https://zh.wikipedia.org/zh-tw/Eurafrika)
+- Dieu et mon droit 我權天授
+- Catachesis 信友延續培育
+	- Catechism 教義問答
+- Prunus ducis 甜扁桃
+	- Almond 甜杏仁/(廣東)南杏
+	- Apricot kernel 苦杏仁/北杏
+- Flexural modulus 彎曲模量
+- Wuthering Height 咆嘯山莊
+- Epithelium 上皮組織 
+- Picrotoxin 氯離子通道阻斷劑，picr- 苦
+- Picroindigocarmine + nuclear fast red 
+	- Picroindigocarmine 苦瓜果靛藍胭脂紅
+		- Indigo carmine 靛藍胭脂紅
+			- Carmine 胭脂紅
+	- Nuclear fast red 核固紅
+	- 把精子染成綠尾紅頭，稱聖誕樹染色測試 
+- Picrite basalt 苦橄玄武岩
+- Streisand effect (英國鋼琴家)史翠珊效應
+- Periparturient disease 產媷相關代謝異常疾病
+- Eructation 打嗝 (=burping, belching, hiccup, aerophagia 吞氣症)
+	- Nidorosity 打嗝有烤肉味
+- Flatulence 放屁
+- Coseismic dislocation 同震位移
+- Coseismic deformation 同震變形
+- Quick response event (QTE) 快速反應事件
+- Preeclampsia 妊娠毒血症/子癇前症
+- Die Mélusine 美露莘 
+	- (法國水妖 French Nixie, from Le Roman de Mélusine by Jean d'Arras)
+	- Where: holy well 聖泉 & river
+	- Ancestor:
+		- House of Luxemburg 神聖羅馬帝國盧森堡王朝 (1247~1451)
+		- House of Plantagenet 英格蘭金雀花王朝 (1126~1485)
+		- House of Lusignan 法國呂西尼昂王朝 (10th century~1487)
+	- Relation:
+		- Pressina 仙女普拉希娜 (母)
+		- Elynas 阿爾巴 (即蘇格蘭)國王顎裏納斯 (生父)
+		- With Melior 美李歐, Palatyne 帕拉泰 (三姊妹)
+		- Raymond of Poitou 普瓦圖的雷蒙德 (前夫)
+	- Yu-gi-oh
+		- 蛇妖美露莘レプティレス·メルジーヌ/ Reptilianne Melusine
+- Roorback 政治抹黑
+- Ultracrepidarian 不懂裝懂且高談闊論
+	- From Latin *ultra crepidam* (beyond the sole) 
+	- ultracrepidarianism
+- Jackassery 愚鈍
+	- = stupidity, folly
+- Novercal 繼母的
+- Abirritate 安撫暴脾氣
+	- Irritability 暴躁易怒
+- Amatorculist 假面情人
+- Job's comforter (聖經譯)約伯三友: 看似安撫，實則越説越心煩的勸慰者
+- Bitchilante 把尖酸刻薄留給罪有應得的人
+- Snerdle 躺在被窩耍廢殺時間
+- Capitulant 投降方
+	- Capitulate 屈服/投降
+> [!Original text]- ###### Fleshment 起頭順利的喜悦
+> - - -
+> - I neuer gaue him any:  
+It pleas'd the King his Master very late  
+To strike at me vpon his misconstruction,  
+When he compact, and flattering his displeasure  
+Tript me behind: being downe, insulted, rail'd,  
+And put vpon him such a deale of Man,  
+That worthied him, got praises of the King,  
+For him attempting, who was selfe-subdued,  
+And in the fleshment of this dead exploit,  
+Drew on me here againe.  
+— William Shakespeare, _King Lear_, 162
+- - - 
+> [!Original text]- ###### Accismus 口嫌體正直
+Acto, an Old Woman, so deform'd, that seeing her ugly Face in a Glass, she fell mad. Hence Accissare, to dote or to be mad. It's also said of her, that she used to refuse what she greatly desired, hence Accismus, Dissimulation. Her name is used for a Bugbear.  
+— Louis Moréri, _The great historical, geographical and poetical dictionary being a curious miscellany of sacred and prophane history_, 1694
+- - - 
+- Barbermonger 油膩男 (長相)/古時的紈褲子弟
+- Prefestinate 急了
+	- Festinate 加緊腳步
+- Maritality 寵夫, Uxoriousness 寵妻
+- Anecdotage (= anecdote 軼事 + dotage 年邁) 愛講古的年紀 
+- Brokefishing (neologism) 假裝自己沒錢/裝窮
+- Catfishing 釣魚交友
+- Cheapflation 品質變相通膨 (品質變差變少)
+- Shrinkflation 縮水式通膨 (同價量少)
+- Ripflation 不需通膨卻漲價 (割韭菜) = Greedflation
+- Skimpflation 粗製濫造通膨 (同價質差)
+- perquisite (abbr: perk, 薪資外) 待遇
+- Sinusoidal 正弦曲線
+- Light cadmium red 亮鎘紅
+	- Cadmium 鎘 (Cd)
+- Blazar 耀變體
+- Pulsar 脈衝星
+- [Laika](https://sec235.cyc.edu.tw/modules/tadnews/index.php?nsn=1469) (dog)
+- prosthion 齒槽緣點
+	- superior prosthion (SPr) 上齒槽緣點
+- Amatonormativity, Aromanticism, and What Defines a Relationship. Rilee Granger.
+	- amatonormativity 親密範式霸權; 愛情常規化
+- Cognitive Factors Affecting Freeze-like Behavior in Humans. Michael W. Alban, Victoria Pocknell
+- The Concept of Dissociation. R. M. Counts.
+- The nature and assessment of catastrophic thoughts in panic disorder. B. J. Cox, 1996.
+- Learned Helplessness at Fifty: Insights from Neuroscience. Steven F. Maier, Martin E. P. Seligman.
+- Harm Hypervigilance in public Reactions to Scientific Evidence. Cory J. Clark, Maja Graso, Iiana Redstone, P. Tetlock.
+- pistachio 開心果
+- cryopreservation 器官冷凍保存
+- nanowarming 奈米加熱
+- vitrification 玻璃化冷凍
+	- isochoric vitrification 等體玻璃化
+- cryptoprotectant 冷凍保護劑
+- estrinization
+- ginglyform
+- gongoozler
+- misodoctakleidist 討厭練鋼琴的人
+- mytacism
+- petrosomatoglyph 巖紋
+- petroform
+- geoglyph
+- Degenbrecher, Swordbreaker 鐧
+- [chopper 砍砸器](https://infosekolah.net/zh/%E7%A0%8D%E7%A0%B8%E5%99%A8_(%E8%80%83%E5%8F%A4%E5%AD%B8))
+- hammerstone 錘石
+- flint 黑燧石
+- chert 燧石
+- Graetz認為，論文摘要一般由“問題—方法—結果—結論”4個語步(Moves)組成。
+	- Swales、Dudley-Evans、Bhatia、Martín-Martín宣稱“導言—方法—結果—討論”是摘要的常規結構。
+		- 僅有極少量的摘要在結構上嚴格遵循Swales模式
+	- Santos在“導言”前增加“定位研究”語步，提出五語步模式。
+		- 導入(Introducing)、目的(Purpose)、方法(Method)、發現(Finding)、結論(Conclusion)，為方便標記，略寫為IPMFC
+	- Martín-Martín則注意到RA (research article)摘要寫作的跨文化、跨語言差異。他發現西班牙語期刊摘要具有“強烈的省去‘研究結果’語步的傾向”
+- copypasta 複製文；潮文
+- creepypasta 恐怖意麵；蠕動意麵
+- shitposting 廢文
+- normality 常範
+- meme是一種意義叢結 (Sinnzusammenhung)
+- writer/author是一種貪婪注視的人(ogler)
+	- Wallace形容作家是「ogler」，貪婪注視的人，大眾當然是他們觀察的對象。導入資訊科技後，不但文本可以拆分重新連結，還能遁入不同的媒介；不僅寫作者嘗試以複合媒介發佈他們的觀察，更引進別座山頭的ogler，他們覬覦的是資料，他們將意義叢結的向度轉譯到線性代數的維度。固然媒介多樣，網站仍是這些實驗問世時最受歡迎的方式。
+- misogynerd 厭女鄉民
+	- 不喜歡忤逆性別規範的遊戲
+- NaNoWriMo 本月全國寫小説
+	- 網站當然也用來發佈、記錄、彙整文學活動，供文友彼此守望。「本月全國寫小説」（簡稱NaNoWriMo）活動從1999年開始，邀請大家在十一月的第一天開始寫，第三十天完成五萬字的小説。寫作過程中遇到問題，NaNoWriMo會幫助你找到資源，包括已出書的作家給建議；越過里程碑，網站會用徽章獎勵你。NaNoWriMo的社羣遍及世界各處，台灣也有近兩千位註冊用户。2014年9月的《秘密讀者》介紹過以鍾肇政為中心的《文友通訊》，雖僅九個人參與其事，卻凸顯作家從來都不盡然「遺世獨立」，有人願意讀自己的作品仍是重要的支持。
+- 計算機擴張了處理能力，數位人文學（digital humanities）或計算取向的評論（computational criticism）得以把研究單位從文本降到段落甚至句子，從文類潛進次文類，抑或重新檢討出版品、檔案（archive）、正典（canon）之間的關係。其應用，下焉如《文學大數據》（Nabokov's Favorite Word is Mauve）統計一些無關痛癢的項目，但資料其實能促成像是Franco Moretti的研究——或狀似反諷，實則暴露寫字的就是賺不過碼字的
+- faxlore 傳真都市傳説
+	- 傳真機普及後的faxlore，即影印或傳真引人入勝的圖文流通，造就許多都市傳説與謠言。
+- Xeroxlore, photocopylore 影印都市傳説
+- Samizdat 薩米茲達特
+	- 一種秘密地寫作、印刷和發行蘇聯禁書的方式，也指文學作品本身
+	- Doctor of Zhivago 齊瓦哥醫生；日瓦戈醫生
+- illocutionary act
+	- 以言行事（何自然，1988: 143）
+	- 言外行為（胡壯麟等人，1988: 147）
+	- 行事行為（王鋼，1988: 151）
+	- **施為性言語行為（王宗言等人，1989: 174**）
+	- 語現行為（程雨民，1989: 103）
+	- 示言外之力（許國璋，1991: 299）
+	- 非言行為（周昌忠，1992: 329）
+- locutionary act 表述性言語行為
+- perlocutionary act 成事性言語行為
+- exocentric construction 離心結構；外向結構
+- endocentric construction 向心結構；內向結構
+- existential sentence structure 存現句
+- two place predicate 二階謂詞
+- the minimalist program 最簡方案；最小功耗理論
+- category 範疇；語類
+- paralanguage 伴隨語言；副語言
+- 普通語詞是按名而考義，術語則據實而定名（黃建華＆陳楚祥，1997: 202）
+- parole 個體言語，langue 羣體言語
+- interpretative semantics 解釋派語義學
+- lisible (French，即legible) 閲讀性文本 (readerly texts)
+	- 文本中包含了可接受的閲讀與詮釋的約定，因為我們知道如何由約定所告知我們的閲讀策略被動地閲讀這些文本，發現其精確的意義
+- scriptible (French) 寫作性文本 (writerly texts)
+	- 挑戰了所有閲讀文本的約定，閲讀文本時，讀者必須進入文本中，主動地參與意義的製作
+	- 因此寫作性文本強迫讀者在閲讀一篇文本時，在心中寫作一個另類的（ alternative ）或虛擬（ virtual ）的文本
+	- 類似Frank Kermode的正典文本 (caconical texts)
+		- 「正典」作品具有多重面向的意義，能夠產生豐富的意義與更多的詮釋；它引發看待古老事物的新方式，並提供前所未見的新事物
+- aromatherapy 芳香療法
+- GM hysteria (hysteria over genetic modification) 基改式歇斯底里
+- diatribe 怒斥
+- diorama 立體透視模型；透視畫館；情景模型
+- sophrosyne 温良
+- endoxa 主流政治意見
+	- doxa 意見
+- arete 德性
+- aristoi 高貴者
+- Pheme 傳言
+- pithanon 説服之力
+- episteme 系統知識
+- numerosity
+- ad nauseam
+- excitability
+- succinctly
+- Lorem
+> Nisl: viverra sit est.
+> Scelerisque: adipiscing tempus.
+> Dolor: posuere tempor.
+> Convallis: labore et libero.
+- Ipsum
+> Elementum sagittis vitae et leo duis ut. Id diam vel quam elementum pulvinar etiam non quam. Fusce id velit ut tortor pretiu, viverra. Sagittis purus sit amet volutpat.
+> Nulla facilisi morbi tempus iaculis. Massa ultricies mi quis hendrerit dolor magna eget est lorem. Mi quis hendrerit dolor magna eget est.
+- onslaught
+- 百里香 Dried Thyme 
+- 迷迭香 Dried Rosemary 
+- 牛至   Dried Oregano 
+- 大蒜粉 Garlic powder
+- 辣椒粉 Chili powder
+- 煙燻辣椒粉 Smoked Paprika
+- 胡椒  Pepper
+- 藥用鼠尾草 Sage
+- 火葱/珠葱/油葱 Shallots
+- 羅勒/紅骨九層塔/金不換/魚生菜/香花子/蘭香 Dried Basil
+- 黑胡椒 Black Pepper
+- 黃油 Butter
+- 香芹/荷蘭香芹 Parsley
+- valedictorian 畢業生代表（第一名）；學霸
+- salutatorian 畢業生代表（第二名）
+- Merovingian 梅洛文基恩王朝 (481~751)
+- eiron 偽君子
+- argumentum ad captandum vulgus 迎合聽眾偏見或利益的論點
+- coup de main 奇襲政策
+- Weltanschaunn 世界觀
+- Gleichschatung (1930年代德國納粹化) 協調 (coordination)
+- epideictic 宣德
+	- 用於某個特定正式場合的公共語言
+- erudition 致知
+- narrativism, believability, realism (NBR) 敍事性、可信性、真實性
+	- narrativism 敍事性: 敍事世界的複雜性與生動描寫
+	- believability 可信性: 敍事在記述上的效能，以及令人投入的能力
+	- realism 真實性: 敍事相對於直屬上位的敍事所具的同位性
+- unreal 非實，hyperreal 極實
+- ![[Unclassified words-20250322060957328.webp]]
+- headcanon energy (H-energy) H-能量；外史能量：驅動作者、角色與讀者創意的力
+- apodyopsis 直擊心靈
+- minatory 構成極大威脅
+- kalopsia 所見比實物更美
+	- volunteer/visitor-employed photography (VEP)
+- philocalist 欣賞萬物之美者
+- anhedonia 喪失享樂；感覺不到快樂
+- alexithymia 有感説不出
+- apricity 冬日暖陽
+- wanderlust 探索世界的渴望；求知慾
+- L' appel du vide 破壞衝動
+- jouska 心中小劇場
+- agrophobia 恐曠症
+- hippopotomonstosesquippedaliophobia 長字恐懼症
+	- passive-aggressive 無意間傷害他人
+- dendrophile 森林愛好者
+- limnophile 湖泊愛好者
+- chinophile 冰雪愛好者
+- selenophile 月亮愛好者
+- autophile 獨處愛好者
+- pogonophile 蓄鬍愛好者
+- clinomania 喜歡賴牀
+-  redamancy 彼此相愛；平等的愛
+- hypophosphatemia 低磷血癥
+- gastrointestinal ischemia 胃腸道缺血
+- mesenteric ischemia 腸繫膜缺血
+- enzyme hyperactivity 酵素過動
+- digestive enzyme 消化酶
+- isozyme 同功酶
+- coenzyme 輔酶
+- carbonhydrate 碳水化合物；醣
+- vasopressin, antidiuretuc hormone 抗利尿激素
+- hemosiderin 血鐵素
+- prostaglandin 前列腺素
+- orexin 食慾素 = hypocretom 下視丘泌素
+	- arousal 醒覺
+	- wakefulness 覺醒 (醒著)
+- xenobiotic 異生素
+- norepinephrine 正腎上腺素
+- adrenaline, epinephrine 腎上腺素
+- dopamine 多巴胺
+- catecholamine 兒茶酚胺
+- viseme 視素
+- extrahepatic bile duct 肝外膽管
+- oliguria 少尿症
+- trunk muscle anatomy 背闊肌解剖
+	- trapezius 斜方肌
+		- trapezoid 梯形
+	- levator scapulae 梯間胛肌
+	- deltoid 三角肌
+		- delta
+	- supraspinatus 棘上肌
+		- supraspinatus tendinosis 棘上肌退化性肌腱疾患
+			- tendonitis 肌腱炎
+			- bursitis 滑液囊炎
+	- infraspinatus 棘下肌
+- pupillary response 瞳孔反應
+	- miosis; myosis 縮瞳；瞳孔縮小 (constricted pupils)
+	- mydriasis 擴瞳；瞳孔放大 (dilated pupils)
+- meiosis 減數分裂
+- psychiatric disability 精神障礙
+- premenstrual dysphoric disorder 經前不悦症
+- seasonal affective disorder 季節性憂鬱症
+- defense mechanism 心理防衞機制
+	- repression 潛抑
+		- repression 性壓抑 (Stifler in American Pie)
+	- denial 否定
+	- regression 退化情感
+- ardor 激情
+- arrhythmic 無節奏
+- apocrypha/apocryphal 杜撰
+- impervious 
+	- 不滲透的 = unpermeatable
+	- 不受影響 = unrelenting
+- aspirated vomit 吸入性嘔吐
+- bone marrow biopsy 骨髓切片檢查
+- assay 化驗
+- simian hemorrhagic fever virus (SHF) 猿猴出血熱
+- Mallory-Weiss Tear (MWT) (食管) 賁門黏膜撕裂
+- corpse
+	- desiccation (屍體) 乾燥
+	- algor mortis 屍冷
+	- rigor mortis 屍僵
+		- cadaveric spasm 強硬性僵直
+	- livor mortis 屍斑
+- vagus nerve 迷走神經
+- autonomic nevous system (ANS) 自主神經系統
+- carotid sheath 頸動脈鞘
+- pylorus 幽門
+- aberrant 異常
+- insulinoma 胰島素瘤
+- pneumomediastinum 縱膈腔氣腫
+	- thoracic diaphragm 橫膈膜
+	- mediastinum 縱膈
+- gastroduodenal junction 胃—十二指腸連接
+	- duodenum 十二指腸
+- abdominopelvic cavity 腹盆腔
+- scalp 頭皮
+- perforation 穿孔
+- pseudocyst 假性囊腫
+- hypothalamus 下視丘
+- excitatory synapse transmission 興奮性突觸傳導
+- neurotransmitter 神經傳導物質
+- G protein-coupled receptor (GPCR) G蛋白偶聯受體
+- postganglionic neuron 節後神經元
+- preganglionic neuron 節前神經元
+- cataplexy 猝倒症
+- narcolepsy 猝睡症
+- fragmented sleep 碎片化睡眠
+- vivid hallucination 生動幻覺
+	- visual, tactile, auditory
+- hypnagogia 入睡 (前)
+- hypnopompia 醒(來)後
+- polysomnography (PSG) 睡眠多項生理檢查
+- multiple sleep latency test (MSLT) 白天多次入睡檢查
+- accelerated junctional rhythm (AJR) 心室加速自主節律
+- accelerated behavioral change (ABC) 加速行為改變
+- fast infinitesimal time coalescent
+- 3P model of insomnia (Spielmen, 1986)
+	- predisposing factor 前置因子
+	- precipitating factor 誘發因子
+	- perpetuating factor 持續因子
+	- AASM
+		- transient 短暫性 (< 1 week)
+		- short-term 短期 (1 week ~ 1 month)
+		- long-term 長期 (> 1 month)
+- in body
+	- in vivo 生物體內
+	- ex vivo 生物體外
+	- in vitro 活體外
+	- in utero 胚胎；胎兒 (子宮內)
+	- in situ 就地；原位；原生
+		- carcinoma in situ 原位癌
+	- in silico 電腦 (模擬) 中
+- heat
+	- heat syncope 熱暈厥
+	- heat cramps 熱痙攣
+	- heat exhaustion 熱衰竭
+	- heat stroke 熱射病
+- diarrhea, diarrhoea 腹瀉
+	- mnemonic: Dash In A Real Rush Hurry or Else Accident
+- CODE (capture, organize, distill, express)
+- imaginary dodecahedron 假想十二面體
+- manifold 流形
+- fractal 分形
+- deepest colorful Mandelbrot zoom 最深的彩色曼德博集合
+	- Mandelbrot set 曼德博集合
+- light day 光天 (2.59020684 × $10^{13}$)
+- GQ Lupi System 豺狼座GQ星系
+- Halley's comet orbit 哈雷彗星軌道
+- Bow Shock 弓形激波
+- CT Cha System 蝘蜓座CT星系
+	- CT Chamaeleontis
+- Virgo supercluster 室女座超星系團
+- Kronberg-Kravtsov-Lukash large quasar group 10 
+	- 庫柏格—克拉夫斯托夫—盧卡什超大類星羣10
+- Ursa Major 大熊座
+- shadow blister effect 影泡現象
+- umbra
+	- penumbra
+	- antumbra
+- twilight
+	- civil twilight 民用曙暮光
+	- nautical twilight 航海曙暮光
+	- astronomical twilight 天文曙暮光
+- interference
+	- constructive interference 相長幹擾
+	- destructive interference 相消幹擾
+- Ho'oponopono 荷歐波諾波諾
+- undecillion $10^{36}$
+- quattuordecillion $10^{45}$
+- quattuorvigintillion $10^{75}$
+- ten duotrigintillion $10^{100}$
+- bipyridyl herbicide 聯吡啶除草劑
+- diquat 二刈 ($C_{12}H_{12}Br_{2}N_{2}$)
+- paraquat 巴拉刈 ($C_{12}H_{14}Cl_{2}N_{2}$)；百草枯
+- acetylcholine (ACh)乙醯膽鹼 ${CH}_3{COOH}_2{CH}_2{N}^{+}({CH}_3)_3$ 
+- detox(ification) 解毒
+- demarcation 分界線；界限
+- connected components = (open) clusters 聯通部分；(開) 簇
+- time dilation formula 時間膨脹公式 (special relativity 狹義相對論)
+	- $t = \frac{t_0}{\sqrt{1 - \left ( \frac{v}{c} \right)^2}}$
+		- $t_{0}$: 靜止系統中的固有時間（proper time），事件於同地所測時間
+		- t: 移動中的觀察者所測時間
+		- v: 移速
+		- c: 光速 ($3×10^{8}$ m/s)
+- Bose-Einstein condensate 玻色—愛因斯坦凝聚
+- diffraction 繞射；衍射
+- superionic water ice 超離子態水
+- trough 波谷
+- Dunniing-Kruger effect 鄧寧—克魯格效應；井蛙現象
+- Enlightenment leads to benightedness, science entails nescience.
+- Albet Camus
+	- O my soul, do not aspire to immortal life, but exhaust the limits of the possible.
+	- 吾魂兮無求乎永生，竭盡兮人事之所能。
+- I buried Larry the very hairy prairie dog.
+- Proteus syndrome 普洛提斯症候羣
+- tactical vehicle intervention, PIT maneuver 戰術截停
+	- precision immobilization technique
+- Amitabha Sutra 阿彌陀經
+- numinosum 靈啟
+- Cubozoa 箱水母
+- Physalia physalis 僧帽水母
+- Cyanea capillata 獅鬃水母
+- Planarian 渦蟲
+- Basilosaurus 龍王鯨
+- Perucetus colossus 巨像秘魯鯨
+- Hydrodamalis gigas 巨儒艮
+- Austroraptor 南方盜龍屬
+- Epicyon haydeni 海德尼上犬
+- Canis Lupus 灰狼
+- restraining oder 限制令
+- advanced directive 生前預囑
+- status epilepticus 重積性癲癇
+- reverse causality 反向因果關係
+- cross partial derivative 交叉偏導數
+- additively separable 加總可分
+- sectarian cleansing 宗教肅清行動
+- prinicple of totality 整體性原則
+- air mass (climatology) 氣團
+- vapoware 蒸氣產品
+- anemometer 風速計
+- Ogcocephalidae 蝙蝠魚科
+	- batfish
+- Podostroma cornu-damae 火焰茸
+	- poison fire coral
+- rasterization 柵格化
+- perspective foreshortening 透視縮減
+- discretization 離散化
+- aggrandize (formal, derogatory) 提高個人地位/權勢
+- dinitrophenol (DNP) 二硝基苯酚 ($C_{6}H_{4}N_{2}O_{5}$)
+- cereulide 嘔吐毒素
+- monensin 孟寧素
+- iron fertilization theory 鐵施肥理論(減緩全球暖化)
+	- proposed by the ecologist John Martin
+- adenosine 腺苷 ($C_{10}H_{13}N_{5}O_{4}$)
+- amalgamation 合併；汞齊化
+	- aluminium amalgam 鋁汞齊
+- frontotemporal dementia (FTD) 額顳葉型失智
+- Paper Dome 紙教堂
+- voluntary architect network (VAN) 義務建築師網路
+- archrival 頭號敵人；眼中釘
+- tonality 音調
+- Union of Concerned Scientists 科學家關懷聯盟
+- British Aerosol Manufacturer's Association (BAMA) 英國氣溶膠製造商協會
+- Big-Fish-Little-Pond Effect (BFLPE) 大魚小池效應
+- self-concept 自我概念
+- self-representation 自我表達
+- interactant 互動者
+- reinforcing power dimensions 重申權力關係
+- relay 轉播；轉告；轉達；轉述
+- 表情
+	- emoji 表情符號
+	- emoticon 顏文字
+- 聲音
+	- vocal range 人聲音域
+	- articulation (説話)發音
+	- vocalization 發(出)聲(音)
+- 味蕾
+	- tasty
+	- toothsome
+	- delicious
+	- scrumptious
+	- delectable
+	- luscious
+- Jean Bernard Léon Foucault 里昂‧傅科
+	- Foucault pendulum 傅科擺
+- Frères Montgolfier 孟格菲兄弟
+	- hot-air balloon 熱氣球
+- Samuel Finley Breese Morse 山繆‧芬利‧布里斯‧摩斯
+	- Morse code 摩斯密碼
+- Nevus Lipomatosus Superficialis 表淺性脂肪瘤母斑
+- B.C. (Before Christ) 西元前
+	- or BCE (Before Common Era)
+- A.D. (Anno Domini，在主之年) 西元後
+	- or CE (Common Era)
+- vascularized 佈滿血管
+- vasodilation 血管擴張
+- scrotum 陰囊
+	- scrotal eczema 陰囊濕疹
+- dithionite test 連二亞硫酸鹽測試
+	- $[S_{2}O_{4}]^{2-}$
+- biochemical equilibrium 生化平衡
+- hydrocortisone 氫羥腎上腺皮質素
+	- congenital adrenal hyperplasia 腎上腺素綜合症候羣
+- cortisol 皮質醇
+- putrescine 腐胺
+- albumin 白蛋白
+- globumin 球蛋白
+- axilla 腋窩
+- spermatogenesis 精子發生 (產精)
+- spermidine 亞精胺 $(C_{7}H_{19}N_{3})$
+- embolus 血栓 (栓子)
+- mast cell 肥大細胞
+- acromegaly 肢端肥大症
+- pituitary tumor 腦下垂體腫瘤
+- bronchoconstriction 支氣管收縮
+	- anaphylaxis 過敏
+- incarcerate 關押
+- monosomy 單體性
+	- monosome 單染色體
+- gout 痛風
+	- monosodium urate crystal 單鈉鹽尿酸結晶
+- monosodium glutamate (MSG) 味精
+- crystallopathy (組織/腔內) 結晶形成病變
+- crystalline ice 冰晶
+- cholangitis 膽管炎
+- realia 獨有特徵
+	- Vlakhov & Florin 弗拉科夫 & 弗洛林
+- hyperinformation 超額信息
+	- Reiss & Vermeer 賴斯 & 弗米爾
+- interlinear translation 逐行翻譯
+- intersemiotic translation 符際翻譯
+- interlingual 語際
+- domesticating 歸化；依歸
+- foreignness 異域感
+- foreignizing 異化
+- Evolution and Ethics 天演論 (1893)
+	- T.H. Huxley 赫胥黎
+- Ozymandias 奧西曼德斯 (1818)
+	- Percy Bysshe Shelly 雪萊
+- In Search of Last Time 追憶似水年華
+- biuniqueness 雙向唯一性 (1913)
+	- À La Recherche Du Temps Perdu
+	- Marcel Proust 普魯斯特
+	- Proust phenomenon 普魯斯特現象
+		- 氣味撩起原初的感覺，喚醒當時的記憶，讓你情不自禁，無從設防。
+- concinnity 措辭優美且恰到好處
+- C gene: C for chance
+- D gene: D for dextrality
+	- sinistral 左旋
+	- dextral 右旋
+- trade cumulus 信風積雲
+- cloud burning 焚雲效應
+- eco-village 生態村
+	- spiritual eco-village (Buddhism) 心靈生態村
+- eco-society 生態社區
+	- ex-system 體制外
+	- systemic divergence 體制發散
+	- Droidry 德魯伊信仰
+- Tonndorf 童多福堡 (in Germany)
+- Damanhur 達慢活 (in Italy)
+- Poibueno 保伊布諾 (in Spain)
+- Krishna Valley 奎師納谷 (in Hungary)
+	- Hinduism: Veda
+- La Borie Noble 波利諾貝 (in France)
+- Living oneness-vast evolution (LOVE)
+- Waldorf 華德福教育
+	- anthroposophy 人智學
+		- people for legal and non-sectarian schools PLANS教育
+	- architecture
+	- agriculture
+- Montessori 蒙特梭利教育法
+- biofeedback 生物回饋
+- spatial autonomy 空間自主性
+	- individualization 個體化
+		- alchemy: opus contra naturam 對抗自然的偉業
+- piebaldism 花斑病
+- tuberculosis 肺結核
+- anterior uveitis 前眼色素層炎
+- entophthalmitis 內眼球炎
+- phthisis 癆
+	- phthisis (pulmonalis) 肺癆
+	- phthisis bulbi 眼球癆
+- pigeon chest (pectus carinatum) 雞胸症
+- wheezing sound 喘鳴聲
+- metatarsophalangeal joint 蹠骨關節
+- soramimi 空耳
+- Poncelet's porism 雙心四邊形
+- Eyjafjallajökull 艾雅法拉冰蓋
+- cardinal numbers (cardinality) 基數；勢
+ - $ℵ_{0}$ aleph null 阿列夫數；艾裏富數
+	 - 阿列夫數與一般在代數與微積分中出現的無限 (∞) 不同。阿列夫數用來衡量集合的大小，而無限只是在極限的寫法中出現，或是定義成擴展的實數軸上的端點。某些阿列夫數會大於另一些阿列夫數，而無限只是無限而已。
+- qua "感"
+	- The conceptual root of both quanta and qualia. Synonymous with the Absolute, sense, and pansensitivity, qua proposes that private feeling and public measurement diverge from a common sense, rather than emerge from a senseless process.
+	- quantization 量子化
+		- quantification 量化
+		- quanta 感量
+			- quantum mechanical entities, numbers, and measurement in general
+	- qualitization 品質化
+		- an analytical framework describing how an appeal to quality seeks to become translated into social reality
+		- qualification 質化；質性
+		- qualia 感質 (plural: quale)
+			- Clarence Irving Lewis (1929)
+				- the raw, unconceptualized data of experience
+				- 'recognizable qualitative characters of the given' (p. 121)
+					- subjective, ineffable, non-relational
+						- our apprehension of them is immediate & infallible (pp. 124-125)
+			- Ned Block (2003)
+				- They are mental paint introspectable intrinsic features that are also vehicles for representation.
+			- Michael Tye (1992, 2002)
+				- denied visual qualia
+			- Daniel Dennett (1988)
+				- qualia should be quined (denied to exist)
+			- Williard Van Orman Quine 蒯因
+				- 因為該問題想不出答案，所以探討其是否存在沒有意義，該概念也就沒有存在的必要。
+				- Epistemology Naturalized (1969a)
+					- meagre input and torrential output 貧乏的輸入與洶湧的輸出
+				- Truth is immanent (1990d:345).
+					- the deflationary disquotational theory 縮減主義式的消解引號理論
+						- 與其拆解(reduce)，不如縮簡 (deflate)
+				- observationality 觀察性
+					- 越不受並行訊息影響，觀察性就越高 (越容易直接觀察)
+				- intrasubjective stimulus synonymy 內在主體的刺激同義性
+					- 兩話語A、B，當聽者同意 (assent to) A，就同意説者接著問B
+					- 當聽者不同意 (dissent to) A，就不同意説者接著問B
+				- ersatz 行為主義替代品
+					- 直覺語意視作綜合語句時，即滿足刺激分析性 (stimulus analyticity)
+				- no entity without identity 沒有同一性標準的東西不存在
+					- by P.F. Strawson's (1997) Entity and Identity
+					- quined the abstracta: 互補 (complementarity) 就是去除{a, b}之外的一切
+					- Occam's razor (novacula Occami) 奧坎剃刀
+						- 又稱簡約法則 (lex parsimoniae)
+						- Non sunt multiplicanda entia sine necessitate. 若無必要，勿增實體。
+				- On What There Is
+					- Russell's On Denoting
+						- definite description, the 改寫確定描述詞
+							- 將指涉性的單稱詞述詞化
+								- (referential_singular)-ize(d)
+								- 若討論Pegasus是否存在，則改寫Pegasusized，再討論是否願意接受
+								- 「至少有一個X，X是Pegasusized」 $\rightarrow$ 存在量號(existential quantifier)
+									- 若真，則Pegasus存在

@@ -1,0 +1,15 @@
+- Lordosis 脊椎前凸
+- Kyphosis 脊椎後凸 (駝背)
+	- Hypokyphosis 脊椎後彎不足
+- Scoliosis 脊椎側彎
+- Spondylosis 椎關節病變
+- Spondylolisthesis 脊椎滑脫
+- Spondylolysis 脊椎崩解; 椎弓解離症
+- Spondylitis 脊椎發炎
+	- Ankylosing spondylitis 僵直性脊椎炎
+- Opisthotonus 角弓反張; 項背強直
+	- Extrapyramidal symptoms (EPS) 錐體外症候群
+- Lumbar spondylolysis 腰椎椎弓解離症
+- Percutaneous kyphoplasty 皮球囊錐體後凸形成術
+	- Entry point 穿刺點
+	- Puncture 穿刺

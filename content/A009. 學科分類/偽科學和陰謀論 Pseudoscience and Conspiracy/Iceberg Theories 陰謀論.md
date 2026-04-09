@@ -1,0 +1,103 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - reading
+  - pseudoscience
+  - conspiracy
+source: https://www.instagram.com/p/C_6CrumI3ta/?hl=zh-tw&img_index=1
+---
+
+![[Conspiracy Theories & Mysteries-20240915145629152.webp]]
+![[Conspiracy Theories & Mysteries-20240915145708827.webp]]
+![[Conspiracy Theories & Mysteries-20240915145614471.webp]] 
+- illuminati 光明會
+- fake moon landings 登陸月球是騙局一場
+- Atlantis 亞特蘭提斯
+- Area 51 第51區
+- Loch Ness Monster 尼斯湖水怪
+- ---
+- Time Cube 時間立方 (現代物理學是錯的)
+- Taurus Earth 金牛座支配地球論
+- Nikola Tesla 特斯拉 (交流電之父)
+- ---
+- Denver Airport 丹佛國際機場由共濟會 (Freemasonry) 主管
+- Roswell 羅斯威爾飛碟墜毀事件
+- Gray Goo 灰蠱
+- Fermi Paradox 費米悖論
+- ---
+- We are in a simulation 虛擬世界
+- Admiral Byrd Expedition 理查德柏德南極探勘
+- Battle of Los Angeles 洛杉磯之戰 (UFO)
+- Aztec Gold 阿茲特克黃金
+- ---
+- Chemtrails 化學尾跡陰謀論
+- Agartha 雅戈泰
+- Greek Fire 希臘火
+- Living Water 生命活水
+- ---
+- Moon is Artificial 人造月亮
+- Eye of Africa 非洲之眼
+- Skinwalkers 皮行者
+- ---
+- Incan Airplanes 印加帝國飛行物
+- Tesseract Earth 地球是四維超正方體
+- Bermuda Triangle is a Portal 百慕達三角洲是傳送門
+- ---
+- Buzz Aldrin 伯茲艾德林
+- Clockwork Elves 發條精靈
+- we are fed negative energy on purpose 我們被有意餵養負能量
+- Mars Pyramids 火星上的金字塔
+- ---
+- Tachyon Particles 快子 (超越光速的粒子)
+- life is an unproven theory 人生未解
+- Project Blue Veam [藍光計畫](https://forum.gamer.com.tw/C.php?bsn=2150&snA=5235)
+- Space is in Binary Code 宇宙是二進位代碼
+- ---
+- 9/11 was by the US 美國主導911
+- mind controlled music 精神控制音樂
+- the cure for cancer is silenced 被隱藏起來的癌症治療方法
+- The Final Understanding 認知的盡頭
+- ---
+- The Vatican is the Beast 梵蒂岡是隻野獸
+- The Rapture already happened 被提已過
+- webcambart (關於辛普森家庭的霸子Bart的creepypasta)
+	- A low quality, realistic webcam picture of something that looks like Bart from the Simpsons. The story goes the file appeard on Matt Groening's PC and inspired him to create the show. It's also really hard to find, may have been completely wiped off the internet.
+- Knowledge Paradox 知識悖論
+- ---
+- North Korea = Utopia 北韓就是烏托邦
+- Infinity Paradox 無限悖論
+- Immortality induced amnesia 量子永生誘發失憶症
+- God's Last Wish 上帝的最後一個願望 (全人成神)
+	- supposed to be us. Some people believe God was somehow dying and used all his power to create us, in hopes that we would eventually become gods ourselves.
+- ---
+- Ancient Aliens 遠古外星人
+- Skyquakes 天震
+- The Backrooms 後室
+- Sea People 海上民族
+- Building 7 (WTC 7) 世貿中心七號大樓 (世貿中心定向爆破陰謀論)
+- Phaaroah Akhenaten 阿肯那頓 (法老王)
+- Quantum Realm 量子領域
+- Aleph 阿列夫數
+- ---
+- Phoenician Colonization 腓尼基殖民
+- Global Cooling 全球寒化
+- Voynich Manuscript 伏尼契手稿
+- ---
+- Skull and Bones Fraternity 骷髏會
+- Jules Verne 儒勒·凡爾納
+- Dead Air 瘴氣 (miasma)
+- Hidden Continents [隱藏大陸]([[Lost Continents 失落大陸]])
+- ---
+- Civilizations before Humans 人類之前的文明
+	- Silurian hypothesis 志留紀假說
+- Fire is Alive 火是活物
+- original bible 聖經原稿
+- The Dark Forest Theory 黑暗森林法則
+- ---
+- Presidents are just Puppets 總統只是他人操弄的人偶
+- Anti-Matter Doppelgangers 反物質分身 (反物質構成的自己)
+- The Great Reset [大重設](https://www.bbc.com/zhongwen/trad/world-57595734)
+---
+# [From Reddit](https://www.reddit.com/r/IcebergCharts/comments/lg5k4l/alright_im_tired_of_all_these_conspiracy_icebergs/#lightbox)
+![[Conspiracy Theories & Mysteries-20240915160515934.webp]]

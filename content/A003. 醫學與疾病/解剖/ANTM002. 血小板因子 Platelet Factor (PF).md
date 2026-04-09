@@ -1,0 +1,68 @@
+-  $PF_1$ **血小板表面吸附血漿因子V** (*Factor II*)
+	- 別名proaccelerin, labile factor, co-globulin
+	- Acclerates prothrombin (凝血酶原) $\rightarrow$ thrombin (凝血酶)
+-  $PF_2$ 纖維蛋白原激活因子 (fibrinogen activating factor, thromboplastic material) (*Factor I*)
+	- Acclerates fibrinogen (纖維蛋白原) $\rightarrow$ fibrin monomer (纖維蛋白單體)
+- $PF_3$ 類脂質因子 (platelet thromboplastin, cephalin, phospholipid)
+	- 參與因子XIII ($PF_9$)、V ($PF_1$)及X (Stuart factor)反應，共同形成促凝血酶原激酶 (thromboplastin, TPL)
+- $PF_4$ 抗肝素因子 (antiheparin factor)
+	- 止動/靜脈&肺出血
+		- Heparin 肝素 (抗凝血劑，防血栓，用於治療和預防靜脈動脈或肺部的血栓)
+- $PF_5$ 血小板表面吸附纖維蛋白原 (fibrinogen coagulant factor)
+	- 作用同 $PF_2$
+- $PF_6$ 抗纖維蛋白溶酶 (antifibrinolytic factor, glycoprotein, plasmin inhibitor)
+	- Resistant to fibrinolysis 纖維蛋白溶解
+- $PF_7$ **凝血活酶輔因子** (*Factor VII*)
+	- (platelet cothromboplastin, cothromboplastin, S.P.C.A., proconvertin)
+	- Activate TPL
+- $PF_8$ 抗凝血活酶因子 (anti-thromboplastin)
+	- Resistant to TPL
+- $PF_9$ **加速球蛋白穩定因子** (*Factor XIII*)
+	- Crosslink fibrin threads & stabilize fibrin
+- $PF_{10}$ 血清素/5-羥色胺 (serotonin/5-hydroxytryptamine)
+	- Vasoconstriction
+- $PF_{11}$ 二磷酸腺苷 (adenosine diphosphate, ADP)
+	- Adhesion or agglomeration of platelets
+- - - 
+- Factor I: Fibrinogen 纖維蛋白原 (纖維蛋白生成)
+- Facctor II: Prothrombin 凝血酶原
+	- Factor IIa: Thrombin 凝血酶
+		- 啟動platelets, protein C, Factors I, V, VII, VIII, XI, XIII
+- Factor III: Tissue thromboplastin 組織促凝血酶原激酶
+	- The co-factor of Factor VIIa
+- Factor IV: Calcium (ions) 鈣離子
+	- 通常與磷脂質phospholipid一起凝血
+- Factor V: 
+	- Proaccelerin 前加速因子
+	- Labile Factor 全血無不穩定因子
+	- Ac-globulin 加速球蛋白
+	- 和Factor X一起生成凝血酶原複合體
+- [Factor VI](https://www.sciencedirect.com/topics/medicine-and-dentistry/blood-clotting-factor-6): yet assigned
+- Factor VII: 
+	- Proconvertin 前轉換因子
+	- Serum prothrombin conversion accelerator (SPCA) 血清凝血酶原轉換加速因子
+	- Stable factor 穩定因子
+	- 啟動Factors IX和X並催化凝血酶原轉換凝血酶的反應
+- Factor VIII:
+	- Antihemophilic factor A (AHF-A) 抗血友病因子A
+	- Antihemophilic globulin (AHG) 抗血友病球蛋白
+	- The co-factor of Factor IX to form tenase comples
+		- Tenase complex: 分為
+			- Intrinsic (ITC): 含IXa, VIIIa, X
+			- Extrinsic (ETC): 含tissue factor, VII, IV
+- Factor IX
+	- Antihemophilic factor B (AHF-B) 抗血友病因子B
+	- Christmas Factor 聖誕彌撒因子
+	- Plasma thromboplastin component (PTC) 血漿促凝血酶原激酶素
+	- 啟動X生成tenase complex伴隨VIII
+- Factor X
+	- Stuart(-Prower) factor
+	- 啟動II形成凝血酶原複合物 (prothrombinase complex)伴隨V
+- Factor XI
+	- Plasma thromboplastin antecedent (PTA) 血漿凝血活酶前質
+	- AHF-C
+	- 啟動IX
+- Factor XII: Hageman factor 哈氏因子
+	- 啟動XI, VII, 前動素原(prekallikrein, PK), 胞漿素原(plasminogen)
+- Factor XIII: fibrin-stabilizing factor 纖維蛋白穩定因子
+	- 交叉鏈接 (crosslink)纖維蛋白

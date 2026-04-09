@@ -1,0 +1,248 @@
+- Skin:
+- Integument  (最外層包覆的)皮膚
+- Chitin 幾丁質
+	- Sclerotized protein 石化蛋白
+- Cuticle 角質層
+	- Apodeme 表皮內突
+	- 內/外
+		- Endocuticle 內角質層
+		- Exocuticle 外角質層
+	- 其他
+		- Procuticle 原角質層
+		- Epicuticle 上角質層
+			- 內/外
+				- Inner epicuticle 內上角質層
+				- Outer epicuticle 外上角質層
+			- 層
+				- Wax layer 蠟層
+				- Cement layer 黏質層
+					- 含 shellac (蟲膠)
+	- Pharate adult cuticle 預成蟲表皮
+- Monomer 單體
+- Sclerite 骨板
+	- Sclerotization 骨質化
+		- Cuticular sclerotization 表皮骨骼化
+		- Osteocyte 骨細胞
+- Melanization 黑化包囊反應
+- Prophenoloxidase (proPO) 原酚氧化酵素
+	- Metalloprotein 金屬蛋白
+	- Phenoloxidase (PO) 酚氧化酵素
+	- Lipopolysaccharide 酯多醣
+	- Peptidoglycan 肽聚糖
+- Llamellae 薄層/圓筒狀骨板
+- Electron-lucent 低電子密度區
+- Quinone tanning 醌硬化
+- Trilocular pore 三眼孔
+	- Multilocular pore 多眼孔
+- Oral-rim tubular duct 蕈狀腺
+- Oral-collar tubular duct 領狀腺
+- Cerrari 刺孔群
+- Ostiole 背唇裂
+- Discoidal pore 盤狀孔
+- Microtrichia 微感毛
+- Tricogen cell 毛原細胞
+- Tormogen cell 毛窩細胞
+- Tagmosis 分節特化
+	- Tagma 體節 (共三段，複數tagmata)
+		- Tergum, tergite 背板
+		- Sternum, sternite 腹板
+		- Pleuron, pleurite 側板
+- **Antenna 觸角**
+	- 部位
+		- Scape 柄節
+		- Pedicel 梗節
+		- Flagellum 鞭節
+	- 形狀
+		- Setaceous 剛毛狀
+		- Filiform 線狀
+		- Moniliform 念珠狀
+		- Clavate 棒狀
+		- Capitate 錘狀
+		- Serrate 鋸齒狀
+		- Pectinate 櫛齒狀 (內側單邊毛毛的)
+		- Plumose 羽狀 or bipectinate 雙櫛狀 (內外邊都毛毛的)
+		- Geniculate 肘狀/膝狀/曲肱狀
+		- Whorled 環毛狀
+		- Lamellate 鰓狀
+		- Aristate 具芒狀
+- **Mandible 大顎**
+	- 分
+		- Cutting edge 切邊
+		- Molar area 磨區
+- **Maxilla 小顎**
+	- 分
+		- Cardo 軸節
+		- Stipe 莖節
+			- Galea 外瓣
+			- Maxillary palp 小顎鬚
+			- Lacina 葉節
+- **Labrum 上唇**
+	- Epipharynx 上舌咽
+	- Clypeus 頭盾
+- **Labium 下唇**
+	- Prementum 前唇基
+	- Postmentum 後唇基
+		- Labial palp 下唇鬚
+		- Ligula 唇舌
+			- Paraglossia 側舌
+			- Glossia 中唇舌
+	- Gule 咽喉部
+	- Hypopharynx 下舌咽
+- **Mouthparts 口器 or feeding apparatus 取食器**
+	- 類型
+		- Mandibulate/chewing 咀嚼式
+		- Chewing-lapping 嚼吸式
+		- Sponging 舐吸式
+		- Scratching 刮吸式
+		- Siphoning 虹吸式
+		- Grasping-sucking 捕吸式
+		- Rasping 銼吸式
+		- Piercing-sponging 刺舐式
+		- Piercing-sucking 刺吸式
+- **翅膀**
+	- Margin 翅緣
+		- Costal 前緣 (近頭側)
+		- Inner 後緣/內緣 (近尾側)
+		- Outer 外緣 (兩者間)
+	- Angle 翅角
+		- Humeral 肩角
+		- Apical 頂角
+		- Anal 臀角
+	- Pterostigma 翅痣
+	- Auxillary region 腋區 (翅膀摺疊之三角型區域)
+	- Fold 翅褶 (分區)
+		- Basal 基褶 (腋區之外)
+		- Vanal 臀褶 (腋區外角)
+		- Jugal 軛區 (腋區外角)
+			- 兩者 (vanal and jugal)分成
+				- Remigium 臀前區 (最發達)
+				- Vannal region 臀區
+				- Jugal region (or neala) 軛區
+	- Vein 翅脈
+		- Veination 脈相 (脈絡整體)
+		- Longitudinal 縱脈 (由根至緣)
+		- Cross 橫脈 (加固翅面)
+		- Convex 凸脈 (褶頂)
+		- Concave 凹脈 (褶底)
+		- Accessory 副脈 (縱脈的分支)
+		- Intercalary 閨脈 (兩縱脈間加插的細縱脈)
+		- Serial 系脈 (兩脈分段相連成一脈)
+	- 類型
+		- 膜質
+			- Membranous wing 膜翅
+			- Piliferous wing 毛翅
+			- Lepidotic wing 鱗翅
+			- Fringed wing 纓翅
+			- Halter 棒翅
+		- 革質
+			- Tegmen 覆翅
+			- Hemitegmen 半覆翅
+		- 骨化
+			- Elytron 鞘翅
+		- 翅膀根基為革質，末端為膜質
+			- Hemielytron 半鞘翅
+- **胸**
+	- 分布
+		- Prothorax 前胸
+		- Mesothorax 中胸
+		- Metathorax 後胸
+	- 細項
+		- Pterothorax 翅胸節 (衣魚、蠹魚類的中胸加後胸)
+			- Alinotum 翅背板
+			- Postnotum 後背板
+		- Spiracle 氣門 (位於中後胸側，是呼吸入口)
+		- Notum 胸背骨板
+		- Phragma 懸骨
+			- 中後胸的前脊溝 (antecostal suture)
+		- Tergite apodeme 背板表皮內突
+			- Prescutum 前盾板
+			- Scutum 盾板				
+			- Scutellum 小盾板
+		- Sternite apodeme 腹板表皮內突
+			- Eusternum 主腹板
+				- Basisternum 基腹板
+				- Sternelium 小腹板
+			- Spinasternum 刺腹板
+		- Pleurite apodeme 側板表皮內突
+			- Caxopleurite 基側板
+			- Episternum 胸骨上端
+			- Epimeron 後側板
+		- Basalare 前上側板
+		- Subalare 後上側板
+		- Anapleurite 上基側板
+		- Sternopleurite 腹側板
+- **爪子**
+	- Arolium 爪間盤
+		- Aroliar pad 爪間盤墊
+	- Empodium 爪間體
+	- Unguitractor plate 牽爪筋板 (爪間運動肌肉)
+- **足**
+	- 構造
+		- Coxa 基節
+			- Coxal cavity 基節窩
+		- Trochanter 轉節
+			- Trochantin 副轉片
+		- Femur 股節
+		- Tibia 脛節
+		- Tarsus/tarsite/tarsomere 跗節
+			- 蜜蜂首跗節粗大，故稱基跗節 (basitarsus)，tibia末端有淨角器 (antenna cleaner)
+		- Pretarsus前跗節
+	- 種類
+		- Anbulatorial legs 步行足 (walking)
+		- Saltatorial legs 跳躍足 (jumping)
+		- Raptorial legs 捕捉足 (grasping)
+		- Fossorial legs 開掘足 (digging)
+		- Natatorial legs 游泳足 (swimming)
+		- Clasping legs 抱握足
+		- Corbiculate legs 攜粉足 (pollen-carrying)
+		- Scansorial legs 攀握足 (clinging)
+- **腹部**
+	- 消化
+		- Intima 內膜
+		- Peritrophic membrane 圍食膜
+	- 附肢蟲類
+		- Stylus 腹刺
+			- Protrusible vesicle 伸縮囊 (於腹刺前端)
+		- Ventral tube 腹管 (用於吸水或附著物體表面)
+		- Furca 彈器
+		- Retinaculum 翅韁鉤
+		- Cercus 尾鬚 (在末體節，用於感知)
+		- Gill 鰓 (氣體交換/流通水分)
+		- Pleuropodia 胚足帶 (在胚胎時期的首體節，分泌酶)
+	- 非附肢蟲類
+		- Proleg 腹足
+		- Sucker 吸盤
+		- Siphuncle/cornicle 通管 (分泌信息素/費洛蒙pheromone)
+		- Median caudal filament 中尾絲
+		- Coleoptera 尾突
+- **生殖**
+	- 器官
+		- Terminalia 端合節
+		- Epiproct 肛上板
+		- Paraproct 側肛板
+		- Gonapophysis 生殖絲 (with 1~2 penis)
+		- Gonacoxite 生殖莖
+		- Gonostyle 生殖突起
+		- Ejaculatory duct 射精管
+		- Phallobase 陰莖基
+			- Paramere 生殖側片
+	- 機制
+		- Parthenogenesis 單性生殖/孤雌生殖
+		- Paedogenesis 幼體生殖
+		- Polyembryony 多胚生殖
+	- 變態
+		- Hypermetaboly, hypermetamorphosis, heteromorphosis 複變態
+		- Anamorphosis 增節變態
+			- Arthropod 節肢動物
+		- Epimetabolism 表變態
+			- $\neq$ Epimorphosis (棘皮動物echinoderma)新建再生
+				- Morphallaxis 變形再生
+				- Blastema 芽體
+					- Blastogenesis/budding 芽生
+				- Autotomy 自割
+					- Regeneration 再生
+		- Hemimetabolism 半變態
+		- Paurometabolism 漸變態
+		- Prometabolism 原變態
+		- Holometabolism 完全變態
+		- Ametabolism 無變態

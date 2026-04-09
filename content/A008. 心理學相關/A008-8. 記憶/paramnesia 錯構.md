@@ -1,0 +1,48 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - psychology
+aliases:
+  - paramnesia
+  - 錯構
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+Date: 2025-02-13
+File Creation Date: 2025-02-13 02:42
+Last Modified: 2025-02-13 02:42
+File folder: A008-8. 記憶
+
+錯構（paramnesia）。一種記憶錯誤，患者在回憶自己親身經歷的事件時，對地點尤其是時間的記憶出現錯誤或混淆，如將此時間段內發生的事情回憶成在另外時間裏發生的。
+
+虛構（confabulation）。也是一種記憶錯誤。患者對某段親身經歷發生遺忘，而用完全虛構的故事來填補和代替之，隨之堅信。有些患者所談內容大部分為既往記憶的殘餘，在提問者的誘導下串聯在一起，豐富生動又顯得荒誕不經，但轉瞬即忘，臨床上稱為虛談症。多見於腦器質性精神障礙如癡呆患者和慢性酒中毒性精神病。
+
+虛構和妄想的區別在於虛構本身體現記憶障礙的本質，患者對虛構的內容同樣經常遺忘，於是又虛構新的內容，因此虛構的內容經常變化。妄想內容除非經過治療是不會減少或變化的。治療痊癒後，患者一般都能回憶曾經妄想的內容。
+## Britannica
+The term paramnesia was introduced by German psychiatrist Emil Kraepelin in 1886 to denote errors of memory. He distinguished three main varieties, including simple memory deceptions, as when one remembers as genuine those events imagined or hallucinated in fantasy or dream. This is not uncommon among confused and amnesic people and also occurs in paranoid states. Kraepelin also wrote of associative memory deceptions, as when a person meeting someone for the first time claims to have seen the new individual on previous occasions. This has been renamed reduplicative paramnesia or simply reduplication. Last, there was identifying paramnesia, in which a novel situation is experienced as duplicating an earlier situation in every detail; this is more generally known as déjà vu or paramnesia tout court. The term confabulation denotes the production of false recollections generally.
+
+### [[déjà vu 既視感，大腦錯誤的浪漫|déjà vu]]
+The déjà vu experience has aroused considerable interest and is occasionally felt by most people, especially in youth or when they are fatigued. It has also found its way into literature, having been well described by, among other creative writers, Shelley, Dickens, Hawthorne, Tolstoy, and Proust. The curious sense of extreme familiarity may be limited to a single sensory system, such as the sense of hearing, but as a rule it is generalized, affecting all aspects of experience including the subject’s own actions. As a rule, it passes off within a few seconds or minutes, though its repercussions may persist for some time. For some epileptics, however, déjà vu may continue for hours or even days and can provide a fertile subsoil for delusional elaboration.
+
+In view of its occurrence among organically healthy individuals, déjà vu commonly has been regarded as psychogenic and as having its origin in some partly forgotten memory, fantasy, or dream. This explanation has appealed strongly to psychoanalysts; it also gains support from the finding that an experience very similar to déjà vu can be induced in people by hypnosis. If a picture is presented to hypnotized people with the instruction to forget it and then is shown with other pictures when the subjects are awake, they may report an intense familiarity that they are at a loss to justify. The déjà vu phenomenon also is attributable to minor neurophysiological variation; it is frequent in epilepsy. Indeed, déjà vu is accepted as a definite sign of epileptic activity originating in the temporal lobe of the brain and may occur as part of the seizure activity or frequently between convulsions. It seems to be more frequent in cases in which the disorder is in the right temporal lobe and has on occasion been evoked by electrical stimulation of the exposed brain during surgery. Some have been tempted to ascribe it to a dysrhythmic electrical discharge in some region of the temporal lobe that is closely associated with memory function.
+
+### Reduplicative paramnesia
+Reduplication is observed mainly among acutely confused or severely amnesic people; for example, patients may say that they have been in one or more hospitals that are very similar to their present location and that all bear the same name. The effect also can be induced by showing subjects an object such as a picture and by testing them for recognition of the same picture a few minutes later. The affected people are apt to say that they have seen a similar picture but definitely not the one now being shown. This effect appears to depend on loss of a sense of familiarity and on failure to treat a single object seen on a number of occasions as one and the same. It has been reported that reduplication of this kind is typically associated with confabulation, speech disorder (paraphasia), disorientation, and denial of illness.
+
+### Confabulation
+Spurious memories or fabrications are very common in psychiatric disorders and may take on an expansive and grandiose character. They may also embody obvious elements from fantasy and dream. At a more realistic level, the production of false memories (confabulation) is best studied among patients with Korsakoff syndrome, for whom consciousness and reasoning remain clear. When asked what they did on the previous day, such people may give a detailed account of a typical day in their life several months or years earlier. Evidently their retrograde amnesia and disorientation in time provide fertile soil for false reminiscence. When the confabulation embodies dramatic, fanciful elements, it is the exception rather than the rule.
+
+Confabulation once was regarded as one’s reaction to the social embarrassment produced by a loss of memory—i.e., as an attempt to fill memory gaps plausibly. Despite this possibility, many severely amnesic patients confabulate little, if at all; and there appears to be no relation between the severity of amnesia and frequency of confabulation. In consequence, individual differences in preamnesic personality have been stressed, particularly in regard to suggestibility. Although many patients who confabulate are obviously highly suggestible, precise tests of suggestibility have not been used in most clinical evaluations. It also has been claimed that the superficially sociable, but basically secretive, individual is particularly prone to confabulate. The most critical factor appears to be the degree of insight patients have into their disorder; it has been observed that amnesia patients who most strongly deny any lapse in memory are most prone to confabulate. By contrast, it also has been claimed that in chronic Korsakoff states patients’ insight into their condition is no guarantee of freedom from confabulation.
+
+While confabulation is pathological by definition, all people include an inventive (and thus spurious) element in their remembering. Indeed, it seems valid to say that all remembering depends heavily on reconstruction rather than on mere reproduction alone. Among those affected by amnesia, reconstruction is especially drastic, inventive, and error-prone, particularly in regard to chronological sequence. The difference, therefore, between ordinary and grossly amnesic confabulation may well be one of degree rather than kind.
+
+### Hypermnesia
+Enhancement of memory function (hypermnesia) under hypnosis and in some pathological states was frequently described by 19th-century medical writers; for example, cases were recorded of delirious people who would speak fluently in a language they had not had occasion to use for as long as 50 or more years and apparently had forgotten. It was then categorically claimed that anyone under hypnosis would recollect events with invariably greater efficiency than in the waking state. It is true that experience inaccessible to ordinary recall sometimes can be recollected under hypnosis; some have attributed this effect to release from emotional inhibition. Nevertheless, evidence indicates that previously memorized material (e.g., poetry) in many cases is reproduced no better under hypnosis than in the waking state.
+
+Few individuals who exhibit exceptional memory have been studied extensively. The case of a Russian mnemonist (memory artist), “S,” was studied over a period of 30 years, and his story was captured by a Soviet psychologist. This patient’s exceptional mnemonic ability seemed largely to depend on an outstandingly vivid, detailed, and persistent visual memory, almost certainly eidetic (“photographic”) in nature. “S” also reported an unusual degree of synesthesia, though whether this helped or hindered his feats of memory is not clear. (People show signs of synesthesia when they report that stimulation through one sense leads to experiences in another sense; for example, such people may say that they see vivid flashes of color when they hear music.) Although his highly developed power of concrete visualization made possible feats of memory far beyond the ordinary, “S” exhibited weakness in abstract thinking.
+
+Exceptional memory capacity is occasionally observed among mathematicians and others with exceptional talent for lightning calculation. A mathematics professor at the University of Edinburgh, for example, was reported to be capable of remarkable feats of long-term memory for personal experiences, music, and verbal material in either English or Latin. This talented mathematician has been said to recall with complete accuracy a list of 25 unrelated words after only a brief effort to memorize and to recite the value of pi (an endless number) to a thousand places or more. Likewise, some composers and musicians appear to possess exceptional auditory memory, though no systematic study of their attainments appears to have been made. The anatomical or physiological basis of hypermnesia remains most incompletely understood.

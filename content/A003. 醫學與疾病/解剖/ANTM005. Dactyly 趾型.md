@@ -1,0 +1,28 @@
+- Dactyly 趾型
+	- Pentadatyly 五趾
+	- Syndactyly 併趾
+	- Arachnodactyly 蜘蛛樣趾
+	- Oligodactyly 少趾
+	- Polydactyly 多趾
+	- Ectrodactyly 缺趾畸形
+		- Anisodactyly 長短趾
+		- Zygodactyly 對趾 (前後雙趾)
+		- Tetradactyly 四趾
+		- Tridactyly 三趾
+		- Didactyly 雙趾
+		- Monodactyly 單趾
+		- Adactyly 無趾
+		- Heterodactyly 異趾
+		- Pamprodactyly 前趾 (趾頭集中在前部)
+		- Brachydactyly 短趾症
+		- Symbrachydactyly 短趾沾黏畸形 (syn+brachydactyly)
+		- Dactylomegaly 巨趾畸形
+		- Clinodactyly 小指內彎
+	- Pterodactyl 翼手龍
+	- Artiodactyl 偶蹄目
+	- Perissodactyl 單蹄目
+	- Schizodactyl 裂趾
+		- Schizodactylidae 裂趾蟋科
+	- Leptodactyl 細趾
+		- Leptodactylidae 細趾蟾科
+	- Dactylorhiza 掌裂蘭屬

@@ -1,0 +1,182 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - linguistics
+aliases:
+  - 敘事學
+relevance: "[[A011. -logy 學]]"
+relevance 2: 
+disambiguation: 
+banner: 
+media: 
+---
+Date: 2024-08-24
+File Creation Date: 2024-08-24 17:28
+Last Modified: 2024-08-24 17:28
+File folder: 語言學 Linguistics
+
+# Narratology 敘事學
+## narrative, storytelling 敘事
+### **Gerald Prince (1987): A Dictionary of Narratology**
+- storytelling
+- Russian formalism
+	- Mikhail Bakhtin (1975): The Dialogic Imaination
+		- heteroglossia 雜語
+		- dialogism 對話
+			- 一敘述多聲音且交互
+			- dialogue 對話 $\leftrightarrow$ monologue 獨白
+		- chronotope 時空體
+- manifesto 宣言
+- microstructure 微觀結構
+	- 文本的表層結構
+- macrostructure 宏觀結構
+	- 其具現依賴於微觀結構
+- metanarrative 元敘事
+- narrativity 敘事性
+	- multinarrativity, multiperspectivity
+- fabula and syuzhet
+- narreme 敘事素
+- lexia
+	- a textual unit or unit of reading of variable dimension constituting the best space in which meaning can be observed.
+- cybertext 網路文本
+- intertext 互文本
+- focalization 聚焦
+- enchainment
+- emplotment 安插情節
+	- plot 情節
+- achrony 無時性
+- isochrony 等時性
+	- anisochrony 非等時性
+- anachrony 時間誤置
+	- analepsis 倒敘
+		- flashback
+		- reverse chronology 
+		- tenet
+		- katalepsis (斯多葛主義stoicism)
+			- grasp; comprehension 固定的認識掌握
+			- 心理意象有沒有完全扣住與他相關的那個外在課題，如果有，才可以同意感官知覺看的那個東西真的是那個東西。
+		- kathekon 適當的工作
+			- 即使擁有這些中性的事物與幸福無關，但是從出生以來它們就作為我們所選擇的合適的事項，每一個正確的選擇就是一種「適當的工作」
+- prolepsis 預敘
+	- flashforward
+- metalepsis 跨層; 轉敘
+	- a figure of speech in which a word or a phrase from figurative speech is used in a new context
+- chronological narrative 正敘
+- archipersona 主要角色
+	- an actant 行動者
+	- a fundamental narrative role 基礎敘事角色
+- algebrization 陌生化 $\leftrightarrow$ familiarization 熟悉化
+	- algebrization overautomatizes perception and allows for the greatest economy of perspective effort.
+	- 陌生化是一種通過阻止本能和習慣的觀察方式而使熟悉變得陌生的技巧
+- motif 母題
+	- allomotif 同位異題
+		- a motif occurring in a particular motifemic context; a motif manifesting a specific motifeme
+		- a motif such as "The princess gathered apples" would be said to constitute an allomotif of the motifeme "violation"
+		- Allomotifs are to motifemes what allophones are to phonemes and allomorphs to morphemes
+		- 在特定母題素語境中出現的母題; 展現具體母題素的母題。
+		- 諸如“公主揀蘋果”的母題可以説是構成“違背”這一母題素的變異母題。
+	- leitmotif 主導動機
+		- a frequently recurring motif, related to and expressive of a character, situation, or event
+	- allegory 託寓; 諷諭; 寓言
+		- semantic instead of lexical
+		- 重言外之意而非字面意義
+	- imagery 意象
+- auctorial narrative type 作者敘述類型
+	- 以零聚焦(zero focalization)為特徵的同故事敍述(homodiegetic narrative) 或異故事敍述(heterodiegetic narrative) 類型
+		- diegesis 敘事
+		- extradiegetic 故事外敘述
+			- 敘事者講自己的故事，但敘事者並不是主要故事裡的人
+		- intradiegetic 故事內敘述
+		- isodiegetic 同等敘事
+		- homodiegetic narrative 同故事敘述
+			- 敘事者和人物存在於同層面
+		- heterodiegetic narrative 異故事敘述
+			- 敘事者和人物不在同個層面
+		- autodiegetic narrative 自故事敘述
+			- 主角自己講故事
+		- metadiegetic narrative 元故事敘述
+			- 嵌在敘述之上的敘述
+		- hypodiegetic narrative 故事下敘述
+		- pseudodiegetic narrative 偽故事敘述
+- auktoriale Erzählsituation, authorial narrative situation 作者敘述情境
+	- The narrator is not a character within the story world and refers to the characters using third-person pronouns
+	- omniscient but not engaged
+- Aussage, statement 陳述
+	- I-origo 以我為主的敘述
+- auxiliant 輔助者
+	- 輔助者可由同一個參與者 (actor) 或不同的參與者刻畫為非模式化的主體。而參與者可以是肯定的幫手 (helper) 或反對者 (opponent)
+- besprochene Welt 被談論的敘述
+	- 根據温利克的觀點，被談論的敍述是指兩種不同且互補的文本世界類型之一
+	- 包含諸如對話、抒情詩、批評文章、政治備忘錄及利學報告等形式，並且在英語中以現在時態、現在完成時態、將來時態為標誌。
+- characterization 角色塑造
+	- 在亞里士多德的話語體系中．類型特徵歸屬動原(agent)(動因pratton) 人物塑造遵守四條原則：動原agent 應該具有某種道德高度(chreston) : 他/她應該被賦予與其行為相關的特性(harmatton): 他/她應該有獨特的氣質並且像一個獨特個體(homoios) ; 他/她應該始終如一(homalon）
+- Ich-Form 第一人稱敘事
+- Du-Form 第二人稱敘事
+- isotopy 同相符號現象
+	- various terms share the same concept
+		- luxury: beautifully dressed, magnificent, spledidly decorated, champagne
+- mise en abyme 戲劇內鏡；套層密藏；鏡淵；迴狀嵌套法
+	- 一個是對面而立的雙鏡，由於相互的映照折射，而將穿越其中的人或物的鏡像予以無限分裂的狀態
+		- 鏡中無限反映、俄羅斯套娃
+- mise en scène 場面調度
+	- 「場面調度」一詞源自法文，意指「放在台上」或「置於場景中」。到十九世紀初，這個詞彙廣泛應用在英語中，用來討論舞台的視覺風格，並於約一世紀後延伸至電影。在劇場的語境中，它指的是舞台上的內容及它們的編排；在電影，場面調度涵蓋畫面上的事物和其佈置方式，以及我們如何被引導去觀看和感受這些人和物。因此，當中關注的不止是演員的表演和他們身處的場景，也會留意裝飾、道具、燈光、服裝和化妝等元素。
+- mise en place (culinary) 備料
+	- “Mise en place” 是一個法語詞語，意思是「事先準備好」。在烹飪領域中，它指的是在開始烹飪之前準備好所有需要使用的食材。這包括切割食材、準備調味料、預先測量食材的份量、清洗和準備器具和鍋具等。Mise en place 的目的是確保在烹飪過程中所有的食材和工具都妥善地準備好，以便順利進行烹飪。一般相信這個概念源自 18 世紀推動法國精緻餐飲的名廚 Georges-Auguste Escoffier 所制訂的廚房軍旅制度。
+- story within a story, embedded narrative, nested stories 劇中劇
+	- nested books
+	- nested plays
+	- nested films
+	- nested video games
+	- nested TV shows
+- ### 悲劇五要素
+	- peripeteia, peripety (turning point) 轉折; 轉捩點
+	- catharsis (emotional purification) 淨化; 導瀉; 情感宣洩
+	- anagnorisis (rising cognition) 幡然醒悟
+		- $\neq$ epiphany 頓悟; (基督) 主顯節
+			- hierophany 聖顯
+			- ontophany 神在
+	- hamartia (tragic flaw) 人格缺陷; 致命缺憾
+		- harmatiology 罪論
+	- hubris (pride) 傲慢; 狂妄自大
+- ### 故事架構
+	- prologue 前言; 序幕 (交代背景)
+	- protasis (Act I) 故事開場
+	- epitasis (Act II) 情節醞釀; 導火索
+	- catastasis (Act III) 高潮迭起 = climax
+		- apocatastasis 復原如初
+	- catastrophe 災難; 劇情急轉直下; 事件收尾
+		- eucatastrophe 扭轉頹勢; 逆轉勝 (從災難中學習或領悟)
+		- denouement 結尾
+	- epilogue 後記
+- ### 手法
+	- in medias res 攔腰法 (從中間開始敘事)
+	- ab ovo, ab initio 話說從頭 (很久很久以前)
+	- fragmented narrative 碎片化敘事
+		- comprise of the events jumbled together and the readers are expected to make sense of the sequence of the story by collaborating the different components of story.
+		- 劇情分散到眾多角色之中，觀眾須自行一點一點拼湊解讀
+		- Elden Ring 艾爾登法環
+	- nonlinear narrative 跳敘; 非線性敘述
+		- Pulp Fiction 黑色追緝令
+		- anticlimax 反高潮
+	- foreshadowing 伏筆 (記住這個XX，之後有大用處)
+	- cliffhanger 懸念; 吊人胃口
+		- cliffhanger ending, open end 開放式結局
+	- suspense 懸疑
+	- deus ex machina 機械降神; 天外救星
+		- 意料之外的存在前來解圍
+	- Chekhov's gun 契訶夫之槍
+		- Чеховское ружьё，故事中任何的細節都應該在之後發揮作用。當描寫出某些事物，觀眾及讀者會期待它們和故事間的關聯性。(必要就提，沒必要就不要出現。)
+	- red herrings 紅鯡魚
+		- 是誘餌選項，誤導觀眾某些人或證據是關鍵，實則不然。
+	- plot twist 大逆轉
+		- 事情將至結論時出現意料之外的結果
+	- fourth wall 第四面牆
+		- 在舞台上，框架有三面牆，觀眾就是第四面牆
+		- breaking the fourth wall 打破第四面牆
+			- 角色意識到在戲劇中，並與觀眾互動 (舞台之於觀眾的覺知)
+			- 一個虛構作品中，展現角色意識到身在作品中的戲劇化技巧
+		- Rick & Morty 瑞克與莫蒂
+		- Deadpool 死侍
+		- Evangelion: 3.0+1.0 Thrice Upon a Time 新世紀福音戰士: 終
+- interpretative phenomenological analysis (IPA)

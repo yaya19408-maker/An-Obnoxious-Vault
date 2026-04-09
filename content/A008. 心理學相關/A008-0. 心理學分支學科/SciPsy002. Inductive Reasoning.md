@@ -1,0 +1,239 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - psychology
+  - philosophy
+  - logic
+aliases:
+  - 歸納推理
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+Date: 2024-08-19
+File Creation Date: 2024-08-19 14:17
+Last Modified: 2024-08-19 14:17
+File folder: A008-0. 心理學分支學科
+
+# 歸納推理 
+
+> 本單元學習目標：以 @zwaanParticipantNonnaiveteReproducibility2017 重製的九項實驗，學習各種實驗設計搭配的統計方法，如何確認測出關鍵效應。認識心理學研究常見的效果量指標，以及估計方法。延伸學習：如何使用開源統計軟體重製實驗資料分析。
+
+<!---
+本單元依預先註冊[@lindsayResearchPreregistration1012016]與註冊報告[@attenperceptpsychophysRegisteredReportsReplications2013]的指南，介紹如何準備研究計畫，以及撰寫研究報告。之前單元提供的再現研究習作，可參考這個單元規劃與執行研究，並完成最後的研究報告。
+
+- 根據九項重製實驗結果的描述統計資訊，如何判斷實驗結果可有效評估研究假設？
+
+
+- 根據九項實驗的來源文獻(見 @tbl-9RP )，如何摘要表現測得實驗效果的統計資訊？
+
+
+- 摘要 @zwaanParticipantNonnaiveteReproducibility2017 的統計結果，如何說明重製實驗與原始實驗結果一致？
+
+
+- @zwaanParticipantNonnaiveteReproducibility2017 的研究假設有沒有得到支持？如何從論文裡摘要他們的說法
+
+
+- @zwaanParticipantNonnaiveteReproducibility2017 指出的研究結果推論限制是什麼？會不會影響一開始的實驗假設？
+
+ --->
+ 
+ 
+## 原始資料結構與測量誤差
+
+根據 @zwaanParticipantNonnaiveteReproducibility2017 的實驗設計**Wave(Within Participant)** X **Similarity(Between Participant)** X **Specific Condition(Within Participant)**，九項重製實驗資料具備通用資料結構。
+
+定義算術元素：
+
+刺激相同的參與者~ $P_{s1}, P_{s2}, ... P_{sn}$
+
+刺激不同的參與者~ $P_{d1}, P_{d2}, ... P_{dn}$
+
+**Wave** ~ $w_1, w_2$
+
+**Similarity** ~ $S_s, S_d$
+
+**Condition** ~ $C_1, C_2$
+
+|參與者分組|參與者代碼|獨變項因子組合|依變項平均分數|
+|:---:|:---:|:---:|:---:|
+||$P_{s1}$|$w_1S_sC_1$|$Y_{11s1}$|
+||$P_{s2}$|$w_1S_sC_1$|$Y_{21s1}$|
+|Same|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_1S_sC_1$|$Y_{n1s1}$|
+||||$\overline{Y}_{.1s1}$|
+||$P_{s1}$|$w_1S_sC_2$|$Y_{11s2}$|
+||$P_{s2}$|$w_1S_sC_2$|$Y_{21s2}$|
+|Same|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_1S_sC_2$|$Y_{n1s2}$|
+||||$\overline{Y}_{.1s2}$|
+||$P_{s1}$|$w_2S_sC_1$|$Y_{12s1}$|
+||$P_{s2}$|$w_2S_sC_1$|$Y_{22s1}$|
+|Same|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_2S_sC_1$|$Y_{n2s1}$|
+||||$\overline{Y}_{.2s1}$|
+||$P_{s1}$|$w_2S_sC_2$|$Y_{12s2}$|
+||$P_{s2}$|$w_2S_sC_2$|$Y_{22s2}$|
+|Same|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_2S_sC_2$|$Y_{n2s2}$|
+||||$\overline{Y}_{.2s2}$|
+||$P_{s1}$|$w_1S_dC_1$|$Y_{11s1}$|
+||$P_{s2}$|$w_1S_dC_1$|$Y_{21s1}$|
+|Different|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_1S_dC_1$|$Y_{n1s1}$|
+||||$\overline{Y}_{.1d1}$|
+||$P_{s1}$|$w_1S_dC_2$|$Y_{11s2}$|
+||$P_{s2}$|$w_1S_dC_2$|$Y_{21s2}$|
+|Different|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_1S_dC_2$|$Y_{n1s2}$|
+||||$\overline{Y}_{.1d2}$|
+||$P_{s1}$|$w_2S_dC_1$|$Y_{12s1}$|
+||$P_{s2}$|$w_2S_dC_1$|$Y_{22s1}$|
+|Different|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_2S_dC_1$|$Y_{n2s1}$|
+||||$\overline{Y}_{.2d1}$|
+||$P_{s1}$|$w_2S_dC_2$|$Y_{12s2}$|
+||$P_{s2}$|$w_2S_dC_2$|$Y_{22s2}$|
+|Different|$\vdots$|$\vdots$|$\vdots$|
+||$\vdots$|$\vdots$|$\vdots$|
+||$P_{sn}$|$w_2S_dC_2$|$Y_{n2s2}$|
+||||$\overline{Y}_{.2d2}$|
+
+### 算術平均數演練
+
+- 總體實驗效果要如何計算？
+- 如何比較不同參與者分組的實驗效果？
+- 如何比較不同梯次的實驗效果？
+- 如何比較不同參與者分組、不同梯次的實驗效果？
+
+- 由 @zwaanParticipantNonnaiveteReproducibility2017 的[附件](https://static-content.springer.com/esm/art%3A10.3758%2Fs13423-017-1348-y/MediaObjects/13423_2017_1348_MOESM1_ESM.docx)列出的每個實驗主要依項描述統計表( Table S1 ~ Table S10 )，表格內的數值對應那些算術平均數？
+
+<!--- 歸納推理（一） --->
+- 從 @zwaanParticipantNonnaiveteReproducibility2017 的[公開資料](https://osf.io/ghv6m/)下載每個實驗Mean開頭的csv檔，計算每個檔案內欄位的算術平均數。能否使用這些計算結果重製附錄的表格？
+
+
+
+## 運用統計方法歸納實驗結果
+
+<!---前一節介紹的三種實驗平台匯出的實驗資料都是長表格，每一列(row)只包含一個觀察值，除了OpenSesame與formr有系統預設欄位資料， psytoolkit的每一欄都是實驗腳本裡有設定的變項。每一份匯出的檔案都是以主要依變項的反應單位排列，只要事先設定的分析計畫要以主要依變項的平均值進行分析，就可以使用試算表的樞紐分析功能計算。
+
+樞紐分析的結果是常用統計分析方法的資料集合，如t檢定、變異數分析。我建議使用JASP與jamovi等開源統計軟體進行分析，使用方式可參考我的網誌[^10]。
+
+[^10]: --->
+
+
+補充資料：[用jamovi上手統計學](https://scgeeker.github.io/lsj-book-zh_tw/) 之[線性模型的學習取向](https://scgeeker.github.io/lsj-book-zh_tw/Prelude-Part-V.html)
+
+
+### 實驗設計與統計分析模型
+
+> 如果**Wave**與**Similarity**不影響**specific condition**的平均值差異，一項重製實驗的每次試驗原始分數，即符合線性模型(1)：
+
+$$Y_{ijkl} \sim \overline{Y}_{...} + \alpha_j + \beta_k + \gamma_l + \varepsilon_{i(k)}  \dots (1)$$
+_i_ = 1,2,3, ..., 160
+
+$\alpha$ ~ **Wave**, _j_ = 1, 2
+
+$\beta$ ~ **Similarity**, _k_ = s, d
+
+$\gamma$ ~ **specific condition**, _l_ = 1, 2
+
+$\varepsilon$ ~ **residuals** 下標符號提示參與者間獨變項
+
+> 如果**Wave**與**Similarity**並無差異，則符合線性模型(1):
+
+$$Y_{il} \sim \overline{Y_{.}} + \gamma_{l} + \varepsilon_i  \dots (2)$$
+
+_i_ = 1,2,3, ..., 160
+
+$\gamma$ ~ **specific condition**, _l_ = 1, 2, 3, ..., 8
+
+
+模型(1)適用多因子變異數分析，模型(2)適用單因子變異數分析或t檢定。
+
+- 如何透過線性模型選擇jamovi分析模組？
+- 如何透過線性模型了解jamovi分析模組的選項設定？
+
+
+### 效果量的估計與運用
+
+- [Cohen's d計算器](https://effect-size-calculator.herokuapp.com/) by James Uanhoro
+
+- jamovi的t檢定模組
+
+> 重製附錄內統計表的Cohen's d 
+> (1) 從各條件平均值
+> (2) 從每位參與者的平均分數
+
+- 提示題: 如何選擇估計效果量的公式及計算器？
+
+- 提示題: 如果文獻報告沒有提供效果量，要怎麼估計？
+
+
+- 解讀 @zwaanParticipantNonnaiveteReproducibility2017 之Figure 1。
+
+
+> 運用以上介紹，嘗試重製附錄中每項實驗的統計資訊，以及Table S1 ~ Table S10的效果量數值。
+
+
+### 實驗結果的可重製指標
+
+- 敏感度分析
+
+要得到可靠的歸納推理結論，實驗設計必須考慮三角關係：考驗力 - 樣本數 - 效果量([視覺化解說](https://rpsychologist.com/d3/nhst/))
+
+
+
+1. 估計應測得之效果量
+
+> 由報告統計值換算效果量
+
+> 由原始資料估計效果量
+
+2. 設定應達考驗力水準
+
+
+3. 估計最小有意義樣本數
+
+```{r jpower-setting, fig.cap="jpower相依樣本t檢定估計最小樣本數設定示範。應設定參數有最小目標效果量(Minimally-interesting effect size)、Minimum desired power(目標考驗力水準)、型一錯誤率(Type 1 error rate)、單尾或雙尾檢定(Tails)。", echo=FALSE}
+knitr::include_graphics("figs/jpower_setting.png")
+```
+
+
+- 樣本效果普遍程度
+
+@moorePervasivenessEffectsSamplebased2023 示範三步驟檢核法。
+
+
+### 直接再現重製研究的評估
+
+在台灣地區要儘可能地再重製九項認知實驗，要考慮那些條件？
+
+1. 在地或國外參與者
+2. 實驗環境是實體空間或網路
+3. 實驗軟體及平台的選擇
+4. 因軟體及平台的設定，實驗程序需要的設定
+5. 因參與者的背景，實驗材料要做的調整
+6. 設定重製實驗結果需有統計考驗力為90%，要招募的參與者人數
+
+
+## 研究倫理基本須知
+
+科學研究能增進人類對這個世界的了解，是每個領域科學家進行研究的主要動機。行為與社會科學的研究對象是人類，運用各種方式取得人類行為資料是研究之必需。儘管研究有崇高的目標，任何取得資料的方式都不能侵害個人利益，或造成任何可能的風險。以下引述 @saulHowWriteLab2011 整理的基本須知，補充最近應該考慮的例子：
+
+- 獲取資料的方式是否會引發參與者心理或生理的不適？ 例如：詢問個人性別不只設計兩個選項，讓跨性別人士自由決定要不要告知。
+- 收集資料有無侵犯個人隱私？ 例如在公開場合進行實驗；收集個人手機定位...
+- 因實驗操作的需要，事前隱暪部分內容，會不會損害參與者權益？例如：分班實施不同的教學法，比較學生的學習表現。
+- 參與者隨時中止參與研究的自由。
+- 邀請未成年人士參與研究，應考慮的問題：
+- 以非人類動物進行研究，應考慮的問題：

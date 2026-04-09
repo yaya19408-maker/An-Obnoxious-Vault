@@ -1,0 +1,281 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - medical
+  - pathology
+aliases:
+  - 缺失
+  - PATH006. 缺失
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+Date: 2024-08-17
+File Creation Date: 2024-08-17 22:58
+Last Modified: 2024-08-17 22:58
+File folder: 疾病
+
+# Alzheimer's disease 阿茲海默症
+- Alzheimer's disease 阿茲海默症 (4As)
+	- **apraxia** 失用
+		- **apraxia of gait** 失行步態
+			- 啟動困難，步伐慢、短，出現曳足而行或滑行的步態。步行中欲加速、減速、改變方向或踢到異物時病人往往會回復曳足現象或停步，甚至有時會向後跌倒。 步態記錄顯示情況嚴重的病人，髖關節和膝關節節抗重力肌肉在整個步態記錄中一直持續相當高程度的活動力，毫無間斷。髖、膝、踝關節的角變位則很慢很小。 
+		- **apraxia of speech** (AOS)言語失用
+		- **buccofacial/orofacial apraxia** 口顏面部失用
+			- 不能依據口頭指令或視覺指令用口、唇、舌、喉等部位的肌肉做有目的的非言語性動作
+		- **constructional apraxia** 建構性失用症
+			- 對於建構的活動有所困難，例如拼圖、 積木、以及畫圖等，但對於單一的動作並無困難
+		- **ideational/conceptual apraxia** 概念失用
+		- **ideomotor apraxia** 意念失用
+		- **limb-kinetic apraxia** 肢動失用
+		- **oculomotor apraxia** 動眼失用
+	- **agnosia** 失認
+		- **anosognosia** 病覺缺失 (感覺不到生病了)
+			- **anosodiaphoria** 病情意志缺失 (知道病了但不在意)
+		- **asomatognosia** 體覺缺失
+		- **autotopagnosia** 自體部位失認
+			- 認不出自己的身體部位
+			- 後丘腦輻射病變
+		- **allotopagnosia** 異位性視覺失認 (指不出外部存在，但自己的身體可以認出來)
+		- **heterotopagnosia** 異視症 (指不出他人身體部位，但自己的可以)
+		- **akinetopsia** 運動失認 (認不出移動; 紋狀皮層病變)
+		- **astereognosis**, somatosensory agnosia 立體覺失認
+			- 摸的時候認不出材質/大小/重量，但講得出來也畫得出來 (體感覺皮質病變)
+		- **phonagnosia** 人聲失認
+			- 認不出人聲 (知道對方在說甚麼，但想不起這聲音是誰)
+		- **prosopagnosia** 臉盲
+			- = faceblindness, facial agnosia
+		- **simultanagnosia** 畫片中動作失認
+			- 處理不了視覺輸入的整體資訊
+			- 只能依臉部、身體、物體、空間、地點、影像一點一點地去處理整體資訊
+				- 可以形容一幅畫的部分特徵但理解不了整體呈現
+				- 兩個杯子同時在眼前，卻只能看見一個
+				- 是巴林氏症候群(Bálint's syndrome)的其一症狀
+		- **visual agnosia** 視覺失認
+			- apperceptive visual agnosia 統覺性視覺失認
+				- 認不出形狀且無法模仿或區別不同存在
+			- associative visual agnosia 聯想性視覺失認
+				- 講得出來但認不出來
+					- 知道叉子是餐具，但看到時還是認作湯匙
+			- visuospatial dysgnosia 視空間認知障礙
+				- 不懂人(包括自己)/物和地點的關係
+			- cerebral achromatopsia 皮質性色盲
+				- 神經損傷導致
+				- hemiachromatopsia 偏側色盲
+					- 在V4單側腦區病變
+				- color agnosia 色彩失認 (相似但實則不同)
+					- 看得到但認不出來 (但有其他顏色比較的話就能配對或分類)
+				- achromatopsia 全色盲
+			- finger agnosia 手指失認
+				- 主頂葉病變
+				- Gerstmann syndrome 的其一症狀
+					- Gerstmann-Sträussler-Scheinker syndrome (GSS) 格斯特曼(–史特勞斯勒–申克)症候群
+			- environmental agnosia 環境失認
+				- 儘管熟悉目的地卻還是不知道怎麼走 (路線失認)
+				- 雙半腦或右半腦病變
+				- 和臉盲及帕金森氏症有關
+			- form agnosia 形狀失認
+				- 只認出來部分，認不出整體
+		- **auditory agnosia** 聽覺失認 (認不出口語和非口語聲音)
+			- semantic associative agnosia 語義聯想失認
+				- 左半腦病變
+			- discriminative agnosia 辨別性失認
+				- 右半腦病變
+			- cortical deafness 皮性質聾
+				- 聽得到但感知不到資訊
+			- auditory verbal agnosia 言語失認
+				- = pure word deafness (PWD)
+				- 聽到的口語和語義搭不上
+		- **tactile agnosia** 觸覺失認
+		- **pain agnosia** 痛覺失認; 失痛症
+			- = congenital analgesia
+		- **developmental topographical disorientation (DTD) 發展性地形迷失**
+			- = topographagnosia, topographical agnosia 
+			- 認不出物體，所以不能用視覺線索來指引方向
+			- 但還是讀得懂地圖，只是在熟悉的地方會迷路
+		- **pure alexi**a 純失讀
+			- 胼胝體和左半視覺聯想區域損傷
+			- 認不出字(只能逐個字母來閱讀)但可以寫
+			- 可以高效閱讀高頻率字詞，但低頻率無法
+		- **semantic agnosia** 語意失認
+			- 視覺無法辨識語義，但用其他感官可以
+		- **social-emotional agnosia** 社會情緒失認
+			- = expressive agnosia 表達型失認
+			- 認不出一切非言語表達形式和情緒
+		- **integrative agnosia** 聯合性失認
+			- 夾在統覺失認和聯想失認之間
+				- 認得出物體涵蓋的要素但是兜不起來
+	- **aphasia** 失語 may resulted from cerebrovascular accident (CVA) 腦血管意外 (中風)![[缺失; 障礙 a-...-a-20240818141528432.webp]]
+		- aphasiology 失語學
+		- **Broca's aphasia, expressive aphasia** 表達型失語症
+			- aphemia 純粹動作性失語症
+		- **Wernicke's aphasia, receptive aphasia** 感覺性失語症
+			- 有語言理解障礙，患者的閱讀能力或瞭解他人談話內容的能力低下
+		- **conduction aphasia** 傳導型失語症
+			- 明顯的複誦障礙，患者也有命名上的困難，但卻有不錯的聽覺和閱讀理解能力
+		- **mixed transcortical aphasia** 跨皮質混合型失語症
+			- = mixed extrasylvian aphasia 側裂外區混合型失語症
+			- 語言的表達和接收上都有嚴重的障礙，但卻保有重覆話語的能力
+		- **transcortical motor aphasia** (TCMA) 跨皮質運動型失語症
+			- = extrasylvian motor aphasia 側裂外區運動型失語症
+			- 語言的輸出有障礙，但卻有很好的複誦能力
+		- **transcortical sensory aphasia** 跨皮質感覺型失語症
+			- = extrasylvian sensory aphasia 裂外區感覺型失語症
+			- 有流暢的會話能力，但說話的意義不連貫，常會用錯詞語
+		- **subcortical aphasia** 下皮質失語症
+			- 在一開始的急性期會完全不出聲，漸漸地，有較低沈、不清楚的話語出現
+		- **global aphasia** 廣泛性失語症
+			- 無論是口語表達、聽覺理解能力、重覆、命名、甚至讀、寫方面都受到了極大的影響
+		- **anomic aphasia** 命名失語症
+			- = amnestic aphasia 失憶型失語症
+			- 通常語言功能中唯一受損的，就只有命名能力，其他在語言的理解和表達方面都正常，閱讀和書寫能力都未受影響。
+		- **deaf aphasia** 失聰型失語症
+		- **primary progressive aphasia** (PPA) 原發進行性失語症
+			- 緩慢損害大腦中控制言語和語言部分
+		- classification according to fluency:
+			- fluent aphasia 流暢性失語
+				- 說得順但說錯
+			- nonfluent aphasia 非流暢性失語
+				- 說得吃力且只能說一兩個字
+	- **amnesia** 失憶
+		- **retrograde amnesia** 逆行性失憶症
+			- 忘了造成失憶的事件之前所發生的事情
+		- **anterograde amnesia** 順行性失憶症
+			- 會遺忘患病後發生的事物
+		- **post-traumatic amnesia** 傷後失憶症 (PTA)
+			- 頭部受創，可能暫時可能永久，也可能逆行或順行甚至都有，程度依受傷力道而定 (依此來預後)
+		- **dissociative amnesia, psychogenic fugue** 解離性失憶; 心因性漫遊
+			- 通常影響自傳式記憶，如我是誰，我在什麼地方做了什麼事，與「我的歷史」有關的記憶，這有助於與其他原因造成的失憶區分。
+			- repressed memory 壓抑記憶
+			- dissociative fugue 解離型漫遊
+			- posthypnotic amnesia 催眠後失憶
+		- **lacunar amnesia** 間隙性失憶症
+			- 特定事件的失憶，在該事件留有一定程度的空缺
+		- **childhood/infantile amnesia** 童年失憶
+			- 忘記小時候的事件，佛洛伊德將其歸因為性壓抑，現代科學則認為是大腦發展 (尤其是語言) 關係，所以長大後不太能想起自己兩三歲的語言發展前階段
+		- **transient global amnesia** (TGA) 暫時性全面失憶
+			- 會忘記發作前一小段時間發生過的事情，也無法再形成新的記憶。而這個過程時間通常不會很長，介於1到10小時之間
+		- **transient epileptic amnesia** (TEA) 暫時性癲癇失憶
+			- 顳葉癲癇引起的短暫失憶，可以用抗腦癇藥 (anti-epileptic) 治療
+		- **source amnesia** 來源失憶症
+			- 記得知識內容，但想不起來甚麼時候在哪裡怎麼學來且一直保留的
+		- **Korsakoff's syndrome** 高沙可夫症候群
+			- 大腦缺乏硫胺（維生素B1），長期酗酒或營養不良引起
+			- 額葉和顳葉障礙，和虛談症 (confabulation，有虛假記憶且堅信該記憶是對的) 有關
+		- **drug-induced amnesia** 藥物誘導性失憶
+			- 手術注射失憶性藥物，通常是在沒有全麻情況下，彈藥性退了之後記憶會慢慢回來
+		- **situation-specific amnesia** 特定情境失憶
+			- 經過創傷性事件後失憶，並伴隨PTSD
+		- **semantic amnesia** 語義型失憶
+			- 語義記憶有缺失，且在語言習得與使用上有障礙，甚至能導致失智
+		- **pseudodementia** 假性失智
+			- 較易低估自己能力，常抱怨記憶力差、自責、注意力不集中、易過度在乎及強調其失能狀況
+- - - 
+# Schizophrenia 思覺失調
+- schizophrenia 思覺失調
+	- **alogia** 貧語症 (句點)
+	- **ahedonia** 享樂不能
+	- **asociality** 社交不能
+	- **avolition** 缺乏動機
+	- reduced affect display, affective flattening 情感平板
+- - - 
+# 意念
+- **abulia** 意志缺失
+- **aprosexia** 注意力障礙
+	- **hypoprosexia** 分心
+- **asemia** 示意不能
+- **aphantasia** 心盲症; 幻象可視缺失; 想像障礙
+- - -
+# 運用
+- **anomia** 命名不能
+	- lethologica, tip of the tongue (TOT) 舌尖現象
+		- 想用的字眼或語詞已經到了舌尖，就是講不出來 (那個甚麼)
+- **acalculia** 計算困難; 失算
+- **agraphia** 書寫困難; 失寫
+- **agrammatism** 語法障礙
+- **alexia** 失讀; **dyslexia** 閱讀障礙 (common)
+- **astasia-abasia** 站立-行走不能
+	- **astasis** 站不起來
+- **areflexia** 反射消失
+- - -
+# 情感
+- **alexithmia** 述情障礙 (情感表達障礙)
+- **amimia** 表情缺失
+- **apathy** 冷漠
+- **aprosodia** 失語韻能
+	- 無法從口頭訊息中理解或產生情感的表達障礙
+---
+# 感知
+- **abarognosis** 辨重不能 (感受不到重量)
+- **pain asymbolia** 痛覺說示不能
+- **anorexia nervosa** 神經性厭食
+- **adipsia** 口渴失認
+- **achiria** 知覺對側失能: 不能感知其中一邊的身體
+	- **sensory achiria** 感官知覺對側失能
+	- **motor achiria** 動覺對側失能
+	- **introspective achiria** 感覺記憶(senssory memory)對側失能
+	- **allochiria** 知覺對側變位 (知覚対側変位): 刺激出現在另一邊的身體 (spatial transposition, usually symmetrical)
+	- **synchiria** 知覺雙側刺激: 刺激在兩邊身體都有出現
+	- **dyschiria** 知覺對側障礙: 會忽略半邊身體 (unilateral neglect or hemispatial neglect)
+- - -
+# 眼睛
+- **anisometropia** 不等視; 鴛鴦眼
+	- **aniseikonia** 不等像
+	- **anisophoria** 屈光參差
+	- **amblyopia** 弱視
+	- **anisocoria** 瞳孔大小不等
+- **anopia** 視覺缺失
+	- **hemianopia** 偏盲
+		- bitemporal hemianopia 雙顳側偏盲
+- **amaurosis fugax** 暫時性黑矇
+- - - 
+# 聲音
+- **aphonia** 失聲症
+- **amusia** 旋律辨識障礙
+- **alalia**, speech delay 語音發展遲緩
+- **anarthria** 肌肉機械性構音障礙
+	- **dysarthria** 神經性構音障礙
+		- 腦部或神經損傷，導致無法牽動肌肉 (咀唇、舌頭、面部、下顎、軟顎、聲帶或呼吸肌肉等) 發音而使肌肉萎縮癱瘓
+- - -
+# 動作
+- **asthenia** 無力
+	- weakness
+- **adynamia** 動力缺乏
+- **ataxia** 共濟失調; 運動失調
+	- **dysmetria** 動幅障礙
+	- **dyssynergia** 協同動作障礙
+	- **dysdiadochokinesia** 交替運動障礙
+	- **asterixis** 固定姿勢不能; 撲翼樣震顫
+- **akinesia** 運動不能 (動不了); dyskinesia 異動症 (想A動B)
+- **akinesthesia** 動覺缺失 (不知道自己身體部位，也不知道怎麼動)
+- **athetosis** 手足徐動症
+- - -
+# 觸摸
+- **agraphesthesia** 皮膚書寫覺缺失 (認不出在皮膚上比劃寫出的字)
+- **apselaphesia** 觸覺缺失
+- - -
+# 弛緩
+- **amyotonia** 肌弛緩
+	- **myotonia** 肌強直
+- **achalasia** 食道賁門弛緩不能症
+- - -
+# 性
+- **anorgasmia** 性高潮不能
+- **anaphrodisia** 性欲缺失
+- **aphallia** 天閹; 隱宮
+- **anorchia** 無睪
+	- **cryptorchidism** 隱睪
+- - -
+# 調節
+- **asthma** 氣喘
+- **asphyxia** 窒息
+- **anhidrosis** 無汗症
+- **arrhythmia** 心律不整
+- - -
+- **angina pectoris** 心絞痛
+- **alopecia** 禿頭
+	- **alopecia areata** 圓禿
+- **atresia** 器官閉鎖
