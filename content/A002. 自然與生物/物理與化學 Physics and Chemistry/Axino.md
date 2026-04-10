@@ -9,10 +9,10 @@ aliases:
   - 超軸子
 relevance: "[[axon]]"
 ---
-Date: 2026-04-09
-File Creation Date: 2026-04-09 21:33
-Last Modified: 2026-04-09 10:59
-File folder: A012. Scholars
+Date: <% tp.date.now("YYYY-MM-DD") %>
+File Creation Date: <% tp.file.creation_date() %>
+Last Modified: <% tp.file.last_modified_date() %>
+File folder: <% tp.file.folder() %>
 Axis + ino [[diminutive]]
 
 Cognate: [[axon]] [[axion]]

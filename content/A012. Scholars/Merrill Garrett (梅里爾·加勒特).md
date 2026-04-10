@@ -1,7 +1,3 @@
----
-tags:
-  - scholar
----
 Date: 2026-04-08
 File Creation Date: 2026-04-08 22:45:06
 Last Modified: 2026-04-08 22:45:06

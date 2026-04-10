@@ -1,7 +1,3 @@
----
-tags:
-  - scholar
----
 - **Distribution of the Sensible (感性的分配)**：政治的核心在於決定誰能被看見、誰的聲音被算作話語（Logos）而非噪音。這是一種美學上的劃分。
 - **The Ignorant Schoolmaster (無知的教師)**：透過賈寇托的例子，主張「智力平等」。教師不需比學生懂更多，而是要強迫學生運用自己的智力去學習。
 - **Equality of Intelligence (智力平等)**：平等不是追求的目標，而是必須預設的出發點。政治即是去驗證這種平等，打破既定的社會位階。

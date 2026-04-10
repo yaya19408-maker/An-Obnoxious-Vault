@@ -1,7 +1,3 @@
----
-tags:
-  - scholar
----
 # The Psychology of Art (藝術心理學, 1925 / pub. 1965)
 - **The Psychology of Art (藝術心理學)**：這是維高斯基早期的博士論文。他反對將藝術視為純粹的個人情感宣洩，認為藝術是一種社會性的情感技術。
 - **Catharsis (宣洩/昇華)**：維高斯基賦予此詞新義。在藝術心理學中，指透過藝術形式（Form）將內容（Content）中的痛苦與矛盾轉化，產生一種高級的、理智化的情感反應（Aesthetic Reaction）。

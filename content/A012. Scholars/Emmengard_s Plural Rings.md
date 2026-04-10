@@ -1,6 +1,4 @@
 ---
-tags:
-  - scholar
 page-title: 埃蒙加德環 - 多意识体百科
 url: https://www.plura.wiki/index.php?title=%E5%9F%83%E8%92%99%E5%8A%A0%E5%BE%B7%E7%8E%AF
 date: 2024-01-02 11:11:15
