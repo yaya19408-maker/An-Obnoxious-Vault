@@ -33,8 +33,8 @@
 	- general semantics
 	- theory of orders of abstraction
 - Régis Debray 德布雷
-- [[Paulo Freire 弗雷爾/弗雷萊]]
-- [[Paul-Michel Foucault 米歇爾傅柯]]
+- [[Paulo Freire (保羅·弗雷勒)]]
+- [[Michel Foucault (米歇爾·傅柯)]]
 - Paul Ricoeur 呂格爾
 - James Paul Gee 詹姆斯·保羅·吉
 	- 《什麼是好的遊戲學習》（What Video Games Have to Teach Us About Learning and Literacy）一書中，吉提出遊戲是理解和操作複雜系統的有效工具，能夠促進問題解決技巧、合作與競爭能力等多方面能力的發展
@@ -82,7 +82,7 @@
 		- 教材若是特定階級所制定，就意味著特定文化，也就構成意識形態，進而排擠其他階級的競爭機會
 - Peter McLaren 麥拉倫
 	- 教師即臨若門檻的僕人
-- [[Mikhail Bakhtin 巴赫金]]
+- [[Mikhail Bakhtin (巴赫金)]]
 	- polyphony 複調性
 	- heteroglossia 雜語
 	- intertextuality 互文 (Mikhail Bakhtin, Julia Kristeva)
@@ -123,7 +123,7 @@
 	- critical discourse analysis
 - Vladimir Yakovlevich Propp 普羅普
 	- 民間故事的31種敍事功能
-- [[Byung-Chul Han 韓炳哲]]
+- [[Byung-Chul Han (韓炳哲)]]
 	- The Burnout Society 倦怠社會
 	- The Transparency Society 透明社會
 	- The Palliative Society 妥協社會
@@ -133,7 +133,7 @@
 	- Psychopolitics 精神政治
 	- The Agony of Eros 愛欲之死
 	- The Crisis of Narration 敍事的危機
-- [[Mark Fisher 馬克費雪]]
+- [[Mark Fisher (馬克·費雪)]]
 	- capitalist realism 資本主義式現實主義
 	- acid communism 酸性共產主義
 	- [reflexive impotence 反身性無能](https://www.newinternationalism.net/?p=7375)
@@ -150,7 +150,7 @@
 			- 將威而剛睪固酮黃體素快克出發的藥理／毒物學，混合萃取自成人片SM妓院同志個體快感區塊而成
 	- Dysphoria Mundi
 		- 「裡面，外面。滿盈，空缺。聖潔，有毒。男性，女性。白種，黑種。國民，異族。文化，自然。人類，動物。中心，邊緣。這裡，那邊。類比的，數位的。死亡的，有生命的」
-- [[Pierre Bourdieu 布迪厄]]
+- [[Pierre Bourdieu (皮埃爾·布迪厄)]]
 	- capital 資本
 	- reflexivity 反身性
 	- habitus 慣習
@@ -255,7 +255,7 @@
 	- Historikerstreit (historian's dispute) 史家大論戰
 		- Habermas極力反對將德國歷史常態化，並強調德國亟需處理這段黑暗的過去
 	- disenchantment 袪魅 (消解神秘)
-- [[James Lantolf 蘭托夫]]
+- [[James Lantolf (蘭托夫)]]
 	- sociocultural theory (SCT) 社會文化理論
 	- languaculture 語言文化
 	- genetic time scale 基因時間尺度
@@ -271,7 +271,7 @@
 			- second, minute, hour, day, week, month, year
 		- kairos (qualitative time) 感受時間
 			- critical moments 時機
-- [[Lev Vygotsky 維高斯基]]
+- [[Lev Vygotsky (維高斯基)]]
 	- 並非限定於兒童心理學家
 	- Vygotsky 把馬克思的唯物辨證法和科學研究的一般方法引入心理學，他希望能在心理學構建一個像資本論 中“資本”一樣的概念。當然，他也受到了其他哲學家的影響，比如布魯克·斯賓諾莎，其一元論跟笛卡爾的二元論形成對立
 	- 他基於馬克思的科學分析原則提出了普通心理學理論。他指出觀察成人思維的心理表徵時，並無法區分哪些是源自生理因素，哪些是源自文化因素，而解開這一難題的唯一辦法是通過時間或歷史 的維度來研究認知。由此產生了著名的起源説 (genesis) ，即從四個層次來研究思維的發展過程
