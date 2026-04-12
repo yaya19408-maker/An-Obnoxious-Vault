@@ -1,0 +1,60 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - scholars
+aliases:
+relevance:
+relevance 2:
+disambiguation:
+banner:
+media:
+---
+Date: 2026-04-12
+File Creation Date: 2026-04-12 23:25
+Last Modified: 2026-04-12 23:25
+File folder: A012. Scholars
+
+# Lynn Thorndike (林恩·桑代克)
+
+#scholars #astrology #pseudoscience
+
+## A History of Magic and Experimental Science 魔法與實驗科學史 (1923)
+
+- **Continuity of Magic and Science (魔法與科學之連續性)**： 桑代克 (Lynn Thorndike, an American historian who specialized in the history of medieval science and magic) 提出一種極具顛覆性的歷史觀點，主張魔法 (Magic, the use of rituals or actions to manipulate natural or supernatural forces) 與實驗科學 (Experimental Science, the systematic approach to acquiring knowledge through observation and controlled testing) 源自相同的心理動機與實踐基礎。中世紀的神祕主義者在試圖操控自然力量時，無意間發展出了早期的觀察方法與實驗程序。這些施法者極度渴望理解宇宙運作的隱藏法則，他們對動植物屬性的紀錄以及對化學物質混合反應的觀察，構成了後來科學方法的雛形。歷史學界長期將科學視為理性的產物並將魔法貶低為迷信，桑代克打破了這種二元對立的史學框架。魔法實踐中包含著大量的試錯過程與對物質世界的經驗主義 (Empiricism, the theory that all knowledge is derived from sense experience) 探索。現代科學的起源深植於這些被視為荒誕的祕術儀式之中，兩者在人類認知自然的歷史長河中呈現出一種無縫接軌的演化軌跡。
+- **Astrological Determinism (占星決定論)**： 占星術 (Astrology, the study of the movements and relative positions of celestial bodies interpreted as having an influence on human affairs and the natural world) 在中世紀 (Middle Ages, the period of European history from the fall of the Roman Empire in the West to the fall of Constantinople) 被知識份子視為一門高度嚴謹的自然科學。桑代克指出，當時的學者普遍相信天體運行遵循著絕對的數學規律，這些規律會直接干預地球上的氣候變遷、農作物生長以及人類的生理與心理狀態。這套理論體系建立在亞里斯多德 (Aristotle, an Ancient Greek philosopher and polymath who made fundamental contributions to many scientific disciplines) 的宇宙論之上，將大宇宙與小宇宙緊密連結。星象學家透過極度繁複的數學運算來繪製星盤，試圖從行星的軌跡中解碼出自然界的因果法則。這種對星體力量的信仰促使統治者與醫師在制定決策或進行醫療行為前皆必須參考天文觀測結果。占星術展現了中世紀人類試圖用理性法則來解釋並預測複雜現象的強烈企圖心。
+- **Empiricism in Occultism (神祕主義中的經驗主義)**： 桑代克仔細審視了大量未曾被出版的中世紀手稿 (Medieval Manuscripts, handwritten documents produced during the Middle Ages typically on parchment or vellum)，發現在神祕學說的表象下隱藏著極度重視感官經驗的學術傳統。鍊金術士 (Alchemist, a practitioner of the medieval science of alchemy) 與草藥醫師 (Herbalist, a practitioner who uses plants for medicinal purposes) 在尋求賢者之石或調配魔法藥劑的過程中，必須進行無數次的物質加熱、蒸餾與混合。他們將操作步驟與觀察到的顏色、氣味變化巨細靡遺地記錄下來。這些文獻展現了對物質特性的敏銳觀察力。神祕主義者相信自然界充滿了隱藏的同情與反感力量，必須透過反覆的感官接觸與實作測試才能掌握這些力量。他們在暗室與火爐旁的勞動，累積了龐大且具體的化學與植物學知識。這種扎根於實踐經驗的知識生產模式，為後來科學體系的發展提供了不可或缺的物質技術基礎。
+- **Alchemy as Proto-Chemistry (作為原始化學的鍊金術)**： 鍊金術 (Alchemy, a medieval chemical science and speculative philosophy aiming to achieve the transmutation of the base metals into gold) 經常被後世描繪成騙徒與瘋子的偽科學。桑代克還原了鍊金術士在科學發展史上的真實定位。鍊金術士為了將賤金屬轉化為黃金，發明了坩堝、蒸餾器與冷凝管等實驗室設備。他們發現了多種強酸與合金，並制定了純化物質的標準程序。這套物質轉化的理論雖然建立在元素交替的錯誤預設上，其具體操作卻具有高度的重複性與精確性。鍊金術文獻中充滿了對金屬屬性與化學反應的客觀描述。早期的化學 (Chemistry, the branch of science that deals with the identification of the substances of which matter is composed) 完全繼承了鍊金術的實驗器材與操作手冊。這些尋求長生不老與無盡財富的實驗者，實質上建構了人類理解物質結構的第一座實驗室。
+- **Gradualism of Scientific Revolution (科學革命漸進論)**： 桑代克強烈抨擊了歷史學界普遍接受的突變論點，拒絕承認十六與十七世紀發生過一場徹底推翻過去的科學革命 (Scientific Revolution, a series of events that marked the emergence of modern science during the early modern period)。他主張現代科學的誕生源自於數個世紀以來知識的緩慢累積與微調。哥白尼 (Nicolaus Copernicus, a Renaissance polymath and astronomer who formulated a model of the universe that placed the Sun rather than Earth at its center) 與伽利略 (Galileo Galilei, an Italian astronomer physicist and engineer sometimes described as a polymath) 的成就建立在中世紀大學學者的數學運算與邏輯辯論之上。新理論的提出缺乏戲劇性的認識論斷裂，舊有的魔法觀念與占星信仰在頂尖科學家的思想中依然佔有核心地位。科學知識的演化猶如地質板塊的推擠，經歷了漫長且隱蔽的變遷過程。這種漸進史觀要求我們重新審視中世紀在人類理性發展中的真實貢獻。
+
+## Science and Thought in the Fifteenth Century 十五世紀的科學與思想 (1929)
+
+- **Reevaluation of the Renaissance (文藝復興的重新評估)**： 傳統史學家經常將文藝復興 (Renaissance, a period in European history marking the transition from the Middle Ages to modernity) 描繪成一個充滿理性曙光與科學突破的輝煌時代。桑代克提出截然不同的見解，他認為十五世紀在科學創新方面處於停滯甚至倒退的狀態。人文主義者 (Humanist, a scholar who engages in the study of classical antiquity and emphasizes the value and agency of human beings) 過度沉迷於修辭學與古代文學的復興，將學術精力消耗在語法考證與文本翻譯上。這種對古希臘羅馬美學的盲目崇拜，反而扼殺了中世紀晚期在自然哲學領域所展現出的原創性與邏輯分析能力。桑代克透過比對十四世紀與十五世紀的科學手稿，發現前者的數學推導與物理理論遠比後者來得精密與深刻。文藝復興干擾了科學思想的正常演進軌跡，將學術焦點從觀察自然轉移到了欣賞古代權威的文字遊戲之中。
+- **Scholastic Rationalism (經院理學)**： 經院哲學 (Scholasticism, the system of theology and philosophy taught in medieval European universities) 長期被批評為繁瑣無用的神學思辯。桑代克重新發掘了經院學者在建構理性思維體系上的卓越貢獻。這些學者發展出一套極度嚴密的邏輯工具，用以分析各種自然現象與形上學問題。他們在大學的課堂上進行公開辯論，針對運動、真空與無限等物理概念進行了細緻的推演。這種辯證方法要求參與者必須精確定義詞彙，並透過嚴謹的三段論法來推導結論。經院理學培養了無數具備高度分析能力的心智，為後來科學理論的系統化奠定了不可或缺的邏輯基礎。這些學者在追求神學真理的過程中，實質上鍛鍊了西方世界最早的抽象科學思維。
+- **Manuscript Tradition (手稿傳統)**： 桑代克的歷史研究高度依賴對未出版文獻的挖掘。手稿傳統 (Manuscript Tradition, the history of the transmission of ancient and medieval texts through handwritten copies) 揭示了印刷術普及前知識流傳的真實樣貌。在圖書館的滿塵卷宗裡，隱藏著大量官方歷史紀錄選擇忽略的科學與魔法文本。這些手寫本充滿了邊距註記、塗改與跨世代的補充，展現了知識在傳遞過程中的動態演化。透過閱讀這些私人筆記與未經審查的實驗紀錄，歷史學家得以窺見中世紀學者在面對自然謎團時的真實困惑與嘗試。手稿提供了比正式出版書籍更為豐富且多元的思想史料，打破了由經典著作壟斷的歷史敘事，呈現出一個充滿異議與邊緣思想的學術世界。
+- **Medical Astrology (醫療占星術)**： 在十五世紀的醫學領域，醫療占星術 (Medical Astrology, an ancient medical system that associates various parts of the body diseases and drugs with the influences of the sun moon planets and astrological signs) 佔據著絕對的主導地位。醫師在進行診斷與處方前，必須詳細計算病患出生時的星體排列以及發病時刻的天文方位。桑代克指出，這種看似迷信的醫療實踐在當時擁有極為嚴謹的理論架構。人體的各個器官被認為受制於特定的黃道帶星座，疾病的發展週期與月相變化息息相關。放血、給藥與外科手術的時機完全取決於星象曆法的指示。醫療占星術展現了中世紀人試圖將微觀的人體生理與宏觀的宇宙秩序整合為一個統一數學模型的企圖。這種體系化思考對後來醫學知識的標準化構成了具體的指引。
+- **Anti-Humanism (反人文主義)**： 桑代克在其著作中展現出強烈的反人文主義傾向。他嚴厲批判那些將古希臘羅馬文化奉為圭臬的學者。人文主義 (Humanism, a Renaissance cultural movement that turned away from medieval scholasticism and revived interest in ancient Greek and Roman thought) 運動帶有一種學術菁英的傲慢，他們鄙視中世紀的拉丁文與實用技術，試圖用優美卻空洞的修辭來取代扎實的邏輯分析。桑代克認為這種文化潮流阻礙了自然科學的發展。真正推動科學進步的動力來自於那些被鄙視的工匠、鍊金術士與經院學者。他們在作坊與大學課堂中進行著實質的物質操作與理論推演。對古代權威的盲目復古，讓歐洲知識界偏離了透過經驗與邏輯探索自然的正確道路，導致了長期的科學發展停滯。
+
+## The Sphere of Sacrobosco and Its Commentators 薩克羅博斯科的天球及其評論者 (1949)
+
+- **Geocentric Model (地心模型)**： 薩克羅博斯科 (Johannes de Sacrobosco, a scholar monk and astronomer who taught at the University of Paris) 所撰寫的《天球論》是中世紀最受歡迎的天文學教科書。該書詳細闡述了地心模型 (Geocentric Model, a superseded description of the Universe with Earth at the center) 的運作機制。桑代克強調，這個模型絕無後人想像中的那般粗糙與荒謬。它建立在托勒密 (Claudius Ptolemy, an Alexandrian mathematician astronomer and geographer) 繁複的幾何學計算之上，運用本輪與均輪等數學工具來解釋行星的逆行現象。地心模型在預測日食、月食與星體方位上具有極高的準確度，完全能夠滿足當時航海導航與曆法制定的實際需求。這種基於大量觀測數據與嚴格幾何推演的宇宙體系，展現了中世紀科學家在處理龐大空間資訊時的卓越數學能力。
+- **University Curriculum (大學課程)**： 中世紀大學的建立為科學知識的標準化與傳播提供了制度化保障。《天球論》成為所有藝術學院學生必修的大學課程 (University Curriculum, the specific courses and academic programs taught at higher education institutions) 核心教材。桑代克指出，這種統一的教育體系確保了歐洲各地的知識份子皆能具備基礎的天文學與數學素養。課程要求學生必須熟練掌握球面幾何與星盤操作。一致性的教育規範打破了過去知識封閉在個別修道院中的孤立狀態。標準化教材的廣泛使用促成了跨地域學術社群的形成，讓不同國家的學者能夠使用相同的科學語言與理論框架進行交流與辯論。大學教育機制的運作將零散的自然哲學知識轉變為一套具備高度傳承性的學術系統。
+- **Astronomical Commentaries (天文學評論)**： 針對經典教科書撰寫註釋與評論是中世紀學術生產的主要形式。天文學評論 (Astronomical Commentaries, detailed explanatory notes and interpretations written on foundational astronomical texts) 揭示了科學知識如何在尊崇權威的表象下進行微調與更新。學者們在解讀《天球論》時，會將最新的觀測數據與阿拉伯天文學家的理論融入註解之中。桑代克分析了數十種不同版本的手稿，發現這些評論文字包含了大量修正舊有計算誤差的原創性觀點。這是一種極具隱蔽性的學術創新模式。評論者表面上在闡釋古代經典，實質上正在逐步拆解並重構原有的理論體系。這種透過註釋進行的漸進式修正，推動了天文學知識在幾個世紀中的持續累積與發展。
+- **Computus (曆法計算)**： 基督教信仰對節日日期的精確要求，成為推動中世紀天文學發展的巨大動力。曆法計算 (Computus, the calculation of the date of Easter and other movable feasts in the Christian calendar) 是一門結合了神學、天文觀測與複雜算術的專門學問。由於復活節的日期取決於春分後的滿月，教會必須依賴精確的日月運行軌跡預測。桑代克認為，這種宗教需求促使學者們投入大量精力去改進觀測儀器與計算公式。為了修正儒略曆的誤差，數學家與天文學家進行了長達數個世紀的數據收集與理論辯論。曆法計算將高度抽象的星體運行理論轉化為維持社會與宗教秩序運作的實用技術，確保了天文學在當時社會中享有崇高的學術地位與資源挹注。
+- **Textual Transmission (文本流傳)**： 古希臘與阿拉伯的科學知識如何傳入拉丁歐洲，構成中世紀科學史的核心議題。文本流傳 (Textual Transmission, the process by which written texts are copied and passed down through generations) 是一個充滿翻譯錯誤、文化過濾與重新詮釋的複雜過程。桑代克透過追蹤特定天文學術語與計算公式的演變，重建了這些知識跨越語言邊界的移動軌跡。翻譯家在西班牙的托雷多等地將阿拉伯文手稿轉譯為拉丁文，這些譯本隨後在歐洲各地的大學中被抄寫與流通。抄寫員在複製過程中的筆誤或是蓄意修改，往往會催生出全新的科學見解。文本的流動軌跡繪製出一幅中世紀地中海沿岸知識交流的壯闊地圖，展現了不同文明在科學建構過程中的相互依存關係。
+
+## University Records and Life in the Middle Ages 中世紀的大學紀錄與生活 (1944)
+
+- **Institutionalization of Science (科學建制化)**： 現代科學研究極度依賴大學、實驗室與研究機構的支撐。科學建制化 (Institutionalization of Science, the process by which scientific research and education become formally established within societal structures) 的起源可追溯至十二世紀末期出現的歐洲中世紀大學。桑代克研究了巴黎、波隆那等早期大學的章程與法規，發現這些機構為從事自然哲學研究的學者提供了穩定的薪資、圖書館資源與學術庇護。學者們結成行會組織，共同制定課程標準與學位授予規則。這種制度化結構讓科學研究脫離了私人贊助的偶然性，轉變為一項具備可持續性與集體性的社會事業。機構的力量確保了科學知識的世代傳承，免受戰爭或政治動盪的毀滅性打擊。
+- **Academic Freedom (學術自由)**： 大學的行會組織在與教會及世俗王權的博弈中，爭取到了前所未有的思想探索空間。學術自由 (Academic Freedom, the principle that scholars should have freedom to teach or communicate ideas or facts without being targeted for repression) 在中世紀的大學章程中獲得了初步的法律保障。桑代克指出，只要學者的討論不直接牴觸基督教核心教義，他們擁有極大的權利去檢驗亞里斯多德的物理學說或辯論各種宇宙生成理論。大學內部設置了豁免權，禁止世俗警察進入校園逮捕師生。這種免於外部政治干預的特權，孕育了充滿活力的知識競爭環境。學者能夠在課堂上大膽提出具有爭議性的自然哲學假設。自由的辯論風氣成為推動人類理性突破教條束縛的強大引擎。
+- **Disputation (辯論術)**： 中世紀大學發展出一套極具對抗性的學術訓練機制。辯論術 (Disputation, a formalized method of debate designed to uncover and establish truths in theology and sciences) 要求學生必須在公開場合為特定的哲學命題進行辯護，並應對來自教授與同儕的嚴厲質疑。桑代克極力讚賞這種教育方法。參與者必須精準運用三段論法，迅速找出對手論證中的邏輯漏洞。這種嚴苛的心智訓練迫使學生對所有既定的科學結論保持懷疑態度，並學會用嚴密的邏輯鏈條來建構自己的理論。辯論術消除了被動吸收知識的弊端，將學術探索轉化為一種激烈的智力競技。這種強調證據、邏輯與反證的訓練模式，塑造了西方科學界尊奉的批判性思維傳統。
+- **Faculty of Arts (文學院)**： 在中世紀大學的學科階層中，神學、法學與醫學被視為高級學院。文學院 (Faculty of Arts, the division of a medieval university that taught the foundational subjects of the trivium and quadrivium) 負責教授包含文法、邏輯、幾何與天文在內的七藝，屬於所有高等教育的預科階段。桑代克認為文學院在科學發展史上的重要性遠遠超過其他學科。所有的學者皆必須在文學院接受嚴格的數學與邏輯訓練。這裡匯聚了大量對自然運作規律充滿好奇心的知識份子。他們在研讀古代自然哲學經典時，發展出各種關於運動力學與光學的新穎見解。文學院的日常教學活動成為孕育科學創新的絕佳溫床，為整個歐洲輸送了具備扎實數理基礎的研究人才。
+- **Student Mobility (學生流動性)**： 中世紀的大學生展現出驚人的跨國移動能力。學生流動性 (Student Mobility, the physical movement of students across different regions to attend various educational institutions) 使得科學知識得以在極短的時間內傳遍整個歐洲大陸。年輕學者經常背井離鄉，徒步前往巴黎學習神學，去波隆那研究法學，前往蒙彼利埃鑽研醫學。桑代克分析了學生旅行的路線與住宿紀錄，指出這種頻繁的人口流動打破了地域性的學術封閉。學生將不同大學的最新理論、手抄筆記與實驗觀察帶回家鄉。這種沒有國界限制的學術漫遊，促成了一個泛歐洲知識網絡的誕生。新思想與新發現透過這些年輕學者的腳步，迅速滲透至各個文化圈。
+
+## History of Medieval Europe 中世紀歐洲史 (1917)
+
+- **Technological Continuity (技術連續性)**： 歷史學家通常將羅馬帝國的滅亡視為歐洲技術發展的斷崖。桑代克堅決反對這種觀點，他提出技術連續性 (Technological Continuity, the unbroken development and transmission of practical tools and engineering methods across historical periods) 的主張。日耳曼部落在征服歐洲的過程中，保留並吸收了大量羅馬時代的農業與軍事技術。在中世紀的漫長歲月裡，歐洲人在水車、風車與重犁的發明與改良上取得了驚人的成就。這些技術革新雖然缺乏理論著作的支撐，卻極大地提升了生產效率。工匠與農民在日常勞動中不斷改進工具的設計。這種隱蔽且持續的技術進化，為後來的工業化奠定了堅實的物質基礎。中世紀絕無陷入黑暗的停滯，充滿了務實的工程創新與技術積累。
+- **Agrarian Expansion (農業擴張)**： 十一至十三世紀期間，歐洲經歷了一場深刻改變地貌與社會結構的經濟變革。農業擴張 (Agrarian Expansion, the widespread clearing of forests and draining of swamps to increase arable land and food production) 運動讓大量的荒地、沼澤與森林被轉化為可耕作的農田。桑代克指出，這場運動仰賴於鐵製農具的普及與三圃制輪作法的實施。糧食產量的激增支撐了人口的快速成長，釋放出大量的剩餘勞動力進入城市從事手工業與商業活動。農業技術的進步改變了人類與自然環境的互動模式，展示了人類改造地表景觀的巨大潛能。這種建立在技術革新基礎上的經濟繁榮，為大學的興起與科學文化的發展提供了必要的物質盈餘。
+- **Urbanization (都市化)**： 隨著商業貿易的復甦，歐洲各地湧現出大量新興城市。都市化 (Urbanization, the population shift from rural areas to towns and cities) 過程徹底改變了社會的權力結構與知識傳播路徑。桑代克認為，城市成為了各種思想與技術交匯的熔爐。來自不同地區的商人、工匠與學者在市集與廣場上交流資訊。城市脫離了封建領主的絕對控制，發展出獨立的自治政府與司法體系。這種相對自由的市民文化環境，極度有利於實用數學、簿記學與航海技術的發展。市民階級出於商業利益的考量，積極贊助各種能夠提升生產力與航海安全的技術研究。城市的興起打破了修道院對知識的壟斷，將知識生產與世俗的經濟活動緊密結合。
+- **Monastic Engineering (修道院工程學)**： 基督教修道院在保存與發展古代技術上扮演了關鍵角色。修道院工程學 (Monastic Engineering, the application of mechanical and hydraulic technologies by religious orders to improve their estates) 展現了宗教信仰與務實精神的完美結合。西多會 (Cistercians, a Catholic religious order of monks and nuns) 等修會組織在歐洲各地建立修道院時，引進了先進的水利工程技術。他們修築水壩、開鑿運河，利用水輪動力來推動磨坊、鋸木廠與鍛造爐。桑代克查閱了大量的修道院財產清冊，發現這些修士同時具備傑出的工程師與建築師身分。修道院將嚴格的勞動紀律與機械技術相結合，創造出當時歐洲最高效的工業生產模式。這些宗教社群成為了中世紀最重要的技術傳播中心，將先進的工程知識擴散至周邊的農村與城鎮。
+- **Guild System (行會制度)**： 中世紀的城市手工業高度依賴一種封閉且嚴密的組織形式。行會制度 (Guild System, an association of artisans or merchants who oversee the practice of their craft in a particular town) 控制著各種商品的生產標準、價格與勞動力供給。桑代克指出，行會對技術知識的傳承具有雙面效應。學徒制確保了專業技能得以在嚴格的監督下世代相傳，維持了極高的工藝品質。工匠大師將配方與技術細節視為最高機密，嚴禁外流。這種保密傳統雖然限制了技術的廣泛傳播，卻也促使工匠在封閉的環境中不斷精進技藝。金屬冶煉、玻璃製造與染料調配等行業在行會的管理下取得了卓越的技術突破。這些實用技術後來被鍊金術士與科學家大量吸收，成為化學與材料科學發展的重要養分。
