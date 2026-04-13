@@ -16,7 +16,7 @@ Last Modified: 2026-04-03 11:17
 File folder: A012. Scholars
 
 # Abraham Maslow (亞伯拉罕·馬斯洛)
-#scholars #psychology #pedagogy_affective
+#scholars #psychology #pedagogy_affective 
 
 # Motivation and Personality 動機與人格 (1954)
 - **Hierarchy of Needs (需求層次理論)：** 人類動機由低至高排列。包含生理需求、安全需求、歸屬與愛的需求、自尊需求及自我實現需求。
