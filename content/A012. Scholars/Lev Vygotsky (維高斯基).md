@@ -75,9 +75,9 @@
 
 # Neo-Vygotskian Concepts & Legacy (後維高斯基學派與延伸)
 - **More Knowledgeable Other (MKO, 更有能力的他人)**：雖然源於維高斯基思想，但此具體術語常被後人用來解釋 ZPD。指提供指導的協助者（父母、老師、同儕、電腦）。
-- **Scaffolding (鷹架理論)**：由 [[Jerome Bruner (布魯納)]]、[[David Wood (大衛·伍德) (Vygotskian)]] 與 [[Gail Ross (羅斯)]] 提出。在 ZPD 內提供的臨時性支持（分為 Hard Scaffolds 硬鷹架 / Soft Scaffolds 軟鷹架）。隨著能力提升，支持應逐漸撤除。
+- **Scaffolding (鷹架理論)**：由 [[Jerome Bruner (布魯納)]]、[[David Wood (大衛·伍德) (Vygotskian)]] 與 [[Gail Ross (蓋兒·羅斯)]] 提出。在 ZPD 內提供的臨時性支持（分為 Hard Scaffolds 硬鷹架 / Soft Scaffolds 軟鷹架）。隨著能力提升，支持應逐漸撤除。
 - **Activity Theory (AT, 活動理論)**：由維高斯基的學生 [[Aleksei Nikolaevich Leontiev (阿列克謝·尼古拉耶維奇·列昂捷夫)]] 發展。提出活動的層次結構：Activity (活動/動機) ↔ Action (行動/目標) ↔ Operation (操作/條件)。
-- **Cultural Historical Activity Theory (CHAT，文化歷史活動理論)**：由 [[Yrjö Engeström (恩格斯特羅姆)]] 擴充的第三代活動理論。引入了活動系統三角形：Subject (主體), Object (客體), Instrument (工具), Rules (規則), Community (社群), Division of Labor (勞動分工), Contradictions (矛盾)。
+- **Cultural Historical Activity Theory (CHAT，文化歷史活動理論)**：由 [[Yrjö Engeström (伊爾約·恩格斯托姆)]] 擴充的第三代活動理論。引入了活動系統三角形：Subject (主體), Object (客體), Instrument (工具), Rules (規則), Community (社群), Division of Labor (勞動分工), Contradictions (矛盾)。
 - **Funds of Knowledge (知識資金)**：[[Luis Moll (路易斯·莫爾)]] 提出，強調利用學生家庭與社區中豐富的文化資源與技能來輔助學校教學，這是對維高斯基文化情境觀點的現代應用。
 - **Dynamic Assessment (動態評量)**：基於 ZPD 的評量方式。評估學生的「學習潛力」而非現有能力。分為 Interventionist (干預主義，如 [[Reuven Feuerstein (費厄斯坦)]]) 與 Interactionist (互動主義) 兩種取徑。
 - **Regulation (調節)**：[[James Lantolf (蘭托夫)]] 將社會文化理論應用於二語習得（SLA）。學習者從 Object-regulation (客體調節) 走向 Other-regulation (他人調節)，最終達到 Self-regulation (自我調節)。
