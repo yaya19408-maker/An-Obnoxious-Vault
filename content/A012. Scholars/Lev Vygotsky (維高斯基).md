@@ -70,12 +70,12 @@
 - **Crises of Development (發展危機)**：心理結構重組的轉折點（如1歲、3歲、7歲危機）。危機不是病態，而是發展的必然過程，標誌著舊系統的解體與新系統的形成。
 - **Unity of Affect and Intellect (情感與理智的統一)**：反對將思維與情感分離。思維與情感相互交織，思想背後總有情感意志的驅動。
 - **Intelligent Emotions (聰明的情感)**：情感並非總是原始衝動，經由文化中介與思維連結，情感可以變得理智化與社會化。
-- **Functional Systems (機能系統理論)**：與 [[Alexander Luria (魯利亞)]] 共同發展。大腦功能並非固定定位，而是動態組織的機能系統。隨著發展，不同腦區會形成新的連結網絡。
+- **Functional Systems (機能系統理論)**：與 [[Alexander Luria (亞歷山大·魯利亞)]] 共同發展。大腦功能並非固定定位，而是動態組織的機能系統。隨著發展，不同腦區會形成新的連結網絡。
 - **Extracortical Organization (皮質外組織)**：人類高級心理功能的建立依賴於大腦皮質之外的外部工具（符號、文化）。大腦的可塑性使得它能與外部文化形成迴路。
 
 # Neo-Vygotskian Concepts & Legacy (後維高斯基學派與延伸)
 - **More Knowledgeable Other (MKO, 更有能力的他人)**：雖然源於維高斯基思想，但此具體術語常被後人用來解釋 ZPD。指提供指導的協助者（父母、老師、同儕、電腦）。
-- **Scaffolding (鷹架理論)**：由 [[Jerome Bruner (布魯納)]]、[[David Wood (伍德)]] 與 [[Gail Ross (羅斯)]] 提出。在 ZPD 內提供的臨時性支持（分為 Hard Scaffolds 硬鷹架 / Soft Scaffolds 軟鷹架）。隨著能力提升，支持應逐漸撤除。
+- **Scaffolding (鷹架理論)**：由 [[Jerome Bruner (布魯納)]]、[[David Wood (大衛·伍德) (Vygotskian)]] 與 [[Gail Ross (羅斯)]] 提出。在 ZPD 內提供的臨時性支持（分為 Hard Scaffolds 硬鷹架 / Soft Scaffolds 軟鷹架）。隨著能力提升，支持應逐漸撤除。
 - **Activity Theory (AT, 活動理論)**：由維高斯基的學生 [[Aleksei Nikolaevich Leontiev (阿列克謝·尼古拉耶維奇·列昂捷夫)]] 發展。提出活動的層次結構：Activity (活動/動機) ↔ Action (行動/目標) ↔ Operation (操作/條件)。
 - **Cultural Historical Activity Theory (CHAT，文化歷史活動理論)**：由 [[Yrjö Engeström (恩格斯特羅姆)]] 擴充的第三代活動理論。引入了活動系統三角形：Subject (主體), Object (客體), Instrument (工具), Rules (規則), Community (社群), Division of Labor (勞動分工), Contradictions (矛盾)。
 - **Funds of Knowledge (知識資金)**：[[Luis Moll (路易斯·莫爾)]] 提出，強調利用學生家庭與社區中豐富的文化資源與技能來輔助學校教學，這是對維高斯基文化情境觀點的現代應用。
