@@ -1,3 +1,15 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - scholars
+aliases:
+relevance:
+relevance 2:
+disambiguation:
+banner:
+media:
+---
 Date: 2026-04-06
 File Creation Date: 2026-04-06 03:41
 Last Modified: 2026-04-06 03:41
@@ -5,7 +17,7 @@ File folder: A012. Scholars
 
 # Aaron T. Beck (亞倫·貝克)
 
-#scholars
+#scholars #psychology #cognitive_science 
 
 ## Cognitive Model of Depression (認知憂鬱模型) (c. 1960s-1970s)
 
