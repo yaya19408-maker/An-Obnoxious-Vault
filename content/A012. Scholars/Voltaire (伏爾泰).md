@@ -1,3 +1,20 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - scholars
+aliases:
+relevance:
+relevance 2:
+disambiguation:
+banner:
+media:
+---
+Date: 2026-04-17
+File Creation Date: 2026-04-08 12:34
+Last Modified: 2026-04-09 13:26
+File folder: A012. Scholars
+
 - **Freedom of Speech (言論自由)**：「我不同意你的觀點，但我誓死捍衛你說話的權利。」強調思想與表達自由是文明社會的基石。
 * **Religious Tolerance (宗教寬容)**：猛烈抨擊天主教會的狂熱與不寬容（「踩死敗類！」）。主張信仰自由，反對宗教迫害。
 * **Separation of Church and State (政教分離)**：國家應保持世俗化，宗教不應干預政治或司法。推崇英國的制度，視其為自由與寬容的典範。
