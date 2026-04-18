@@ -8,4 +8,4 @@ File folder: A012. Scholars
 #scholars #economics #politics
 
 ## Debt: The First 5
-#scholar
+#scholars

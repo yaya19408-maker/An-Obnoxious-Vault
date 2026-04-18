@@ -25,4 +25,4 @@ File folder: A012. Scholars
 - **Sacred Time (聖時)**： 從日常時間中分別出來的時段，用以重演神聖事件，例如節日。
 - **Sacred Word (聖言)**： 被認為擁有創造力或效力的語言，其力量源於和終極力量的連結，例如神話、禱詞。
 - **Re-presentation (再現)**： 透過儀式使過去的神聖事件在當下重現，讓參與者能直接體驗其力量。
-#scholar
+#scholars

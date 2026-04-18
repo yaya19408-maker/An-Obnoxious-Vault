@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Large numbers hypothesis (大數假說)**： 一個關於物理學中無因次大數之間可能存在關聯的猜想，並推測萬有引力常數G可能隨時間變化。
 - **Constrained dynamics (約束動力學)**： 一套處理具有約束條件的動力學系統的哈密頓力學方法，應用於規範場論與廣義相對論。
 - **Fermi-Dirac statistics (費米-狄拉克統計)**： 描述遵守包立不相容原理的費米子，如電子的統計分佈規律。
-#scholar
+#scholars

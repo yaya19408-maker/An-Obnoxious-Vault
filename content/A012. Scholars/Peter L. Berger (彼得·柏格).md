@@ -32,4 +32,4 @@ File folder: A012. Scholars
 - **Homeless Mind (無家的心靈)**：現代性導致生活世界分裂，使個人產生疏離與無所歸屬的意識狀態。
 - **Role Distance (角色距離)**：個體有意識地與其扮演的社會角色保持心理距離，顯示自我與角色的分離。
 - **Alternation (轉變)**：個人在不同社會世界與意義系統之間轉換的能力，可能導致身份的重新定義。
-#scholar
+#scholars

@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Nurturant Parent Model (慈母模型)**： 一種政治世界觀的隱喻，強調同理心、社群責任與互助，認為社會應保護與賦權於公民。
 - **Moral Politics (道德政治)**： 主張政治意識形態深植於家庭模型的道德隱喻，這些模型塑造了人們對國家、政府與社會的根本看法。
 - **Cognitive Unconscious (認知無意識)**： 指大腦中絕大多數的思維過程是自動化且無法被意識直接察覺的，包括隱喻、框架等認知結構的運作。
-#scholar
+#scholars

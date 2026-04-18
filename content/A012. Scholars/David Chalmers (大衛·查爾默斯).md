@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Virtual Realism (虛擬實在論)**： 主張虛擬世界中的物件與事件是真實的，而非幻覺。虛擬實境是一種由運算構成的真實，與物理現實地位對等。
 - **Technophilosophy (技術哲學)**： 運用哲學方法分析與理解科技，同時也利用科技作為進行哲學探究的工具。
 - **Scrutability Thesis (可推導性論題)**： 主張所有關於世界的真理，原則上都能從一個基礎真理類別先驗地推導出來。
-#scholar
+#scholars

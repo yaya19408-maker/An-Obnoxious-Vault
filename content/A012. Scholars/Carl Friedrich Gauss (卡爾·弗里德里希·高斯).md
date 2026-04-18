@@ -32,4 +32,4 @@ File folder: A012. Scholars
 - **Gauss's Law (高斯定律)**： 描述電場如何由電荷產生。通過任意閉合曲面的電通量與曲面內總電荷成正比。
 - **Gauss's Law for Magnetism (高斯磁定律)**： 指出通過任何閉合曲面的淨磁通量為零，這意味著磁單極子不存在。
 - **Heliotrope (日光反射儀)**： 由高斯發明的測量儀器，利用鏡子將陽光反射至遠處，用於大地測量中的三角測量點標記。
-#scholar
+#scholars

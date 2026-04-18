@@ -74,4 +74,4 @@ File folder: A012. Scholars
 - **Contextualization Cues (語境化提示)：** 說話者用來暗示聽者應如何解讀當下對話情境的語音、語法或非語言信號。
 - **Discourse Models (論述模型)：** 隱含在日常語言中的常識性理論或文化假設，協助人們快速合理化現實世界。
 - **Macromodels (宏觀模型)：** 較為廣泛且跨越多個情境的綜合性心智模型，影響個體對社會整體的深層認知。
-#scholar
+#scholars

@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Parabolic Trajectory (拋物線軌跡)**： 證明水平運動與垂直下落運動的疊加會使拋射體產生拋物線形的飛行軌跡，並能以數學方式描述。
 - **Pendulum Isochronism (鐘擺等時性)**： 發現單擺在小角度擺動時，其週期與擺幅無關，僅取決於擺長，為精確計時儀器的發展提供理論依據。
 - **Strength of Materials (材料強度)**： 探討樑柱等結構的尺寸與其強度的數學關係，分析物體尺寸放大時，其強度無法依相同比例增加的平方立方定律，開創了材料力學。
-#scholar
+#scholars

@@ -22,4 +22,4 @@ File folder: Philosophy, Psychoanalysis, Classical
 - **Two Dogmas of Empiricism (經驗主義的兩個教條)**: 批判「分析/綜合命題」的區分與「還原論」。主張所有信念都只是程度上的不同，沒有絕對的界線。
 - **Ontological Relativity (本體論相對性)**: 我們只能相對於某個背景語言或理論來談論存在什麼。沒有絕對的、獨立於理論的本體論。
 - **Gavagai (指稱的不確定性)**: 思想實驗：當土著指著兔子說「Gavagai」，我們無法確定他指的是「兔子」、「兔子的一部分」還是「兔子的顯現」。
-#scholar
+#scholars

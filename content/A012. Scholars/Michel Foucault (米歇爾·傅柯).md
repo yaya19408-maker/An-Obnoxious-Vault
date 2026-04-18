@@ -164,4 +164,4 @@ media:
 # Post-Foucault Debates & Critiques
 - **Consensus vs. Dissensus (共識 vs. 異識)**：[[Jürgen Habermas (哈伯瑪斯)]] 追求理性「共識」；傅柯傾向「異識」，認為共識往往壓制差異。
 - **Cryptonormativity (隱蔽的規範性)**：[[Jürgen Habermas (哈伯瑪斯)]] 指責傅柯口頭否認普遍道德標準，行文卻充滿道德批判，暗示其「偷偷」依賴了未證成的規範。
-#scholar
+#scholars

@@ -22,4 +22,4 @@ File folder: A012. Scholars
 - **Analysis of Number (數的分析)**: 將自然數定義為概念的外延。例如，數字二被定義為所有包含兩個成員的集合所構成的集合。
 
 ##
-#scholar
+#scholars

@@ -134,4 +134,4 @@
     - **學者**：Jean Piaget (皮亞傑學派與維高斯基學派的對話)。
     - **概念**：傳統 ZPD 是非對稱的（高能力帶動低能力）。對稱 ZPD 指能力相當的同儕透過觀點衝突（Sociocognitive Conflict）激發彼此的發展。
 
-#scholar
+#scholars

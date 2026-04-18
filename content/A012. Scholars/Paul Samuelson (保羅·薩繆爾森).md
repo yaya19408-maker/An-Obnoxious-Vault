@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Efficient Market Hypothesis (效率市場假說)**: 金融市場的假說，認為資產價格已完全反映所有可得的資訊，因此無法利用舊資訊持續地獲得超額報酬。
 - **Overlapping Generations Model (世代交疊模型)**: 一種動態經濟模型，其中不同世代的個體在時間上部分重疊存在，常用於分析社會安全、公共債務等議題。
 - **Turnpike Theorem (轉軌定理)**: 在最適成長理論中，一個經濟體若要從初始狀態達到最終狀態，最有效率的路徑是盡快趨近並沿著一條特定的均衡增長路徑前進。
-#scholar
+#scholars

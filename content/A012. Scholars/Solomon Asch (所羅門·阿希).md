@@ -28,4 +28,4 @@ File folder: A012. Scholars
 - **Peripheral Traits (邊緣特質)**：對整體印象影響較小的特質。這些特質的重要性依附於核心特質，其意義會隨核心特質的改變而變化。
 - **Primacy Effect in Impression Formation (印象形成中的首因效應)**：最先接收到的關於一個人的資訊，對其整體印象的形成具有不成比例的影響力。
 - **Gestalt Psychology in Social Perception (社會知覺中的完形心理學)**：阿希將完形心理學原理應用於社會知覺，主張人們將他人視為一個統一的整體，而非獨立特質的集合。單一特質的意義取決於它在整體人格結構中的位置。
-#scholar
+#scholars

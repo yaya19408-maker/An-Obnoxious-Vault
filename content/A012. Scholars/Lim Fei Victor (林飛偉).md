@@ -3,4 +3,4 @@
 * **Designing Learning (設計學習)**：教師是學習經驗的設計師。運用不同模態的強項（能供性）來設計最有效的學習路徑。
 * **Systemic Functional Linguistics (系統功能語言學應用)**：將韓禮德的SFL理論應用於多模態文本分析與教學，連結語言與非語言資源。
 * **EdTech Integration (教育科技整合)**：探討如何在數位學習環境中有效整合多模態資源，避免認知負荷過重，促進深度學習。
-#scholar
+#scholars

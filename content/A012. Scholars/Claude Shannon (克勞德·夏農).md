@@ -37,4 +37,4 @@ File folder: A012. Scholars
 - **Shannon's Mouse (Theseus) (夏農的機械鼠)**：一個能學習並記憶迷宮路徑的機電裝置，是早期人工智慧與機器學習的實體展示。
 - **Nyquist–Shannon Sampling Theorem (奈奎斯特-夏農採樣定理)**：定義了將連續信號轉換為離散信號所需的最小採樣頻率，該頻率必須大於信號最高頻率的兩倍。
 - **An Algebra for Theoretical Genetics (理論遺傳學的代數)**：在其博士論文中，嘗試使用代數結構來形式化描述孟德爾遺傳定律的數學框架。
-#scholar
+#scholars

@@ -3,4 +3,4 @@
 * **Methodological Innovation (方法論創新)**：運用錄影分析、眼動追蹤等技術來捕捉多模態互動的細節。強調跨學科方法的整合。
 * **The Body and Gaze (身體與凝視)**：在教學研究中，關注身體姿勢、眼神接觸與空間移動如何構建學習環境與師生關係。
 * **Learning Environments (學習環境)**：研究博物館、教室、家庭等不同空間的符號資源配置如何影響學習體驗與知識建構。
-#scholar
+#scholars

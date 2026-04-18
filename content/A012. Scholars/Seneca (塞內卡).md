@@ -27,4 +27,4 @@ File folder: A012. Scholars
 - **The 'Open Door' (敞開之門)**： 當環境使有德性的生活變得不可能時，自殺被視為一種維護個人自由與尊嚴的理性選擇。
 - **Cosmopolitanism (世界主義)**： 所有人類因共享理性而屬於同一個社群，應將所有人視為同胞。
 - **True Friendship (真正的友誼)**： 友誼建立在共同的德性與理性價值之上，而非基於功利或快樂。
-#scholar
+#scholars

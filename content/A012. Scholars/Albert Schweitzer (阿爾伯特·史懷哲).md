@@ -48,4 +48,4 @@ File folder: A012. Scholars
 - **Practical Service as Ethical Action (作為倫理行動的實際服務)**： 強調真正的倫理不只停留在思想層面，必須轉化為具體的、幫助他人的實際行動，例如他的醫療工作。
 - **Argument with Jesus (與耶穌的爭辯)**： 描述他個人思想與耶穌教導之間的持續對話與張力，既受其啟發，又在現代情境下尋求新的應用與詮釋。
 - **Personal Sacrifice (個人犧牲)**： 認為為了實踐倫理理想，個人必須準備好放棄世俗的成功、安逸與名譽，將生命投入到更崇高的服務之中。
-#scholar
+#scholars

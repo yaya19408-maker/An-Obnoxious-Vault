@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Geography of anger (憤怒的地理學)**：集體暴力在全球化背景下的特定空間與社會分佈模式，其憤怒常指向少數群體。
 - **Anxiety of incompleteness (不完整的焦慮)**：民族國家對於自身主權或文化純潔性未能完全實現的深層焦慮，常將此焦慮轉嫁於境內少數群體。
 - **Predatory identities (掠奪性認同)**：一種建立在消滅或壓制他者基礎上的群體認同。此種認同的存在依賴於對敵對他者的定義與攻擊。
-#scholar
+#scholars

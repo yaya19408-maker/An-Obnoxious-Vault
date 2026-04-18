@@ -22,4 +22,4 @@ File folder: A012. Scholars
 * **Available Designs (可用設計)**：意義生產的資源庫，包括既有的語言模式、圖像風格等。學習者從中取材進行意義建構。
 * **The Redesigned (再設計)**：意義製作的結果。透過運用可用設計，學習者創造出新的意義，同時也改變了原本的資源庫與自己。
 * **Synesthesia in Learning (學習中的通感)**：不同模態之間的轉換（如把文字轉為圖畫）能促進深度學習。強調模態轉換在認知發展中的作用。
-#scholar
+#scholars

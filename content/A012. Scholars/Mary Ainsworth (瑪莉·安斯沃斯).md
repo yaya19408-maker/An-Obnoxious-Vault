@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Anxious-Avoidant Attachment (焦慮逃避型依附)**：幼兒在照顧者離開時表現得不太在意，重聚時會主動迴避或忽視照顧者，將注意力轉向玩具或環境。
 - **Anxious-Ambivalent/Resistant Attachment (焦慮矛盾/抗拒型依附)**：幼兒在照顧者離開前就顯得警惕，分離時極度痛苦。重聚時既想尋求安慰又表現出抗拒、憤怒的矛盾行為。
 - **Disorganized/Disoriented Attachment (紊亂/迷失型依附)**：由其學生Mary Main後續提出。幼兒在重聚時表現出混亂、矛盾或無法理解的行為，如呆滯、恐懼或突然的怪異舉動。
-#scholar
+#scholars

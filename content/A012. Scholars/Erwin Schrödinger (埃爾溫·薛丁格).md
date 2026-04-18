@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Negative Entropy (負熵)**： 生命體藉由從環境中攝取秩序（食物、陽光）來抵銷自身內部熵增，從而維持高度有序的狀態。
 - **Order from Order (秩序來自秩序)**： 生命體將環境中的有序狀態轉化為自身內部高度有序結構的運作原則。
 - **Code-Script (密碼腳本)**： 薛丁格用來比喻染色體，認為它包含了決定個體發育與功能的完整程式或藍圖。
-#scholar
+#scholars

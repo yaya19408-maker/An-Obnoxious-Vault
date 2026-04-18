@@ -33,4 +33,4 @@ File folder: A012. Scholars
 - **Homozygous (同型合子)**： 個體帶有兩個相同的等位基因，如TT或tt。
 - **Heterozygous (異型合子)**： 個體帶有兩個不同的等位基因，如Tt。
 - **Test Cross (試交)**： 將表現顯性性狀的個體與隱性同型合子個體雜交，以確定其基因型的方法。
-#scholar
+#scholars

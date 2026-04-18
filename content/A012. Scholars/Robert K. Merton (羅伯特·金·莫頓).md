@@ -32,4 +32,4 @@ File folder: A012. Scholars
 - **Reference Group (參考群體)**： 個體在評價自身態度、信念與行為時，用來作為比較標準或參照框架的社會群體。
 - **Anticipatory Socialization (預期性社會化)**： 個體為了準備進入某個自己嚮往的群體，而預先學習該群體的價值觀、規範與行為模式的過程。
 - **Focused Interview (焦點訪談)**： 一種質性研究方法，旨在深入了解受訪者對特定情境或刺激的主觀經驗、信念與態度。
-#scholar
+#scholars

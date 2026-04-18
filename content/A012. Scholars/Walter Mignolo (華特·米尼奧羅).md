@@ -8,4 +8,4 @@ File folder: A012. Scholars
 #scholars #philosophy #sociology
 
 ## The Darker Side of the Renaissance: Literacy
-#scholar
+#scholars

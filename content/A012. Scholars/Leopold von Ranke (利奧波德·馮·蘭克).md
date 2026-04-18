@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Interconnection of Events (事件的相互關聯)**：探究各國歷史的發展如何相互影響，形成一個全球性的歷史網絡。
 - **Role of Providence (神意)**：相信上帝的意志引導歷史發展，但主張歷史學家無法直接洞察神意，只能透過對事實的精確研究來感受其軌跡。
 - **Historical Seminar (史學研討會)**：開創了指導學生共同分析原始文獻的教學模式，奠定了現代歷史學專業訓練的基礎。
-#scholar
+#scholars

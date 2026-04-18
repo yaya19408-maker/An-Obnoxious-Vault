@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Against Abstraction (反對抽象)**：批判哲學與科學中過度依賴抽象概念與普遍法則的傾向，主張應回歸具體的歷史脈絡與人類經驗。
 - **Historical Case Studies (歷史案例研究)**：透過分析伽利略等具體的科學史案例，論證科學家在實踐中常採用非理性或違反規則的手段來推動其理論。
 - **The Tyranny of Truth (真理的暴政)**：批判將單一的、客觀的真理觀念強加於所有人的做法，認為這種做法壓抑了人類的創造力與文化多樣性。
-#scholar
+#scholars

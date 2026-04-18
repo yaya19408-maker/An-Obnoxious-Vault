@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **AI for Everyone (給所有人的 AI)**： 一門非技術性課程，向商業領袖與一般大眾解釋 AI 的基本概念、能力與限制。
 - **Data-Centric AI (以資料為中心的 AI)**： 一種 AI 開發理念，強調系統性地提升資料品質與一致性，以改善模型效能。
 - **MLOps (Machine Learning Operations) (機器學習維運)**： 一套結合機器學習與開發維運的實踐方法，旨在可靠且有效率地部署與維護生產環境中的機器學習系統。
-#scholar
+#scholars

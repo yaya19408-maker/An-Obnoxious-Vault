@@ -20,4 +20,4 @@ File folder: A012. Scholars
 - **Floating Exchange Rates (浮動匯率)**: 主張貨幣的匯率應由外匯市場的供需力量自由決定，反對政府干預的固定匯率制度。
 
 ## A Monetary History of the United States
-#scholar
+#scholars

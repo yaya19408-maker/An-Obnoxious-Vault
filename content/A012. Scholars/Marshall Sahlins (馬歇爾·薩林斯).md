@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **The Apotheosis of Captain Cook (庫克船長的神化)**： 主張夏威夷人根據其文化邏輯將庫克船長視為神祇Lono的降臨，此為結構與事件互動的案例。
 - **Heroic History (英雄史觀)**： 聚焦於偉大個體行動的歷史敘事，薩林斯將其與結構性力量的分析對比。
 - **Structural History (結構史)**： 分析文化結構如何形塑歷史事件的軌跡，以及事件如何反作用於結構本身。
-#scholar
+#scholars

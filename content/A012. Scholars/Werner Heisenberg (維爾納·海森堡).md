@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Role of the Observer (觀察者的角色)**： 強調在量子世界中，觀察者與被觀測系統密不可分，觀測行為必然會干預並影響實驗結果。
 - **Critique of Classical Causality (對古典因果律的批判)**： 論證量子力學的發現動搖了古典物理中嚴格的決定論式因果關係，並以機率性法則取而代之。
 - **Unity of Nature (自然的統一性)**： 探索基礎粒子物理學最終可能揭示一個單一的根本原理或世界公式，所有已知的粒子與作用力皆可由此推導而出。
-#scholar
+#scholars

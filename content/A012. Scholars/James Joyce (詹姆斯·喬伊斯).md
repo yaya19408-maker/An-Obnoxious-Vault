@@ -46,4 +46,4 @@ File folder: A012. Scholars
 ## Finnegans Wake 芬尼根的守靈夜 (1939)
 
 - **Portmanteau Word (混合詞)**： 這是芬尼根的守靈夜最顯著的語言特徵。喬伊斯將兩個或多個來自不同語言的詞語或詞根融合在一起，創造出一個新的、具有多重意義的單詞。例如，
-#scholar
+#scholars

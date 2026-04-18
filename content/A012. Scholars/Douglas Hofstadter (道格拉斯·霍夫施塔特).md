@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - Compton Gamma Ray Observatory (康普頓伽瑪射線天文台)：美國太空總署的太空望遠鏡計畫，霍夫施塔特在其搭載的儀器EGRET的開發中扮演了關鍵角色。
 - Gamma-ray Astronomy (伽瑪射線天文學)：透過探測來自宇宙的高能伽瑪射線來研究天體物理現象的學科，霍夫施塔特的後期生涯對此領域有重要貢獻。
 - Free-electron Laser (自由電子雷射)：利用在週期性磁場中運動的相對論性電子束作為增益介質來產生同調輻射的裝置，霍夫施塔特也參與了相關研究。
-#scholar
+#scholars

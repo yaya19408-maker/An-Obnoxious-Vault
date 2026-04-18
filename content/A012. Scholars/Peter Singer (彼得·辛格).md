@@ -26,4 +26,4 @@ File folder: Technology
 - **Expanding the Moral Circle (擴展道德圈)**：人類的道德關懷範圍從最初的家庭與部落，逐漸擴展到國家與全人類。Singer 主張應繼續將此範圍向外推廣，涵蓋所有具備感知能力的生命體。
 - **Replaceability Argument (可替代性論證)**：在特定條件下，若一個缺乏自我意識的生命無痛逝世並被另一個擁有相同快樂潛力的生命取代，總體效益維持不變。此觀點常被用來檢視特定農業實踐的道德合理性。
 - **Principle of Equal Consideration of Interests (利益平等考量原則)**：在進行道德判斷時，必須將所有受影響者的利益給予同等份量的重視。無論對象的智力或外貌特徵為何，只要具備感知能力，其避免痛苦的利益就應受平等對待。
-#scholar
+#scholars

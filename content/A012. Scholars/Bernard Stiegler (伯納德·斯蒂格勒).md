@@ -22,4 +22,4 @@ File folder: Sociotechnical
 - **Proletarianization (無產階級化)**：當知識外包給機器（如GPS取代認路能力），人就喪失了「技能」與「生活知識」。消費主義導致了精神的無產階級化。
 - **Pharmacology (藥理學)**：技術既是解藥也是毒藥。它既能擴展精神能力，也能導致精神短路。必須發展新的知識療法來對抗技術的毒性。
 - **Epiphylogenesis (後種系生成)**：人類的演化不只靠生物基因，更靠身外之物（技術）的代代相傳。這是生命演化的新階段。
-#scholar
+#scholars

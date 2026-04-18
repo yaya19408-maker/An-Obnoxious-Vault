@@ -8,4 +8,4 @@ File folder: A012. Scholars
 #scholars #politics #sociology
 
 ## Man
-#scholar
+#scholars

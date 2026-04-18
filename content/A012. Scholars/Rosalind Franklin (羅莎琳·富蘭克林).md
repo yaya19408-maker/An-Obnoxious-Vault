@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Tobacco Mosaic Virus (TMV) Structure (菸草鑲嵌病毒結構)**： 利用X射線繞射技術解析TMV的結構，確認其為中空的蛋白質圓柱體。
 - **Single-Strand RNA Helix (單股RNA螺旋)**： 證明TMV的遺傳物質RNA是一條單股螺旋鏈，並鑲嵌在蛋白質亞基構成的螺旋溝槽中。
 - **Poliovirus Structure (脊髓灰質炎病毒結構)**： 在她生涯的最後階段，開始對脊髓灰質炎病毒進行結構研究，該計畫在其去世後由同事繼續完成。
-#scholar
+#scholars

@@ -159,6 +159,7 @@ Egan, G. (1976). Confrontation. _Group & Organization Studies_, _1_(2), 223-24
 
 ---
 ## Historical Empathy 歷史同理心；歷史神入
+**Endacott and Brooks (2006)**
 
 ## Hot-Cold Empathy Gap 移情隔閡 
 ### Cold Empathy 冷感同理心

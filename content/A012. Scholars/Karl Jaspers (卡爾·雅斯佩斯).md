@@ -34,4 +34,4 @@ File folder: A012. Scholars
 
 - **Consciousness-as-such (一般意識)**：所有理性存有所共通的、普遍的邏輯與科學意識。它是包圍圈的一種模式，追求客觀有效性。
 - **Spirit (精神)**：包圍圈的一種模式，涉及文化、理念與引導個人和社群的整體性觀念。
-#scholar
+#scholars

@@ -35,4 +35,4 @@ File folder: A012. Scholars
 - **Core State (核心國家)**： 一個文明中最具權勢與文化核心地位的國家，扮演領導與秩序維護者的角色。
 - **Kin-Country Syndrome (親緣國家症候群)**： 當一國與另一文明的國家發生衝突時，其文明內的其他國家會團結起來支援。
 - **Torn Countries (無所適從的國家)**： 領導人試圖使其國家從一個文明轉向另一個文明，導致國家認同分裂。
-#scholar
+#scholars

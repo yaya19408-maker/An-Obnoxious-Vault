@@ -25,4 +25,4 @@ File folder: A012. Scholars
 - **al-khalīfa (哈里發)**： 伊斯蘭世界中最高的宗教與政治領袖職位。
 - **al-sultān (蘇丹)**： 掌握實際軍事與行政權力的世俗統治者。
 - **Rural-Urban Dichotomy (城鄉二元對立)**： 游牧社會與城市文明之間的對比與衝突，是歷史變遷的動力之一。
-#scholar
+#scholars

@@ -22,4 +22,4 @@ File folder: Philosophy, Psychoanalysis, Classical
 - **Master-Slave Dialectic (主奴辯證)**: 自我意識的形成需要他人的承認。透過主奴鬥爭，奴隸在勞動中獲得了對自然的宰制力，最終比主人獲得更高的自主性。
 - **Zeitgeist (時代精神)**: 特定歷史時期的文化、道德與思想氛圍。個人是時代精神的產物，歷史英雄則是體現並推動時代精神的人。
 - **Aufheben (揚棄)**: 辯證過程中的關鍵動作，意指同時「取消」、「保存」並「提升」。舊有的矛盾被解決，但其真理成分被保留在新的階段中。
-#scholar
+#scholars

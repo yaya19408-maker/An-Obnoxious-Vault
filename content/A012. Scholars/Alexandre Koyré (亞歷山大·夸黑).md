@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Hypotheses non fingo (我絕不作假說)**：此宣言並非拒絕所有假說，而是特指拒絕對引力終極原因進行非數學、非經驗的純粹思辨。牛頓專注於描述其數學規律。
 - **Action at a distance (超距作用)**：牛頓引力理論在哲學上的困難點。此概念意味著物體可穿越虛空相互作用，無需任何媒介，連牛頓本人都對此感到困惑。
 - **God as a metaphysical foundation (作為形上學基礎的上帝)**：對牛頓而言，上帝是維持太陽系穩定、確保絕對時空存在的必要主動原則，為其物理體系提供形上學支撐。
-#scholar
+#scholars

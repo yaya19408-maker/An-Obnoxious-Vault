@@ -8,4 +8,4 @@ File folder: A012. Scholars
 #scholars
 
 ## The Perception of the Environment: Essays in Livelihood
-#scholar
+#scholars

@@ -14,4 +14,4 @@ File folder: A012. Scholars
 - **Big O Notation (大O符號)**: 描述演算法時間複雜度或空間複雜度的上限，表示執行時間或空間需求的增長率。
 - **Knuth–Morris–Pratt Algorithm (KMP演算法)**: 一種高效的字串搜尋演算法，透過預處理模式字串以避免在主文字串中不必要的重新比對。
 - **Dancing Links (DLX
-#scholar
+#scholars

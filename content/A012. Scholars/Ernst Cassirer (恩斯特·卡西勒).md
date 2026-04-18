@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Relational Thinking (關係性思維)**：強調透過元素之間的相互依賴與關係來理解實在的思維模式。這是功能概念的基礎，也是科學思維的核心特徵。
 - **Cultural Science (Kulturwissenschaft / 文化科學)**：將文化視為一個符號形式系統的學術研究。其目標是理解人類為世界賦予形式的各種精神原則與活動。
 - **A Priori Forms of Intuition (先驗直觀形式)**：卡西勒對康德先驗概念的修正。它不再是心靈固定的範疇，而是不同符號形式中運作的多元功能性原則，是建構意義的先決條件。
-#scholar
+#scholars

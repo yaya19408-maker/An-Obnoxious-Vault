@@ -30,4 +30,4 @@ File folder: A012. Scholars
 ## Mathematics and Music (數學與音樂) (c. 530–495 BC)
 
 - **Pythagorean Theorem (畢氏定理)**： 在平面幾何中，一個直角三角形的兩條直角邊長度的平方和等於斜邊長度的平方。這個定理的代數表達式為 a²+b²=c²。雖然巴比倫人和埃及人在此之前已經知道特定的畢氏三元數（例如3
-#scholar
+#scholars

@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Euler-Lagrange Equation (歐拉-拉格朗日方程式)**：變分法中的核心方程式，用於尋找使泛函取得極值的函數，是許多物理定律的基礎。
 - **Euler's Rotation Equations (歐拉旋轉方程式)**：描述剛體在主軸座標系中旋轉動態的一組微分方程式。
 - **Buckling Formula (壓力柱的挫曲公式)**：一個工程力學公式，用來計算理想的細長柱在軸向壓力下發生彎曲失穩（挫曲）時的臨界負載。
-#scholar
+#scholars

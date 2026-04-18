@@ -33,4 +33,4 @@ File folder: A012. Scholars
 - Mathematical Platonism (數學柏拉圖主義): 一種哲學觀點，認為數學概念和對象（如數字、集合）是獨立於人類心靈而客觀存在的抽象實體，數學家是發現而非發明它們。
 - Gödel's Rotating Universe (哥德爾旋轉宇宙): 哥德爾為愛因斯坦廣義相對論場方程式找到的一個解。這個宇宙模型在整體上是旋轉的。
 - Closed Timelike Curve (CTC) (封閉類時曲線): 在哥德爾的宇宙模型中存在的一種時空路徑，它允許物體在時間中旅行並回到其過去的某個點，理論上使得時間旅行成為可能。
-#scholar
+#scholars

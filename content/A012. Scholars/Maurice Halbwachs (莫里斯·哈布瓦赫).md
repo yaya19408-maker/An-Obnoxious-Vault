@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Internal Memory/Dream (內在記憶/夢)**： 純粹屬於個體、無法或難以與他人分享的心理狀態，因其缺乏共通的社會框架，故不屬於集體記憶的範疇。
 - **Forgetting (遺忘)**： 社會性的遺忘源於承載特定記憶的社會群體消失，或其賴以維生的社會框架發生了根本性變動。
 - **Stream of Collective Thought (集體思想之流)**： 指一個社會中持續流動的觀念與表象，集體記憶是其中的一部分，並與社會當下的思想保持互動。
-#scholar
+#scholars

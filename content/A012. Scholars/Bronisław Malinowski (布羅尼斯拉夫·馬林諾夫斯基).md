@@ -34,4 +34,4 @@ File folder: A012. Scholars
 
 - **Phatic Communion (應酬性交談)**： 為建立或維持社交連結而進行的語言溝通，其目的在於社交本身，而非傳遞資訊。
 - **Context of Situation (情境脈絡)**： 理解話語意義的必要條件，指話語發生的物理與社會環境。
-#scholar
+#scholars

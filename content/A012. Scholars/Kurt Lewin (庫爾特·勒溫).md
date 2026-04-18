@@ -43,4 +43,4 @@ File folder: A012. Scholars
 - **Avoidance-Avoidance Conflict (雙避衝突)：** 面對兩個同時具備負誘發力且必須選擇其一的目標時的心理狀態。
 - **Approach-Avoidance Conflict (趨避衝突)：** 同一目標同時具備正負誘發力，引發個體猶豫不決的狀態。
 - **Action Space (行動空間)：** 生活空間中個體認為可以自由進入並採取行動的區域。
-#scholar
+#scholars

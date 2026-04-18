@@ -8,4 +8,4 @@ File folder: A012. Scholars
 #scholars
 
 ## The Global City: New York
-#scholar
+#scholars

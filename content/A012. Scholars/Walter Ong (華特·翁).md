@@ -25,4 +25,4 @@ File folder: A012. Scholars
 - **Homeostatic (恆定靜態)**： 口語社會的記憶具有平衡機制，會自動遺忘與當下無關的過去，使知識體系維持在與現實生活直接相關的狀態。
 - **Situational rather than Abstract (情境式而非抽象式)**： 口語思維傾向在具體的、操作性的情境中解決問題，對於脫離脈絡的抽象分類與邏輯推理感到困難。
 - **Interiorization of Technology (技術的內化)**： 指書寫作為一種外在技術，被人類吸收並轉化為內在思維模式的過程，徹底改變了人的意識結構。
-#scholar
+#scholars

@@ -32,4 +32,4 @@ File folder: A012. Scholars
 - **Indifferent Kinds (無關類型)**： 指自然科學中的分類（如夸克、馬），它們的性質不會因為我們如何分類或思考它們而改變，對人類的認知活動保持冷漠。
 - **Transient Mental Illnesses (短暫性精神疾病)**： 指在特定歷史文化脈絡下短暫出現又消失的精神疾病，反映了社會文化因素與迴圈效應對疾病建構的影響。
 - **Historical Ontology (歷史存有論)**： 探究我們視為理所當然的客體、概念、實踐與人群類型是如何在歷史中生成，並成為可被思考與認識的對象。
-#scholar
+#scholars

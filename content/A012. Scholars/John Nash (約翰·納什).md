@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Riemannian Manifold (黎曼流形):** 一個在每點的切空間上都定義了內積的光滑流形，可用於測量距離與角度。
 - **Partial Differential Equations (偏微分方程):** 納什在研究非線性拋物線型與橢圓型偏微分方程的解的存在性與正則性方面做出貢獻。
 - **De Giorgi–Nash Theorem (德喬治-納什定理):** 關於某類橢圓型與拋物線型偏微分方程解的霍爾德連續性的結果。
-#scholar
+#scholars

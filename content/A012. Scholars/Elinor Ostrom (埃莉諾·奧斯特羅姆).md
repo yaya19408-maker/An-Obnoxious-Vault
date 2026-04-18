@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **Conflict-Resolution Mechanisms (衝突解決機制)**：原則六：使用者能快速且低成本地透過地方機制解決彼此間的衝突。
 - **Minimal Recognition of Rights to Organize (組織權的最低承認)**：原則七：外部政府權威承認並尊重使用者自行設計制度的權利。
 - **Nested Enterprises (層級式組織)**：原則八：對於大型資源系統，治理活動透過多層次的巢狀結構進行組織。
-#scholar
+#scholars

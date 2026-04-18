@@ -36,4 +36,4 @@ File folder: A012. Scholars
 - **Consilience (知識大融通)**： 主張所有知識領域，從物理學到人文藝術，最終可以透過共同的因果解釋而統一的理念。
 - **The Hundred Heartbeat Club (百心跳俱樂部)**： 形容瀕臨絕種的物種，指其全球剩餘個體數少於一百的物種。
 - **Icarus Effect (伊卡洛斯效應)**： 描述學術領域過度專精化，最終因脫離現實或缺乏整合而衰敗的現象。
-#scholar
+#scholars

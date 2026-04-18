@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Culture and Personality School (文化與人格學派)**： 探討文化如何塑造個體人格，以及個體人格如何反過來影響文化發展的學術流派，潘乃德為其代表人物。
 - **Synergy (協同作用)**： 潘乃德晚期提出的概念，用以衡量一個社會的制度是否能讓個人利益與群體利益相結合。高協同社會鼓勵合作互利，低協同社會則引發對立。
 - **Discontinuity in Cultural Conditioning (文化制約的不連續性)**： 某些文化在個體生命週期的不同階段間，設下急遽且斷裂的轉變，例如從童年到成年的角色要求差異過大，造成心理壓力。
-#scholar
+#scholars

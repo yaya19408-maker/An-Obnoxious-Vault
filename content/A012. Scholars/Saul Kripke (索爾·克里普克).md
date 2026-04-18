@@ -27,4 +27,4 @@ File folder: A012. Scholars
 - **Quus (加法怪)**： 一個思想實驗，用以說明規則遵循悖論。Quus 函數在處理我們以前未計算過的大數時，會得出與加法不同的結果。
 - **Private Language Argument (私有語言論證)**： 根據克里普克的詮釋，此論證反對一個人的語言僅能被其本人理解的可能性，因為缺乏公共檢驗標準。
 - **Normativity of Meaning (意義的規範性)**： 意義蘊含著正確與錯誤的應用標準。一個詞語的意義指導我們應該如何使用它。
-#scholar
+#scholars

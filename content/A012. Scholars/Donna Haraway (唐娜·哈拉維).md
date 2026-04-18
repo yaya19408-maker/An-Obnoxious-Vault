@@ -18,4 +18,4 @@ File folder: Sociotechnical
 - **Chthulucene (克蘇魯紀)**：提出替代「人類世」的概念。強調在多物種糾纏的地下/大地網絡中，與非人類力量共同生存與死亡的時代。
 - **Companion Species (伴侶物種)**：人類從來不是獨立存在的，而是與狗、細菌等物種「共同生成」（Becoming-with）。關注跨物種的愛與政治。
 - **Staying with the Trouble (與麻煩共存)**：面對生態災難，不應寄望技術救贖或陷入絕望，而應在受損的地球上，透過創造性的親緣關係（Make Kin）共同生活。
-#scholar
+#scholars

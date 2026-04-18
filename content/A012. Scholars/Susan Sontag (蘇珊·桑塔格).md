@@ -30,4 +30,4 @@ File folder: A012. Scholars
 - **AIDS and Its Metaphors (愛滋病及其隱喻)**：探討愛滋病如何被瘟疫、入侵等隱喻框架，導致對患者的污名化。
 - **Regarding the Pain of Others (旁觀他人之痛苦)**：重新審視觀看戰爭與苦難影像的倫理複雜性，質疑其能否促成行動或僅為窺視。
 - **Compassion Fatigue (同情疲乏)**：持續觀看苦難影像可能使觀眾變得麻木，降低同情心與採取行動的意願。
-#scholar
+#scholars

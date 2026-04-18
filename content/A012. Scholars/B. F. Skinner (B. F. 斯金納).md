@@ -51,4 +51,4 @@ File folder: A012. Scholars
 - **Generalized Reinforcer (廣義增強物)：** 能換取多種初級增強物的次級增強物，具有跨情境的效力。
 - **Counter-control (反向控制)：** 被控制者為了對抗控制者的權力而採取的操作行為。
 - **Walden Two (沃登第二)：** 斯金納描繪的理想社會，透過行為工程而非強制力來達成和諧與幸福。
-#scholar
+#scholars

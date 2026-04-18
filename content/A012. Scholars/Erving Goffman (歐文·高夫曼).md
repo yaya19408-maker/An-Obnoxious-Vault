@@ -40,4 +40,4 @@ File folder: A012. Scholars
 - **Role Distance (角色距離)：** 行動者在執行任務時，表現出自己並不全然投入該角色的姿態。
 - **Secondary Adjustment (次級調整)：** 個體在收容機構中，透過隱蔽手段獲取特權的行為。展現了主體性的殘留。
 - **Territory of the Self (自我疆域)：** 個體要求控制的空間或對象。包含個人空間與物品所有權感。
-#scholar
+#scholars

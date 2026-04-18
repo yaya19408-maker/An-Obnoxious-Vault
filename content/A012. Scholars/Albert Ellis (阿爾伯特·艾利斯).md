@@ -48,4 +48,4 @@ File folder: A012. Scholars
 - **Unconditional Other-Acceptance (UOA) (無條件他人接納)**：接納他人同樣是會犯錯的凡人，即使不贊同其行為，也承認其作為人的基本價值，避免對他人進行整體性的貶抑。
 - **Unconditional Life-Acceptance (ULA) (無條件生活接納)**：承認生活本就包含無法控制的困難與挫折，並在無法改變現實時，選擇接納它，尋求在限制中活出最好的可能。
 - **Shame-Attacking Exercises (反羞恥練習)**：一種行為技術，個案被鼓勵在公開場合故意從事一些雖然合法、卻可能引來他人注意的古怪行為，藉此挑戰對他人評價的過度恐懼。
-#scholar
+#scholars

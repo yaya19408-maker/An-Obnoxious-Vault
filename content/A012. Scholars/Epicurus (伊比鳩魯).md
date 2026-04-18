@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **Sensations (Aisthesis) (感覺)**： 知識的第一個來源與真理的標準。所有感官知覺本身都是真實的，錯誤源於我們對感覺的判斷。
 - **Preconceptions (Prolepsis) (預見)**： 儲存在心靈中的普遍概念，由重複的感官經驗形成，是思考與判斷的基礎。
 - **Feelings (Pathe) (感受)**： 指快樂與痛苦的感受。它們是判斷行為選擇的標準，引導我們趨樂避苦。
-#scholar
+#scholars

@@ -25,4 +25,4 @@ File folder: A012. Scholars
 - **Causation (因果關係)**：區分戰爭的直接導火線或藉口(aitiai)與更深層的、真正的根本原因(prophasis)，認為後者是斯巴達對雅典崛起力量的恐懼。
 - **A Possession for All Time (永恆的財富)**：修昔底德對其著作的自我評價，認為這本書的價值是永恆的，因為人性不變，未來的世代可藉此理解政治與戰爭。
 - **Objectivity (客觀性)**：作者力求達成的寫作目標，意圖提供一個不受個人偏見或虛構故事影響，忠於事實的歷史紀錄。
-#scholar
+#scholars

@@ -15,4 +15,4 @@ File folder: A012. Scholars
 - **Second Modernity (第二現代性)**： 一個超越傳統工業社會與民族國家的現代性新階段，其特徵為全球化、個體化與風險的不確定性，與第一現代性形成對比。
 - **Individualization (個體化)**： 個人從傳統社會連結如階級、家庭、社群中脫嵌，被迫自我規劃、選擇與建構個人生命歷程的結構性過程。
 - **
-#scholar
+#scholars

@@ -26,4 +26,4 @@ File folder: A012. Scholars
 - **Opting Out (選擇退出)**：說話者明確表示無法或不願遵守某項準則，例如說我不能再多說了。
 - **Clash of Maxims (準則衝突)**：為遵守一項準則而必須違反另一項準則的情況。
 - **Speaker's Intention (說話者意圖)**：意義理論的核心，意義源於說話者希望聽者辨識其意圖，並由此產生特定效果。
-#scholar
+#scholars

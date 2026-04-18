@@ -35974,3 +35974,1326 @@ Exc ¥Ø¿ý : .obsidian
       ³t«× :             111.319 MB/¤À¡C
    ¤wµ²§ô : 2026¦~4¤ë18¤é ¤U¤È 02:44:44
 
+warning: in the working copy of 'content/A012. Scholars/A. R. Radcliffe-Brown (é˜¿å¼—çƒˆÂ·èŠ®å…‹é‡Œå¤«-å¸ƒæœ—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aaron T. Beck (äºžå€«Â·è²å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Abraham Maslow (äºžä¼¯æ‹‰ç½•Â·é¦¬æ–¯æ´›).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aby Warburg (é˜¿æ¯”Â·ç“¦çˆ¾å ¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Achille Mbembe (é˜¿å¥‡é‡ŒÂ·å§†è²è²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Adam Smith (äºžç•¶Â·æ–¯å¯†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alain Badiou (å·´è¿ªæ­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alain Touraine (é˜¿è˜­Â·åœ–è³´è¨¥).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alan Kay (è‰¾å€«Â·å‡±).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alan Turing (è‰¾å€«Â·åœ–éˆ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alaric Finch (é˜¿æ‹‰é‡Œå…‹Â·èŠ¬å¥‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alasdair MacIntyre (é˜¿æ‹‰æ–¯ä»£çˆ¾Â·éº¥é‡‘æ³°çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Albert Bandura (é˜¿çˆ¾æ³¢ç‰¹Â·ç­æœæ‹‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Albert Camus (é˜¿çˆ¾è²Â·å¡ç¹†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Albert Einstein (é˜¿çˆ¾ä¼¯ç‰¹Â·æ„›å› æ–¯å¦).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Albert Ellis (é˜¿çˆ¾ä¼¯ç‰¹Â·è‰¾åˆ©æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Albert Schweitzer (é˜¿çˆ¾ä¼¯ç‰¹Â·å²æ‡·å“²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aldous Huxley (é˜¿çˆ¾å¤šæ–¯Â·èµ«èƒ¥é»Ž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aleister Crowley (é˜¿èŠæ–¯ç‰¹Â·å…‹å‹žåˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aleksei Nikolaevich Leontiev (é˜¿åˆ—å…‹è¬Â·å°¼å¤æ‹‰è€¶ç¶­å¥‡Â·åˆ—æ˜‚æ·å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alex Karp (äºžåŠ›å…‹æ–¯Â·å¡æ™® ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alexander Fleming (äºžæ­·å±±å¤§Â·å¼—èŠæ˜Ž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alexander Luria (äºžæ­·å±±å¤§Â·é­¯åˆ©äºž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alexander Wendt (äºžæ­·å±±å¤§Â·æº«ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alexandre KoyrÃ© (äºžæ­·å±±å¤§Â·å¤¸é»‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alexis de Tocqueville (äºžæ­·è¥¿æ–¯Â·å¾·Â·æ‰˜å…‹ç¶­çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alfred Adler (é˜¿å¾·å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alfred Korzybski (é˜¿çˆ¾å¼—é›·å¾·Â·ç§‘çˆ¾æ—¥å¸ƒæ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alfred North Whitehead (æ‡·æµ·å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alfred Russel Wallace (é˜¿çˆ¾å¼—é›·å¾·Â·ç¾…ç´ Â·è¯èŠå£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Alfred Wegener (é˜¿çˆ¾å¼—é›·å¾·Â·éŸ‹æ ¼ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Algirdas Julien Greimas (é˜¿çˆ¾å‰çˆ¾é”æ–¯Â·æœ±åˆ©å®‰Â·æ ¼é›·é¦¬æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Amartya Sen (é˜¿é¦¬è’‚äºžÂ·æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Amos Tversky (é˜¿æ‘©å¸Â·ç‰¹æ²ƒæ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Andrei Tarkovsky (å®‰å¾·çƒˆÂ·å¡”å¯å¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Andrew Ng (å³æ©é”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Antoine Lavoisier (å®‰æ‰˜è¬Â·æ‹‰ç“¦éŒ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Antonio Gramsci (è‘›è˜­è¥¿).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Archimedes (é˜¿åŸºç±³å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Aristotle (äºžé‡Œæ–¯å¤šå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Arjun Appadurai (é˜¿å§œÂ·é˜¿å¸•æœèŠ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Arnold J. Toynbee (é˜¿è«¾å¾·Â·JÂ·æ¹¯æ©æ¯”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Arnold van Gennep (èŒƒç†±å…§æ™®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Arthur Schopenhauer (å”æœ¬è¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ashish Vaswani (Transformer) (é˜¿å¸Œä»€Â·ç“¦æ–¯ç“¦å°¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/August KekulÃ© (å‡±åº«å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Augusto Ponzio (é¾é½Šå¥§).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Avicenna (é˜¿ç¶­æ£®ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Axel Honneth (é˜¿å…‹å¡žçˆ¾Â·éœè€ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/B. F. Skinner (B. F. æ–¯é‡‘ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Baruch de Spinoza (æ–¯è³“è«¾èŽŽ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bell Hooks (è²çˆ¾Â·èƒ¡å…‹æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Benedict Anderson (ç­ç´è¿ªå…‹ç‰¹Â·å®‰å¾·æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Benjamin Bloom (å¸ƒé­¯å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Benjamin Lee Whorf (ç­å‚‘æ˜ŽÂ·æŽÂ·æ²ƒå¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/BenoÃ®t Mandelbrot (ä¼¯åŠªç“¦Â·æ›¼å¾·å¸ƒæ´›ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/BenoÃ®t Paul Ã‰mile Clapeyron (åŸƒç±³çˆ¾Â·å…‹æ‹‰ä½©é¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bernard Stiegler (ä¼¯ç´å¾·Â·æ–¯è’‚æ ¼å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bernard Williams (ä¼¯ç´å¾·Â·å¨å»‰å£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bernhard Riemann (æ³¢æ©å“ˆå¾·Â·é»Žæ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bertolt Brecht (è²æ‰˜çˆ¾ç‰¹Â·å¸ƒèŠå¸Œç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bertrand Russell (ç¾…ç´ ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Blaise Pascal (å¸•æ–¯å¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bonny Norton (é‚¦å¦®Â·è«¾é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/BronisÅ‚aw Malinowski (å¸ƒç¾…å°¼æ–¯æ‹‰å¤«Â·é¦¬æž—è«¾å¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Bruno Latour (å¸ƒé­¯è«¾Â·æ‹‰åœ–çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Byung-Chul Han (éŸ“ç‚³å“²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/C.S. Lewis (C.S.è·¯æ˜“æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/CCRU (æŽ§åˆ¶è«–ç ”ç©¶çµ„).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carey Jewitt (å‡±ç‘žÂ·æœ±ä¼Šç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Friedrich Gauss (å¡çˆ¾Â·å¼—é‡Œå¾·é‡Œå¸ŒÂ·é«˜æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Jung (æ¦®æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Menger (å¡çˆ¾Â·é–€æ ¼çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Rogers (å¡çˆ¾Â·ç¾…å‚‘æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Rogers (å¡çˆ¾Â·ç¾…å“²æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Sagan (å¡çˆ¾Â·è–©æ ¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl Schmitt (å¡çˆ¾Â·æ–½å¯†ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carl von Clausewitz (å¡çˆ¾Â·é¦®Â·å…‹å‹žå¡žç¶­èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carlo Ginzburg (å¡æ´›Â·é‡‘èŒ²ä¼¯æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carlo Ginzburg (å¡æ´›Â·é‡‘èŒ²å ¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Carol Chomsky (å¡ç¾…çˆ¾Â·å–¬å§†æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Chantal Mouffe (é¦™å¡”Â·å¢¨è²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Charles Darwin (æŸ¥çˆ¾æ–¯Â·é”çˆ¾æ–‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Charles Horton Cooley (æŸ¥çˆ¾æ–¯Â·éœé “Â·åº«åˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Charles Sanders Peirce (æŸ¥çˆ¾æ–¯Â·æ¡‘å¾·æ–¯Â·çš®çˆ¾å£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Charles Taylor (æŸ¥çˆ¾æ–¯Â·æ³°å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Charles Tilly (æŸ¥çˆ¾æ–¯Â·è’‚åˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Christopher Alexander (å…‹é‡Œæ–¯æ‰˜å¼—Â·äºžæ­·å±±å¤§).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Claude Levi-Strauss (æŽç¶­-å²é™€).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Claude Shannon (å…‹å‹žå¾·Â·å¤è¾²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Claude-Louis Navier (å…‹å‹žå¾·-è·¯æ˜“Â·ç´ç¶­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Cleanth Brooks (å…‹æž—æ–¯Â·å¸ƒé­¯å…‹æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Clifford Geertz (å…‹åˆ©ç¦å¾·ãƒ»ç´€çˆ¾èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Confucius (å­”å­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Constantin Stanislavski (åº·æ–¯å¦ä¸Â·æ–¯å¦å°¼æ–¯æ‹‰å¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Cope & Kalantzis (ç§‘æ™®èˆ‡å¡è˜­èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Daniel Dennett (ä¸¹å°¼çˆ¾Â·ä¸¹å°¼ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Daniel Goleman (ä¸¹å°¼çˆ¾Â·é«˜æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Daniel Kahneman (ä¸¹å°¼çˆ¾Â·åº·ç´æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Dante Alighieri (ä½†ä¸).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Daron Acemoglu (æˆ´å€«Â·è‰¾å¡žé»˜é­¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Chalmers (å¤§è¡›Â·æŸ¥çˆ¾é»˜æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Graeber (å¤§è¡›Â·æ ¼é›·ä¼¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Harvey (å¤§è¡›Â·å“ˆç¶­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Hilbert (å¤§è¡›Â·å¸Œçˆ¾ä¼¯ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Hume (ä¼‘è¬¨).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Ricardo (å¤§è¡›Â·æŽå˜‰åœ–).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Wood (å¤§è¡›Â·ä¼å¾·) (Vygotskian).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/David Wood (å¤§è¡›Â·ä¼å¾·) (phenomenology).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Democritus (å¾·è¬¨å…‹åˆ©ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Derek Parfit (å¾·é‡Œå…‹Â·å¸•è²ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Dianetics æˆ´å°¼æ.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Dietrich Bonhoeffer (æ½˜éœè¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Dmitri Mendeleev (å¾·ç±³ç‰¹é‡ŒÂ·é–€å¾—åˆ—å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Donald Knuth (é«˜å¾·ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Donald Norman (å”ç´å¾·Â·è«¾æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Donald Winnicott (å”ç´å¾·Â·æº«å°¼ç§‘ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Donna Haraway (å”å¨œÂ·å“ˆæ‹‰ç¶­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Doreen Massey (å¤šç³Â·éº¥è¥¿).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Douglas Hofstadter (é“æ ¼æ‹‰æ–¯Â·éœå¤«æ–½å¡”ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Duns Scotus (å¸å„è„«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/E. P. Thompson (E. P. æ¹¯æ™®æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/E.H. Gombrich (E.H. è²¢å¸ƒé‡Œå¸Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edith Stein (ä¼Šè¿ªçµ²Â·å²å¦).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edith Stein (ä¼Šè¿ªçµ²Â·æ–½æ³°å› ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edmund Burke (åŸƒå¾·è’™Â·æŸå…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edmund Husserl (èƒ¡å¡žçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edmund Leach (åŸƒå¾·è’™Â·åˆ©å¥‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edsger W. Dijkstra (è‰¾èŒ²æ ¼Â·è¿ªå‚‘æ–¯ç‰¹æ‹‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Gibbon (æ„›å¾·è¯Â·å‰æœ¬).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Lorenz (æ„›å¾·è¯Â·ç¾…å€«èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward O. Wilson (æ„›å¾·è¯Â·å¨çˆ¾æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Said (æ„›å¾·è¯Â·è–©ä¼Šå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Sapir (æ„›å¾·è¯Â·è–©ä¸•çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Soja (æ„›å¾·è¯Â·ç´¢é›…).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward T. Hall (æ„›å¾·è¯Â·éœçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Edward Thorndike (æ„›å¾·è¯Â·æ¡‘ä»£å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Eleanor Rosch (åŸƒèŽ‰è«¾Â·ç¾…æ–½).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Elinor Ostrom (åŸƒèŽ‰è«¾Â·å¥§æ–¯ç‰¹ç¾…å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Emmanuel LÃ©vinas (åˆ—ç¶­ç´æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Emmengard_s Plural Rings.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Enrico Fermi (æ©é‡Œç§‘Â·è²»ç±³).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Epictetus (æ„›æ¯”å…‹æ³°å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Epicurus (ä¼Šæ¯”é³©é­¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Eric Dietrich (è‰¾ç‘žå…‹Â·è¿ªç‰¹é‡Œå¸Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Eric Erikson (è‰¾ç‘žå…‹æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erich Auerbach (åŸƒé‡Œå¸ŒÂ·å¥§çˆ¾å·´èµ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erich Fromm (å¼—æ´›å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erik Olin Wright (åŸƒé‡Œå…‹Â·å¥§æž—Â·è³´ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ernst Bloch (æ©æ–¯ç‰¹Â·å¸ƒæ´›èµ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ernst Cassirer (æ©æ–¯ç‰¹Â·å¡è¥¿å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ernst Engel (æ©æ–¯ç‰¹Â·æ©æ ¼çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erving Goffman (æ­æ–‡Â·é«˜å¤«æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erwin Panofsky (æ­æ–‡Â·æ½˜è«¾å¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Erwin SchrÃ¶dinger (åŸƒçˆ¾æº«Â·è–›ä¸æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Esmond Ray Long - A history of pathology ç—…ç†å­¸å².md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ethan Nowak (ä¼Šæ¡‘Â·è«¾ç“¦å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Euclid (æ­å¹¾é‡Œå¾—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Eve Kosofsky Sedgwick (ä¼ŠèŠ™Â·å¡žå‰ç¶­å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Eve Sweetser (ä¼ŠèŠ™Â·å²å¨ç‘Ÿ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/F. de Saussure (ç´¢ç·’çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Felix Hausdorff (è²»åˆ©å…‹æ–¯Â·è±ªæ–¯å¤šå¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ferdinand TÃ¶nnies (æ–è¿ªå—Â·æ»•å°¼æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Fernand Braudel (è²»çˆ¾å—Â·å¸ƒå‹žå²±çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ferruccio Rossi-Landi (è²»é­¯å–¬Â·ç¾…è¥¿-è˜­è¿ª).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Francis Crick (æ³•è˜­è¥¿æ–¯Â·å…‹é‡Œå…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Francis Fukuyama (æ³•è˜­è¥¿æ–¯Â·ç¦å±±).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Francisco Varela (å¼—æœ—è¥¿æ–¯ç§‘Â·ç“¦é›·æ‹‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Frank Lloyd Wright (æ³•è˜­å…‹Â·æ´›ä¼ŠÂ·èŠç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Frankfurt School (æ³•è˜­å…‹ç¦å­¸æ´¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Frantz Fanon (æ³•è¾²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Franz Boas (æ³•è˜­èŒ²Â·é®‘äºžå£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Franz Kafka (å¡å¤«å¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Frederic Wakeman Jr. (é­æ–å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Fredric Jameson (è©¹æ˜Žä¿¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Friedrich Engels (æ©æ ¼æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Friedrich Hayek (å“ˆè€¶å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Friedrich Kittler (åŸºç‰¹å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Friedrich Nietzsche (å°¼é‡‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Friedrich Pollock (å¼—é‡Œå¾·é‡Œå¸ŒÂ·æ³¢æ´›å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Fyodor Dostoevsky (æœæ–¯å¦¥ä¹Ÿå¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/FÃ©lix Guattari (ç“œå¡”é‡Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/G.C. Spivak (å²ç¢§å¨ƒå…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/G.I. Gurdjieff (è‘›å‰å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/G.W.F. Hegel (é»‘æ ¼çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gail Ross (è“‹å…’Â·ç¾…æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Galileo Galilei (ä¼½åˆ©ç•¥Â·ä¼½åˆ©èŠ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gaston Bachelard (åŠ æ–¯æ±Â·å·´èˆæ‹‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gayle Rubin (è“‹çˆ¾Â·é­¯è³“).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Geoffrey Hinton (å‚‘å¼—é‡ŒÂ·è¾›é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Georg Simmel (é½Šç¾Žçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/George Gabriel Stokes (å–¬æ²»Â·åŠ å¸ƒé‡ŒåŸƒçˆ¾Â·æ–¯æ‰˜å…‹æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/George Lakoff (å–¬æ²»Â·èŠè€ƒå¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/George Orwell (å–¬æ²»Â·æ­å¨çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/George Ritzer (å–¬æ²»Â·ç‘žæ¾¤).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/George Siemens (å–¬æ²»Â·è¥¿é–€å­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Georges Bataille (å·´å¡”è€¶).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Georges Canguilhem (å–¬æ²»Â·åº·å‰èŠå§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Georges Duby (å–¬æ²»Â·æœæ¯”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gerard Egan (å‚‘æ‹‰å¾·Â·ä¼Šæ ¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gerardus van der Leeuw (æ ¼æ‹‰æœæ–¯Â·èŒƒÂ·å¾·Â·å‹’çƒ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gilbert Ryle (å‰çˆ¾ä¼¯ç‰¹Â·è³´çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gilbert Simondon (å‰çˆ¾è²Â·è¥¿è’™æ£Ÿ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gilles Deleuze (å¾·å‹’èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Giorgio Agamben (é˜¿å²¡æœ¬).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gottfried Wilhelm Leibniz (èŠå¸ƒå°¼èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gottlob Frege (å¼—é›·æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gottlob Frege (æˆˆç‰¹æ´›å¸ƒÂ·å¼—é›·æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Grace Hopper (è‘›éº—çµ²Â·éœæ™®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gregor Mendel (å­Ÿå¾·çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gregory Bateson (è‘›ç‘žæ ¼é‡ŒÂ·è²ç‰¹æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Grigori Perelman (æ ¼é‡Œæˆˆé‡ŒÂ·ä½©é›·çˆ¾æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Groupe Âµ (ç¹†å°çµ„).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Gunther Kress (å²¡ç‘ŸÂ·å…‹ç‘žæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Guy Debord (å±…ä¼ŠÂ·å¾·æ³¢).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/GyÃ¶rgy LukÃ¡cs (ç›§å¡å¥‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/H. L. A. Hart (H. L. A. å“ˆç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/H. P. Grice (ä¿ç¾…Â·æ ¼èŠæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/H.P. Blavatsky (å¸ƒæ‹‰ç“¦èŒ¨åŸºå¤«äºº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hannah Arendt (æ¼¢å¨œÂ·é„‚è˜­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hans Rosling (æ¼¢æ–¯Â·ç¾…æ–¯æž—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hans-Georg Gadamer (æ¼¢æ–¯-æ ¼å¥§çˆ¾æ ¼Â·ä¼½é”é»˜çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Harlan Ellison (å“ˆè˜­Â·è‰¾é‡Œæ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Harold Bloom (å“ˆç¾…å¾·Â·å¸ƒé­¯å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Harold Innis (å“ˆç¾…å¾·Â·ä¼Šå°¼æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hartmut Rosa (å“ˆç‰¹ç©†ç‰¹Â·ç¾…è–©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hayden White (æµ·ç™»Â·æ‡·ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Heinrich WÃ¶lfflin (æµ·å› é‡Œå¸ŒÂ·æ²ƒå¤«æž—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Heinz von Foerster (æµ·å› èŒ¨Â·é¦®Â·ä½›çˆ¾æ–¯ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Henri Bergson (æŸæ ¼æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Henri Lefebvre (åˆ—æ–ä¼çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Henri PoincarÃ© (æ˜‚åˆ©Â·é¾åŠ èŠ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Henry Giroux (å­£ä¾¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Henry Jenkins (äº¨åˆ©Â·è©¹é‡‘æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Heraclitus (èµ«æ‹‰å…‹åˆ©ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Herbert Blumer (èµ«ä¼¯ç‰¹Â·å¸ƒé­¯é»˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Herbert H. Clark (èµ«ä¼¯ç‰¹Â·å…‹æ‹‰å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Herbert Marcuse (é¦¬åº«è‰²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Herbert Spencer (èµ«ä¼¯ç‰¹Â·å²è³“è³½).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hermes Trismegistus (èµ«å¯†æ–¯Â·ç‰¹é‡Œæ–¯å¢¨å‰æ–¯å¿’æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Herodotus (å¸Œç¾…å¤šå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hesiod (èµ«è¥¿ä¿„å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Hilary Putnam (å¸Œæ‹‰è•ŠÂ·æ™®ç‰¹å—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Homer (è·é¦¬).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Howard Gardner (éœè¯å¾·Â·åŠ å¾·ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Howard S. Becker (éœè¯å¾·Â·SÂ·è²å…‹çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/HÃ©lÃ¨ne Cixous (åŸƒèŠå¨œÂ·è¥¿è˜‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/I. M. Pei (è²è¿éŠ˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ian Bogost (ä¼Šæ©Â·åšæ ¼æ–¯ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ian Hacking (ä¼Šæ©Â·å“ˆé‡‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ibn Khaldun (ä¼Šæœ¬Â·èµ«å‹’æ•¦).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ilya Prigogine (ä¼Šåˆ©äºžÂ·æ™®é‡Œé«˜æ´¥).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Immanuel Kant (åº·å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Imre Lakatos (ä¼Šå§†é›·Â·æ‹‰å¡æ‰˜æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Isaac Newton (è‰¾è–©å…‹Â·ç‰›é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Italo Calvino (ä¼Šå¡”ç¾…Â·å¡çˆ¾ç¶­è«¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ivan Pavlov (å¸•ç”«æ´›å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ivan Sechenov (è¬åˆ‡è«¾å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/J. L. Austin (J. L. å¥§æ–¯ä¸).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/J. R. R. Tolkien (J.R.R. æ‰˜çˆ¾é‡‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/J. Robert Oppenheimer (ç¾…ä¼¯ç‰¹Â·å¥§æœ¬æµ·é»˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jacques Derrida (å¾·å¸Œé”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jacques Lacan (æ‹‰åº·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jacques Le Goff (é›…å…‹Â·å‹’é«˜å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jacques RanciÃ¨re (æ´ªå¸­è€¶).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James C. Scott (è©¹å§†æ–¯Â·CÂ·æ–¯ç§‘ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Clerk Maxwell (è©¹å§†æ–¯Â·å…‹æ‹‰å…‹Â·éº¥å…‹æ–¯éŸ‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Joyce (è©¹å§†æ–¯Â·å–¬ä¼Šæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Lantolf (è˜­æ‰˜å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Marcia (è©¹å§†æ–¯Â·é¦¬è¥¿äºž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Paul Gee (è©¹å§†æ–¯Â·ä¿ç¾…Â·å‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/James Watson (è©¹å§†æ–¯Â·è¯ç”Ÿ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jan Blommaert (æ¥ŠÂ·å¸ƒæ´›é¦¬ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jane Austen (ç°¡Â·å¥§æ–¯æ±€).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jane Jacobs (çÂ·é›…å„).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jared Diamond (è³ˆå¾·Â·æˆ´è’™).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean Baudrillard (å°šÂ·å¸ƒå¸Œäºž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean Berko Gleason (ç°¡Â·ä¼¯ç§‘Â·æ ¼é‡Œæ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean Piaget (çš®äºžå‚‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean-Baptiste Say (è–©ä¼Š).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean-FranÃ§ois Lyotard (æŽæ­å¡”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean-Jacques Rousseau (ç›§æ¢­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jean-Paul Sartre (æ²™ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jeremy Bentham (é‚Šæ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jerome Bruner (å¸ƒé­¯ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jesper Hoffmeyer (å‚‘æ–¯æ™®Â·éœå¤«é‚çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Johann Sebastian Bach (ç´„ç¿°Â·å¡žå·´æ–¯è’‚å®‰Â·å·´èµ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Johannes Kepler (ç´„ç¿°å…§æ–¯Â·å…‹åœå‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Berger (ç´„ç¿°Â·ä¼¯æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Bowlby (ç´„ç¿°Â·é®‘æ¯”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Cage (ç´„ç¿°Â·å‡±å‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Calvin (ç´„ç¿°Â·åŠ çˆ¾æ–‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Dewey (ç´„ç¿°Â·æœå¨).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Keynes (å‡±å› æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John King Fairbank (è²»æ­£æ¸…).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Koenig (ç´„ç¿°Â·ç§‘å°¼æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Locke (ç´„ç¿°Â·æ´›å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John McCarthy (ç´„ç¿°Â·éº¥å¡éŒ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Mearsheimer (ç´„ç¿°Â·ç±³çˆ¾æ–¯æµ·é»˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Nash (ç´„ç¿°Â·ç´ä»€).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Searle (ç´„ç¿°Â·ç‘Ÿçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Sinclair (ç´„ç¿°Â·è¾›å…‹èŠçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John Sweller (ç´„ç¿°æ–¯å¨å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/John von Neumann (ç´„ç¿°Â·é¦®Â·è«¾ä¼Šæ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jonathan Spence (å²æ™¯é·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jordan Peterson (å–¬ä¸¹Â·å½¼å¾—æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Jorge Luis Borges (è±ªçˆ¾èµ«Â·è·¯æ˜“æ–¯Â·æ³¢èµ«å£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Joseph Campbell (åŽä¼¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Joseph Nye (ç´„ç‘Ÿå¤«Â·å¥ˆ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Joseph Schumpeter (ç´„ç‘Ÿå¤«Â·ç†Šå½¼ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Joseph Stiglitz (ç´„ç‘Ÿå¤«Â·å²è¿ªæ ¼é‡ŒèŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Joseph-Louis Lagrange (ç´„ç‘Ÿå¤«Â·æ‹‰æ ¼æœ—æ—¥).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Judea Pearl (æœ±è¿ªäºžÂ·ç€çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Judith Butler (èŒ±è’‚çµ²Â·å·´ç‰¹å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Julia Kristeva (å…‹èŽ‰çµ²è’‚å¨ƒ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/JÃ¼rgen Habermas (å“ˆä¼¯ç‘ªæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karen Yeung.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karl Barth (å¡çˆ¾Â·å·´ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karl Jaspers (å¡çˆ¾Â·é›…æ–¯ä½©æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karl Marx (é¦¬å…‹æ€).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karl Polanyi (å¡çˆ¾Â·æ³¢è˜­å°¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Karl Popper (å¡çˆ¾Â·æ³¢æ™®çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Burke (è‚¯å°¼æ–¯Â·æŸå…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Pomeranz (å½­æ…•ç„¶).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Scott Latourette (è³´å¾·çƒˆ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Waltz (è‚¯å°¼æ€Â·è¯èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Waltz (è‚¯å°¼æ–¯Â·è¯çˆ¾èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kenneth Waltz (è‚¯å°¼æ–¯Â·è¯èŒ²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kurt GÃ¶del (åº«çˆ¾ç‰¹Â·å“¥å¾·çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Kurt Lewin (åº«çˆ¾ç‰¹Â·å‹’æº«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Laozi (è€å­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lawrence Kohlberg (å‹žå€«æ–¯Â·æŸ¯çˆ¾ä¼¯æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Le Corbusier (å‹’Â·æŸ¯æ¯”æ„).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leo Strauss (åˆ—å¥§Â·æ–½ç‰¹å‹žæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leon Festinger (åˆ©æ˜‚Â·è²»æ–¯å»·æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leonard Talmy (å€«ç´å¾·Â·å¡”çˆ¾ç±³).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leonardo da Vinci (æŽå¥§ç´å¤šÂ·é”æ–‡è¥¿).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leonhard Euler (èŠæ˜‚å“ˆå¾·Â·æ­æ‹‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Leopold von Ranke (åˆ©å¥§æ³¢å¾·Â·é¦®Â·è˜­å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lev Vygotsky (ç¶­é«˜æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lewis Mumford (è·¯æ˜“æ–¯Â·èŠ’ç¦å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lewison et al. (åŠ‰æ˜“æ£®ç­‰äºº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lila Gleitman (èŠæ‹‰Â·æ ¼èŠç‰¹æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lim Fei Victor (æž—é£›å‰).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Linus Pauling (èŠç´æ–¯Â·é®‘æž—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Louis Althusser (é˜¿åœ–å¡ž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Louis Hjelmslev (è·¯æ˜“Â·è‘‰çˆ¾å§†æ–¯åˆ—å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Louis Hjelmslev (è·¯æ˜“æ–¯Â·è‘‰çˆ¾å§†æ–¯åˆ—å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Louis Pasteur (è·¯æ˜“Â·å·´æ–¯å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Luce Irigaray (å‘‚æ–¯Â·ä¼Šç‘žè‘›ä¾†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lucien Febvre (å‘‚è¥¿å®‰Â·è²»å¼—çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ludwig Feuerbach (è²»çˆ¾å·´å“ˆ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ludwig Prandtl (è·¯å¾·ç¶­å¸ŒÂ·æ™®æœ—ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ludwig Wittgenstein (ç¶­æ ¹æ–¯å¦).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ludwig von Bertalanffy (è·¯å¾·ç¶­å¸ŒÂ·é¦®Â·è²å¡”éƒŽéž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ludwig von Mises (è·¯å¾·ç¶­å¸ŒÂ·é¦®Â·ç±³å¡žæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Luke & Freebody (ç›§å…‹èˆ‡å¼—é‡Œåšè¿ª).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lynn Margulis (ç³Â·é¦¬å¤åˆ©æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Lynn Thorndike (æž—æ©Â·æ¡‘ä»£å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/M. A. K. Halliday (éŸ“ç¦®å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/M. C. Escher (è‰¾é›ª).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Manuel Castells (æ›¼ç´Â·æŸ¯å¸ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Manuel DeLanda (æ›¼ç´çˆ¾Â·å¾·è˜­é”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marc AugÃ© (é¦¬å…‹Â·æ­å‚‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marc Bloch (é¦¬å…‹Â·å¸ƒæ´›å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marcel Mauss (é¦¬å¡žçˆ¾Â·èŽ«æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marcus Aurelius (é¦¬å¯Â·å¥§ç†ç•¥).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marcus Tullius Cicero (è¥¿å¡žç¾…).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Maria Montessori (è’™ç‰¹æ¢­åˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marie Curie (ç‘ªéº—Â·å±…ç¦®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mark Fisher (é¦¬å…‹Â·è²»é›ª).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mark Forsyth (é¦¬å…‹Â·ç¦è³½æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mark Granovetter (é¦¬å…‹Â·æ ¼è˜­è«¾ç¶­ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mark Johnson (é¦¬å…‹Â·è©¹æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marlene Dixon (ç‘ªç³Â·è¿ªå…‹æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marshall McLuhan (éº¥å…‹é­¯æ¼¢).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marshall Sahlins (é¦¬æ­‡çˆ¾Â·è–©æž—æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Martha Nussbaum (ç‘ªèŽŽÂ·åŠªæ–¯é®‘å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Martin Heidegger (æµ·å¾·æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Martin Luther (é¦¬ä¸Â·è·¯å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Marvin Minsky (é¦¬æ–‡Â·é–”æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mary Ainsworth (ç‘ªèŽ‰Â·å®‰æ–¯æ²ƒæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mary Beard (ç‘ªéº—Â·ç•¢çˆ¾å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mary Douglas (ç‘ªèŽ‰Â·é“æ ¼æ‹‰æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Maurice Halbwachs (èŽ«é‡Œæ–¯Â·å“ˆå¸ƒç“¦èµ«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Max Horkheimer (éœå…‹æµ·é»˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Max Planck (é¦¬å…‹æ–¯Â·æ™®æœ—å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Max Scheler (é¦¬å…‹æ–¯Â·èˆå‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Max Stirner (éº¥å…‹æ–¯Â·æ–½è’‚ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Max Weber (é¦¬å…‹æ–¯Â·éŸ‹ä¼¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Meister Eckhart (éº¥æ–¯ç‰¹Â·è‰¾å…‹å“ˆç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Melanie Klein (æ¢…è˜­å¦®Â·å…‹èŠå› ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Merleau-Ponty (æ¢…æ´›-é¾è’‚).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Merrill Garrett (æ¢…é‡Œçˆ¾Â·åŠ å‹’ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Apple (éº¥å…‹Â·è‰¾æ³¢).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Berzonsky (é‚å…‹çˆ¾Â·è²çˆ¾å®—æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Faraday (éº¥å¯Â·æ³•æ‹‰ç¬¬).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Polanyi (éº¥å¯Â·æ³¢è˜­å°¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Porter (éº¥å¯Â·æ³¢ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Sandel (é‚å¯Â·æ¡‘å¾·çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Silverstein (é‚å…‹çˆ¾Â·è¥¿çˆ¾å¼—æ–¯å¦).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Sugrue (é‚å…‹çˆ¾Â·è˜‡æ ¼é­¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Tomasello (é‚å…‹çˆ¾Â·æ‰˜é¦¬å¡žæ´›).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michael Walzer (é‚å…‹çˆ¾Â·æ²ƒçˆ¾æ¾¤).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michel Foucault (ç±³æ­‡çˆ¾Â·å‚…æŸ¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michel Henry (ç±³æ­‡çˆ¾Â·äº¨åˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michel Serres (ç±³æ­‡çˆ¾Â·è³½è·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Michel de Certeau (ç±³æ­‡çˆ¾Â·å¾·Â·å¡žæ‰˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mihaly Csikszentmihalyi (ç±³å“ˆé‡ŒÂ·å¥‘å…‹æ£®ç±³å“ˆä¼Š).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mikhail Bakhtin (å·´èµ«é‡‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Milton Friedman (ç±³çˆ¾é “Â·ä½›åˆ©æ°‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Milton Mayeroff (å¯†çˆ¾é “Â·æ¢…è€¶ç¾…å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Mircea Eliade (ä¼Šåˆ©äºžå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Monique Wittig (èŽ«å°¼å…‹Â·ç¶­è’‚æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Montesquieu (å­Ÿå¾·æ–¯é³©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Muzafer Sherif (ç©†æ‰Žè²»çˆ¾Â·è¬é‡Œå¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Nancy Fraser (å—å¸ŒÂ·å¼—é›·æ¾¤).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Nassim Nicholas Taleb (ç´è¥¿å§†Â·å°¼å¯æ‹‰æ–¯Â·å¡”é›·ä¼¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Natalie Zemon Davis (å¨œå¡”èŽ‰Â·æ¾¤è’™Â·æˆ´ç¶­æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Neil Postman (å°¼çˆ¾Â·æ³¢èŒ²æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Nick Land (å°¼å…‹Â·è˜­å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Nicolaus Copernicus (å°¼å¤æ‹‰Â·å“¥ç™½å°¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Nicos Poulantzas (å°¼ç§‘æ–¯Â·æ™®è˜­æŸ¥æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Niels Bohr (å°¼çˆ¾æ–¯Â·æ³¢è€³).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Noam Chomsky (è«¾å§†Â·å–¬å§†æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Norbert Elias (è«¾ä¼¯ç‰¹Â·ä¼Šé‡Œäºžæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Norbert Wiener (è«¾ä¼¯ç‰¹Â·ç¶­ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Norman Fairclough (è«¾æ›¼Â·è²»çˆ¾å…‹æ‹‰å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Northrop Frye (è«¾æ–¯æ´›æ™®Â·ä½›èŠ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Oscar Wilde (çŽ‹çˆ¾å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Oswald Spengler (å¥§æ–¯ç“¦çˆ¾å¾·Â·æ–¯è³“æ ¼å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Otis Dudley Duncan (å¥§è’‚æ–¯Â·é”å¾·åˆ©Â·é„§è‚¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Padmasambhava (è“®èŠ±ç”Ÿå¤§å£«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paracelsus (å¸•æ‹‰å¡žçˆ¾è˜‡æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Parmenides (å·´é–€å°¼å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pascual-Leone (å¸•æ–¯å¤¸çˆ¾-èŠæ˜‚å…§).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul B. Preciado (ä¿ç¾…Â·BÂ·æ™®é›·è¥¿äºžå¤š).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Dirac (ä¿ç¾…Â·ç‹„æ‹‰å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Feyerabend (ä¿ç¾…Â·è²»è€¶é˜¿æœ¬å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Krugman (ä¿ç¾…Â·å…‹é­¯æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Mangre (ä¿ç¾…Â·èŠ’æ ¼é›·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul RicÅ“ur (ä¿ç¾…Â·åˆ©ç§‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Samuelson (ä¿ç¾…Â·è–©ç¹†çˆ¾æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Tillich (ç”°ç«‹å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paul Virilio (ä¿ç¾…Â·ç¶­å¸Œç•™).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Paulo Freire (ä¿ç¾…Â·å¼—é›·å‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter De Costa (å½¼å¾—Â·å¾·ç§‘æ–¯å¡”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter L. Berger (å½¼å¾—Â·æŸæ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter McLaren (å½¼å¾—Â·éº¥æ‹‰å€«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter Singer (å½¼å¾—Â·è¾›æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter Sloterdijk (å½¼å¾—Â·æ–¯å‹žç‰¹æˆ´å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Peter Sloterdijk (å½¼å¾—Â·æ–¯æ´›ç‰¹æˆ´å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Philip A. Kuhn (å­”é£›åŠ›).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Philip Zimbardo (è²åˆ©æ™®Â·æ´¥å·´å¤š).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pierre Bourdieu (çš®åŸƒçˆ¾Â·å¸ƒè¿ªåŽ„).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pierre Clastres (çš®åŸƒå°”Â·å…‹æ‹‰æ–¯ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pierre Teilhard de Chardin (å¾·æ—¥é€²).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pierre-Simon Laplace (çš®è€¶-è¥¿è’™Â·æ‹‰æ™®æ‹‰æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Plato (æŸæ‹‰åœ–).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Pythagoras (ç•¢é”å“¥æ‹‰æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Quentin Meillassoux (æ˜†æ±€Â·æ¢…äºžè˜‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Quentin Skinner (æ˜†æ±€Â·æ–¯é‡‘ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rachel Carson (ç‘žç§‹Â·å¡æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ray Bradbury (é›·Â·å¸ƒèŠä¼¯åˆ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ray Jackendoff (é›·Â·å‚‘è‚¯é“å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Raya Dunayevskaya (æ‹‰äºžÂ·æœç´è€¶å¤«æ–¯å¡å©­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Raymond Aron (é›·è’™Â·é˜¿å®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rem Koolhaas (é›·å§†Â·åº«å“ˆæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/RenÃ© Descartes (ç¬›å¡å…’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/RenÃ© Girard (å‹’å…§Â·å‰æ‹‰çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Richard Dawkins (ç†æŸ¥Â·é“é‡‘æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Richard Feynman (ç†æŸ¥Â·è²»æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Richard Rorty (ç†æŸ¥Â·ç¾…è’‚).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Richard Sennett (ç†æŸ¥Â·æ¡‘å…§ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Richard Thaler (ç†æŸ¥Â·å¡žå‹’).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert Boyle (ç¾…ä¼¯ç‰¹Â·æ³¢ä»¥è€³).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert E. Park (ç¾…ä¼¯ç‰¹Â·EÂ·æ´¾å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert K. Merton (ç¾…ä¼¯ç‰¹Â·é‡‘Â·èŽ«é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert Keohane (ç¾…ä¼¯ç‰¹Â·åŸºæ­æ¼¢).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert Nozick (ç¾…ä¼¯ç‰¹Â·è«¾é½Šå…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Robert Selman (ç¾…ä¼¯ç‰¹Â·å¡žçˆ¾æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Roger Penrose (ç¾…å‚‘Â·æ½˜æ´›æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Roger Weissberg (CASEL) (ç¾…å‚‘Â·é­æ–¯ä¼¯æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Roland Barthes (ç¾…è˜­Â·å·´ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Roman Jakobson (ç¾…æ›¼Â·é›…å„å¸ƒæ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ron Darvin (ç¾…æ©Â·é”çˆ¾æ–‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ronald Dworkin (ç¾…ç´å¾·Â·å¾·æ²ƒé‡‘).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ronald Langacker (ç¾…ç´å¾·Â·è˜­åŠ å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rosalind Franklin (ç¾…èŽŽç³Â·å¯Œè˜­å…‹æž—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rosi Braidotti (ç¾…è¥¿Â·å¸ƒæ‹‰ä¼Šå¤šè’‚).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rousas John Rushdoony (é­¯è–©æ–¯Â·ç´„ç¿°Â·é­¯æ–¯æœå°¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rudolf Carnap (é­¯é“å¤«Â·å¡çˆ¾ç´æ™®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Rudolf Clausius (é­¯é“å¤«Â·å…‹å‹žä¿®æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ruth Benedict (éœ²çµ²Â·æ½˜ä¹ƒå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/RÃ©gis Debray (é›·å‰æ–¯Â·å¾·å¸ƒé›·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sam Altman (å±±å§†Â·é˜¿ç‰¹æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sam Harris (è–©å§†Â·å“ˆé‡Œæ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Samuel Beckett (è–©ç¹†çˆ¾Â·è²å…‹ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Samuel P. Huntington (å¡žç¹†çˆ¾Â·PÂ·äº¨å»·é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sara Ahmed (è–©æ‹‰Â·é˜¿èµ«é‚å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Saskia Sassen (è–©æ–¯åŸºå©­Â·è–©æ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Saul Kripke (ç´¢çˆ¾Â·å…‹é‡Œæ™®å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Seneca (å¡žå…§å¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sherry Turkle (é›ªèŽ‰Â·ç‰¹å…‹çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Shoshana Zuboff (ä¼‘çŠå¨œÂ·ç¥–åšå¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sigmund Freud (ä½›æ´›ä¼Šå¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sima Qian (å¸é¦¬é·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Simon Baron-Cohen (è¥¿è’™Â·æ‹œå€«-æŸ¯æ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Simone de Beauvoir (è¥¿è’™Â·å¾·Â·æ³¢å¨ƒ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Simone de Beauvoir (è¥¿è’™Â·æ³¢å¨ƒ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sir Demis Hassabis (å‚‘ç±³æ–¯Â·å“ˆè–©æ¯”æ–¯ ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Slavoj Å½iÅ¾ek (æ–¯æ‹‰æ²ƒç†±Â·é½Šæ¾¤å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Socrates (è˜‡æ ¼æ‹‰åº•).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Solomon Asch (æ‰€ç¾…é–€Â·é˜¿å¸Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/St. Augustine (å¥§å¤æ–¯ä¸).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stanislav Grof (æ–¯å¦å°¼æ–¯æ‹‰å¤«Â·æ ¼ç¾…å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stanley Fish (æ–¯å¦åˆ©Â·è²»å¸Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stanley Milgram (æ–¯å¦åˆ©Â·ç±³çˆ¾æ ¼æ‹‰å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stella Ting-Toomey (ä¸éœè¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stephen Downes (å²è’‚èŠ¬Â·å”æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stephen Greenblatt (å²è’‚èŠ¬Â·æ ¼æž—å¸ƒæ‹‰ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Steven Krashen (å²è’‚èŠ¬Â·å…‹æ‹‰ç”³).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Steven Pinker (å²è’‚èŠ¬Â·å¹³å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Strong Programme (å¼·ç¶±é ˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Stuart Hall (æ–¯åœ–äºžç‰¹Â·éœçˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Sun Tzu (å­«å­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Susan Carey (è˜‡çŠÂ·å‡±é‡Œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Susan Sontag (è˜‡çŠÂ·æ¡‘å¡”æ ¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/SÃ¸ren Kierkegaard (ç¥å…‹æžœï¼›é½Šå…‹æžœ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/T. S. Eliot (T.S. è‰¾ç•¥ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Tacitus (å¡”è¥¿ä½—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Terry Eagleton (æ³°ç‘žÂ·ä¼Šæ ¼é “).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Theo van Leeuwen (æå¥§Â·ç¯„Â·æŽæ–‡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Theodor Adorno (é˜¿å¤šè«¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas A. Sebeok (æ‰˜é¦¬æ–¯Â·å¡žæ¯”å¥§å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas Aquinas (é˜¿å¥Žé‚£).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas More (æ‰˜é¦¬æ–¯Â·æ‘©çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas Nagel (æ¹¯ç‘ªæ–¯Â·å…§æ ¼çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas Paine (æ‰˜é¦¬æ–¯Â·æ½˜æ©).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas Piketty (æ‰˜é¦¬æ–¯Â·çš®å‡±æ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thomas Sebeok (æ‰˜é¦¬æ–¯Â·å¡žæ¯”å¥§å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thorstein Veblen (æ‰˜æ–¯ä¸¹Â·éŸ‹ä¼¯å€«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Thucydides (ä¿®æ˜”åº•å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Tim Berners-Lee (è’‚å§†Â·æŸç´-æŽ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Tim Ingold (è’‚å§†Â·è‹±æˆˆçˆ¾å¾·).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ulrich Beck (çƒçˆ¾åˆ©å¸ŒÂ·è²å…‹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Umberto Eco (ç¿è²æ‰˜Â·è‰¾å¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Umberto Maturana (æº«è²æ‰˜Â·é¦¬åœ–æ‹‰ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Urie Bronfenbrenner (å°¤é‡ŒÂ·å¸ƒæœ—èŠ¬å¸ƒå€«ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/V. S. Ramachandran (ç¶­èŠäºžåŠªçˆ¾Â·æ‹‰ç‘ªéŒ¢å¾·æœ—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Valentin Voloshinov (ç“¦å€«ä¸Â·æ²ƒæ´›å¸Œè«¾å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Victor Turner (ç¶­å…‹å¤šÂ·ç‰¹ç´).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Victoria Welby (ç¶­å¤šåˆ©äºžÂ·éŸ‹çˆ¾æ¯”).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Viktor Shklovsky (ç¶­å…‹å¤šÂ·ä»€å…‹æ´›å¤«æ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Vilfredo Pareto (ç¶­çˆ¾å¼—é›·å¤šÂ·å¸•ç´¯æ‰˜).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/VilÃ©m Flusser (ç¶­è˜­Â·å‚…æ‹‰ç‘Ÿ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Virgil (ç¶­å‰çˆ¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Virginia Woolf (ç¶­å‰å°¼äºžÂ·å³çˆ¾èŠ™).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Virtuality è™›æ“¬æ€§.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Vladimir Lenin (åˆ—å¯§).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Vladimir Propp (å¼—æ‹‰åŸºç±³çˆ¾Â·æ™®ç¾…æ™®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Voltaire (ä¼çˆ¾æ³°).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/W. E. B. Du Bois (WÂ·EÂ·BÂ·æœæ³¢ä¾æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/W.V.O. Quine (è’¯å› ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Walter Gropius (è¯ç‰¹Â·è‘›ç¾…åŸ¹æ–¯).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Walter Lippmann (æ²ƒçˆ¾ç‰¹Â·æŽæ™®æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Walter Mignolo (è¯ç‰¹Â·ç±³å°¼å¥§ç¾…).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Walter Ong (è¯ç‰¹Â·ç¿).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Wassily Kandinsky (ç“¦è¥¿é‡ŒÂ·åº·å®šæ–¯åŸº).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Wendy Brown (æº«è’‚Â·å¸ƒæœ—).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Werner Heisenberg (ç¶­çˆ¾ç´Â·æµ·æ£®å ¡).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Wilhelm Wundt (å¨å»‰Â·é¦®ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Willem Levelt (å¨å»‰Â·å‹’è²çˆ¾ç‰¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/William Gibson (å¨å»‰Â·å‰å¸ƒæ£®).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/William Labov (å¨å»‰Â·æ‹‰æ³¢å¤«).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/William Shakespeare (å¨å»‰Â·èŽŽå£«æ¯”äºž).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/William of Ockham (å¥§åŽ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Yann LeCun (æ¥Šç«‹æ˜†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Yoshua Bengio (ç´„æ›¸äºžÂ·ç­å‰æ­).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/YrjÃ¶ EngestrÃ¶m (ä¼Šçˆ¾ç´„Â·æ©æ ¼æ–¯æ‰˜å§†).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Yuk Hui (è¨±ç…œ).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Yuri Lotman (å°¤é‡ŒÂ·æ´›ç‰¹æ›¼).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Zeno of Citium (å­£è’‚æ˜‚çš„èŠè«¾).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/ZoltÃ¡n DÃ¶rnyei (ä½çˆ¾å¦Â·å¤šçˆ¾å°¼è€¶).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ã‰mile Durkheim (æ¶‚çˆ¾å¹¹).md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'content/A012. Scholars/Ã‰tienne Bonnot de Condillac (è‰¾è’‚å®‰Â·åšè«¾Â·å¾·Â·å­”ç‹„äºžå…‹).md', CRLF will be replaced by LF the next time Git touches it
+[main e9f33ea] Auto_Sync
+ 587 files changed, 1912 insertions(+), 583 deletions(-)
+To https://github.com/yaya19408-maker/An-Obnoxious-Vault.git
+   1cf8072..e9f33ea  main -> main
+[2026/04/18 ¶g¤» 14:44:53.04] Sync Finished 
+---------------------------------------- 
+[2026/04/18 ¶g¤» 15:44:40.73] Sync Started 
+From https://github.com/yaya19408-maker/An-Obnoxious-Vault
+ * branch            main       -> FETCH_HEAD
+error: unable to unlink old 'sync_log.txt': Invalid argument
+fatal: Could not reset index file to revision 'origin/main'.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  ¤w±Ò°Ê : 2026¦~4¤ë18¤é ¤U¤È 03:44:43
+    ¨Ó·½ : D:\The saved\Obsidian\
+  ¥Øªº¦a : D:\The saved\quartz\content\
+
+    ÀÉ®× : *.*
+	    
+Exc ÀÉ®× : pendingSync-gdrive-plugin
+	    *.zip
+	    *.rar
+	    
+Exc ¥Ø¿ý : .obsidian
+	    .trash
+	    .makemd
+	    .smart-env
+	    .space
+	    
+    ¿ï¶µ : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                   8	D:\The saved\Obsidian\
+	                  12	D:\The saved\Obsidian\A000. ¥Ø¿ý\
+	                   1	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\
+	                   1	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\
+	                   0	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\
+	                  30	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\°Ê§@\
+	                  11	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\ÄÝ©Ê\
+	                   7	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\ÄÝ©Ê\¥D«È\
+	                  35	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\ÄÝ©Ê\¤¸¯À\
+	                   2	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\¤é©]\
+	                   1	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\¦r®Ú\¨u¨£\
+	                  33	D:\The saved\Obsidian\A001. ¦r®Ú»P»y¨¥\Affixes µüºó\Âå¾Çµüºó Medical Affixes\
+	                   0	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\
+	                   0	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\¦a²y¥Í¦¨\
+	                  57	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\¦a²y¥Í¦¨\Visual Book of Paleoorganism\
+	                   2	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\©¥¥Û Petrology\
+	                   0	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\´Óª«¤Î°Êª«\
+	                   4	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\´Óª«¤Î°Êª«\°Êª« Zoology\
+	                  19	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\´Óª«¤Î°Êª«\´Óª« Botany\
+	                  48	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\´Óª«¤Î°Êª«\´Óª« Botany\¾ð¤ì Dendrology\
+	                  24	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\´Óª«¤Î°Êª«\¥Íª« Biology\
+	                  89	D:\The saved\Obsidian\A002. ¦ÛµM»P¥Íª«\ª«²z»P¤Æ¾Ç Physics and Chemistry\
+	                   9	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\
+	                   1	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\«O°·\
+	                  11	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\²{¶H\
+	                  23	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\²{¶H\©I§l Breathing\
+	                   1	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\²{¶H\ºÎ¯v Sleeping\
+	                   5	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\²{¶H\¦Ñ¤Æ Aging\
+	                  19	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\¯e¯f\
+	                   2	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\¯e¯f\Contents.md_Attachments\
+	                   6	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\ÃÄª«\
+	                  22	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\ªíÆ[¿ò¶Ç¾Ç\
+	                  11	D:\The saved\Obsidian\A003. Âå¾Ç»P¯e¯f\¸Ñ­å\
+	                  18	D:\The saved\Obsidian\A004. µ§°O»PÅªª«\
+	                   6	D:\The saved\Obsidian\A005. ¦h¼ÒºA¤åÄm\
+	                   1	D:\The saved\Obsidian\A005. ¦h¼ÒºA¤åÄm\Literacy, literacies, multiliteracies\
+	                  47	D:\The saved\Obsidian\A005. ¦h¼ÒºA¤åÄm\Literature\
+	                  12	D:\The saved\Obsidian\A005. ¦h¼ÒºA¤åÄm\Multimodal instruction\
+	                   3	D:\The saved\Obsidian\A005. ¦h¼ÒºA¤åÄm\Perception\
+	                  37	D:\The saved\Obsidian\A006. PDF»P¤åÀÉ\
+	                   9	D:\The saved\Obsidian\A007. 23¦~¥½ªº¤é°O\
+	                   0	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\
+	                   7	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-0. ¤ß²z¾Ç¤À¤ä¾Ç¬ì\
+	                   1	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-1. ¶Â·t¤T¨¤\
+	                   2	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-2. ®Ö¬ü¾Ç\
+	                   1	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-3. ±¡µ²\
+	                   4	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-4. ®ÄÀ³\
+	                   8	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-5. ³Ð¶Ë\
+	                   2	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-6. ®£Äß\
+	                   3	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-7. ®æ¦¡¶ð\
+	                   1	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-8. °O¾Ð\
+	                   1	D:\The saved\Obsidian\A008. ¤ß²z¾Ç¬ÛÃö\A008-9. ¦P²z¤ß\
+	    ¸û·s      		   19759	EPTH001. empathy ¦P²z¤ß.md100%  
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\
+	                   3	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\«H¥õ Religion\
+	                   3	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\°°¬ì¾Ç©M³±¿Ñ½× Pseudoscience and Conspiracy\
+	                  19	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\­õ¾Ç Philosophy\
+	                   5	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\¦a²z Geography\
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\©Ý¾ë¾Ç Topology\
+	                   8	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\¼Æ¾Ç»P´X¦ó¾Ç Mathematics and Geometry\
+	                   2	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\ªk«ß Law, ªk¾Ç Jurisprudence\
+	                   6	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\ªÀ·|¾Ç Sociology\
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\¯«¾Ç theology\
+	                   4	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\²Å¸¹¾Ç Semiotics\
+	                  20	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\²Ó­M\
+	                   4	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\¬ü³N Aesthetics\
+	                   5	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»{ª¾¬ì¾Ç¡B¯«¸g¬ì¾Ç¡B¾Ç²ß¤èªk Cognitive science, Neuroscience, Learning methods\
+	                   2	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»{ª¾¬ì¾Ç¡B¯«¸g¬ì¾Ç¡B¾Ç²ß¤èªk Cognitive science, Neuroscience, Learning methods\½× - ½×ÃÒ¡BÅG½×¡B½×»¡¡B½×¾Ú\
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\
+	                   3	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\­×Ãã¾Ç Rhetoric\
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\±Ô¨Æ¾Ç Narratology\
+	                   3	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\®Ñ¼g¨t²Î Writing System, -graphy\
+	                   2	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\Â½Ä¶ Translatology\
+	                   5	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\¸Ö¾Ç»P·§©À Poetics & Concepts\
+	                  14	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\»y¨¥¾Ç Linguistics\»y¨¥ Language\
+	                   2	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\¸ê°T Informatics\
+	                   1	D:\The saved\Obsidian\A009. ¾Ç¬ì¤ÀÃþ\­µ¼Ö Music\
+	                  14	D:\The saved\Obsidian\A010. Âø¶µ»PÆ[¹î\
+	                   0	D:\The saved\Obsidian\A011. ³æ¦r½dÃ¥¤Î¦P¸q¦r\
+	                  15	D:\The saved\Obsidian\A011. ³æ¦r½dÃ¥¤Î¦P¸q¦r\001. ¬FªvÃþ\
+	                   1	D:\The saved\Obsidian\A011. ³æ¦r½dÃ¥¤Î¦P¸q¦r\002. ¤Æ¾ÇÃþ\
+	                   1	D:\The saved\Obsidian\A011. ³æ¦r½dÃ¥¤Î¦P¸q¦r\°Êµü\
+	                 586	D:\The saved\Obsidian\A012. Scholars\
+	    ¸û·s      		    3004	A. R. Radcliffe-Brown (ªü¥±¯P¡PÍº§J¨½¤Ò-¥¬®Ô).md100%  
+	    ¸û·s      		    2996	Aaron T. Beck (¨È­Û¡P¨©§J).md100%  
+	    ¸û·s      		    2755	Abraham Maslow (¨È§B©Ô¨u¡P°¨´µ¬¥).md100%  
+	    ¸û·s      		   12559	Aby Warburg (ªü¤ñ¡P¥Ëº¸³ù).md100%  
+	    ¸û·s      		   10733	Achille Mbembe (ªü©_¨½¡P©i¨©¨©).md100%  
+	    ¸û·s      		    9076	Adam Smith (¨È·í¡P´µ±K).md100%  
+	    ¸û·s      		    7419	Alain Badiou (¤Ú­}¼Ú).md100%  
+	    ¸û·s      		    8532	Alain Touraine (ªüÄõ¡P¹Ï¿à³[).md100%  
+	    ¸û·s      		    2399	Alan Kay (¦ã­Û¡P³Í).md100%  
+	    ¸û·s      		   19626	Alan Turing (¦ã­Û¡P¹ÏÆF).md100%  
+	    ¸û·s      		   10758	Alaric Finch (ªü©Ô¨½§J¡Pªâ©_).md100%  
+	    ¸û·s      		   11698	Alasdair MacIntyre (ªü©Ô´µ¥Nº¸¡P³Áª÷®õº¸).md100%  
+	    ¸û·s      		   14726	Albert Bandura (ªüº¸ªi¯S¡P¯Z§ù©Ô).md100%  
+	    ¸û·s      		   18591	Albert Camus (ªüº¸¨©¡P¥dÁ[).md100%  
+	    ¸û·s      		   27546	Albert Einstein (ªüº¸§B¯S¡P·R¦]´µ©Z).md100%  
+	    ¸û·s      		    3678	Albert Ellis (ªüº¸§B¯S¡P¦ã§Q´µ).md100%  
+	    ¸û·s      		    3840	Albert Schweitzer (ªüº¸§B¯S¡P¥vÃh­õ).md100%  
+	    ¸û·s      		   13552	Aldous Huxley (ªüº¸¦h´µ¡P»®­E¾¤).md100%  
+	    ¸û·s      		   23275	Aleister Crowley (ªüµÜ´µ¯S¡P§J³Ò§Q).md100%  
+	    ¸û·s      		   20342	Aleksei Nikolaevich Leontiev (ªü¦C§JÁÂ¡P¥§¥j©Ô­Cºû©_¡P¦C©ù±¶¤Ò).md100%  
+	    ¸û·s      		   16548	Alex Karp (¨È¤O§J´µ¡P¥d´¶ ).md100%  
+	    ¸û·s      		   17814	Alexander Fleming (¨È¾ú¤s¤j¡P¥±µÜ©ú).md100%  
+	    ¸û·s      		   14377	Alexander Luria (¨È¾ú¤s¤j¡P¾|§Q¨È).md100%  
+	    ¸û·s      		    3817	Alexander Wendt (¨È¾ú¤s¤j¡P·Å¯S).md100%  
+	    ¸û·s      		    3591	Alexandre Koyre (¨È¾ú¤s¤j¡P¦j¶Â).md100%  
+	    ¸û·s      		    3263	Alexis de Tocqueville (¨È¾ú¦è´µ¡P¼w¡P¦«§Jºûº¸).md100%  
+	    ¸û·s      		   21618	Alfred Adler (ªü¼w°Ç).md100%  
+	    ¸û·s      		     963	Alfred Korzybski (ªüº¸¥±¹p¼w¡P¬ìº¸¤é¥¬´µ°ò).md100%  
+	    ¸û·s      		    3837	Alfred North Whitehead (Ãh®ü¼w).md100%  
+	    ¸û·s      		    2796	Alfred Russel Wallace (ªüº¸¥±¹p¼w¡PÃ¹¯À¡PµØµÜ¤h).md100%  
+	    ¸û·s      		    3050	Alfred Wegener (ªüº¸¥±¹p¼w¡P­³®æ¯Ç).md100%  
+	    ¸û·s      		   12542	Algirdas Julien Greimas (ªüº¸¦Nº¸¹F´µ¡P¦¶§Q¦w¡P®æ¹p°¨´µ).md100%  
+	    ¸û·s      		    3504	Amartya Sen (ªü°¨¸¦¨È¡P´Ë).md100%  
+	    ¸û·s      		    3022	Amos Tversky (ªü¼¯¥q¡P¯S¨U´µ°ò).md100%  
+	    ¸û·s      		   12846	Andrei Tarkovsky (¦w¼w¯P¡P¶ð¥i¤Ò´µ°ò).md100%  
+	    ¸û·s      		    3047	Andrew Ng (§d®¦¹F).md100%  
+	    ¸û·s      		    2761	Antoine Lavoisier (¦w¦«¸U¡P©Ô¥Ë¿ü).md100%  
+	    ¸û·s      		     940	Antonio Gramsci (¸¯Äõ¦è).md100%  
+	    ¸û·s      		    2803	Archimedes (ªü°ò¦Ì¼w).md100%  
+	    ¸û·s      		     852	Aristotle (¨È¨½´µ¦h¼w).md100%  
+	    ¸û·s      		    2991	Arjun Appadurai (ªü«¸¡Pªü©¬§ùµÜ).md100%  
+	    ¸û·s      		    3043	Arnold J. Toynbee (ªü¿Õ¼w¡PJ¡P´ö®¦¤ñ).md100%  
+	    ¸û·s      		     882	Arnold van Gennep (­S¼ö¤º´¶).md100%  
+	    ¸û·s      		     801	Arthur Schopenhauer (¨û¥»µØ).md100%  
+	    ¸û·s      		    4235	Ashish Vaswani (Transformer) (ªü§Æ¤°¡P¥Ë´µ¥Ë¥§).md100%  
+	    ¸û·s      		   11671	August Kekule (³Í®w°Ç).md100%  
+	    ¸û·s      		  194947	Augusto Ponzio (Ãe»ô¶ø).md100%  
+	    ¸û·s      		    2944	Avicenna (ªüºû´Ë¯Ç).md100%  
+	    ¸û·s      		    2751	Axel Honneth (ªü§J¶ëº¸¡PÀN­@¯S).md100%  
+	    ¸û·s      		    3827	B. F. Skinner (B. F. ´µª÷¯Ç).md100%  
+	    ¸û·s      		     880	Baruch de Spinoza (´µ»«¿Õ²ï).md100%  
+	    ¸û·s      		    1077	Bell Hooks (¨©º¸¡P­J§J´µ).md100%  
+	    ¸û·s      		    1066	Benedict Anderson (¯Z¯Ç­}§J¯S¡P¦w¼w´Ë).md100%  
+	    ¸û·s      		    1022	Benjamin Bloom (¥¬¾|©i).md100%  
+	    ¸û·s      		    3091	Benjamin Lee Whorf (¯Z³Ç©ú¡P§õ¡P¨U¤Ò).md100%  
+	    ¸û·s      		    3097	Benoit Mandelbrot (§B§V¥Ë¡P°Ò¼w¥¬¬¥¯S).md100%  
+	    ¸û·s      		   11930	Benoit Paul Emile Clapeyron (®J¦Ìº¸¡P§J©Ô¨ØÀs).md100%  
+	    ¸û·s      		    1266	Bernard Stiegler (§B¯Ç¼w¡P´µ¸¦®æ°Ç).md100%  
+	    ¸û·s      		    1315	Bernard Williams (§B¯Ç¼w¡P«Â·G¤h).md100%  
+	    ¸û·s      		    3223	Bernhard Riemann (ªi®¦«¢¼w¡P¾¤°Ò).md100%  
+	    ¸û·s      		   16527	Bertolt Brecht (¨©¦«º¸¯S¡P¥¬µÜ§Æ¯S).md100%  
+	    ¸û·s      		     893	Bertrand Russell (Ã¹¯À).md100%  
+	    ¸û·s      		     598	Blaise Pascal (©¬´µ¥d).md100%  
+	    ¸û·s      		     981	Bonny Norton (¨¹©g¡P¿Õ¹y).md100%  
+	    ¸û·s      		    2741	Bronis?aw Malinowski (¥¬Ã¹¥§´µ©Ô¤Ò¡P°¨ªL¿Õ¤Ò´µ°ò).md100%  
+	    ¸û·s      		   14825	Bruno Latour (¥¬¾|¿Õ¡P©Ô¹Ïº¸).md100%  
+	    ¸û·s      		    1109	Byung-Chul Han (Áú¬±­õ).md100%  
+	    ¸û·s      		     957	C.S. Lewis (C.S.¸ô©ö´µ).md100%  
+	    ¸û·s      		     835	Carey Jewitt (³Í·ç¡P¦¶¥ì¯S).md100%  
+	    ¸û·s      		    3289	Carl Friedrich Gauss (¥dº¸¡P¥±¨½¼w¨½§Æ¡P°ª´µ).md100%  
+	    ¸û·s      		     917	Carl Jung (ºa®æ).md100%  
+	    ¸û·s      		    3341	Carl Menger (¥dº¸¡Pªù®æº¸).md100%  
+	    ¸û·s      		    2338	Carl Rogers (¥dº¸¡PÃ¹³Ç´µ).md100%  
+	    ¸û·s      		   19639	Carl Rogers (¥dº¸¡PÃ¹­õ´µ).md100%  
+	    ¸û·s      		   14466	Carl Sagan (¥dº¸¡PÂÄ®Ú).md100%  
+	    ¸û·s      		    3259	Carl Schmitt (¥dº¸¡P¬I±K¯S).md100%  
+	    ¸û·s      		    2523	Carl von Clausewitz (¥dº¸¡P¶¾¡P§J³Ò¶ëºû¯÷).md100%  
+	    ¸û·s      		    5940	Carlo Ginzburg (¥d¬¥¡Pª÷¯÷§B®æ).md100%  
+	    ¸û·s      		    5509	Carlo Ginzburg (¥d¬¥¡Pª÷¯÷³ù).md100%  
+	    ¸û·s      		     939	Carol Chomsky (¥dÃ¹º¸¡P³ì©i´µ°ò).md100%  
+	    ¸û·s      		    1222	CCRU (±±¨î½×¬ã¨s²Õ).md100%  
+	    ¸û·s      		   11791	Chantal Mouffe (­»¶ð¡P¾¥µá).md100%  
+	    ¸û·s      		    1094	Charles Darwin (¬dº¸´µ¡P¹Fº¸¤å).md100%  
+	    ¸û·s      		    3313	Charles Horton Cooley (¬dº¸´µ¡PÀN¹y¡P®w§Q).md100%  
+	    ¸û·s      		   14732	Charles Sanders Peirce (¬dº¸´µ¡P®á¼w´µ¡P¥Öº¸¤h).md100%  
+	    ¸û·s      		    3520	Charles Taylor (¬dº¸´µ¡P®õ°Ç).md100%  
+	    ¸û·s      		   14978	Charles Tilly (¬dº¸´µ¡P¸¦§Q).md100%  
+	    ¸û·s      		   12138	Christopher Alexander (§J¨½´µ¦«¥±¡P¨È¾ú¤s¤j).md100%  
+	    ¸û·s      		     965	Claude Levi-Strauss (§õºû-¥vªû).md100%  
+	    ¸û·s      		    3302	Claude Shannon (§J³Ò¼w¡P®L¹A).md100%  
+	    ¸û·s      		    3897	Claude-Louis Navier (§J³Ò¼w-¸ô©ö¡P¯Çºû).md100%  
+	    ¸û·s      		    3401	Cleanth Brooks (§JªL´µ¡P¥¬¾|§J´µ).md100%  
+	    ¸û·s      		   15408	Clifford Geertz (§J§QºÖ¼w?¬öº¸¯÷).md100%  
+	    ¸û·s      		   15285	Confucius (¤Õ¤l).md100%  
+	    ¸û·s      		   10466	Constantin Stanislavski (±d´µ©Z¤B¡P´µ©Z¥§´µ©Ô¤Ò´µ°ò).md100%  
+	    ¸û·s      		    1167	Cope & Kalantzis (¬ì´¶»P¥dÄõ¯÷).md100%  
+	    ¸û·s      		    3813	Daniel Dennett (¤¦¥§º¸¡P¤¦¥§¯S).md100%  
+	    ¸û·s      		    3769	Daniel Goleman (¤¦¥§º¸¡P°ª°Ò).md100%  
+	    ¸û·s      		    6326	Daniel Kahneman (¤¦¥§º¸¡P±d¯Ç°Ò).md100%  
+	    ¸û·s      		   12925	Dante Alighieri (¦ý¤B).md100%  
+	    ¸û·s      		    2819	Daron Acemoglu (À¹­Û¡P¦ã¶ëÀq¾|).md100%  
+	    ¸û·s      		    3071	David Chalmers (¤j½Ã¡P¬dº¸Àq´µ).md100%  
+	    ¸û·s      		     230	David Graeber (¤j½Ã¡P®æ¹p§B).md100%  
+	    ¸û·s      		    1049	David Harvey (¤j½Ã¡P«¢ºû).md100%  
+	    ¸û·s      		    4600	David Hilbert (¤j½Ã¡P§Æº¸§B¯S).md100%  
+	    ¸û·s      		     944	David Hume (¥ðÂÓ).md100%  
+	    ¸û·s      		   14245	David Ricardo (¤j½Ã¡P§õ¹Å¹Ï).md100%  
+	    ¸û·s      		   21600	David Wood (¤j½Ã¡P¥î¼w) (phenomenology).md100%  
+	    ¸û·s      		   12351	David Wood (¤j½Ã¡P¥î¼w) (Vygotskian).md100%  
+	    ¸û·s      		   11103	Democritus (¼wÂÓ§J§Q¯S).md100%  
+	    ¸û·s      		   14400	Derek Parfit (¼w¨½§J¡P©¬µá¯S).md100%  
+	    ¸û·s      		    1187	Dianetics À¹¥§´£.md100%  
+	    ¸û·s      		     615	Dietrich Bonhoeffer (¼ïÀNµØ).md100%  
+	    ¸û·s      		   13533	Dmitri Mendeleev (¼w¦Ì¯S¨½¡Pªù±o¦C¤Ò).md100%  
+	    ¸û·s      		     888	Donald Knuth (°ª¼w¯Ç).md100%  
+	    ¸û·s      		   13040	Donald Norman (­ð¯Ç¼w¡P¿Õ°Ò).md100%  
+	    ¸û·s      		   15598	Donald Winnicott (­ð¯Ç¼w¡P·Å¥§¬ì¯S).md100%  
+	    ¸û·s      		    1229	Donna Haraway (­ð®R¡P«¢©Ôºû).md100%  
+	    ¸û·s      		    1047	Doreen Massey (¦hµY¡P³Á¦è).md100%  
+	    ¸û·s      		    3316	Douglas Hofstadter (¹D®æ©Ô´µ¡PÀN¤Ò¬I¶ð¯S).md100%  
+	    ¸û·s      		     850	Duns Scotus (¥q¦U²æ).md100%  
+	    ¸û·s      		   10726	E. P. Thompson (E. P. ´ö´¶´Ë).md100%  
+	    ¸û·s      		    3380	E.H. Gombrich (E.H. °^¥¬¨½§Æ).md100%  
+	    ¸û·s      		    8652	Edith Stein (¥ì­}µ·¡P¥v©Z).md100%  
+	    ¸û·s      		    9862	Edith Stein (¥ì­}µ·¡P¬I®õ¦]).md100%  
+	    ¸û·s      		     979	Edmund Burke (®J¼w»X¡P¬f§J).md100%  
+	    ¸û·s      		    5038	Edmund Husserl (­J¶ëº¸).md100%  
+	    ¸û·s      		   12708	Edmund Leach (®J¼w»X¡P§Q©_).md100%  
+	    ¸û·s      		    8148	Edsger W. Dijkstra (¦ã¯÷®æ¡P­}³Ç´µ¯S©Ô).md100%  
+	    ¸û·s      		    2873	Edward Gibbon (·R¼wµØ¡P¦N¥»).md100%  
+	    ¸û·s      		    2744	Edward Lorenz (·R¼wµØ¡PÃ¹­Û¯÷).md100%  
+	    ¸û·s      		    3244	Edward O. Wilson (·R¼wµØ¡P«Âº¸´Ë).md100%  
+	    ¸û·s      		    1076	Edward Said (·R¼wµØ¡PÂÄ¥ì¼w).md100%  
+	    ¸û·s      		    3238	Edward Sapir (·R¼wµØ¡PÂÄ¥Aº¸).md100%  
+	    ¸û·s      		     956	Edward Soja (·R¼wµØ¡P¯Á¶®).md100%  
+	    ¸û·s      		    2748	Edward T. Hall (·R¼wµØ¡PÀNº¸).md100%  
+	    ¸û·s      		   18817	Edward Thorndike (·R¼wµØ¡P®á¥N§J).md100%  
+	    ¸û·s      		   11738	Eleanor Rosch (®J²ú¿Õ¡PÃ¹¬I).md100%  
+	    ¸û·s      		    3169	Elinor Ostrom (®J²ú¿Õ¡P¶ø´µ¯SÃ¹©i).md100%  
+	    ¸û·s      		     904	Emmanuel Levinas (¦Cºû¯Ç´µ).md100%  
+	    ¸û·s      		    1292	Emmengard_s Plural Rings.md100%  
+	    ¸û·s      		   14597	Enrico Fermi (®¦¨½¬ì¡P¶O¦Ì).md100%  
+	    ¸û·s      		   13897	Epictetus (·R¤ñ§J®õ¼w).md100%  
+	    ¸û·s      		    3028	Epicurus (¥ì¤ñ¹§¾|).md100%  
+	    ¸û·s      		     850	Eric Dietrich (¦ã·ç§J¡P­}¯S¨½§Æ).md100%  
+	    ¸û·s      		     987	Eric Erikson (¦ã·ç§J´Ë).md100%  
+	    ¸û·s      		    3988	Erich Auerbach (®J¨½§Æ¡P¶øº¸¤Ú»®).md100%  
+	    ¸û·s      		    1057	Erich Fromm (¥±¬¥©i).md100%  
+	    ¸û·s      		   17706	Erik Olin Wright (®J¨½§J¡P¶øªL¡P¿à¯S).md100%  
+	    ¸û·s      		   11526	Ernst Bloch (®¦´µ¯S¡P¥¬¬¥»®).md100%  
+	    ¸û·s      		    3552	Ernst Cassirer (®¦´µ¯S¡P¥d¦è°Ç).md100%  
+	    ¸û·s      		     907	Ernst Engel (®¦´µ¯S¡P®¦®æº¸).md100%  
+	    ¸û·s      		    2511	Erving Goffman (¼Ú¤å¡P°ª¤Ò°Ò).md100%  
+	    ¸û·s      		    3396	Erwin Panofsky (¼Ú¤å¡P¼ï¿Õ¤Ò´µ°ò).md100%  
+	    ¸û·s      		    2724	Erwin Schrodinger (®Jº¸·Å¡PÁ§¤B®æ).md100%  
+	    ¸û·s      		   75597	Esmond Ray Long - A history of pathology ¯f²z¾Ç¥v.md100%  
+	    ¸û·s      		    1009	Ethan Nowak (¥ì®á¡P¿Õ¥Ë§J).md100%  
+	    ¸û·s      		   11627	Euclid (¼Ú´X¨½±o).md100%  
+	    ¸û·s      		    1106	Eve Kosofsky Sedgwick (¥ìªÜ¡P¶ë¦Nºû§J).md100%  
+	    ¸û·s      		   16434	Eve Sweetser (¥ìªÜ¡P¥v«Â·æ).md100%  
+	    ¸û·s      		    1044	F. de Saussure (¯Áºüº¸).md100%  
+	    ¸û·s      		    3178	Felix Hausdorff (¶O§Q§J´µ¡P»¨´µ¦h¤Ò).md100%  
+	    ¸û·s      		   12721	Ferdinand Tonnies (´´­}«n¡P¼ð¥§´µ).md100%  
+	    ¸û·s      		    3182	Fernand Braudel (¶Oº¸«n¡P¥¬³Ò©§º¸).md100%  
+	    ¸û·s      		     944	Ferruccio Rossi-Landi (¶O¾|³ì¡PÃ¹¦è-Äõ­}).md100%  
+	    ¸û·s      		    2946	Francis Crick (ªkÄõ¦è´µ¡P§J¨½§J).md100%  
+	    ¸û·s      		    3049	Francis Fukuyama (ªkÄõ¦è´µ¡PºÖ¤s).md100%  
+	    ¸û·s      		   12745	Francisco Varela (¥±®Ô¦è´µ¬ì¡P¥Ë¹p©Ô).md100%  
+	    ¸û·s      		   10333	Frank Lloyd Wright (ªkÄõ§J¡P¬¥¥ì¡PµÜ¯S).md100%  
+	    ¸û·s      		    5339	Frankfurt School (ªkÄõ§JºÖ¾Ç¬£).md100%  
+	    ¸û·s      		    1028	Frantz Fanon (ªk¹A).md100%  
+	    ¸û·s      		    2994	Franz Boas (ªkÄõ¯÷¡PÀj¨È¤h).md100%  
+	    ¸û·s      		     965	Franz Kafka (¥d¤Ò¥d).md100%  
+	    ¸û·s      		   27734	Frederic Wakeman Jr. (ÃQ´´¼w).md100%  
+	    ¸û·s      		    1017	Fredric Jameson (¸â©ú«H).md100%  
+	    ¸û·s      		   18624	Friedrich Engels (®¦®æ´µ).md100%  
+	    ¸û·s      		     924	Friedrich Hayek («¢­C§J).md100%  
+	    ¸û·s      		   14430	Friedrich Kittler (°ò¯S°Ç).md100%  
+	    ¸û·s      		   13244	Friedrich Nietzsche (¥§ªö).md100%  
+	    ¸û·s      		   14181	Friedrich Pollock (¥±¨½¼w¨½§Æ¡Pªi¬¥§J).md100%  
+	    ¸û·s      		    1020	Fyodor Dostoevsky (§ù´µ§´¤]¤Ò´µ°ò).md100%  
+	    ¸û·s      		     833	Felix Guattari (¥Ê¶ð¨½).md100%  
+	    ¸û·s      		    1168	G.C. Spivak (¥vºÑ«½§J).md100%  
+	    ¸û·s      		    1008	G.I. Gurdjieff (¸¯¦N¤Ò).md100%  
+	    ¸û·s      		    1268	G.W.F. Hegel (¶Â®æº¸).md100%  
+	    ¸û·s      		    3673	Gail Ross (»\¨à¡PÃ¹´µ).md100%  
+	    ¸û·s      		    3278	Galileo Galilei (¦÷§Q²¤¡P¦÷§QµÜ).md100%  
+	    ¸û·s      		     968	Gaston Bachelard (¥[´µªF¡P¤ÚªÙ©Ô).md100%  
+	    ¸û·s      		    1079	Gayle Rubin (»\º¸¡P¾|»«).md100%  
+	    ¸û·s      		     851	Geoffrey Hinton (³Ç¥±¨½¡P¨¯¹y).md100%  
+	    ¸û·s      		    4834	Georg Simmel (»ô¬üº¸).md100%  
+	    ¸û·s      		    3582	George Gabriel Stokes (³ìªv¡P¥[¥¬¨½®Jº¸¡P´µ¦«§J´µ).md100%  
+	    ¸û·s      		    3173	George Lakoff (³ìªv¡PµÜ¦Ò¤Ò).md100%  
+	    ¸û·s      		     898	George Orwell (³ìªv¡P¼Ú«Âº¸).md100%  
+	    ¸û·s      		    2879	George Ritzer (³ìªv¡P·ç¿A).md100%  
+	    ¸û·s      		   14147	George Siemens (³ìªv¡P¦èªù¤l).md100%  
+	    ¸û·s      		    1081	Georges Bataille (¤Ú¶ð­C).md100%  
+	    ¸û·s      		    9944	Georges Canguilhem (³ìªv¡P±d¦NµÜ©i).md100%  
+	    ¸û·s      		   10912	Georges Duby (³ìªv¡P§ù¤ñ).md100%  
+	    ¸û·s      		   22634	Gerard Egan (³Ç©Ô¼w¡P¥ì®Ú).md100%  
+	    ¸û·s      		    2436	Gerardus van der Leeuw (®æ©Ô§ù´µ¡P­S¡P¼w¡P°Ç¯Q).md100%  
+	    ¸û·s      		    7180	Gilbert Ryle (¦Nº¸§B¯S¡P¿àº¸).md100%  
+	    ¸û·s      		     941	Gilbert Simondon (¦Nº¸¨©¡P¦è»X´É).md100%  
+	    ¸û·s      		     906	Gilles Deleuze (¼w°Ç¯÷).md100%  
+	    ¸û·s      		     920	Giorgio Agamben (ªü©£¥»).md100%  
+	    ¸û·s      		     883	Gottfried Wilhelm Leibniz (µÜ¥¬¥§¯÷).md100%  
+	    ¸û·s      		   14073	Gottlob Frege (¥±¹p®æ).md100%  
+	    ¸û·s      		    1567	Gottlob Frege (¤à¯S¬¥¥¬¡P¥±¹p®æ).md100%  
+	    ¸û·s      		    3381	Grace Hopper (¸¯ÄRµ·¡PÀN´¶).md100%  
+	    ¸û·s      		    2492	Gregor Mendel (©s¼wº¸).md100%  
+	    ¸û·s      		    4273	Gregory Bateson (¸¯·ç®æ¨½¡P¨©¯S´Ë).md100%  
+	    ¸û·s      		    3340	Grigori Perelman (®æ¨½¤à¨½¡P¨Ø¹pº¸°Ò).md100%  
+	    ¸û·s      		     872	Groupe £g (Á[¤p²Õ).md100%  
+	    ¸û·s      		     917	Gunther Kress (©£·æ¡P§J·ç´µ).md100%  
+	    ¸û·s      		    1007	Guy Debord (©~¥ì¡P¼wªi).md100%  
+	    ¸û·s      		    1001	Gyorgy Lukacs (¿c¥d©_).md100%  
+	    ¸û·s      		   11414	H. L. A. Hart (H. L. A. «¢¯S).md100%  
+	    ¸û·s      		    2390	H. P. Grice («OÃ¹¡P®æµÜ´µ).md100%  
+	    ¸û·s      		     964	H.P. Blavatsky (¥¬©Ô¥Ë¯ý°ò¤Ò¤H).md100%  
+	    ¸û·s      		   10005	Hannah Arendt (º~®R¡P¶kÄõ).md100%  
+	    ¸û·s      		    3099	Hans Rosling (º~´µ¡PÃ¹´µªL).md100%  
+	    ¸û·s      		    2494	Hans-Georg Gadamer (º~´µ-®æ¶øº¸®æ¡P¦÷¹FÀqº¸).md100%  
+	    ¸û·s      		     920	Harlan Ellison («¢Äõ¡P¦ã¨½´Ë).md100%  
+	    ¸û·s      		    2615	Harold Bloom («¢Ã¹¼w¡P¥¬¾|©i).md100%  
+	    ¸û·s      		    9838	Harold Innis («¢Ã¹¼w¡P¥ì¥§´µ).md100%  
+	    ¸û·s      		    3239	Hartmut Rosa («¢¯S¿p¯S¡PÃ¹ÂÄ).md100%  
+	    ¸û·s      		   11014	Hayden White (®üµn¡PÃh¯S).md100%  
+	    ¸û·s      		   11164	Heinrich Wolfflin (®ü¦]¨½§Æ¡P¨U¤ÒªL).md100%  
+	    ¸û·s      		    3312	Heinz von Foerster (®ü¦]¯ý¡P¶¾¡P¦òº¸´µ¯S).md100%  
+	    ¸û·s      		    4970	Henri Bergson (¬f®æ´Ë).md100%  
+	    ¸û·s      		    1294	Henri Lefebvre (¦C´´¥ñº¸).md100%  
+	    ¸û·s      		    1007	Henri Poincare (©ù§Q¡PÃe¥[µÜ).md100%  
+	    ¸û·s      		     964	Henry Giroux (©u«J).md100%  
+	    ¸û·s      		   14035	Henry Jenkins (¦ë§Q¡P¸âª÷´µ).md100%  
+	    ¸û·s      		    2576	Heraclitus (»®©Ô§J§Q¯S).md100%  
+	    ¸û·s      		    2856	Herbert Blumer (»®§B¯S¡P¥¬¾|Àq).md100%  
+	    ¸û·s      		   10951	Herbert H. Clark (»®§B¯S¡P§J©Ô§J).md100%  
+	    ¸û·s      		    1016	Herbert Marcuse (°¨®w¦â).md100%  
+	    ¸û·s      		    2412	Herbert Spencer (»®§B¯S¡P¥v»«ÁÉ).md100%  
+	    ¸û·s      		     953	Hermes Trismegistus (»®±K´µ¡P¯S¨½´µ¾¥¦N´µÊÖ´µ).md100%  
+	    ¸û·s      		    2791	Herodotus (§ÆÃ¹¦h¼w).md100%  
+	    ¸û·s      		    2862	Hesiod (»®¦è«X¼w).md100%  
+	    ¸û·s      		    1069	Hilary Putnam (§Æ©Ô¿¶¡P´¶¯S«n).md100%  
+	    ¸û·s      		    9156	Homer (²ü°¨).md100%  
+	    ¸û·s      		    4827	Howard Gardner (ÀNµØ¼w¡P¥[¼w¯Ç).md100%  
+	    ¸û·s      		   12935	Howard S. Becker (ÀNµØ¼w¡PS¡P¨©§Jº¸).md100%  
+	    ¸û·s      		    3697	Helene Cixous (®JµÜ®R¡P¦èÄ¬).md100%  
+	    ¸û·s      		   14715	I. M. Pei (¨©¦Ö»Ê).md100%  
+	    ¸û·s      		    7009	Ian Bogost (¥ì®¦¡P³Õ®æ´µ¯S).md100%  
+	    ¸û·s      		    3432	Ian Hacking (¥ì®¦¡P«¢ª÷).md100%  
+	    ¸û·s      		    2012	Ibn Khaldun (¥ì¥»¡P»®°Ç´°).md100%  
+	    ¸û·s      		    3503	Ilya Prigogine (¥ì§Q¨È¡P´¶¨½°ª¬z).md100%  
+	    ¸û·s      		     978	Immanuel Kant (±d¼w).md100%  
+	    ¸û·s      		    2720	Imre Lakatos (¥ì©i¹p¡P©Ô¥d¦«´µ).md100%  
+	    ¸û·s      		   13073	Isaac Newton (¦ãÂÄ§J¡P¤û¹y).md100%  
+	    ¸û·s      		    2631	Italo Calvino (¥ì¶ðÃ¹¡P¥dº¸ºû¿Õ).md100%  
+	    ¸û·s      		   10267	Ivan Pavlov (©¬¨j¬¥¤Ò).md100%  
+	    ¸û·s      		    3639	Ivan Sechenov (ÁÂ¤Á¿Õ¤Ò).md100%  
+	    ¸û·s      		    2789	J. L. Austin (J. L. ¶ø´µ¤B).md100%  
+	    ¸û·s      		    3170	J. R. R. Tolkien (J.R.R. ¦«º¸ª÷).md100%  
+	    ¸û·s      		   14294	J. Robert Oppenheimer (Ã¹§B¯S¡P¶ø¥»®üÀq).md100%  
+	    ¸û·s      		   10695	Jacques Derrida (¼w§Æ¹F).md100%  
+	    ¸û·s      		     868	Jacques Lacan (©Ô±d).md100%  
+	    ¸û·s      		    3938	Jacques Le Goff (¶®§J¡P°Ç°ª¤Ò).md100%  
+	    ¸û·s      		     949	Jacques Ranciere (¬x®u­C).md100%  
+	    ¸û·s      		   12387	James C. Scott (¸â©i´µ¡PC¡P´µ¬ì¯S).md100%  
+	    ¸û·s      		    2727	James Clerk Maxwell (¸â©i´µ¡P§J©Ô§J¡P³Á§J´µ­³).md100%  
+	    ¸û·s      		   11996	James Joyce (¸â©i´µ¡P³ì¥ì´µ).md100%  
+	    ¸û·s      		    1290	James Lantolf (Äõ¦«¤Ò).md100%  
+	    ¸û·s      		     987	James Marcia (¸â©i´µ¡P°¨¦è¨È).md100%  
+	    ¸û·s      		    8011	James Paul Gee (¸â©i´µ¡P«OÃ¹¡P¦N).md100%  
+	    ¸û·s      		   12765	James Watson (¸â©i´µ¡PµØ¥Í).md100%  
+	    ¸û·s      		    1010	Jan Blommaert (·¨¡P¥¬¬¥°¨¯S).md100%  
+	    ¸û·s      		    5844	Jane Austen (Â²¡P¶ø´µ¥Å).md100%  
+	    ¸û·s      		    1062	Jane Jacobs (¬Ã¡P¶®¦U).md100%  
+	    ¸û·s      		     215	Jared Diamond (¸ë¼w¡PÀ¹»X).md100%  
+	    ¸û·s      		     964	Jean Baudrillard (©|¡P¥¬§Æ¨È).md100%  
+	    ¸û·s      		   12711	Jean Berko Gleason (Â²¡P§B¬ì¡P®æ¨½´Ë).md100%  
+	    ¸û·s      		     877	Jean Piaget (¥Ö¨È³Ç).md100%  
+	    ¸û·s      		     977	Jean-Baptiste Say (ÂÄ¥ì).md100%  
+	    ¸û·s      		    1000	Jean-Francois Lyotard (§õ¼Ú¶ð).md100%  
+	    ¸û·s      		     953	Jean-Jacques Rousseau (¿c±ô).md100%  
+	    ¸û·s      		     850	Jean-Paul Sartre (¨F¯S).md100%  
+	    ¸û·s      		     939	Jeremy Bentham (Ãä¨G).md100%  
+	    ¸û·s      		    6438	Jerome Bruner (¥¬¾|¯Ç).md100%  
+	    ¸û·s      		   11278	Jesper Hoffmeyer (³Ç´µ´¶¡PÀN¤ÒÁÚº¸).md100%  
+	    ¸û·s      		    3158	Johann Sebastian Bach (¬ù¿«¡P¶ë¤Ú´µ¸¦¦w¡P¤Ú»®).md100%  
+	    ¸û·s      		    2913	Johannes Kepler (¬ù¿«¤º´µ¡P§J¤R°Ç).md100%  
+	    ¸û·s      		    9440	John Berger (¬ù¿«¡P§B®æ).md100%  
+	    ¸û·s      		    3034	John Bowlby (¬ù¿«¡PÀj¤ñ).md100%  
+	    ¸û·s      		    1685	John Cage (¬ù¿«¡P³Í¦N).md100%  
+	    ¸û·s      		    3402	John Calvin (¬ù¿«¡P¥[º¸¤å).md100%  
+	    ¸û·s      		     983	John Dewey (¬ù¿«¡P§ù«Â).md100%  
+	    ¸û·s      		    1173	John Keynes (³Í¦]´µ).md100%  
+	    ¸û·s      		   24144	John King Fairbank (¶O¥¿²M).md100%  
+	    ¸û·s      		     849	John Koenig (¬ù¿«¡P¬ì¥§®æ).md100%  
+	    ¸û·s      		     884	John Locke (¬ù¿«¡P¬¥§J).md100%  
+	    ¸û·s      		    6831	John McCarthy (¬ù¿«¡P³Á¥d¿ü).md100%  
+	    ¸û·s      		    3206	John Mearsheimer (¬ù¿«¡P¦Ìº¸´µ®üÀq).md100%  
+	    ¸û·s      		    2556	John Nash (¬ù¿«¡P¯Ç¤°).md100%  
+	    ¸û·s      		    2872	John Searle (¬ù¿«¡P·æº¸).md100%  
+	    ¸û·s      		     934	John Sinclair (¬ù¿«¡P¨¯§JµÜº¸).md100%  
+	    ¸û·s      		    4491	John Sweller (¬ù¿«´µ«Â°Ç).md100%  
+	    ¸û·s      		    3857	John von Neumann (¬ù¿«¡P¶¾¡P¿Õ¥ì°Ò).md100%  
+	    ¸û·s      		   27029	Jonathan Spence (¥v´º¾E).md100%  
+	    ¸û·s      		    1908	Jordan Peterson (³ì¤¦¡P©¼±o´Ë).md100%  
+	    ¸û·s      		    3614	Jorge Luis Borges (»¨º¸»®¡P¸ô©ö´µ¡Pªi»®¤h).md100%  
+	    ¸û·s      		    4360	Joseph Campbell (§¢§B).md100%  
+	    ¸û·s      		   14694	Joseph Nye (¬ù·æ¤Ò¡P©`).md100%  
+	    ¸û·s      		   10654	Joseph Schumpeter (¬ù·æ¤Ò¡Pºµ©¼¯S).md100%  
+	    ¸û·s      		    3165	Joseph Stiglitz (¬ù·æ¤Ò¡P¥v­}®æ¨½¯÷).md100%  
+	    ¸û·s      		    4687	Joseph-Louis Lagrange (¬ù·æ¤Ò¡P©Ô®æ®Ô¤é).md100%  
+	    ¸û·s      		    4017	Judea Pearl (¦¶­}¨È¡P¬Äº¸).md100%  
+	    ¸û·s      		    1003	Judith Butler (¯ü¸¦µ·¡P¤Ú¯S°Ç).md100%  
+	    ¸û·s      		    1004	Julia Kristeva (§J²úµ·¸¦«½).md100%  
+	    ¸û·s      		     949	Jurgen Habermas («¢§Bº¿´µ).md100%  
+	    ¸û·s      		    2555	Karen Yeung.md100%  
+	    ¸û·s      		     606	Karl Barth (¥dº¸¡P¤Ú¯S).md100%  
+	    ¸û·s      		    3145	Karl Jaspers (¥dº¸¡P¶®´µ¨Ø´µ).md100%  
+	    ¸û·s      		    1251	Karl Marx (°¨§J«ä).md100%  
+	    ¸û·s      		    3139	Karl Polanyi (¥dº¸¡PªiÄõ¥§).md100%  
+	    ¸û·s      		    1034	Karl Popper (¥dº¸¡Pªi´¶º¸).md100%  
+	    ¸û·s      		   14625	Kenneth Burke (ªÖ¥§´µ¡P¬f§J).md100%  
+	    ¸û·s      		   18688	Kenneth Pomeranz (´^¼}µM).md100%  
+	    ¸û·s      		   22495	Kenneth Scott Latourette (¿à¼w¯P).md100%  
+	    ¸û·s      		   13745	Kenneth Waltz (ªÖ¥§«ä¡PµØ¯÷).md100%  
+	    ¸û·s      		     219	Kenneth Waltz (ªÖ¥§´µ¡PµØº¸¯÷).md100%  
+	    ¸û·s      		     195	Kenneth Waltz (ªÖ¥§´µ¡PµØ¯÷).md100%  
+	    ¸û·s      		    3675	Kurt Godel (®wº¸¯S¡P­ô¼wº¸).md100%  
+	    ¸û·s      		    3379	Kurt Lewin (®wº¸¯S¡P°Ç·Å).md100%  
+	    ¸û·s      		   11689	Laozi (¦Ñ¤l).md100%  
+	    ¸û·s      		    2745	Lawrence Kohlberg (³Ò­Û´µ¡P¬_º¸§B®æ).md100%  
+	    ¸û·s      		     279	Le Corbusier (°Ç¡P¬_¤ñ·N).md100%  
+	    ¸û·s      		   15453	Leo Strauss (¦C¶ø¡P¬I¯S³Ò´µ).md100%  
+	    ¸û·s      		    2916	Leon Festinger (§Q©ù¡P¶O´µ§Ê®æ).md100%  
+	    ¸û·s      		    6938	Leonard Talmy (­Û¯Ç¼w¡P¶ðº¸¦Ì).md100%  
+	    ¸û·s      		    3194	Leonardo da Vinci (§õ¶ø¯Ç¦h¡P¹F¤å¦è).md100%  
+	    ¸û·s      		    2903	Leonhard Euler (µÜ©ù«¢¼w¡P¼Ú©Ô).md100%  
+	    ¸û·s      		    2798	Leopold von Ranke (§Q¶øªi¼w¡P¶¾¡PÄõ§J).md100%  
+	    ¸û·s      		   16629	Lev Vygotsky (ºû°ª´µ°ò).md100%  
+	    ¸û·s      		   15202	Lewis Mumford (¸ô©ö´µ¡P¨~ºÖ¼w).md100%  
+	    ¸û·s      		    1189	Lewison et al. (¼B©ö´Ëµ¥¤H).md100%  
+	    ¸û·s      		   12429	Lila Gleitman (µÜ©Ô¡P®æµÜ¯S°Ò).md100%  
+	    ¸û·s      		     830	Lim Fei Victor (ªL­¸°¶).md100%  
+	    ¸û·s      		   14963	Linus Pauling (µÜ¯Ç´µ¡PÀjªL).md100%  
+	    ¸û·s      		    1340	Louis Althusser (ªü¹Ï¶ë).md100%  
+	    ¸û·s      		   10452	Louis Hjelmslev (¸ô©ö¡P¸­º¸©i´µ¦C¤Ò).md100%  
+	    ¸û·s      		     940	Louis Hjelmslev (¸ô©ö´µ¡P¸­º¸©i´µ¦C¤Ò).md100%  
+	    ¸û·s      		   15775	Louis Pasteur (¸ô©ö¡P¤Ú´µ¼w).md100%  
+	    ¸û·s      		    1031	Luce Irigaray (§f´µ¡P¥ì·ç¸¯¨Ó).md100%  
+	    ¸û·s      		    3125	Lucien Febvre (§f¦è¦w¡P¶O¥±º¸).md100%  
+	    ¸û·s      		     918	Ludwig Feuerbach (¶Oº¸¤Ú«¢).md100%  
+	    ¸û·s      		    3839	Ludwig Prandtl (¸ô¼wºû§Æ¡P´¶®Ô¯S).md100%  
+	    ¸û·s      		    3447	Ludwig von Bertalanffy (¸ô¼wºû§Æ¡P¶¾¡P¨©¶ð­¦«D).md100%  
+	    ¸û·s      		   13415	Ludwig von Mises (¸ô¼wºû§Æ¡P¶¾¡P¦Ì¶ë´µ).md100%  
+	    ¸û·s      		   15916	Ludwig Wittgenstein (ºû®Ú´µ©Z).md100%  
+	    ¸û·s      		     772	Luke & Freebody (¿c§J»P¥±¨½³Õ­}).md100%  
+	    ¸û·s      		    3983	Lynn Margulis (µY¡P°¨¥j§Q´µ).md100%  
+	    ¸û·s      		   24224	Lynn Thorndike (ªL®¦¡P®á¥N§J).md100%  
+	    ¸û·s      		    4828	M. A. K. Halliday (ÁúÂ§¼w).md100%  
+	    ¸û·s      		    2965	M. C. Escher (¦ã³·).md100%  
+	    ¸û·s      		    1011	Manuel Castells (°Ò¯Ã¡P¬_¥q¯S).md100%  
+	    ¸û·s      		    3353	Manuel DeLanda (°Ò¯Ãº¸¡P¼wÄõ¹F).md100%  
+	    ¸û·s      		    1195	Marc Auge (°¨§J¡P¼Ú³Ç).md100%  
+	    ¸û·s      		    3827	Marc Bloch (°¨§J¡P¥¬¬¥§J).md100%  
+	    ¸û·s      		    2475	Marcel Mauss (°¨¶ëº¸¡P²ö´µ).md100%  
+	    ¸û·s      		    2790	Marcus Aurelius (°¨¥i¡P¶ø²z²¤).md100%  
+	    ¸û·s      		    1030	Marcus Tullius Cicero (¦è¶ëÃ¹).md100%  
+	    ¸û·s      		    1004	Maria Montessori (»X¯S±ô§Q).md100%  
+	    ¸û·s      		    8171	Marie Curie (º¿ÄR¡P©~Â§).md100%  
+	    ¸û·s      		    1215	Mark Fisher (°¨§J¡P¶O³·).md100%  
+	    ¸û·s      		     807	Mark Forsyth (°¨§J¡PºÖÁÉ´µ).md100%  
+	    ¸û·s      		   11463	Mark Granovetter (°¨§J¡P®æÄõ¿Õºû¯S).md100%  
+	    ¸û·s      		    2745	Mark Johnson (°¨§J¡P¸â´Ë).md100%  
+	    ¸û·s      		     885	Marlene Dixon (º¿µY¡P­}§J´Ë).md100%  
+	    ¸û·s      		    1028	Marshall McLuhan (³Á§J¾|º~).md100%  
+	    ¸û·s      		    2677	Marshall Sahlins (°¨·²º¸¡PÂÄªL´µ).md100%  
+	    ¸û·s      		     981	Martha Nussbaum (º¿²ï¡P§V´µÀj©i).md100%  
+	    ¸û·s      		     865	Martin Heidegger (®ü¼w®æ).md100%  
+	    ¸û·s      		     590	Martin Luther (°¨¤B¡P¸ô¼w).md100%  
+	    ¸û·s      		   17351	Marvin Minsky (°¨¤å¡P¶{´µ°ò).md100%  
+	    ¸û·s      		    3273	Mary Ainsworth (º¿²ú¡P¦w´µ¨U´µ).md100%  
+	    ¸û·s      		    2121	Mary Beard (º¿ÄR¡P²¦º¸¼w).md100%  
+	    ¸û·s      		    2966	Mary Douglas (º¿²ú¡P¹D®æ©Ô´µ).md100%  
+	    ¸û·s      		    3211	Maurice Halbwachs (²ö¨½´µ¡P«¢¥¬¥Ë»®).md100%  
+	    ¸û·s      		     984	Max Horkheimer (ÀN§J®üÀq).md100%  
+	    ¸û·s      		    3127	Max Planck (°¨§J´µ¡P´¶®Ô§J).md100%  
+	    ¸û·s      		    3739	Max Scheler (°¨§J´µ¡PªÙ°Ç).md100%  
+	    ¸û·s      		   11865	Max Stirner (³Á§J´µ¡P¬I¸¦¯Ç).md100%  
+	    ¸û·s      		   15564	Max Weber (°¨§J´µ¡P­³§B).md100%  
+	    ¸û·s      		    1036	Meister Eckhart (³Á´µ¯S¡P¦ã§J«¢¯S).md100%  
+	    ¸û·s      		   14382	Melanie Klein (±öÄõ©g¡P§JµÜ¦]).md100%  
+	    ¸û·s      		     816	Merleau-Ponty (±ö¬¥-Ãe¸¦).md100%  
+	    ¸û·s      		   11975	Merrill Garrett (±ö¨½º¸¡P¥[°Ç¯S).md100%  
+	    ¸û·s      		     970	Michael Apple (³Á§J¡P¦ãªi).md100%  
+	    ¸û·s      		     914	Michael Berzonsky (ÁÚ§Jº¸¡P¨©º¸©v´µ°ò).md100%  
+	    ¸û·s      		    2465	Michael Faraday (³Á¥i¡Pªk©Ô²Ä).md100%  
+	    ¸û·s      		    3346	Michael Polanyi (³Á¥i¡PªiÄõ¥§).md100%  
+	    ¸û·s      		    3656	Michael Porter (³Á¥i¡Pªi¯S).md100%  
+	    ¸û·s      		    3658	Michael Sandel (ÁÚ¥i¡P®á¼wº¸).md100%  
+	    ¸û·s      		     914	Michael Silverstein (ÁÚ§Jº¸¡P¦èº¸¥±´µ©Z).md100%  
+	    ¸û·s      		    4505	Michael Sugrue (ÁÚ§Jº¸¡PÄ¬®æ¾|).md100%  
+	    ¸û·s      		   11207	Michael Tomasello (ÁÚ§Jº¸¡P¦«°¨¶ë¬¥).md100%  
+	    ¸û·s      		    3215	Michael Walzer (ÁÚ§Jº¸¡P¨Uº¸¿A).md100%  
+	    ¸û·s      		    3670	Michel de Certeau (¦Ì·²º¸¡P¼w¡P¶ë¦«).md100%  
+	    ¸û·s      		   19460	Michel Foucault (¦Ì·²º¸¡P³Å¬_).md100%  
+	    ¸û·s      		    3497	Michel Henry (¦Ì·²º¸¡P¦ë§Q).md100%  
+	    ¸û·s      		    2566	Michel Serres (¦Ì·²º¸¡PÁÉ²ü).md100%  
+	    ¸û·s      		    3563	Mihaly Csikszentmihalyi (¦Ì«¢¨½¡P«´§J´Ë¦Ì«¢¥ì).md100%  
+	    ¸û·s      		   19563	Mikhail Bakhtin (¤Ú»®ª÷).md100%  
+	    ¸û·s      		    1410	Milton Friedman (¦Ìº¸¹y¡P¦ò§Q¥Á).md100%  
+	    ¸û·s      		   19010	Milton Mayeroff (±Kº¸¹y¡P±ö­CÃ¹¤Ò).md100%  
+	    ¸û·s      		    4767	Mircea Eliade (¥ì§Q¨È¼w).md100%  
+	    ¸û·s      		    1066	Monique Wittig (²ö¥§§J¡Pºû¸¦®æ).md100%  
+	    ¸û·s      		   11227	Montesquieu (©s¼w´µ¹§).md100%  
+	    ¸û·s      		   18261	Muzafer Sherif (¿p¤ã¶Oº¸¡PÁÂ¨½¤Ò).md100%  
+	    ¸û·s      		    1062	Nancy Fraser («n§Æ¡P¥±¹p¿A).md100%  
+	    ¸û·s      		    3697	Nassim Nicholas Taleb (¯Ç¦è©i¡P¥§¥i©Ô´µ¡P¶ð¹p§B).md100%  
+	    ¸û·s      		    3784	Natalie Zemon Davis (®R¶ð²ú¡P¿A»X¡PÀ¹ºû´µ).md100%  
+	    ¸û·s      		    4894	Neil Postman (¥§º¸¡Pªi¯÷°Ò).md100%  
+	    ¸û·s      		     923	Nick Land (¥§§J¡PÄõ¼w).md100%  
+	    ¸û·s      		   13505	Nicolaus Copernicus (¥§¥j©Ô¡P­ô¥Õ¥§).md100%  
+	    ¸û·s      		   15648	Nicos Poulantzas (¥§¬ì´µ¡P´¶Äõ¬d´µ).md100%  
+	    ¸û·s      		    3455	Niels Bohr (¥§º¸´µ¡Pªi¦Õ).md100%  
+	    ¸û·s      		     994	Noam Chomsky (¿Õ©i¡P³ì©i´µ°ò).md100%  
+	    ¸û·s      		    3359	Norbert Elias (¿Õ§B¯S¡P¥ì¨½¨È´µ).md100%  
+	    ¸û·s      		   16221	Norbert Wiener (¿Õ§B¯S¡Pºû¯Ç).md100%  
+	    ¸û·s      		     919	Norman Fairclough (¿Õ°Ò¡P¶Oº¸§J©Ô¤Ò).md100%  
+	    ¸û·s      		    3498	Northrop Frye (¿Õ´µ¬¥´¶¡P¦òµÜ).md100%  
+	    ¸û·s      		     914	Oscar Wilde (¤ýº¸¼w).md100%  
+	    ¸û·s      		    3322	Oswald Spengler (¶ø´µ¥Ëº¸¼w¡P´µ»«®æ°Ç).md100%  
+	    ¸û·s      		   12464	Otis Dudley Duncan (¶ø¸¦´µ¡P¹F¼w§Q¡P¾HªÖ).md100%  
+	    ¸û·s      		     946	Padmasambhava (½¬ªá¥Í¤j¤h).md100%  
+	    ¸û·s      		     941	Paracelsus (©¬©Ô¶ëº¸Ä¬´µ).md100%  
+	    ¸û·s      		    3161	Parmenides (¤Úªù¥§¼w).md100%  
+	    ¸û·s      		    1008	Pascual-Leone (©¬´µ¦jº¸-µÜ©ù¤º).md100%  
+	    ¸û·s      		    1201	Paul B. Preciado («OÃ¹¡PB¡P´¶¹p¦è¨È¦h).md100%  
+	    ¸û·s      		    2793	Paul Dirac («OÃ¹¡P¨f©Ô§J).md100%  
+	    ¸û·s      		    3540	Paul Feyerabend («OÃ¹¡P¶O­Cªü¥»¼w).md100%  
+	    ¸û·s      		   16237	Paul Krugman («OÃ¹¡P§J¾|°Ò).md100%  
+	    ¸û·s      		     949	Paul Mangre («OÃ¹¡P¨~®æ¹p).md100%  
+	    ¸û·s      		    9407	Paul Ric?ur («OÃ¹¡P§Q¬ì).md100%  
+	    ¸û·s      		    3211	Paul Samuelson («OÃ¹¡PÂÄÁ[º¸´Ë).md100%  
+	    ¸û·s      		     578	Paul Tillich (¥Ð¥ß§J).md100%  
+	    ¸û·s      		    1189	Paul Virilio («OÃ¹¡Pºû§Æ¯d).md100%  
+	    ¸û·s      		     905	Paulo Freire («OÃ¹¡P¥±¹p°Ç).md100%  
+	    ¸û·s      		     888	Peter De Costa (©¼±o¡P¼w¬ì´µ¶ð).md100%  
+	    ¸û·s      		    2550	Peter L. Berger (©¼±o¡P¬f®æ).md100%  
+	    ¸û·s      		    1299	Peter McLaren (©¼±o¡P³Á©Ô­Û).md100%  
+	    ¸û·s      		    2902	Peter Singer (©¼±o¡P¨¯®æ).md100%  
+	    ¸û·s      		    9068	Peter Sloterdijk (©¼±o¡P´µ³Ò¯SÀ¹§J).md100%  
+	    ¸û·s      		    3298	Peter Sloterdijk (©¼±o¡P´µ¬¥¯SÀ¹§J).md100%  
+	    ¸û·s      		   22705	Philip A. Kuhn (¤Õ­¸¤O).md100%  
+	    ¸û·s      		    2639	Philip Zimbardo (µá§Q´¶¡P¬z¤Ú¦h).md100%  
+	    ¸û·s      		   13122	Pierre Bourdieu (¥Ö®Jº¸¡P¥¬­}¤Ì).md100%  
+	    ¸û·s      		    9466	Pierre Clastres (¥Ö®J?¡P§J©Ô´µ¯S).md100%  
+	    ¸û·s      		   10601	Pierre Teilhard de Chardin (¼w¤é¶i).md100%  
+	    ¸û·s      		    3479	Pierre-Simon Laplace (¥Ö­C-¦è»X¡P©Ô´¶©Ô´µ).md100%  
+	    ¸û·s      		     945	Plato (¬f©Ô¹Ï).md100%  
+	    ¸û·s      		    6993	Pythagoras (²¦¹F­ô©Ô´µ).md100%  
+	    ¸û·s      		    1216	Quentin Meillassoux (©ø¥Å¡P±ö¨ÈÄ¬).md100%  
+	    ¸û·s      		   11973	Quentin Skinner (©ø¥Å¡P´µª÷¯Ç).md100%  
+	    ¸û·s      		   13028	Rachel Carson (·ç¬î¡P¥d´Ë).md100%  
+	    ¸û·s      		     966	Ray Bradbury (¹p¡P¥¬µÜ§B§Q).md100%  
+	    ¸û·s      		    1645	Ray Jackendoff (¹p¡P³ÇªÖ¹D¤Ò).md100%  
+	    ¸û·s      		    1039	Raya Dunayevskaya (©Ô¨È¡P§ù¯Ç­C¤Ò´µ¥dÔÕ).md100%  
+	    ¸û·s      		    3672	Raymond Aron (¹p»X¡Pªü§»).md100%  
+	    ¸û·s      		    4002	Rem Koolhaas (¹p©i¡P®w«¢´µ).md100%  
+	    ¸û·s      		     923	Rene Descartes (²Ã¥d¨à).md100%  
+	    ¸û·s      		    3782	Rene Girard (°Ç¤º¡P¦N©Ôº¸).md100%  
+	    ¸û·s      		    4006	Richard Dawkins (²z¬d¡P¹Dª÷´µ).md100%  
+	    ¸û·s      		     281	Richard Feynman (²z¬d¡P¶O°Ò).md100%  
+	    ¸û·s      		    2841	Richard Rorty (²z¬d¡PÃ¹¸¦).md100%  
+	    ¸û·s      		    4046	Richard Sennett (²z¬d¡P®á¤º¯S).md100%  
+	    ¸û·s      		    8416	Richard Thaler (²z¬d¡P¶ë°Ç).md100%  
+	    ¸û·s      		   11348	Robert Boyle (Ã¹§B¯S¡Pªi¥H¦Õ).md100%  
+	    ¸û·s      		    3661	Robert E. Park (Ã¹§B¯S¡PE¡P¬£§J).md100%  
+	    ¸û·s      		    3276	Robert K. Merton (Ã¹§B¯S¡Pª÷¡P²ö¹y).md100%  
+	    ¸û·s      		   13558	Robert Keohane (Ã¹§B¯S¡P°ò¼Úº~).md100%  
+	    ¸û·s      		    3364	Robert Nozick (Ã¹§B¯S¡P¿Õ»ô§J).md100%  
+	    ¸û·s      		   29959	Robert Selman (Ã¹§B¯S¡P¶ëº¸°Ò).md100%  
+	    ¸û·s      		    3847	Roger Penrose (Ã¹³Ç¡P¼ï¬¥´µ).md100%  
+	    ¸û·s      		    3993	Roger Weissberg (CASEL) (Ã¹³Ç¡PÃQ´µ§B®æ).md100%  
+	    ¸û·s      		    1025	Roland Barthes (Ã¹Äõ¡P¤Ú¯S).md100%  
+	    ¸û·s      		    1034	Roman Jakobson (Ã¹°Ò¡P¶®¦U¥¬´Ë).md100%  
+	    ¸û·s      		     965	Ron Darvin (Ã¹®¦¡P¹Fº¸¤å).md100%  
+	    ¸û·s      		   15815	Ronald Dworkin (Ã¹¯Ç¼w¡P¼w¨Uª÷).md100%  
+	    ¸û·s      		   11859	Ronald Langacker (Ã¹¯Ç¼w¡PÄõ¥[§J).md100%  
+	    ¸û·s      		    2950	Rosalind Franklin (Ã¹²ïµY¡P´IÄõ§JªL).md100%  
+	    ¸û·s      		    3182	Rosi Braidotti (Ã¹¦è¡P¥¬©Ô¥ì¦h¸¦).md100%  
+	    ¸û·s      		    3255	Rousas John Rushdoony (¾|ÂÄ´µ¡P¬ù¿«¡P¾|´µ§ù¥§).md100%  
+	    ¸û·s      		   16011	Rudolf Carnap (¾|¹D¤Ò¡P¥dº¸¯Ç´¶).md100%  
+	    ¸û·s      		   16257	Rudolf Clausius (¾|¹D¤Ò¡P§J³Ò­×´µ).md100%  
+	    ¸û·s      		    3366	Ruth Benedict (ÅSµ·¡P¼ï¤D¼w).md100%  
+	    ¸û·s      		    1182	Regis Debray (¹p¦N´µ¡P¼w¥¬¹p).md100%  
+	    ¸û·s      		    1102	Sam Altman (¤s©i¡Pªü¯S°Ò).md100%  
+	    ¸û·s      		     215	Sam Harris (ÂÄ©i¡P«¢¨½´µ).md100%  
+	    ¸û·s      		     927	Samuel Beckett (ÂÄÁ[º¸¡P¨©§J¯S).md100%  
+	    ¸û·s      		    3099	Samuel P. Huntington (¶ëÁ[º¸¡PP¡P¦ë§Ê¹y).md100%  
+	    ¸û·s      		    1108	Sara Ahmed (ÂÄ©Ô¡Pªü»®ÁÚ¼w).md100%  
+	    ¸û·s      		     217	Saskia Sassen (ÂÄ´µ°òÔÕ¡PÂÄ´Ë).md100%  
+	    ¸û·s      		    2852	Saul Kripke (¯Áº¸¡P§J¨½´¶§J).md100%  
+	    ¸û·s      		    2736	Seneca (¶ë¤º¥d).md100%  
+	    ¸û·s      		    2571	Sherry Turkle (³·²ú¡P¯S§Jº¸).md100%  
+	    ¸û·s      		    1205	Shoshana Zuboff (¥ð¬À®R¡P¯ª³Õ¤Ò).md100%  
+	    ¸û·s      		     861	Sigmund Freud (¦ò¬¥¥ì¼w).md100%  
+	    ¸û·s      		   12994	Sima Qian (¥q°¨¾E).md100%  
+	    ¸û·s      		    4301	Simon Baron-Cohen (¦è»X¡P«ô­Û-¬_®¦).md100%  
+	    ¸û·s      		    9267	Simone de Beauvoir (¦è»X¡P¼w¡Pªi«½).md100%  
+	    ¸û·s      		     966	Simone de Beauvoir (¦è»X¡Pªi«½).md100%  
+	    ¸û·s      		    1399	Sir Demis Hassabis (³Ç¦Ì´µ¡P«¢ÂÄ¤ñ´µ ).md100%  
+	    ¸û·s      		    5150	Slavoj ?i?ek (´µ©Ô¨U¼ö¡P»ô¿A§J).md100%  
+	    ¸û·s      		     930	Socrates (Ä¬®æ©Ô©³).md100%  
+	    ¸û·s      		    3525	Solomon Asch (©ÒÃ¹ªù¡Pªü§Æ).md100%  
+	    ¸û·s      		     731	St. Augustine (¶ø¥j´µ¤B).md100%  
+	    ¸û·s      		    2689	Stanislav Grof (´µ©Z¥§´µ©Ô¤Ò¡P®æÃ¹¤Ò).md100%  
+	    ¸û·s      		   11486	Stanley Fish (´µ©Z§Q¡P¶O§Æ).md100%  
+	    ¸û·s      		    2734	Stanley Milgram (´µ©Z§Q¡P¦Ìº¸®æ©Ô©i).md100%  
+	    ¸û·s      		     976	Stella Ting-Toomey (¤BÀRµØ).md100%  
+	    ¸û·s      		   10659	Stephen Downes (¥v¸¦ªâ¡P­ð´µ).md100%  
+	    ¸û·s      		    3108	Stephen Greenblatt (¥v¸¦ªâ¡P®æªL¥¬©Ô¯S).md100%  
+	    ¸û·s      		     941	Steven Krashen (¥v¸¦ªâ¡P§J©Ô¥Ó).md100%  
+	    ¸û·s      		     910	Steven Pinker (¥v¸¦ªâ¡P¥­§J).md100%  
+	    ¸û·s      		     883	Strong Programme (±jºõ»â).md100%  
+	    ¸û·s      		    1058	Stuart Hall (´µ¹Ï¨È¯S¡PÀNº¸).md100%  
+	    ¸û·s      		   11069	Sun Tzu (®]¤l).md100%  
+	    ¸û·s      		   13553	Susan Carey (Ä¬¬À¡P³Í¨½).md100%  
+	    ¸û·s      		    2517	Susan Sontag (Ä¬¬À¡P®á¶ð®æ).md100%  
+	    ¸û·s      		    1125	Soren Kierkegaard (ªÂ§JªG¡F»ô§JªG).md100%  
+	    ¸û·s      		   15265	T. S. Eliot (T.S. ¦ã²¤¯S).md100%  
+	    ¸û·s      		    6011	Tacitus (¶ð¦è¦ï).md100%  
+	    ¸û·s      		    3338	Terry Eagleton (®õ·ç¡P¥ì®æ¹y).md100%  
+	    ¸û·s      		     905	Theo van Leeuwen (´£¶ø¡P½d¡P§õ¤å).md100%  
+	    ¸û·s      		     975	Theodor Adorno (ªü¦h¿Õ).md100%  
+	    ¸û·s      		   14288	Thomas A. Sebeok (¦«°¨´µ¡P¶ë¤ñ¶ø§J).md100%  
+	    ¸û·s      		     934	Thomas Aquinas (ªü«¶¨º).md100%  
+	    ¸û·s      		    2650	Thomas More (¦«°¨´µ¡P¼¯º¸).md100%  
+	    ¸û·s      		    9992	Thomas Nagel (´öº¿´µ¡P¤º®æº¸).md100%  
+	    ¸û·s      		    5248	Thomas Paine (¦«°¨´µ¡P¼ï®¦).md100%  
+	    ¸û·s      		    3158	Thomas Piketty (¦«°¨´µ¡P¥Ö³Í´£).md100%  
+	    ¸û·s      		     896	Thomas Sebeok (¦«°¨´µ¡P¶ë¤ñ¶ø§J).md100%  
+	    ¸û·s      		    3129	Thorstein Veblen (¦«´µ¤¦¡P­³§B­Û).md100%  
+	    ¸û·s      		    3021	Thucydides (­×©õ©³¼w).md100%  
+	    ¸û·s      		    3192	Tim Berners-Lee (¸¦©i¡P¬f¯Ç-§õ).md100%  
+	    ¸û·s      		     247	Tim Ingold (¸¦©i¡P­^¤àº¸¼w).md100%  
+	    ¸û·s      		    1286	Ulrich Beck (¯Qº¸§Q§Æ¡P¨©§J).md100%  
+	    ¸û·s      		     924	Umberto Eco (¯Î¨©¦«¡P¦ã¥i).md100%  
+	    ¸û·s      		    2972	Umberto Maturana (·Å¨©¦«¡P°¨¹Ï©Ô¯Ç).md100%  
+	    ¸û·s      		    4282	Urie Bronfenbrenner (¤×¨½¡P¥¬®Ôªâ¥¬­Û¯Ç).md100%  
+	    ¸û·s      		    7311	V. S. Ramachandran (ºûµÜ¨È§Vº¸¡P©Ôº¿¿ú¼w®Ô).md100%  
+	    ¸û·s      		     894	Valentin Voloshinov (¥Ë­Û¤B¡P¨U¬¥§Æ¿Õ¤Ò).md100%  
+	    ¸û·s      		     969	Victor Turner (ºû§J¦h¡P¯S¯Ç).md100%  
+	    ¸û·s      		     895	Victoria Welby (ºû¦h§Q¨È¡P­³º¸¤ñ).md100%  
+	    ¸û·s      		   16059	Viktor Shklovsky (ºû§J¦h¡P¤°§J¬¥¤Ò´µ°ò).md100%  
+	    ¸û·s      		    1022	Vilfredo Pareto (ºûº¸¥±¹p¦h¡P©¬²Ö¦«).md100%  
+	    ¸û·s      		   13241	Vilem Flusser (ºûÄõ¡P³Å©Ô·æ).md100%  
+	    ¸û·s      		   14599	Virgil (ºû¦Nº¸).md100%  
+	    ¸û·s      		    2875	Virginia Woolf (ºû¦N¥§¨È¡P§dº¸ªÜ).md100%  
+	    ¸û·s      		     475	Virtuality µêÀÀ©Ê.md100%  
+	    ¸û·s      		     995	Vladimir Lenin (¦C¹ç).md100%  
+	    ¸û·s      		     956	Vladimir Propp (¥±©Ô°ò¦Ìº¸¡P´¶Ã¹´¶).md100%  
+	    ¸û·s      		    1109	Voltaire (¥ñº¸®õ).md100%  
+	    ¸û·s      		    4253	W. E. B. Du Bois (W¡PE¡PB¡P§ùªi¨Ì´µ).md100%  
+	    ¸û·s      		    1331	W.V.O. Quine (ãÇ¦]).md100%  
+	    ¸û·s      		   16282	Walter Gropius (µØ¯S¡P¸¯Ã¹°ö´µ).md100%  
+	    ¸û·s      		   10881	Walter Lippmann (¨Uº¸¯S¡P§õ´¶°Ò).md100%  
+	    ¸û·s      		     263	Walter Mignolo (µØ¯S¡P¦Ì¥§¶øÃ¹).md100%  
+	    ¸û·s      		    3367	Walter Ong (µØ¯S¡P¯Î).md100%  
+	    ¸û·s      		   14280	Wassily Kandinsky (¥Ë¦è¨½¡P±d©w´µ°ò).md100%  
+	    ¸û·s      		    6981	Wendy Brown (·Å¸¦¡P¥¬®Ô).md100%  
+	    ¸û·s      		    3194	Werner Heisenberg (ºûº¸¯Ç¡P®ü´Ë³ù).md100%  
+	    ¸û·s      		   12391	Wilhelm Wundt («Â·G¡P¶¾¯S).md100%  
+	    ¸û·s      		   15500	Willem Levelt («Â·G¡P°Çµáº¸¯S).md100%  
+	    ¸û·s      		     968	William Gibson («Â·G¡P¦N¥¬´Ë).md100%  
+	    ¸û·s      		   12931	William Labov («Â·G¡P©Ôªi¤Ò).md100%  
+	    ¸û·s      		     802	William of Ockham (¶ø§¢).md100%  
+	    ¸û·s      		   17089	William Shakespeare («Â·G¡P²ï¤h¤ñ¨È).md100%  
+	    ¸û·s      		    1126	Yann LeCun (·¨¥ß©ø).md100%  
+	    ¸û·s      		   19543	Yoshua Bengio (¬ù®Ñ¨È¡P¯Z¦N¼Ú).md100%  
+	    ¸û·s      		   17743	Yrjo Engestrom (¥ìº¸¬ù¡P®¦®æ´µ¦«©i).md100%  
+	    ¸û·s      		    1206	Yuk Hui (³\·Ô).md100%  
+	    ¸û·s      		   13177	Yuri Lotman (¤×¨½¡P¬¥¯S°Ò).md100%  
+	    ¸û·s      		    2583	Zeno of Citium (©u¸¦©ùªºªÛ¿Õ).md100%  
+	    ¸û·s      		    1012	Zoltan Dornyei (¦õº¸©Z¡P¦hº¸¥§­C).md100%  
+	    ¸û·s      		    6207	Emile Durkheim (Ò\º¸·F).md100%  
+	    ¸û·s      		   11056	Etienne Bonnot de Condillac (¦ã¸¦¦w¡P³Õ¿Õ¡P¼w¡P¤Õ¨f¨È§J).md100%  
+	                   0	D:\The saved\Obsidian\A013. Agent SKills\
+	                   4	D:\The saved\Obsidian\A013. Agent SKills\Xi Shi Role-Play Historical Agent\
+	                   0	D:\The saved\Obsidian\Atlas\
+	                   0	D:\The saved\Obsidian\Atlas\Special\
+	                   2	D:\The saved\Obsidian\Atlas\Special\Excalidraw\
+	                 241	D:\The saved\Obsidian\Contents.md_Attachments\
+	                   5	D:\The saved\Obsidian\Contents.md_Attachments\banners\
+	                   1	D:\The saved\Obsidian\Excalidraw\
+	                  11	D:\The saved\Obsidian\Nodes\
+	                   2	D:\The saved\Obsidian\PDF\
+	                   0	D:\The saved\Obsidian\quartz\
+	                   0	D:\The saved\Obsidian\quartz\.github\
+	                   1	D:\The saved\Obsidian\quartz\.github\workflows\
+	                   0	D:\The saved\Obsidian\Utilities\
+	                   0	D:\The saved\Obsidian\Utilities\Excalidraw\
+	                  26	D:\The saved\Obsidian\Utilities\Images\
+	                   6	D:\The saved\Obsidian\Utilities\Templates\
+	                   1	D:\The saved\Obsidian\Utilities\¹Ï\
+
+-------------------------------------------------------------------------------
+
+                  Á`­p       ¤w½Æ»s        ²¤¹L        ¤£²Å        ¥¢±Ñ        ÃB¥~
+      ¥Ø¿ý :       105         0       105         0         0         0
+      ÀÉ®× :      1690       587      1103         0         0         0
+     ¦ì¤¸²Õ :  604.91 m    3.42 m  601.49 m         0         0         0
+      ®É¶¡ :   0:00:02   0:00:02                       0:00:00   0:00:00
+
+
+      ³t«× :           1,526,689 ¦ì¤¸²Õ/¬í¡C
+      ³t«× :              87.358 MB/¤À¡C
+   ¤wµ²§ô : 2026¦~4¤ë18¤é ¤U¤È 03:44:46
+

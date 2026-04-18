@@ -53,4 +53,4 @@ File folder: A012. ScholarsNeil Postman (尼爾·波茲曼)
 - **Narratives (敘事)：** 賦予生命意義與目的的大型故事。教育需要一套共同的敘事，讓學習者理解為何而學。
 - **God of Technology (技術之神)：** 當代教育中普遍存在的偽敘事。人們相信獲取資訊與操作電腦即為教育的終極目標。
 - **The Spaceship Earth (地球太空船)：** 一種強調共同責任與生存的敘事，引導學生將地球視為共享且有限的資源系統。
-#scholar
+#scholars

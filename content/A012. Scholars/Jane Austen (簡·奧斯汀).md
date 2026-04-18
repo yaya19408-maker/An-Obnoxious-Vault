@@ -59,4 +59,4 @@ File folder: Literature, Arts
 
 - **Speculation (投機)**：奧斯汀最後遺作的主題。探討早期資本主義中的房地產開發與風險投資。海濱度假勝地（Sanditon）本身就是一個被行銷話語建構出來的商品。
 - **Hypochondria (疑病症/臆想病)**：諷刺當時新興的「健康消費文化」。角色們過度關注身體感覺與虛構的疾病，反映了閒暇階級的空虛與現代醫療論述的興起。
-#scholar
+#scholars

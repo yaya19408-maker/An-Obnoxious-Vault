@@ -31,4 +31,4 @@ File folder: A012. Scholars
 - **The School of Resentment (怨恨學派)**： 布魯姆用以批評他認為試圖以社會政治理由顛覆文學經典的學術流派。
 - **Shakespearean Centrality (莎士比亞中心性)**： 主張莎士比亞是西方正典的絕對中心，其作品的複雜性與人性洞察力塑造了現代人類意識。
 - **Agon (競爭)**： 描述文學史中作家之間為爭奪經典地位而進行的鬥爭，是正典形成的內在動力。
-#scholar
+#scholars

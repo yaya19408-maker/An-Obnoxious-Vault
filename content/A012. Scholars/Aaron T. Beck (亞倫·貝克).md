@@ -44,4 +44,4 @@ File folder: A012. Scholars
 - **Magnification and Minimization (誇大與貶低)**： 不合理地放大自己的缺點或失敗，同時縮小自己的優點或成功。
 - **Personalization (個人化)**： 將負面事件的責任歸咎於自己，即使自己無法完全控制該事件。
 - **Should Statements (應該陳述)**： 對自己或他人使用嚴格的、絕對的規則，如「我應該」、「他必須」，違反時會產生內疚或憤怒。
-#scholar
+#scholars

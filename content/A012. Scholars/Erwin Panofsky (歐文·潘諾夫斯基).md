@@ -32,4 +32,4 @@ File folder: A012. Scholars
 - **Reintegration of Classical Form and Content (古典形式與內容的再整合)**：文藝復興時期的核心特徵，藝術家有意識地將古典神話或歷史題材與其相應的古典視覺形式重新結合。
 - **Gothic Architecture and Scholasticism (哥德建築與經院哲學)**：提出哥德式大教堂的結構原則與中世紀經院哲學的論證結構，共享了一種潛在的心智習慣或組織原理。
 - **Humanitas (人文精神)**：主張人文學科的核心價值在於研究人類心靈留下的紀錄，透過理解過去來達成自我覺察，並培養理性的責任感。
-#scholar
+#scholars

@@ -30,4 +30,4 @@ File folder: A012. Scholars
 
 - **Transpersonal Experiences (超個人經驗)**： 意識超越個體自我界限，與存在的更廣泛層面連結的經驗，例如與他人、自然或宇宙的合一感。
 - **Psychoid Archetypes (類心靈原型)**： 能夠在心靈及物質世界中顯化的原型，連結心靈與物質，類似榮格的共時性概念。
-#scholar
+#scholars
