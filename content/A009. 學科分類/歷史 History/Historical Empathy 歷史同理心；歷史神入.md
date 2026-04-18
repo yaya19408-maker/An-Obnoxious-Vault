@@ -13,6 +13,9 @@ tags:
   - pedagogy_social
   - pedagogy_cognitive
 aliases:
+  - historical empathy
+  - 歷史同理心
+  - 歷史神入
 relevance: "[[EPTH001. empathy 同理心|empathy]]"
 relevance 2:
 disambiguation:
