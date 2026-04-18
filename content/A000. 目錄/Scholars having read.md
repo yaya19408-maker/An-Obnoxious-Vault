@@ -316,7 +316,7 @@
 	- intelligence and creativity 智力與創造力
 	- sociability 社會性
 	- will and obedience 意志與服從
-- Jean Piaget 皮亞傑
+- [[Jean Piaget (皮亞傑)]] 
 	- cognitive-developmental theory 認知發展期
 		- sensori-motor stage 感知運動期
 		- pre-operational stage 前運思期
@@ -326,7 +326,7 @@
 		- assimilation 同化
 		- accommodation 適應
 		- equilibrium/equilibration 平衡
-- Juan Pascual-Leone 帕斯誇爾-利昂納
+- [[Pascual-Leone (帕斯夸爾-萊昂內)]]
 	- Neo-Piagetian 新皮亞傑學派
 	- theory of constructive operators (TCO) 建構運算子理論
 		- 4種類別
@@ -349,7 +349,7 @@
 			- T-operator: 時間順序理解力
 			- S-operator: 空間座標關係理解力
 			- E-operator: 執行任務能力
-- Benjamin Bloom 布魯姆
+- [[Benjamin Bloom (布魯姆)]] 
 	- Bloom's Taxonomy 布魯姆分類學
 		- 三個領域 (domains)
 			- affective 態度

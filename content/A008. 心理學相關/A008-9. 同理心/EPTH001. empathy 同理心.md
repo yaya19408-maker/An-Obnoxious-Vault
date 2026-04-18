@@ -37,6 +37,22 @@ File folder: A008-9. 同理心
 **同理心；共情；神入；共感；同感；投情；移情；設身處地；將心比心；擬情**
 指的是一種能深入他人主觀世界，了解其感受的能力。[[Carl Rogers (卡爾·羅哲斯)|Carl Rogers]]（1975）認為良好的諮商與治療關系本身就具有治療的功能，而共情是建立良好諮商師關係的三個充分必要條件之一。在與他人交流時，能進入到對方的精神境界，感受到對方的內心世界，能將心比心地對方，體驗對方的感受，並對對方的感情作出恰當的反應。
 
+```mermaid
+graph LR
+    A[Context] --> B[Perspective-taking]
+    B --> C[Empathy]
+
+    C -->|Social-political| D[Critical Literacy]
+    C -->|Social-cognitive| E[Creativity]
+    C -->|Social-technical| F[Human-AI Collaboration]
+    C -->|Social-affective| G[Social Emotional Learning, SEL]
+
+    D --> H[Human-Centered]
+    E --> H
+    F --> H
+    G --> H
+```
+
 共情通常是在人與人交往中發生的一種積極的感覺能力。共情又分為廣義的共情和狹義的共情，廣義的共情是指所有人際場合中產生的設身處地為他人著想的能力，如公共場合是指從臨床心理學中發展一種特殊的理解能力，廣義的是以狹義的為基礎的，因此，此外重點介紹的是狹義的共情能力。即指在人與人交流中表現出的對他人設身處地理解的能力。
 
 對於共情，許多學者有著精闢的闡述。[[Milton Mayeroff (密爾頓·梅耶羅夫)|Milton Mayeroff]]（1971）認為，共情就是「關懷一個人，必須能夠了解他及他的世界，就好像我就是他，我必須能夠好像用他的眼看他的世界及他自己一樣，而不能把他看成物品一樣從外面去審核、觀察，必須能與他同在他的世界裏，並進入他的世界，從內部去體認他的生活方式，及他的目標與方向。」
@@ -202,11 +218,14 @@ Egan, G. (1976). Confrontation. _Group & Organization Studies_, _1_(2), 223-24
 ### Cold Empathy 冷感同理心
 ### Warm Empathy 溫情同理心
 ## Silent Empathy 沉默同理心
+
+
+
 # 同理心之後
 ** [[Critical Literacy 批判識能]] ** 有別於批判思考的客觀論據，講究的是讓學生質詢多重觀點，甚至更遠地說，以主體間（intersubjective）觀點來形塑自己的觀點，最後導向以人為本的批判路徑，或是情意導向的同理路徑
 
 ** [[Creativity 創造力]] ** 依賴既有知識與框架，並從特定群體之觀點進行推論、理解、考量，最後推出新思路解決問題
 
-** [[AI共學]] ** 學生內在認知與在地經驗整合 AI 的客觀資訊與龐大資料集，形塑個人或全面的觀點
+** [[Human-AI Collaboration]] ** 學生內在認知與在地經驗整合 AI 的客觀資訊與龐大資料集，形塑個人或全面的觀點
 
 ** [[社會情緒學習（social emotional learning, SEL）]] ** 旨在讓學生覺察自身與他人的觀點、理解與感受，進而利用同理心促成合作共學
