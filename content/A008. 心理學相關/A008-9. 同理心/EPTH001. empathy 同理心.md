@@ -159,7 +159,16 @@ Egan, G. (1976). Confrontation. _Group & Organization Studies_, _1_(2), 223-24
 
 ---
 ## Historical Empathy 歷史同理心；歷史神入
-**Endacott and Brooks (2006)**
+### 歷史同理心（概念化）
+主流英、美歷史教育學者將 historical empathy 視為一種根據證據進行理解的分析能力，而傾向將感受（feeling）與理解（understanding）分離
+**Jason L Endacott and Sarah Brooks (2013)** 主張historical empathy是一個雙面向的、兼具認知—情意的概念架構，而非純然認知或情意的歷史思考能力。
+- Historical contextualization 歷史情境化 (context)
+- Perspective-taking 觀點取替 (cognitive empathy)
+- Affective connection 情感連結 (affective empathy)
+### 歷史同理心（光譜化）
+- 學者面（理性導向）：較強的科學觀的歷史主義精神，強調理性、證據、客觀更甚於個人的經驗、想像及啟發
+- 教學面（情意導向）：主張連結學生經驗，或藉由文字與影像引發想像，以至於感同身受，因此而有個人的啟發
+- 詮釋面（情理綜合）：理性與感性同等重要，有較多的歷史主義詮釋學的觀點，主張empathy是理解歷史的重要方法，經驗、想像及情感都是必要的，教學上主張基於史實與脈絡，連結到個人經驗。
 
 ## Hot-Cold Empathy Gap 移情隔閡 
 ### Cold Empathy 冷感同理心
