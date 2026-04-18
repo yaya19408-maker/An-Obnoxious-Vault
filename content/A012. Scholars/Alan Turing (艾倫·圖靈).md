@@ -1,3 +1,10 @@
+---
+cssclasses:
+  - center-titles
+  - center-images
+  - cards-align-bottom
+  - markdown-preview-view
+---
 Date: 2026-04-08
 File Creation Date: 2026-04-08 12:21:30
 Last Modified: 2026-04-08 12:21:30
