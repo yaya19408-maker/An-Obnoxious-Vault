@@ -32,3 +32,4 @@ File folder: A012. Scholars
 - Totally Ordered Set (全序集)：一種偏序集，其中任意兩個元素都是可以比較大小的。
 - Baker-Campbell-Hausdorff Formula (BCH公式)：在李代數理論中，用於表達兩個矩陣指數乘積的對數的公式，豪斯多夫對其級數表示有重要貢獻。
 - Hausdorff-Young Inequality (豪斯多夫-楊氏不等式)：傅立葉分析中的一個重要不等式，建立了函數在Lp空間上的範數與其傅立葉變換在Lq空間上範數之間的關係。
+#scholar

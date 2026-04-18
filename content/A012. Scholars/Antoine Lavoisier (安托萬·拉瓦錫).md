@@ -28,3 +28,4 @@ File folder: A012. Scholars
 - **Acid-forming Principle (酸的生成原理)**： 提出氧是所有酸的共同基本成分，並將其命名為oxygen，希臘語意為酸的生成者。
 - **Decomposition (分解)**： 指化合物在化學反應中被分解為更簡單的物質或元素的過程。
 - **Synthesis (合成)**： 指由兩種或多種元素或較簡單的物質結合生成更複雜化合物的過程。
+#scholar

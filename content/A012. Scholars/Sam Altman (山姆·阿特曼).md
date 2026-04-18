@@ -18,3 +18,4 @@ File folder: Technology- **OpenAI**：由其領導的AI研究組織，推動了C
 - **Scaling Laws (縮放定律)**：AI性能與算力、數據量及參數量呈冪律關係。堅信「越大越好」，透過堆疊巨大算力來湧現智慧。
 - **AI Alignment (AI對齊)**：確保超級AI的目標與人類價值觀一致的技術難題。這是開發AGI過程中的核心安全考量。
 - **Universal Basic Compute (通用基礎算力)**：設想未來財富將來自AI算力。建議用算力份額取代傳統的全民基本收入（UBI），作為未來經濟的分配基礎。
+#scholar

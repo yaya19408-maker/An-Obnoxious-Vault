@@ -39,3 +39,4 @@ File folder: A012. Scholars
 - Retrograde (逆行)：將原始主題的音符從後向前倒序演奏。
 - Augmentation (增值)：將原始主題的每個音符時值加倍，使其速度放慢。
 - Diminution (減值)：將原始主題的每個音符時值減半，使其速度加快。
+#scholar

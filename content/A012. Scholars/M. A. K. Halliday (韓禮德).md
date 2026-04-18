@@ -45,3 +45,4 @@ File folder: Sociology, Culture, Identity
 - **Mood System (語氣系統)**：由主語（Subject）與限定詞（Finite）構成，決定了小句是陳述、提問還是命令。這是人際意義在語法結構上的核心體現。
 - **Theme and Rheme (主位與述位)**：主位是訊息的出發點（句子開頭），述位是對主位的發展與評論。這種結構安排揭示了說話者如何引導聽者的注意力與訊息流動。
 - **Grammatical Metaphor (語法隱喻)**：意義在語法範疇之間的非典型轉移，最常見的是「名詞化」（Nominalization）。這使過程（動詞）轉化為實體（名詞），是學術與科學語言濃縮訊息的關鍵特徵。
+#scholar

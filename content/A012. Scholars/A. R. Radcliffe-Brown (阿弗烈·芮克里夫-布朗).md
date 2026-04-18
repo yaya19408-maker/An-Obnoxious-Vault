@@ -33,3 +33,4 @@ File folder: A012. Scholars
 - **Social Integration (社會整合)**： 社會各部分凝聚成一個穩定整體的過程或狀態，通常透過共同價值與制度達成。
 - **Ceremonial Custom (儀式習俗)**： 透過集體儀式活動來表達和強化群體情感，維持社會團結的習俗。
 - **Social Process (社會過程)**： 構成社會生活的無數行動與互動的總和，這些過程共同維繫著社會結構。
+#scholar

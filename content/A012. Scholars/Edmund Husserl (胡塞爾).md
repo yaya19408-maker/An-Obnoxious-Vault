@@ -42,3 +42,4 @@ File folder: Philosophy, Psychoanalysis, Classical
 - **Transcendental Subjectivity (先驗主體性)**：世界上的所有意義最終都回溯到主體的構建活動。這個主體不是心理學上的個人自我，而是作為意義賦予之最終源頭的普遍主體性。
 - **Horizon (視域)**：任何對象的顯現都伴隨著一個背景或邊緣域。我們在看物體的一面時，同時預設了它未被看見的背面及周圍環境。理解對象必須同時探究其內在視域與外在視域。
 - **Intersubjectivity (主體間性)**：先驗自我並非唯我論的孤島，世界是作為「我們的世界」而被經驗的。客觀性（Objectivity）實際上源於主體之間的相互承認與溝通，是主體間性的產物。
+#scholar

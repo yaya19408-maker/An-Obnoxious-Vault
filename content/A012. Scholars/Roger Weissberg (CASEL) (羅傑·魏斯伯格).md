@@ -53,3 +53,4 @@ File folder: A012. Scholars
 - **Universal Programming (普適性方案)：** 針對所有學生提供的預防性教育。
 - **Indicated Interventions (指示性干預)：** 針對已表現出行為問題或情緒困擾的學生提供的支持。
 - **Relational Pedagogy (關係教學法)：** 教師與學生之間的信任關係作為有效教學的媒介。
+#scholar

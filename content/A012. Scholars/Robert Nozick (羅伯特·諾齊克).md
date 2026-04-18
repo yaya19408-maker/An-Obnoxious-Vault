@@ -31,3 +31,4 @@ File folder: A012. Scholars
 
 - **Symbolic Utility (象徵性效用)**： 行動的價值包含其實際後果以及其所象徵的意義。人們的行為常受到其象徵價值的驅動。
 - **The Zigzag of Politics (政治的之字形)**： 描述民主政治在左右派政策間來回擺盪的現象。一派政策的缺陷會導致另一派上台修正，形成反覆路徑。
+#scholar

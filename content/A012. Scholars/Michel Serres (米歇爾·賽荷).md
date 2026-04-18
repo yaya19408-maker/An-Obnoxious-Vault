@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - **North-West Passage (西北通道)**： 尋找一條能直接連結科學與人文這兩塊大陸的捷徑，促進知識的跨界整合。
 - **Thumbelina/Tom Thumb (拇指姑娘/拇指仙童)**： 數位時代的新世代，擅長用拇指操作智慧裝置，具備全新的認知與學習模式。
 - **The Third Instructor (第三位指導者)**： 指網際網路與數位媒體，它們繼家庭與學校之後，成為當代年輕人獲取知識的第三個主要場域。
+#scholar

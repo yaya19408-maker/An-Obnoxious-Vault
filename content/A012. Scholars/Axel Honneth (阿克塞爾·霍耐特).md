@@ -30,3 +30,4 @@ File folder: A012. Scholars
 
 - **Reification (物化)**： 一種承認的遺忘，指在社會互動中，人們將他人或自我視為可操控的對象，忽略了彼此互為主體的承認關係。
 - **Forgetfulness of Recognition (承認的遺忘)**： 物化現象的根源，是一種前認知層次的態度，導致人們忽略了社會關係本質上是建立在相互承認之上的。
+#scholar

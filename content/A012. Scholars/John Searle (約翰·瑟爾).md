@@ -38,3 +38,4 @@ File folder: A012. Scholars
 - Brute Facts (原始事實)：獨立於人類意見與制度而存在的事實，如山脈與重力。
 - Collective Intentionality (集體意向性)：群體共同持有的信念、慾望與意圖，促成社會制度的建立。
 - Status Function (地位功能)：群體賦予某物超越其物理性質的功能，使其具備社會意義。
+#scholar

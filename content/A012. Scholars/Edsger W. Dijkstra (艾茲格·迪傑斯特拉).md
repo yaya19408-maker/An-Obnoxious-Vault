@@ -26,3 +26,4 @@ File folder: A012. Scholars
 ## Structured Programming and Formal Verification (Late 1960s - 1970s)
 
 - **
+#scholar

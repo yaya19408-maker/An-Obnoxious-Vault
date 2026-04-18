@@ -23,3 +23,4 @@ File folder: Philosophy, Psychoanalysis, Classical
 - **Three Stages of Life (人生三階段)**: 感性階段（追求享樂）、倫理階段（遵守規範）、宗教階段（獨自面對上帝）。
 - **Subjectivity is Truth (主體性即真理)**: 客觀事實對個人生命意義不大，重要的是個人如何熱情地活出真理。真理是一種內在的佔有。
 - **Knight of Faith (信仰騎士)**: 外表看來平凡，內心卻擁有絕對信仰的人。他們能在有限的世俗生活中活出無限的關係。
+#scholar

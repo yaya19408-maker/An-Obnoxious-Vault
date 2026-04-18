@@ -22,3 +22,4 @@ A green ring on the left for adaptive systems.
 A red ring on the right for created systems, such as parogenic systems.
 A blue ring on the bottom for spontaneous systems.
 All of the rings overlap with mixing of their colors, indicating how varied plural experiences are, and acknowledging mixed origin systems.
+#scholar

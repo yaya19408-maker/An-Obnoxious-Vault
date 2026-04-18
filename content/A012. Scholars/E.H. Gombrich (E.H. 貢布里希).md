@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **Pattern Making (圖案製作)**：分析圖案的構成原理，認為圖案製作是人類心智在混亂中建立結構與可預測性的基本活動。
 - **Kaleidoscope Principle (萬花筒原則)**：說明簡單的幾何元素透過重複與對稱，可以產生無窮無盡的複雜圖案，揭示秩序與變化的關係。
 - **Feedback and Modification (回饋與修正)**：裝飾設計的過程涉及不斷的嘗試、視覺回饋與修正，以達到滿意的視覺效果，類似科學實驗的假設與驗證。
+#scholar

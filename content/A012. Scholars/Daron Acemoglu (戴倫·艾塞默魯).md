@@ -38,3 +38,4 @@ File folder: A012. Scholars
 - **Vision (願景)**：社會對技術發展方向的集體信念，影響技術的選擇與應用。
 - **So-so technologies (普普通通的技術)**：僅專注於自動化而未創造新任務的技術，加劇不平等。
 - **Directed Technical Change (定向技術變革)**：創新方向受市場力量與權力結構引導的過程。
+#scholar

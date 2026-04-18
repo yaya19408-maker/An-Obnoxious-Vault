@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **Accountable Government (可問責的政府)**：政府必須對其公民負責，其行為與決策受到民眾的監督與制衡。
 - **Political Decay (政治衰敗)**：既有政治制度無法適應變遷的社會環境，導致制度僵化、效能下降、腐敗與社會失序的過程。
 - **Patrimonialism (家產制)**：統治者將國家視為其私人財產，官僚體系基於個人忠誠，公共職位被用來酬庸親信。
+#scholar

@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **Proximity Maintenance (尋求親近)**：嬰兒為了安全與生存，天生具有與依附對象保持身體接近的傾向。
 - **Separation Distress/Anxiety (分離焦慮)**：嬰兒或幼兒與其主要依附對象分離時所體驗到的焦慮與抗議反應。
 - **Goal-Corrected Partnership (目標修正夥伴關係)**：依附的後期階段，兒童開始理解照顧者的感受與動機，並能透過協商來達成親近的目標。
+#scholar

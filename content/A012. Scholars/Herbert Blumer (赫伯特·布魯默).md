@@ -32,3 +32,4 @@ File folder: A012. Scholars
 - **Critique of Variable Analysis (變項分析批判)**： 批評主流社會學將社會行為簡化為變項間的關係，忽略了行動者主觀詮釋的過程。
 - **Sensitizing Concepts (啟發性概念)**： 提供研究方向與參考框架的模糊概念，用以探索經驗世界，與精確的定義性概念相對。
 - **Naturalistic Inquiry (自然主義探究)**： 主張直接進入行動者的真實世界，透過探索與檢視來掌握其經驗與意義。
+#scholar

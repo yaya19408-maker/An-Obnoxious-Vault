@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - **Individualism (個人主義)**： 強調個人權利與自由的至高無上，社會是為服務個人而存在。
 - **The Law of Equal Freedom (平等的自由法則)**： 每個人皆有行使其自由的最大權利，前提是不侵犯他人同等的自由。
 - **Social Statics (社會靜態學)**： 研究完美社會達到平衡與和諧的條件，即社會秩序的法則。
+#scholar

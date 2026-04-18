@@ -40,3 +40,4 @@ File folder: A012. Scholars
 - **Logical Types (邏輯類型)：** 借用羅素的數學概念，指出概念的「類別」與該類別下的「成員」屬於不同的邏輯層次，混淆兩者會導致知覺錯誤與心理病理。
 - **Information as a Difference (資訊即差異)：** 貝特森對資訊的著名定義：「一種能造成後續差異的差異 (A difference which makes a difference)」。
 - **Flexibility (靈活性)：** 系統中尚未被承諾、可用於應對未來環境變動的自由度。過度優化或資源飽和會降低系統的靈活性，導致其在面臨突發挑戰時斷裂。
+#scholar

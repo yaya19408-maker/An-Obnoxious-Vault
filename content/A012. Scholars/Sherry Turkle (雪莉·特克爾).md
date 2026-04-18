@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - **Solitude as a Resource (作為資源的獨處)**： 獨處是培養自我認識與準備進行有意義對話的必要條件。
 - **Sacred Spaces for Conversation (對話的神聖空間)**： 刻意劃定不受數位干擾的空間，例如餐桌或車內，以促進真實的對話。
 - **Boredom as an Achievement (無聊作為一種成就)**： 在持續刺激的環境中，能夠忍受並利用無聊進行自我反思的能力。
+#scholar

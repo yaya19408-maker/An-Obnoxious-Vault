@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - **Canonical Neighborhood Theorem (標準鄰域定理)**： 佩雷爾曼證明的定理，描述了在奇點形成之前，高曲率區域周圍的幾何結構必然是標準化的，從而使得手術操作成為可能。
 - **Entropy Functional (熵泛函)**： 佩雷爾曼定義的一個在里奇流下單調遞增的量，用以控制流形的長期行為並防止其完全崩潰，是證明中的核心工具。
 - **Millennium Prize Problems (千禧年大獎難題)**： 由克雷數學研究所於二〇〇〇年提出的七個數學難題，龐加萊猜想是其中第一個被解決的問題。
+#scholar

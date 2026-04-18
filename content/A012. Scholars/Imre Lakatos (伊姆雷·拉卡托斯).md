@@ -29,3 +29,4 @@ File folder: A012. Scholars
 - **Sophisticated Falsificationism (精緻否證論)**：主張理論的否證並非孤立事件，一個理論只有在被另一個擁有更多經驗內容的理論取代時才算被否證。
 - **Rational Reconstruction (理性重建)**：重新描述科學史，使其符合特定的科學方法論，區分出理性的內部史與偶然的外部史。
 - **Fallibilism (可錯論)**：主張所有知識主張，包含科學與數學，皆為暫時性的，且可能出錯。
+#scholar

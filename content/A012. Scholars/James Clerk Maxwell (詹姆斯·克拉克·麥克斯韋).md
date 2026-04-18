@@ -27,3 +27,4 @@ File folder: A012. Scholars
 - **Maxwell's Demon (麥克斯韋妖)**： 一個著名的思想實驗，用來探討熱力學第二定律的統計性質與資訊的關聯。
 - **Color Triangle (麥克斯韋色三角)**： 一種二維色彩空間圖，展示了三原色光如何混合產生其他顏色，是現代色彩學的基礎之一。
 - **First Durable Color Photograph (第一張耐用彩色照片)**： 在1861年，麥克斯韋指導Thomas Sutton利用三色加色法原理，拍攝並展示了世界上第一張彩色照片。
+#scholar

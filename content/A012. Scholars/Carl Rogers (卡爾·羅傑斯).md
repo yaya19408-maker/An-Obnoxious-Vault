@@ -35,3 +35,4 @@ File folder: A012. Scholars
 - **Phenomenal Field (現象場)：** 個體在特定時刻所經驗的全部世界。行為是由主觀感知場景決定的。
 - **Actualizing Tendency (實現趨向)：** 有機體維持、增強並發展自身所有潛能的固有傾向。
 - **Self-Concept (自我概念)：** 個體對自身特質、行為能力與環境關係的結構化感知。
+#scholar

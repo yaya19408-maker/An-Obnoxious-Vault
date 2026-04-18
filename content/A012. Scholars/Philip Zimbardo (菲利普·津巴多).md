@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **Present-Hedonistic (當下享樂型)**： 注重眼前的快樂與滿足，較少考慮未來後果的時間觀。
 - **Future-Oriented (未來導向型)**： 為了未來的目標與回報，願意犧牲當前的享樂與滿足。
 - **Heroic Imagination Project (英雄想像計畫)**： 旨在培養普通人的英雄主義精神，鼓勵在關鍵時刻採取社會性、利他性的行動。
+#scholar

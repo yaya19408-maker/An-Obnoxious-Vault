@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - **The Astonishing Hypothesis (驚人的假說)**： 主張人類的主觀意識、心靈與自由意志等，完全源自於大腦中神經細胞與相關分子的物理與化學活動。
 - **Neural Correlates of Consciousness (NCC) (意識的神經相關物)**： 尋找足以產生特定意識經驗的最小神經活動集合與機制，將意識研究轉向可實驗驗證的科學問題。
 - **Binding Problem (捆綁問題)**： 探討大腦如何將來自不同感覺通道的資訊（如物體的顏色、形狀、運動）整合成一個單一、連貫的知覺經驗。
+#scholar

@@ -39,3 +39,4 @@ File folder: A012. Scholars
 - **D-Cognition (匱乏認知)：** 以滿足自身需求為目的的認知方式，將世界視為達成目標的資源或工具。
 - **Plateau Experience (高原經驗)：** 相對於高峰經驗，這是一種持久、平靜且充滿智慧的意識狀態。
 - **Hierarchy of Prepotence (優勢階層)：** 描述需求層次中，低層次需求優先獲得部分滿足後，高層次需求才會在意識中顯現。
+#scholar

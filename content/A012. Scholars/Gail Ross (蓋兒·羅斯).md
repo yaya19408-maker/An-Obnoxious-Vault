@@ -44,3 +44,4 @@ File folder: A012. Scholars
 - **Intentional Learning (意向性學習)**： 強調在學習過程中，學習者應有意識地朝向知識獲取的目標前進。
 - **Micro-scaffolding (微觀鷹架)**： 在具體的互動片刻中，針對特定錯誤或瓶頸所提供的細微支援。
 - **Macro-scaffolding (宏觀鷹架)**： 針對課程設計或長期的教學計畫所預先設定的支援結構。
+#scholar

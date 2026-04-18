@@ -25,3 +25,4 @@ File folder: A012. Scholars
 - **The Sun is new every day (太陽日日新)**：透過太陽的例子強調宇宙萬物處於持續不斷的更新過程。
 - **God is day and night, winter and summer (神是晝與夜，冬與夏)**：神性或神聖原則體現於所有對立面的總和與統一。
 - **The Silence of Becoming (靜默之生成)**：最根本的變動在寂靜中發生，如同種子在黑暗中生長，其力量只在完成時才顯現。
+#scholar

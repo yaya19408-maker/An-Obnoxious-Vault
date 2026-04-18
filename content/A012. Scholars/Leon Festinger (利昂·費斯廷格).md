@@ -32,3 +32,4 @@ File folder: A012. Scholars
 
 - **Propinquity Effect (鄰近效應)**：人們傾向於與地理位置上鄰近、頻繁接觸的人建立友誼或親密關係。
 - **Informal Social Communication (非正式社會溝通)**：團體內部成員為達成意見一致或進行現實檢驗而產生的溝通過程。
+#scholar

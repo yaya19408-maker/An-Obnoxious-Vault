@@ -32,3 +32,4 @@ File folder: A012. Scholars
 - **Ethical Imperative (倫理誡命)**： 永遠要以增加選擇的數量來行動。此原則將倫理學與系統增加可能性的能力連結起來。
 - **Undecidable Questions (不可判定問題)**： 某些問題無法透過邏輯或實證找到唯一正確答案，必須由個體自行做出選擇與承擔責任。
 - **Eigen-behavior (本徵行為)**： 複雜系統在遞迴運作下所產生的穩定、可重複的行為模式或狀態。
+#scholar

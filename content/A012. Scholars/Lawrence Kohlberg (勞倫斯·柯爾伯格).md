@@ -39,3 +39,4 @@ File folder: A012. Scholars
 - **Cognitive Conflict (認知衝突)：** 發展的動力。當現有推理無法解決困境，主體會尋求更高階的邏輯。
 - **Decentering (去中心化)：** 道德發展的心理基礎。主體學會跨越自身視角，考量他人的利益與需求。
 - **Moral Realism (道德現實主義)：** 兒童前期特徵。視規則為絕對、神聖且不可更改。
+#scholar

@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **Trained Incapacity (經訓練而無能)**： 個人的專業訓練與過去經驗，在面對新情境時反而成為其理解與適應的障礙。
 - **Technocracy (技術統治)**： 主張社會應由理解工業技術與生產過程的專家與工程師來管理，取代以營利為目的的商人階級。
 - **Ceremonial vs. Instrumental Values (儀式性價值 vs. 工具性價值)**： 儀式性價值關聯於地位與傳統，與有閒階級文化相關；工具性價值則關聯於效率與技術，與工藝本能相關。
+#scholar

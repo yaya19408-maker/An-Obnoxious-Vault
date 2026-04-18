@@ -31,3 +31,4 @@ File folder: A012. Scholars
 - **A Plea for Excuses (為藉口辯護)**： 分析日常語言中關於藉口與辯解的用法，藉此釐清行動、責任與自由等倫理學概念。
 - **Linguistic Phenomenology (語言現象學)**： 奧斯丁用以描述其哲學方法的術語，意指透過研究語言來揭示我們經驗與感知世界的方式。
 - **Knowledge of Other Minds (他心知識)**： 探討我們如何知道他人擁有心靈與感受。他認為此問題源於對知道一詞的誤解，應回歸日常用法來分析。
+#scholar

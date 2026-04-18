@@ -44,3 +44,4 @@ File folder: A012. Scholars
 - **Anticipation and Perseveration Errors (預期與持續錯誤)**： 兩類基本的音位錯誤，進一步揭示了音韻編碼的機制。預期錯誤（Anticipation）指一個後續的音素提前出現，取代了它前面的音素，如將「reading list」說成「leading list」。持續錯誤（Perseveration）指一個已經發出的音素再次出現，取代了後面的音素，如將「phonological rule」說成「phonological phool」。這些錯誤表明，在產生語音規劃時，系統會預先規劃一個包含多個音素的序列（一個緩衝區），在這個緩衝區內的音素單元有時會因啟動程度的混淆而錯位。
 
 - **Articulation (發音)**： 語句產出模型的最後一個階段。在此階段，由位置層次生成的詳細語音規劃（phonetic plan）被轉化為具體的神經肌肉指令，以控制發音器官（如舌頭、嘴唇、聲帶）的運動，最終產生可聽見的語音流。加勒特的模型並未深入探討發音的具體機制，而是將其視為語言編碼完成後的執行系統。這個階段的錯誤通常被歸類為發音錯誤，而非語言規劃層次的失誤。
+#scholar

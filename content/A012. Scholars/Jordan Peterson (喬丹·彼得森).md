@@ -21,3 +21,4 @@ File folder: A012. Scholars
 - **Stand up straight with your shoulders back (抬頭挺胸)**：採取自信的身體姿態，象徵自願接受存在的重擔與責任，這會改變他人的看法與自我感知。
 - **Treat yourself like someone you are responsible for helping (善待自己，就像善待任何你願意幫助的人)**：認識到自我價值，給予自己應有的關懷與支持，這是承擔更大責任的前提。
 - **Compare yourself to who you were yesterday
+#scholar

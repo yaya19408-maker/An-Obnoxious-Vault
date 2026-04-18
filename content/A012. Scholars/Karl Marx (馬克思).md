@@ -24,3 +24,4 @@ File folder: Sociology, Politics, Economics
 - **Surplus Value (剩餘價值)**：工人創造的價值超過其工資的部分，被資本家無償佔有。這是資本積累與剝削的秘密源頭。
 - **Commodity Fetishism (商品拜物教)**：人與人的社會關係被掩蓋在物與物的交換關係之下。商品彷彿具有神秘的自主力量，主宰了人的命運。
 - **Class Struggle (階級鬥爭)**：至今一切社會的歷史都是階級鬥爭的歷史。無產階級與資產階級的對立終將導致革命與共產主義社會的到來。
+#scholar

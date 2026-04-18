@@ -180,3 +180,4 @@ File folder: Sociology, Politics, Economics
 		1. **Available Designs (可用設計)**：對應巴赫金的「他者話語」(The words of others) 或既有的 **Speech Genres (言語體裁)**。這是學習者可獲取的資源與傳統。 
 		2. **Designing (設計過程)**：對應巴赫金的「據為己有」(Making it one's own)。學習者透過個人意圖與能動性，重新運用既有資源。 
 		3. **The Redesigned (再設計)**：對應巴赫金的具體 **Utterance (話語)**。這是經過轉化後產生的新意義，並回頭成為未來社會的可用資源。
+#scholar

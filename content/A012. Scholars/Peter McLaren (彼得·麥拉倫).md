@@ -19,3 +19,4 @@ File folder: Psychology & Education
 *   **Ritual Performance (儀式展演)**：學校生活充滿了各種儀式（如升旗、考試），這些儀式銘刻了身體並再生產了意識形態。分析儀式是理解學校控制的關鍵。
 *   **Capitalist Schooling (資本主義學校教育)**：當代學校主要功能是為資本主義再生產勞動力與消費慾望。教育改革必須與反對全球資本主義的運動連結。
 *   **Critical Multiculturalism (批判多元文化主義)**：反對僅慶祝表面差異的自由派多元文化主義。主張分析種族主義與資本主義如何共同運作，造成結構性不平等。
+#scholar

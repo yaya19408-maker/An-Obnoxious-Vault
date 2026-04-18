@@ -8,3 +8,4 @@ File folder: A012. Scholars
 #scholars #geography #sociology
 
 ## Guns
+#scholar

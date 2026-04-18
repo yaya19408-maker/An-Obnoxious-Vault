@@ -30,3 +30,4 @@ File folder: A012. Scholars
 - Origin of Human Intellect (人類智力的起源): 主張人類的高等心智、道德與藝術能力無法單純由天擇解釋，必定有更高層次的力量介入。
 - Spiritualism (唯靈論): 華萊士晚年採納的信念，認為存在一個非物質的精神世界，此觀點影響他對人類心智起源的看法。
 - Land Nationalisation (土地國有化): 晚年成為社會改革的倡議者，主張土地應為國家所有，以解決貧窮與社會不公。
+#scholar

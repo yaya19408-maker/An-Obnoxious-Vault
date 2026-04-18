@@ -44,3 +44,4 @@ File folder: A012. Scholars
 - **Autotelic Personality (自發目的性人格)：** 具備將日常活動轉化為心流體驗特質的人，主動在各種情境中尋找意義。
 - **Emergent Motivation (湧現動機)：** 動機在活動過程中動態產生，源於當下的發現與挑戰過程。
 - **Micro-flow (微心流)：** 日常生活中簡短且零碎的投入時刻（如塗鴉、哼歌），發揮調節心理狀態的功能。
+#scholar

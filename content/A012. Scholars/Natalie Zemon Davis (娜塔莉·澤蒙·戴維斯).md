@@ -40,3 +40,4 @@ File folder: A012. Scholars
 
 - **Cultural Broker (文化中介)**： 如同利奧·阿非利加努斯，在不同文化群體間促進溝通與互動，跨越界線翻譯語言、思想與習俗的個人。
 - **Cross-Cultural Encounters (跨文化相遇)**： 研究來自不同文化背景的個人或群體接觸時所發生的互動、衝突與調適過程。
+#scholar
