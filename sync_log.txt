@@ -34516,3 +34516,721 @@ Exc 目錄 : .obsidian
       時間 :   0:00:00   0:00:00                       0:00:00   0:00:00
    已結束 : 2026年4月18日 下午 12:44:42
 
+[main 02d3a40] Auto_Sync
+ 1 file changed, 146 insertions(+)
+To https://github.com/yaya19408-maker/An-Obnoxious-Vault.git
+   2fecbe9..02d3a40  main -> main
+[2026/04/18 週六 12:44:46.48] Sync Finished 
+---------------------------------------- 
+[2026/04/18 週六 13:44:40.65] Sync Started 
+From https://github.com/yaya19408-maker/An-Obnoxious-Vault
+ * branch            main       -> FETCH_HEAD
+error: unable to unlink old 'sync_log.txt': Invalid argument
+fatal: Could not reset index file to revision 'origin/main'.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  已啟動 : 2026年4月18日 下午 01:44:42
+    來源 : D:\The saved\Obsidian\
+  目的地 : D:\The saved\quartz\content\
+
+    檔案 : *.*
+	    
+Exc 檔案 : pendingSync-gdrive-plugin
+	    *.zip
+	    *.rar
+	    
+Exc 目錄 : .obsidian
+	    .trash
+	    .makemd
+	    .smart-env
+	    .space
+	    
+    選項 : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                   8	D:\The saved\Obsidian\
+	                  12	D:\The saved\Obsidian\A000. 目錄\
+	    較新      		   24939	Scholars having read.md100%  
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\
+	                   0	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\
+	                  30	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\動作\
+	                  11	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\
+	                   7	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\主客\
+	                  35	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\元素\
+	                   2	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\日夜\
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\罕見\
+	                  33	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\醫學詞綴 Medical Affixes\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\地球生成\
+	                  57	D:\The saved\Obsidian\A002. 自然與生物\地球生成\Visual Book of Paleoorganism\
+	                   2	D:\The saved\Obsidian\A002. 自然與生物\岩石 Petrology\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\
+	                   4	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\動物 Zoology\
+	                  19	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\植物 Botany\
+	                  48	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\植物 Botany\樹木 Dendrology\
+	                  24	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\生物 Biology\
+	                  89	D:\The saved\Obsidian\A002. 自然與生物\物理與化學 Physics and Chemistry\
+	                   9	D:\The saved\Obsidian\A003. 醫學與疾病\
+	                   1	D:\The saved\Obsidian\A003. 醫學與疾病\保健\
+	                  11	D:\The saved\Obsidian\A003. 醫學與疾病\現象\
+	                  23	D:\The saved\Obsidian\A003. 醫學與疾病\現象\呼吸 Breathing\
+	                   1	D:\The saved\Obsidian\A003. 醫學與疾病\現象\睡眠 Sleeping\
+	                   5	D:\The saved\Obsidian\A003. 醫學與疾病\現象\老化 Aging\
+	                  19	D:\The saved\Obsidian\A003. 醫學與疾病\疾病\
+	                   2	D:\The saved\Obsidian\A003. 醫學與疾病\疾病\Contents.md_Attachments\
+	                   6	D:\The saved\Obsidian\A003. 醫學與疾病\藥物\
+	                  22	D:\The saved\Obsidian\A003. 醫學與疾病\表觀遺傳學\
+	                  11	D:\The saved\Obsidian\A003. 醫學與疾病\解剖\
+	                  18	D:\The saved\Obsidian\A004. 筆記與讀物\
+	                   6	D:\The saved\Obsidian\A005. 多模態文獻\
+	                   1	D:\The saved\Obsidian\A005. 多模態文獻\Literacy, literacies, multiliteracies\
+	                  47	D:\The saved\Obsidian\A005. 多模態文獻\Literature\
+	                  12	D:\The saved\Obsidian\A005. 多模態文獻\Multimodal instruction\
+	                   3	D:\The saved\Obsidian\A005. 多模態文獻\Perception\
+	                  37	D:\The saved\Obsidian\A006. PDF與文檔\
+	                   9	D:\The saved\Obsidian\A007. 23年末的日記\
+	                   0	D:\The saved\Obsidian\A008. 心理學相關\
+	                   7	D:\The saved\Obsidian\A008. 心理學相關\A008-0. 心理學分支學科\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-1. 黑暗三角\
+	                   2	D:\The saved\Obsidian\A008. 心理學相關\A008-2. 核美學\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-3. 情結\
+	                   4	D:\The saved\Obsidian\A008. 心理學相關\A008-4. 效應\
+	                   8	D:\The saved\Obsidian\A008. 心理學相關\A008-5. 創傷\
+	                   2	D:\The saved\Obsidian\A008. 心理學相關\A008-6. 恐懼\
+	                   3	D:\The saved\Obsidian\A008. 心理學相關\A008-7. 格式塔\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-8. 記憶\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-9. 同理心\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\信仰 Religion\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\偽科學和陰謀論 Pseudoscience and Conspiracy\
+	                  19	D:\The saved\Obsidian\A009. 學科分類\哲學 Philosophy\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\地理 Geography\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\拓樸學 Topology\
+	                   8	D:\The saved\Obsidian\A009. 學科分類\數學與幾何學 Mathematics and Geometry\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\法律 Law, 法學 Jurisprudence\
+	                   6	D:\The saved\Obsidian\A009. 學科分類\社會學 Sociology\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\神學 theology\
+	                   4	D:\The saved\Obsidian\A009. 學科分類\符號學 Semiotics\
+	                  20	D:\The saved\Obsidian\A009. 學科分類\細胞\
+	                   4	D:\The saved\Obsidian\A009. 學科分類\美術 Aesthetics\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\認知科學、神經科學、學習方法 Cognitive science, Neuroscience, Learning methods\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\認知科學、神經科學、學習方法 Cognitive science, Neuroscience, Learning methods\論 - 論證、辯論、論說、論據\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\修辭學 Rhetoric\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\敘事學 Narratology\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\書寫系統 Writing System, -graphy\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\翻譯 Translatology\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\詩學與概念 Poetics & Concepts\
+	                  14	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\語言 Language\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\資訊 Informatics\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\音樂 Music\
+	                  14	D:\The saved\Obsidian\A010. 雜項與觀察\
+	                   0	D:\The saved\Obsidian\A011. 單字範疇及同義字\
+	                  15	D:\The saved\Obsidian\A011. 單字範疇及同義字\001. 政治類\
+	                   1	D:\The saved\Obsidian\A011. 單字範疇及同義字\002. 化學類\
+	                   1	D:\The saved\Obsidian\A011. 單字範疇及同義字\動詞\
+	                 586	D:\The saved\Obsidian\A012. Scholars\
+	    較新      		    2994	A. R. Radcliffe-Brown (阿弗烈·芮克里夫-布朗).md100%  
+	    較新      		    2940	Aaron T. Beck (亞倫·貝克).md100%  
+	    較新      		    2704	Abraham Maslow (亞伯拉罕·馬斯洛).md100%  
+	    較新      		   12503	Aby Warburg (阿比·瓦爾堡).md100%  
+	    較新      		   10669	Achille Mbembe (阿奇里·姆貝貝).md100%  
+	    較新      		    9029	Adam Smith (亞當·斯密).md100%  
+	    較新      		    7349	Alain Badiou (巴迪歐).md100%  
+	    較新      		    8480	Alain Touraine (阿蘭·圖賴訥).md100%  
+	    較新      		    2371	Alan Kay (艾倫·凱).md100%  
+	    較新      		   19564	Alan Turing (艾倫·圖靈).md100%  
+	    較新      		   10706	Alaric Finch (阿拉里克·芬奇).md100%  
+	    較新      		   11642	Alasdair MacIntyre (阿拉斯代爾·麥金泰爾).md100%  
+	    較新      		   14660	Albert Bandura (阿爾波特·班杜拉).md100%  
+	    較新      		   18519	Albert Camus (阿爾貝·卡繆).md100%  
+	    較新      		   27458	Albert Einstein (阿爾伯特·愛因斯坦).md100%  
+	    較新      		    3618	Albert Ellis (阿爾伯特·艾利斯).md100%  
+	    較新      		    3780	Albert Schweitzer (阿爾伯特·史懷哲).md100%  
+	    較新      		   13487	Aldous Huxley (阿爾多斯·赫胥黎).md100%  
+	    較新      		   23204	Aleister Crowley (阿萊斯特·克勞利).md100%  
+	    較新      		   20280	Aleksei Nikolaevich Leontiev (阿列克謝·尼古拉耶維奇·列昂捷夫).md100%  
+	    較新      		   16484	Alex Karp (亞力克斯·卡普 ).md100%  
+	    較新      		   17754	Alexander Fleming (亞歷山大·弗萊明).md100%  
+	    較新      		   14301	Alexander Luria (亞歷山大·魯利亞).md100%  
+	    較新      		    3763	Alexander Wendt (亞歷山大·溫特).md100%  
+	    較新      		    3549	Alexandre Koyre (亞歷山大·夸黑).md100%  
+	    較新      		    3224	Alexis de Tocqueville (亞歷西斯·德·托克維爾).md100%  
+	    較新      		   21548	Alfred Adler (阿德勒).md100%  
+	    較新      		     948	Alfred Korzybski (阿爾弗雷德·科爾日布斯基).md100%  
+	    較新      		    3790	Alfred North Whitehead (懷海德).md100%  
+	    較新      		    2754	Alfred Russel Wallace (阿爾弗雷德·羅素·華萊士).md100%  
+	    較新      		    3012	Alfred Wegener (阿爾弗雷德·韋格納).md100%  
+	    較新      		   12470	Algirdas Julien Greimas (阿爾吉爾達斯·朱利安·格雷馬斯).md100%  
+	    較新      		    3460	Amartya Sen (阿馬蒂亞·森).md100%  
+	    較舊      		     925	Antonio Gramsci (葛蘭西).md 90%  100%  
+	    較舊      		     837	Aristotle (亞里斯多德).md 89%  100%  
+	    較新      		     867	Arnold van Gennep (范熱內普).md100%  
+	    較新      		     786	Arthur Schopenhauer (叔本華).md100%  
+	    較新      		    4180	Ashish Vaswani (Transformer) (阿希什·瓦斯瓦尼).md100%  
+	    較新      		   11613	August Kekule (凱庫勒).md100%  
+	    較舊      		  194352	Augusto Ponzio (龐齊奧).md 99%  100%  
+	    較新      		    2901	Avicenna (阿維森納).md100%  
+	    較新      		    2709	Axel Honneth (阿克塞爾·霍耐特).md100%  
+	    較新      		    3764	B. F. Skinner (B. F. 斯金納).md100%  
+	    較新      		     865	Baruch de Spinoza (斯賓諾莎).md100%  
+	    較新      		    1062	Bell Hooks (貝爾·胡克斯).md100%  
+	    較新      		    1051	Benedict Anderson (班納迪克特·安德森).md100%  
+	    較新      		    1007	Benjamin Bloom (布魯姆).md100%  
+	    較新      		    3055	Benjamin Lee Whorf (班傑明·李·沃夫).md100%  
+	    較新      		    3055	Benoit Mandelbrot (伯努瓦·曼德布洛特).md100%  
+	    較新      		   11878	Benoit Paul Emile Clapeyron (埃米爾·克拉佩龍).md100%  
+	    較新      		    1232	Bernard Stiegler (伯納德·斯蒂格勒).md100%  
+	    較新      		    1291	Bernard Williams (伯納德·威廉士).md100%  
+	    較新      		    3181	Bernhard Riemann (波恩哈德·黎曼).md100%  
+	    較新      		   16469	Bertolt Brecht (貝托爾特·布萊希特).md100%  
+	    較新      		     878	Bertrand Russell (羅素).md100%  
+	    較新      		     585	Blaise Pascal (帕斯卡).md100%  
+	    較新      		     966	Bonny Norton (邦妮·諾頓).md100%  
+	    較新      		    2695	Bronis?aw Malinowski (布羅尼斯拉夫·馬林諾夫斯基).md100%  
+	    較新      		   14749	Bruno Latour (布魯諾·拉圖爾).md100%  
+	    較新      		    1094	Byung-Chul Han (韓炳哲).md100%  
+	    較新      		     942	C.S. Lewis (C.S.路易斯).md100%  
+	    較新      		     820	Carey Jewitt (凱瑞·朱伊特).md100%  
+	    較新      		    3245	Carl Friedrich Gauss (卡爾·弗里德里希·高斯).md100%  
+	    較新      		     902	Carl Jung (榮格).md100%  
+	    較新      		    3298	Carl Menger (卡爾·門格爾).md100%  
+	    較新      		    2291	Carl Rogers (卡爾·羅傑斯).md100%  
+	    較新      		   19629	Carl Rogers (卡爾·羅哲斯).md100%  
+	    較新      		   14410	Carl Sagan (卡爾·薩根).md100%  
+	    較新      		    3214	Carl Schmitt (卡爾·施密特).md100%  
+	    較新      		    2485	Carl von Clausewitz (卡爾·馮·克勞塞維茲).md100%  
+	    較新      		    5902	Carlo Ginzburg (卡洛·金茲伯格).md100%  
+	    較新      		    5476	Carlo Ginzburg (卡洛·金茲堡).md100%  
+	    較新      		     924	Carol Chomsky (卡羅爾·喬姆斯基).md100%  
+	    較新      		    1190	CCRU (控制論研究組).md100%  
+	    較新      		   11731	Chantal Mouffe (香塔·墨菲).md100%  
+	    較新      		    1064	Charles Darwin (查爾斯·達爾文).md100%  
+	    較新      		    3270	Charles Horton Cooley (查爾斯·霍頓·庫利).md100%  
+	    較新      		   14674	Charles Sanders Peirce (查爾斯·桑德斯·皮爾士).md100%  
+	    較新      		    3482	Charles Taylor (查爾斯·泰勒).md100%  
+	    較新      		   14916	Charles Tilly (查爾斯·蒂利).md100%  
+	    較新      		   12078	Christopher Alexander (克里斯托弗·亞歷山大).md100%  
+	    較新      		     950	Claude Levi-Strauss (李維-史陀).md100%  
+	    較新      		    3253	Claude Shannon (克勞德·夏農).md100%  
+	    較新      		    3852	Claude-Louis Navier (克勞德-路易·納維).md100%  
+	    較新      		    3374	Cleanth Brooks (克林斯·布魯克斯).md100%  
+	    較新      		   15350	Clifford Geertz (克利福德?紀爾茲).md100%  
+	    較新      		   15229	Confucius (孔子).md100%  
+	    較新      		   10408	Constantin Stanislavski (康斯坦丁·斯坦尼斯拉夫斯基).md100%  
+	    較新      		    1133	Cope & Kalantzis (科普與卡蘭茲).md100%  
+	    較新      		    3763	Daniel Dennett (丹尼爾·丹尼特).md100%  
+	    較新      		    3710	Daniel Goleman (丹尼爾·高曼).md100%  
+	    較新      		    6282	Daniel Kahneman (丹尼爾·康納曼).md100%  
+	    較新      		   12859	Dante Alighieri (但丁).md100%  
+	    較新      		    2769	Daron Acemoglu (戴倫·艾塞默魯).md100%  
+	    較新      		    3029	David Chalmers (大衛·查爾默斯).md100%  
+	    較新      		     210	David Graeber (大衛·格雷伯).md100%  
+	    較新      		    1038	David Harvey (大衛·哈維).md100%  
+	    較新      		    4558	David Hilbert (大衛·希爾伯特).md100%  
+	    較新      		     929	David Hume (休謨).md100%  
+	    較新      		   14189	David Ricardo (大衛·李嘉圖).md100%  
+	    較新      		   21530	David Wood (大衛·伍德) (phenomenology).md100%  
+	    較新      		   12302	David Wood (大衛·伍德) (Vygotskian).md100%  
+	    較新      		   11047	Democritus (德謨克利特).md100%  
+	    較新      		   14344	Derek Parfit (德里克·帕菲特).md100%  
+	    較新      		    1157	Dianetics 戴尼提.md100%  
+	    較新      		     602	Dietrich Bonhoeffer (潘霍華).md100%  
+	    較新      		   13489	Dmitri Mendeleev (德米特里·門得列夫).md100%  
+	    較新      		     862	Donald Knuth (高德納).md100%  
+	    較新      		   12982	Donald Norman (唐納德·諾曼).md100%  
+	    較新      		   15536	Donald Winnicott (唐納德·溫尼科特).md100%  
+	    較新      		    1199	Donna Haraway (唐娜·哈拉維).md100%  
+	    較新      		    1036	Doreen Massey (多琳·麥西).md100%  
+	    較新      		    3274	Douglas Hofstadter (道格拉斯·霍夫施塔特).md100%  
+	    較新      		     835	Duns Scotus (司各脫).md100%  
+	    較新      		   10668	E. P. Thompson (E. P. 湯普森).md100%  
+	    較新      		    3337	E.H. Gombrich (E.H. 貢布里希).md100%  
+	    較新      		    8594	Edith Stein (伊迪絲·史坦).md100%  
+	    較新      		    9804	Edith Stein (伊迪絲·施泰因).md100%  
+	    較新      		     964	Edmund Burke (埃德蒙·柏克).md100%  
+	    較新      		    4984	Edmund Husserl (胡塞爾).md100%  
+	    較新      		   12646	Edmund Leach (埃德蒙·利奇).md100%  
+	    較新      		    8110	Edsger W. Dijkstra (艾茲格·迪傑斯特拉).md100%  
+	    較新      		    2836	Edward Gibbon (愛德華·吉本).md100%  
+	    較新      		    2702	Edward Lorenz (愛德華·羅倫茲).md100%  
+	    較新      		    3196	Edward O. Wilson (愛德華·威爾森).md100%  
+	    較新      		    1061	Edward Said (愛德華·薩伊德).md100%  
+	    較新      		    3196	Edward Sapir (愛德華·薩丕爾).md100%  
+	    較新      		     945	Edward Soja (愛德華·索雅).md100%  
+	    較新      		    2706	Edward T. Hall (愛德華·霍爾).md100%  
+	    較新      		   18755	Edward Thorndike (愛德華·桑代克).md100%  
+	    較新      		   11684	Eleanor Rosch (埃莉諾·羅施).md100%  
+	    較新      		    3127	Elinor Ostrom (埃莉諾·奧斯特羅姆).md100%  
+	    較新      		     889	Emmanuel Levinas (列維納斯).md100%  
+	    較新      		    1258	Emmengard_s Plural Rings.md100%  
+	    較新      		   14535	Enrico Fermi (恩里科·費米).md100%  
+	    較新      		   13842	Epictetus (愛比克泰德).md100%  
+	    較新      		    2985	Epicurus (伊比鳩魯).md100%  
+	    較新      		     835	Eric Dietrich (艾瑞克·迪特里希).md100%  
+	    較新      		     972	Eric Erikson (艾瑞克森).md100%  
+	    較新      		    3945	Erich Auerbach (埃里希·奧爾巴赫).md100%  
+	    較新      		    1042	Erich Fromm (弗洛姆).md100%  
+	    較新      		   17648	Erik Olin Wright (埃里克·奧林·賴特).md100%  
+	    較新      		   11468	Ernst Bloch (恩斯特·布洛赫).md100%  
+	    較新      		    3510	Ernst Cassirer (恩斯特·卡西勒).md100%  
+	    較新      		     892	Ernst Engel (恩斯特·恩格爾).md100%  
+	    較新      		    2459	Erving Goffman (歐文·高夫曼).md100%  
+	    較新      		    3352	Erwin Panofsky (歐文·潘諾夫斯基).md100%  
+	    較新      		    2682	Erwin Schrodinger (埃爾溫·薛丁格).md100%  
+	    新檔案    		   75302	Esmond Ray Long - A history of pathology 病理學史.md100%  
+	    較新      		     994	Ethan Nowak (伊桑·諾瓦克).md100%  
+	    較新      		   11571	Euclid (歐幾里得).md100%  
+	    較新      		    1091	Eve Kosofsky Sedgwick (伊芙·塞吉維克).md100%  
+	    較新      		   16368	Eve Sweetser (伊芙·史威瑟).md100%  
+	    較新      		    1029	F. de Saussure (索緒爾).md100%  
+	    較新      		    3134	Felix Hausdorff (費利克斯·豪斯多夫).md100%  
+	    較新      		   12661	Ferdinand Tonnies (斐迪南·滕尼斯).md100%  
+	    較新      		    3137	Fernand Braudel (費爾南·布勞岱爾).md100%  
+	    較新      		     929	Ferruccio Rossi-Landi (費魯喬·羅西-蘭迪).md100%  
+	    較新      		    2904	Francis Crick (法蘭西斯·克里克).md100%  
+	    較新      		    3006	Francis Fukuyama (法蘭西斯·福山).md100%  
+	    較新      		   12683	Francisco Varela (弗朗西斯科·瓦雷拉).md100%  
+	    較新      		   10275	Frank Lloyd Wright (法蘭克·洛伊·萊特).md100%  
+	    較新      		    5273	Frankfurt School (法蘭克福學派).md100%  
+	    較新      		    1013	Frantz Fanon (法農).md100%  
+	    較新      		    2951	Franz Boas (法蘭茲·鮑亞士).md100%  
+	    較新      		     950	Franz Kafka (卡夫卡).md100%  
+	    較新      		   27649	Frederic Wakeman Jr. (魏斐德).md100%  
+	    較新      		    1002	Fredric Jameson (詹明信).md100%  
+	    較新      		   18564	Friedrich Engels (恩格斯).md100%  
+	    較新      		     909	Friedrich Hayek (哈耶克).md100%  
+	    新檔案    		   14335	Friedrich Kittler (基特勒).md100%  
+	    較新      		   13192	Friedrich Nietzsche (尼采).md100%  
+	    較新      		   14125	Friedrich Pollock (弗里德里希·波洛克).md100%  
+	    較新      		    1005	Fyodor Dostoevsky (杜斯妥也夫斯基).md100%  
+	    較新      		     818	Felix Guattari (瓜塔里).md100%  
+	    較新      		    1153	G.C. Spivak (史碧娃克).md100%  
+	    較新      		     993	G.I. Gurdjieff (葛吉夫).md100%  
+	    較新      		    1234	G.W.F. Hegel (黑格爾).md100%  
+	    較新      		    3617	Gail Ross (蓋兒·羅斯).md100%  
+	    較舊      		     957	Gaston Bachelard (加斯東·巴舍拉).md 90%  100%  
+	    較舊      		    1064	Gayle Rubin (蓋爾·魯賓).md100%  
+	    較舊      		     836	Geoffrey Hinton (傑弗里·辛頓).md100%  
+	    較舊      		    4781	Georg Simmel (齊美爾).md100%  
+	    較舊      		     883	George Orwell (喬治·歐威爾).md100%  
+	    較舊      		    1066	Georges Bataille (巴塔耶).md100%  
+	    較舊      		     926	Gilbert Simondon (吉爾貝·西蒙棟).md100%  
+	    較舊      		     891	Gilles Deleuze (德勒茲).md100%  
+	    較舊      		     905	Giorgio Agamben (阿岡本).md100%  
+	    較舊      		     868	Gottfried Wilhelm Leibniz (萊布尼茲).md100%  
+	    較新      		    3337	Grace Hopper (葛麗絲·霍普).md100%  
+	    較新      		    2447	Gregor Mendel (孟德爾).md100%  
+	    較新      		    4221	Gregory Bateson (葛瑞格里·貝特森).md100%  
+	    較新      		    3298	Grigori Perelman (格里戈里·佩雷爾曼).md100%  
+	    較新      		     857	Groupe μ (繆小組).md100%  
+	    較新      		     902	Gunther Kress (岡瑟·克瑞斯).md100%  
+	    較新      		     992	Guy Debord (居伊·德波).md100%  
+	    較新      		     986	Gyorgy Lukacs (盧卡奇).md100%  
+	    較新      		   11358	H. L. A. Hart (H. L. A. 哈特).md100%  
+	    較新      		    2352	H. P. Grice (保羅·格萊斯).md100%  
+	    較新      		     949	H.P. Blavatsky (布拉瓦茨基夫人).md100%  
+	    較新      		    9949	Hannah Arendt (漢娜·鄂蘭).md100%  
+	    較新      		    3059	Hans Rosling (漢斯·羅斯林).md100%  
+	    較新      		    2450	Hans-Georg Gadamer (漢斯-格奧爾格·伽達默爾).md100%  
+	    較新      		     905	Harlan Ellison (哈蘭·艾里森).md100%  
+	    較新      		    2572	Harold Bloom (哈羅德·布魯姆).md100%  
+	    較新      		    9784	Harold Innis (哈羅德·伊尼斯).md100%  
+	    較新      		    3199	Hartmut Rosa (哈特穆特·羅薩).md100%  
+	    較新      		   10956	Hayden White (海登·懷特).md100%  
+	    較新      		   11117	Heinrich Wolfflin (海因里希·沃夫林).md100%  
+	    較新      		    3268	Heinz von Foerster (海因茨·馮·佛爾斯特).md100%  
+	    較新      		    4917	Henri Bergson (柏格森).md100%  
+	    較新      		    1265	Henri Lefebvre (列斐伏爾).md100%  
+	    較新      		     992	Henri Poincare (昂利·龐加萊).md100%  
+	    較新      		     949	Henry Giroux (季侯).md100%  
+	    較新      		   13975	Henry Jenkins (亨利·詹金斯).md100%  
+	    較新      		    2539	Heraclitus (赫拉克利特).md100%  
+	    較新      		    2812	Herbert Blumer (赫伯特·布魯默).md100%  
+	    較新      		   10899	Herbert H. Clark (赫伯特·克拉克).md100%  
+	    較新      		    1001	Herbert Marcuse (馬庫色).md100%  
+	    較新      		    2370	Herbert Spencer (赫伯特·史賓賽).md100%  
+	    較新      		     938	Hermes Trismegistus (赫密斯·特里斯墨吉斯忒斯).md100%  
+	    較新      		    2753	Herodotus (希羅多德).md100%  
+	    較新      		    2826	Hesiod (赫西俄德).md100%  
+	    較新      		    1054	Hilary Putnam (希拉蕊·普特南).md100%  
+	    較新      		    9111	Homer (荷馬).md100%  
+	    較新      		    4758	Howard Gardner (霍華德·加德納).md100%  
+	    較新      		   12867	Howard S. Becker (霍華德·S·貝克爾).md100%  
+	    較新      		    3654	Helene Cixous (埃萊娜·西蘇).md100%  
+	    較新      		   14655	I. M. Pei (貝聿銘).md100%  
+	    較新      		    6967	Ian Bogost (伊恩·博格斯特).md100%  
+	    較新      		    3388	Ian Hacking (伊恩·哈金).md100%  
+	    較新      		    1975	Ibn Khaldun (伊本·赫勒敦).md100%  
+	    較新      		    3460	Ilya Prigogine (伊利亞·普里高津).md100%  
+	    較新      		     963	Immanuel Kant (康德).md100%  
+	    較新      		    2679	Imre Lakatos (伊姆雷·拉卡托斯).md100%  
+	    較新      		   13017	Isaac Newton (艾薩克·牛頓).md100%  
+	    較新      		    2588	Italo Calvino (伊塔羅·卡爾維諾).md100%  
+	    較新      		   10164	Ivan Pavlov (帕甫洛夫).md100%  
+	    新檔案    		    3590	Ivan Sechenov (謝切諾夫).md100%  
+	    較新      		    2746	J. L. Austin (J. L. 奧斯丁).md100%  
+	    較新      		    3127	J. R. R. Tolkien (J.R.R. 托爾金).md100%  
+	    較新      		   14249	J. Robert Oppenheimer (羅伯特·奧本海默).md100%  
+	    新檔案    		   10567	Jacques Derrida (德希達).md100%  
+	    較新      		     853	Jacques Lacan (拉康).md100%  
+	    較新      		    3892	Jacques Le Goff (雅克·勒高夫).md100%  
+	    較新      		     934	Jacques Ranciere (洪席耶).md100%  
+	    較新      		   12329	James C. Scott (詹姆斯·C·斯科特).md100%  
+	    較新      		    2688	James Clerk Maxwell (詹姆斯·克拉克·麥克斯韋).md100%  
+	    較新      		   11938	James Joyce (詹姆斯·喬伊斯).md100%  
+	    較新      		    1257	James Lantolf (蘭托夫).md100%  
+	    較新      		     972	James Marcia (詹姆斯·馬西亞).md100%  
+	    較新      		    7925	James Paul Gee (詹姆斯·保羅·吉).md100%  
+	    較新      		   12705	James Watson (詹姆斯·華生).md100%  
+	    較新      		     995	Jan Blommaert (楊·布洛馬特).md100%  
+	    較新      		    5773	Jane Austen (簡·奧斯汀).md100%  
+	    較新      		    1051	Jane Jacobs (珍·雅各).md100%  
+	    較新      		     195	Jared Diamond (賈德·戴蒙).md100%  
+	    較新      		     949	Jean Baudrillard (尚·布希亞).md100%  
+	    較新      		   12653	Jean Berko Gleason (簡·伯科·格里森).md100%  
+	    較新      		     862	Jean Piaget (皮亞傑).md100%  
+	    較新      		     962	Jean-Baptiste Say (薩伊).md100%  
+	    較新      		     985	Jean-Francois Lyotard (李歐塔).md100%  
+	    較新      		     938	Jean-Jacques Rousseau (盧梭).md100%  
+	    較新      		     835	Jean-Paul Sartre (沙特).md100%  
+	    較新      		     924	Jeremy Bentham (邊沁).md100%  
+	    較新      		    6377	Jerome Bruner (布魯納).md100%  
+	    較新      		   11221	Jesper Hoffmeyer (傑斯普·霍夫邁爾).md100%  
+	    較新      		    3107	Johann Sebastian Bach (約翰·塞巴斯蒂安·巴赫).md100%  
+	    較新      		    2869	Johannes Kepler (約翰內斯·克卜勒).md100%  
+	    較新      		    9388	John Berger (約翰·伯格).md100%  
+	    較新      		    2991	John Bowlby (約翰·鮑比).md100%  
+	    較新      		    1652	John Cage (約翰·凱吉).md100%  
+	    較新      		    3366	John Calvin (約翰·加爾文).md100%  
+	    較新      		     968	John Dewey (約翰·杜威).md100%  
+	    較新      		    1140	John Keynes (凱因斯).md100%  
+	    較新      		   24075	John King Fairbank (費正清).md100%  
+	    較新      		     834	John Koenig (約翰·科尼格).md100%  
+	    較新      		     869	John Locke (約翰·洛克).md100%  
+	    較新      		    6795	John McCarthy (約翰·麥卡錫).md100%  
+	    較新      		    3163	John Mearsheimer (約翰·米爾斯海默).md100%  
+	    較新      		    2513	John Nash (約翰·納什).md100%  
+	    較新      		    2822	John Searle (約翰·瑟爾).md100%  
+	    較新      		     919	John Sinclair (約翰·辛克萊爾).md100%  
+	    較新      		    4445	John Sweller (約翰斯威勒).md100%  
+	    較新      		    3814	John von Neumann (約翰·馮·諾伊曼).md100%  
+	    較新      		   26943	Jonathan Spence (史景遷).md100%  
+	    較新      		    1875	Jordan Peterson (喬丹·彼得森).md100%  
+	    較新      		    3571	Jorge Luis Borges (豪爾赫·路易斯·波赫士).md100%  
+	    較新      		    4307	Joseph Campbell (坎伯).md100%  
+	    較新      		   14636	Joseph Nye (約瑟夫·奈).md100%  
+	    較新      		   10598	Joseph Schumpeter (約瑟夫·熊彼特).md100%  
+	    較新      		    3123	Joseph Stiglitz (約瑟夫·史迪格里茲).md100%  
+	    較新      		    4645	Joseph-Louis Lagrange (約瑟夫·拉格朗日).md100%  
+	    較新      		    3985	Judea Pearl (朱迪亞·珀爾).md100%  
+	    較新      		     988	Judith Butler (茱蒂絲·巴特勒).md100%  
+	    較新      		     989	Julia Kristeva (克莉絲蒂娃).md100%  
+	    較新      		     934	Jurgen Habermas (哈伯瑪斯).md100%  
+	    較新      		    2518	Karen Yeung.md100%  
+	    較新      		     593	Karl Barth (卡爾·巴特).md100%  
+	    較新      		    3099	Karl Jaspers (卡爾·雅斯佩斯).md100%  
+	    較新      		    1215	Karl Marx (馬克思).md100%  
+	    較新      		    3100	Karl Polanyi (卡爾·波蘭尼).md100%  
+	    較新      		    1019	Karl Popper (卡爾·波普爾).md100%  
+	    較新      		   14551	Kenneth Burke (肯尼斯·柏克).md100%  
+	    較新      		   18626	Kenneth Pomeranz (彭慕然).md100%  
+	    較新      		   22425	Kenneth Scott Latourette (賴德烈).md100%  
+	    較新      		   13687	Kenneth Waltz (肯尼思·華茲).md100%  
+	    較新      		     199	Kenneth Waltz (肯尼斯·華爾茲).md100%  
+	    較新      		     175	Kenneth Waltz (肯尼斯·華茲).md100%  
+	    較新      		    3630	Kurt Godel (庫爾特·哥德爾).md100%  
+	    較新      		    3324	Kurt Lewin (庫爾特·勒溫).md100%  
+	    較新      		   11639	Laozi (老子).md100%  
+	    較新      		    2694	Lawrence Kohlberg (勞倫斯·柯爾伯格).md100%  
+	    較新      		     257	Le Corbusier (勒·柯比意).md100%  
+	    較新      		   15403	Leo Strauss (列奧·施特勞斯).md100%  
+	    較新      		    2872	Leon Festinger (利昂·費斯廷格).md100%  
+	    較新      		    6898	Leonard Talmy (倫納德·塔爾米).md100%  
+	    較新      		    3151	Leonardo da Vinci (李奧納多·達文西).md100%  
+	    較新      		    2860	Leonhard Euler (萊昂哈德·歐拉).md100%  
+	    較新      		    2756	Leopold von Ranke (利奧波德·馮·蘭克).md100%  
+	    較新      		   16483	Lev Vygotsky (維高斯基).md100%  
+	    較新      		   15144	Lewis Mumford (路易斯·芒福德).md100%  
+	    較新      		    1155	Lewison et al. (劉易森等人).md100%  
+	    較新      		   12375	Lila Gleitman (萊拉·格萊特曼).md100%  
+	    較新      		     815	Lim Fei Victor (林飛偉).md100%  
+	    較新      		   14907	Linus Pauling (萊納斯·鮑林).md100%  
+	    較新      		    1303	Louis Althusser (阿圖塞).md100%  
+	    較新      		   10400	Louis Hjelmslev (路易·葉爾姆斯列夫).md100%  
+	    較新      		     925	Louis Hjelmslev (路易斯·葉爾姆斯列夫).md100%  
+	    較新      		   15719	Louis Pasteur (路易·巴斯德).md100%  
+	    較新      		    1016	Luce Irigaray (呂斯·伊瑞葛來).md100%  
+	    較新      		    3083	Lucien Febvre (呂西安·費弗爾).md100%  
+	    較新      		     903	Ludwig Feuerbach (費爾巴哈).md100%  
+	    較新      		    3796	Ludwig Prandtl (路德維希·普朗特).md100%  
+	    較新      		    3401	Ludwig von Bertalanffy (路德維希·馮·貝塔郎非).md100%  
+	    較新      		   13359	Ludwig von Mises (路德維希·馮·米塞斯).md100%  
+	    較新      		   15860	Ludwig Wittgenstein (維根斯坦).md100%  
+	    較新      		     757	Luke & Freebody (盧克與弗里博迪).md100%  
+	    較新      		    3936	Lynn Margulis (琳·馬古利斯).md100%  
+	    較新      		   24154	Lynn Thorndike (林恩·桑代克).md100%  
+	    較新      		    4771	M. A. K. Halliday (韓禮德).md100%  
+	    較新      		    2922	M. C. Escher (艾雪).md100%  
+	    較新      		    1000	Manuel Castells (曼紐·柯司特).md100%  
+	    較新      		    3317	Manuel DeLanda (曼紐爾·德蘭達).md100%  
+	    較新      		    1163	Marc Auge (馬克·歐傑).md100%  
+	    較新      		    3784	Marc Bloch (馬克·布洛克).md100%  
+	    較新      		    2433	Marcel Mauss (馬塞爾·莫斯).md100%  
+	    較新      		    2753	Marcus Aurelius (馬可·奧理略).md100%  
+	    較新      		     995	Marcus Tullius Cicero (西塞羅).md100%  
+	    較新      		     989	Maria Montessori (蒙特梭利).md100%  
+	    較新      		    8127	Marie Curie (瑪麗·居禮).md100%  
+	    較新      		    1200	Mark Fisher (馬克·費雪).md100%  
+	    較新      		     792	Mark Forsyth (馬克·福賽斯).md100%  
+	    較新      		   11409	Mark Granovetter (馬克·格蘭諾維特).md100%  
+	    較新      		    2702	Mark Johnson (馬克·詹森).md100%  
+	    較新      		     870	Marlene Dixon (瑪琳·迪克森).md100%  
+	    較新      		    1013	Marshall McLuhan (麥克魯漢).md100%  
+	    較新      		    2635	Marshall Sahlins (馬歇爾·薩林斯).md100%  
+	    較新      		     966	Martha Nussbaum (瑪莎·努斯鮑姆).md100%  
+	    較新      		     850	Martin Heidegger (海德格).md100%  
+	    較新      		     577	Martin Luther (馬丁·路德).md100%  
+	    較新      		   17287	Marvin Minsky (馬文·閔斯基).md100%  
+	    較新      		    3230	Mary Ainsworth (瑪莉·安斯沃斯).md100%  
+	    較新      		    2087	Mary Beard (瑪麗·畢爾德).md100%  
+	    較新      		    2923	Mary Douglas (瑪莉·道格拉斯).md100%  
+	    較新      		    3169	Maurice Halbwachs (莫里斯·哈布瓦赫).md100%  
+	    較新      		     969	Max Horkheimer (霍克海默).md100%  
+	    較新      		    3084	Max Planck (馬克斯·普朗克).md100%  
+	    較新      		    3696	Max Scheler (馬克斯·舍勒).md100%  
+	    較新      		   11813	Max Stirner (麥克斯·施蒂納).md100%  
+	    較新      		   15502	Max Weber (馬克斯·韋伯).md100%  
+	    較新      		    1021	Meister Eckhart (麥斯特·艾克哈特).md100%  
+	    較新      		   14322	Melanie Klein (梅蘭妮·克萊因).md100%  
+	    較新      		     801	Merleau-Ponty (梅洛-龐蒂).md100%  
+	    較新      		   11919	Merrill Garrett (梅里爾·加勒特).md100%  
+	    較新      		     955	Michael Apple (麥克·艾波).md100%  
+	    較新      		     899	Michael Berzonsky (邁克爾·貝爾宗斯基).md100%  
+	    較新      		    2422	Michael Faraday (麥可·法拉第).md100%  
+	    較新      		    3303	Michael Polanyi (麥可·波蘭尼).md100%  
+	    較新      		    3607	Michael Porter (麥可·波特).md100%  
+	    較新      		    3615	Michael Sandel (邁可·桑德爾).md100%  
+	    較新      		     899	Michael Silverstein (邁克爾·西爾弗斯坦).md100%  
+	    較新      		    4444	Michael Sugrue (邁克爾·蘇格魯).md100%  
+	    較新      		   11141	Michael Tomasello (邁克爾·托馬塞洛).md100%  
+	    較新      		    3173	Michael Walzer (邁克爾·沃爾澤).md100%  
+	    較新      		    3626	Michel de Certeau (米歇爾·德·塞托).md100%  
+	    較新      		   19284	Michel Foucault (米歇爾·傅柯).md100%  
+	    較新      		    3455	Michel Henry (米歇爾·亨利).md100%  
+	    較新      		    2524	Michel Serres (米歇爾·賽荷).md100%  
+	    較新      		    3507	Mihaly Csikszentmihalyi (米哈里·契克森米哈伊).md100%  
+	    較新      		   19371	Mikhail Bakhtin (巴赫金).md100%  
+	    較新      		    1378	Milton Friedman (米爾頓·佛利民).md100%  
+	    較新      		   18949	Milton Mayeroff (密爾頓·梅耶羅夫).md100%  
+	    較新      		    4714	Mircea Eliade (伊利亞德).md100%  
+	    較新      		    1051	Monique Wittig (莫尼克·維蒂格).md100%  
+	    較新      		   11171	Montesquieu (孟德斯鳩).md100%  
+	    較新      		   18199	Muzafer Sherif (穆扎費爾·謝里夫).md100%  
+	    較新      		    1047	Nancy Fraser (南希·弗雷澤).md100%  
+	    較新      		    3649	Nassim Nicholas Taleb (納西姆·尼可拉斯·塔雷伯).md100%  
+	    較新      		    3732	Natalie Zemon Davis (娜塔莉·澤蒙·戴維斯).md100%  
+	    較新      		    4829	Neil Postman (尼爾·波茲曼).md100%  
+	    較新      		     908	Nick Land (尼克·蘭德).md100%  
+	    較新      		   13448	Nicolaus Copernicus (尼古拉·哥白尼).md100%  
+	    較新      		   15592	Nicos Poulantzas (尼科斯·普蘭查斯).md100%  
+	    較新      		    3413	Niels Bohr (尼爾斯·波耳).md100%  
+	    較新      		     979	Noam Chomsky (諾姆·喬姆斯基).md100%  
+	    較新      		    3317	Norbert Elias (諾伯特·伊里亞斯).md100%  
+	    較新      		   16164	Norbert Wiener (諾伯特·維納).md100%  
+	    較新      		     904	Norman Fairclough (諾曼·費爾克拉夫).md100%  
+	    較新      		    3455	Northrop Frye (諾斯洛普·佛萊).md100%  
+	    較新      		     899	Oscar Wilde (王爾德).md100%  
+	    較新      		    3282	Oswald Spengler (奧斯瓦爾德·斯賓格勒).md100%  
+	    較新      		   12408	Otis Dudley Duncan (奧蒂斯·達德利·鄧肯).md100%  
+	    較新      		     931	Padmasambhava (蓮花生大士).md100%  
+	    較新      		     926	Paracelsus (帕拉塞爾蘇斯).md100%  
+	    較新      		    3123	Parmenides (巴門尼德).md100%  
+	    較新      		     993	Pascual-Leone (帕斯夸爾-萊昂內).md100%  
+	    較新      		    1167	Paul B. Preciado (保羅·B·普雷西亞多).md100%  
+	    較新      		    2751	Paul Dirac (保羅·狄拉克).md100%  
+	    較新      		    3497	Paul Feyerabend (保羅·費耶阿本德).md100%  
+	    較新      		   16181	Paul Krugman (保羅·克魯曼).md100%  
+	    較新      		     934	Paul Mangre (保羅·芒格雷).md100%  
+	    較新      		    9338	Paul Ric?ur (保羅·利科).md100%  
+	    較新      		    3169	Paul Samuelson (保羅·薩繆爾森).md100%  
+	    較新      		     565	Paul Tillich (田立克).md100%  
+	    較新      		    1157	Paul Virilio (保羅·維希留).md100%  
+	    較新      		     890	Paulo Freire (保羅·弗雷勒).md100%  
+	    較新      		     873	Peter De Costa (彼得·德科斯塔).md100%  
+	    較新      		    2506	Peter L. Berger (彼得·柏格).md100%  
+	    較新      		    1268	Peter McLaren (彼得·麥拉倫).md100%  
+	    較新      		    2864	Peter Singer (彼得·辛格).md100%  
+	    較新      		    9020	Peter Sloterdijk (彼得·斯勞特戴克).md100%  
+	    較新      		    3256	Peter Sloterdijk (彼得·斯洛特戴克).md100%  
+	    較新      		   22643	Philip A. Kuhn (孔飛力).md100%  
+	    較新      		    2596	Philip Zimbardo (菲利普·津巴多).md100%  
+	    較新      		   13062	Pierre Bourdieu (皮埃爾·布迪厄).md100%  
+	    較新      		    9412	Pierre Clastres (皮埃?·克拉斯特).md100%  
+	    較新      		   10547	Pierre Teilhard de Chardin (德日進).md100%  
+	    較新      		    3437	Pierre-Simon Laplace (皮耶-西蒙·拉普拉斯).md100%  
+	    較新      		     930	Plato (柏拉圖).md100%  
+	    較新      		    6951	Pythagoras (畢達哥拉斯).md100%  
+	    較新      		    1184	Quentin Meillassoux (昆汀·梅亞蘇).md100%  
+	    較新      		   11915	Quentin Skinner (昆汀·斯金納).md100%  
+	    較新      		   12972	Rachel Carson (瑞秋·卡森).md100%  
+	    較新      		     951	Ray Bradbury (雷·布萊伯利).md100%  
+	    較新      		    1621	Ray Jackendoff (雷·傑肯道夫).md100%  
+	    較新      		    1024	Raya Dunayevskaya (拉亞·杜納耶夫斯卡婭).md100%  
+	    較新      		    3630	Raymond Aron (雷蒙·阿宏).md100%  
+	    較新      		    3956	Rem Koolhaas (雷姆·庫哈斯).md100%  
+	    較新      		     908	Rene Descartes (笛卡兒).md100%  
+	    較新      		    3738	Rene Girard (勒內·吉拉爾).md100%  
+	    較新      		    3959	Richard Dawkins (理查·道金斯).md100%  
+	    較新      		     259	Richard Feynman (理查·費曼).md100%  
+	    較新      		    2798	Richard Rorty (理查·羅蒂).md100%  
+	    較新      		    3996	Richard Sennett (理查·桑內特).md100%  
+	    較新      		    8362	Richard Thaler (理查·塞勒).md100%  
+	    較新      		   11292	Robert Boyle (羅伯特·波以耳).md100%  
+	    較新      		    3617	Robert E. Park (羅伯特·E·派克).md100%  
+	    較新      		    3232	Robert K. Merton (羅伯特·金·莫頓).md100%  
+	    較新      		   13502	Robert Keohane (羅伯特·基歐漢).md100%  
+	    較新      		    3321	Robert Nozick (羅伯特·諾齊克).md100%  
+	    較新      		   29879	Robert Selman (羅伯特·塞爾曼).md100%  
+	    較新      		    3804	Roger Penrose (羅傑·潘洛斯).md100%  
+	    較新      		    3928	Roger Weissberg (CASEL) (羅傑·魏斯伯格).md100%  
+	    較新      		    1010	Roland Barthes (羅蘭·巴特).md100%  
+	    較新      		    1019	Roman Jakobson (羅曼·雅各布森).md100%  
+	    較新      		     950	Ron Darvin (羅恩·達爾文).md100%  
+	    較新      		   15755	Ronald Dworkin (羅納德·德沃金).md100%  
+	    較新      		   11805	Ronald Langacker (羅納德·蘭加克).md100%  
+	    較新      		    2907	Rosalind Franklin (羅莎琳·富蘭克林).md100%  
+	    較新      		    3140	Rosi Braidotti (羅西·布拉伊多蒂).md100%  
+	    較新      		    3213	Rousas John Rushdoony (魯薩斯·約翰·魯斯杜尼).md100%  
+	    較新      		   15945	Rudolf Carnap (魯道夫·卡爾納普).md100%  
+	    較新      		   16201	Rudolf Clausius (魯道夫·克勞修斯).md100%  
+	    較新      		    3323	Ruth Benedict (露絲·潘乃德).md100%  
+	    較新      		    1151	Regis Debray (雷吉斯·德布雷).md100%  
+	    較新      		    1072	Sam Altman (山姆·阿特曼).md100%  
+	    較新      		     195	Sam Harris (薩姆·哈里斯).md100%  
+	    較新      		     912	Samuel Beckett (薩繆爾·貝克特).md100%  
+	    較新      		    3052	Samuel P. Huntington (塞繆爾·P·亨廷頓).md100%  
+	    較新      		    1093	Sara Ahmed (薩拉·阿赫邁德).md100%  
+	    較新      		     197	Saskia Sassen (薩斯基婭·薩森).md100%  
+	    較新      		    2813	Saul Kripke (索爾·克里普克).md100%  
+	    較新      		    2697	Seneca (塞內卡).md100%  
+	    較新      		    2529	Sherry Turkle (雪莉·特克爾).md100%  
+	    較新      		    1174	Shoshana Zuboff (休珊娜·祖博夫).md100%  
+	    較新      		     846	Sigmund Freud (佛洛伊德).md100%  
+	    較新      		   12944	Sima Qian (司馬遷).md100%  
+	    較新      		    4242	Simon Baron-Cohen (西蒙·拜倫-柯恩).md100%  
+	    較新      		    9219	Simone de Beauvoir (西蒙·德·波娃).md100%  
+	    較新      		     951	Simone de Beauvoir (西蒙·波娃).md100%  
+	    較新      		    1369	Sir Demis Hassabis (傑米斯·哈薩比斯 ).md100%  
+	    較新      		    5101	Slavoj ?i?ek (斯拉沃熱·齊澤克).md100%  
+	    較新      		     915	Socrates (蘇格拉底).md100%  
+	    較新      		    3485	Solomon Asch (所羅門·阿希).md100%  
+	    較新      		     717	St. Augustine (奧古斯丁).md100%  
+	    較新      		    2647	Stanislav Grof (斯坦尼斯拉夫·格羅夫).md100%  
+	    較新      		   11428	Stanley Fish (斯坦利·費希).md100%  
+	    較新      		    2692	Stanley Milgram (斯坦利·米爾格拉姆).md100%  
+	    較新      		     961	Stella Ting-Toomey (丁靜華).md100%  
+	    較新      		   10597	Stephen Downes (史蒂芬·唐斯).md100%  
+	    較新      		    3066	Stephen Greenblatt (史蒂芬·格林布拉特).md100%  
+	    較新      		     926	Steven Krashen (史蒂芬·克拉申).md100%  
+	    較新      		     895	Steven Pinker (史蒂芬·平克).md100%  
+	    較新      		     868	Strong Programme (強綱領).md100%  
+	    較新      		    1043	Stuart Hall (斯圖亞特·霍爾).md100%  
+	    較新      		   11018	Sun Tzu (孫子).md100%  
+	    較新      		   13501	Susan Carey (蘇珊·凱里).md100%  
+	    較新      		    2475	Susan Sontag (蘇珊·桑塔格).md100%  
+	    較新      		    1090	Soren Kierkegaard (祁克果；齊克果).md100%  
+	    較新      		   15207	T. S. Eliot (T.S. 艾略特).md100%  
+	    較新      		    5968	Tacitus (塔西佗).md100%  
+	    較新      		    3293	Terry Eagleton (泰瑞·伊格頓).md100%  
+	    較新      		     890	Theo van Leeuwen (提奧·範·李文).md100%  
+	    較新      		     960	Theodor Adorno (阿多諾).md100%  
+	    較新      		   14234	Thomas A. Sebeok (托馬斯·塞比奧克).md100%  
+	    較新      		     904	Thomas Aquinas (阿奎那).md100%  
+	    較新      		    2611	Thomas More (托馬斯·摩爾).md100%  
+	    較新      		    9932	Thomas Nagel (湯瑪斯·內格爾).md100%  
+	    較新      		    5214	Thomas Paine (托馬斯·潘恩).md100%  
+	    較新      		    3119	Thomas Piketty (托馬斯·皮凱提).md100%  
+	    較新      		     881	Thomas Sebeok (托馬斯·塞比奧克).md100%  
+	    較新      		    3086	Thorstein Veblen (托斯丹·韋伯倫).md100%  
+	    較新      		    2984	Thucydides (修昔底德).md100%  
+	    較新      		    3149	Tim Berners-Lee (蒂姆·柏納-李).md100%  
+	    較新      		     227	Tim Ingold (蒂姆·英戈爾德).md100%  
+	    較新      		    1259	Ulrich Beck (烏爾利希·貝克).md100%  
+	    較新      		     909	Umberto Eco (翁貝托·艾可).md100%  
+	    較新      		    2929	Umberto Maturana (溫貝托·馬圖拉納).md100%  
+	    較新      		    4233	Urie Bronfenbrenner (尤里·布朗芬布倫納).md100%  
+	    較新      		    7265	V. S. Ramachandran (維萊亞努爾·拉瑪錢德朗).md100%  
+	    較新      		     879	Valentin Voloshinov (瓦倫丁·沃洛希諾夫).md100%  
+	    較新      		     954	Victor Turner (維克多·特納).md100%  
+	    較新      		     880	Victoria Welby (維多利亞·韋爾比).md100%  
+	    較新      		   16003	Viktor Shklovsky (維克多·什克洛夫斯基).md100%  
+	    較新      		    1007	Vilfredo Pareto (維爾弗雷多·帕累托).md100%  
+	    較新      		   13185	Vilem Flusser (維蘭·傅拉瑟).md100%  
+	    較新      		   14543	Virgil (維吉爾).md100%  
+	    較新      		    2833	Virginia Woolf (維吉尼亞·吳爾芙).md100%  
+	    較新      		     446	Virtuality 虛擬性.md100%  
+	    較新      		     980	Vladimir Lenin (列寧).md100%  
+	    較新      		     941	Vladimir Propp (弗拉基米爾·普羅普).md100%  
+	    較新      		    1077	Voltaire (伏爾泰).md100%  
+	    較新      		    4210	W. E. B. Du Bois (W·E·B·杜波依斯).md100%  
+	    較新      		    1297	W.V.O. Quine (蒯因).md100%  
+	    較新      		   16224	Walter Gropius (華特·葛羅培斯).md100%  
+	    較新      		   10823	Walter Lippmann (沃爾特·李普曼).md100%  
+	    較新      		     243	Walter Mignolo (華特·米尼奧羅).md100%  
+	    較新      		    3330	Walter Ong (華特·翁).md100%  
+	    較新      		   14222	Wassily Kandinsky (瓦西里·康定斯基).md100%  
+	    較新      		    6941	Wendy Brown (溫蒂·布朗).md100%  
+	    較新      		    3152	Werner Heisenberg (維爾納·海森堡).md100%  
+	    較新      		   12333	Wilhelm Wundt (威廉·馮特).md100%  
+	    較新      		   15448	Willem Levelt (威廉·勒菲爾特).md100%  
+	    較新      		     953	William Gibson (威廉·吉布森).md100%  
+	    較新      		   12873	William Labov (威廉·拉波夫).md100%  
+	    較新      		     787	William of Ockham (奧坎).md100%  
+	    較新      		   17031	William Shakespeare (威廉·莎士比亞).md100%  
+	    較新      		    1096	Yann LeCun (楊立昆).md100%  
+	    較新      		   19485	Yoshua Bengio (約書亞·班吉歐).md100%  
+	    較新      		   17643	Yrjo Engestrom (伊爾約·恩格斯托姆).md100%  
+	    較新      		    1175	Yuk Hui (許煜).md100%  
+	    較新      		   13121	Yuri Lotman (尤里·洛特曼).md100%  
+	    較新      		    2544	Zeno of Citium (季蒂昂的芝諾).md100%  
+	    較新      		     997	Zoltan Dornyei (佐爾坦·多爾尼耶).md100%  
+	    較新      		    6146	Emile Durkheim (涂爾幹).md100%  
+	    較新      		   11008	Etienne Bonnot de Condillac (艾蒂安·博諾·德·孔狄亞克).md100%  
+	                   0	D:\The saved\Obsidian\A013. Agent SKills\
+	                   4	D:\The saved\Obsidian\A013. Agent SKills\Xi Shi Role-Play Historical Agent\
+	                   0	D:\The saved\Obsidian\Atlas\
+	                   0	D:\The saved\Obsidian\Atlas\Special\
+	                   2	D:\The saved\Obsidian\Atlas\Special\Excalidraw\
+	                 241	D:\The saved\Obsidian\Contents.md_Attachments\
+	                   5	D:\The saved\Obsidian\Contents.md_Attachments\banners\
+	                   1	D:\The saved\Obsidian\Excalidraw\
+	                  11	D:\The saved\Obsidian\Nodes\
+	                   2	D:\The saved\Obsidian\PDF\
+	                   0	D:\The saved\Obsidian\quartz\
+	                   0	D:\The saved\Obsidian\quartz\.github\
+	                   1	D:\The saved\Obsidian\quartz\.github\workflows\
+	                   0	D:\The saved\Obsidian\Utilities\
+	                   0	D:\The saved\Obsidian\Utilities\Excalidraw\
+	                  26	D:\The saved\Obsidian\Utilities\Images\
+	                   6	D:\The saved\Obsidian\Utilities\Templates\
+	                   1	D:\The saved\Obsidian\Utilities\圖\
+
+-------------------------------------------------------------------------------
+
+                  總計       已複製        略過        不符        失敗        額外
+      目錄 :       105         0       105         0         0         0
+      檔案 :      1690       568      1122         0         0         0
+     位元組 :  604.89 m    3.28 m  601.60 m         0         0         0
+      時間 :   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+      速度 :           2,484,527 位元組/秒。
+      速度 :             142.166 MB/分。
+   已結束 : 2026年4月18日 下午 01:44:44
+
