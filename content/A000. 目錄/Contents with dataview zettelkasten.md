@@ -71,7 +71,14 @@ table
 from "Nodes"
 sort file.name asc
 ```
-1. [10.1126/science.281.5385.2013](https://doi.org/10.1126/science.281.5385.2013)
+
+```dataview
+table
+from "A012. Scholars"
+sort file.name asc
+```
+
+1.  [10.1126/science.281.5385.2013](https://doi.org/10.1126/science.281.5385.2013)
 2. [10.1002/1438-5171 (200112)2:4<261::AID-SIMO261>3.0. CO; 2-P]( https://doi.org/10.1002/1438-5171 (200112)2:4<261::AID-SIMO261>3.0. CO; 2-P)
 3. [10.1038/nbt927](https://doi.org/10.1038/nbt927)
 4. [10.1126/science.1077194](https://doi.org/10.1126/science.1077194)
