@@ -27,3 +27,5 @@ File folder: Literacy, literacies, multiliteracies
 - If the knowledge acquired through grammar correction is, or can be, *pseudoknowledge*, then teachers have additional reason to doubt the technique's value.
 - Lightbrown (1985) talked about *pseudoacquisition*－apparent success that turns out to be only apparent.
 - word recognition rather than comprehension ability is developed through wide reading.
+
+[[Critical Literacy 批判識能]]
