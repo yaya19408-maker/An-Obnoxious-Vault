@@ -31,7 +31,7 @@ sort file.name asc
 ```
 # **Library**
 ```dataviewjs
-dv.table(["封面","书名", "作者", "类型"], dv.pages("#reading")
+dv.table(["封面","書名", "作者", "類型"], dv.pages("#reading")
     .map(b => [("![](" + b.cover + ")"), b.aliases, b.file.link, b.author, b.genre]))
 ```
 
@@ -73,10 +73,11 @@ sort file.name asc
 ```
 
 ```dataview
-table
+table file.tags as "標籤", file.outlinks as "相關"
 from "A012. Scholars"
 sort file.name asc
 ```
+
 
 1.  [10.1126/science.281.5385.2013](https://doi.org/10.1126/science.281.5385.2013)
 2. [10.1002/1438-5171 (200112)2:4<261::AID-SIMO261>3.0. CO; 2-P]( https://doi.org/10.1002/1438-5171 (200112)2:4<261::AID-SIMO261>3.0. CO; 2-P)

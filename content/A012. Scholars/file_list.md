@@ -1,0 +1,588 @@
+# 資料夾檔案清單
+
+- A. R. Radcliffe-Brown (阿弗烈·芮克里夫-布朗).md
+- Aaron T. Beck (亞倫·貝克).md
+- Abraham Maslow (亞伯拉罕·馬斯洛).md
+- Aby Warburg (阿比·瓦爾堡).md
+- Achille Mbembe (阿奇里·姆貝貝).md
+- Adam Smith (亞當·斯密).md
+- Alain Badiou (巴迪歐).md
+- Alain Touraine (阿蘭·圖賴訥).md
+- Alan Kay (艾倫·凱).md
+- Alan Turing (艾倫·圖靈).md
+- Alaric Finch (阿拉里克·芬奇).md
+- Alasdair MacIntyre (阿拉斯代爾·麥金泰爾).md
+- Albert Bandura (阿爾波特·班杜拉).md
+- Albert Camus (阿爾貝·卡繆).md
+- Albert Einstein (阿爾伯特·愛因斯坦).md
+- Albert Ellis (阿爾伯特·艾利斯).md
+- Albert Schweitzer (阿爾伯特·史懷哲).md
+- Aldous Huxley (阿爾多斯·赫胥黎).md
+- Aleister Crowley (阿萊斯特·克勞利).md
+- Aleksei Nikolaevich Leontiev (阿列克謝·尼古拉耶維奇·列昂捷夫).md
+- Alex Karp (亞力克斯·卡普 ).md
+- Alexander Fleming (亞歷山大·弗萊明).md
+- Alexander Luria (亞歷山大·魯利亞).md
+- Alexander Wendt (亞歷山大·溫特).md
+- Alexandre Koyré (亞歷山大·夸黑).md
+- Alexis de Tocqueville (亞歷西斯·德·托克維爾).md
+- Alfred Adler (阿德勒).md
+- Alfred Korzybski (阿爾弗雷德·科爾日布斯基).md
+- Alfred North Whitehead (懷海德).md
+- Alfred Russel Wallace (阿爾弗雷德·羅素·華萊士).md
+- Alfred Wegener (阿爾弗雷德·韋格納).md
+- Algirdas Julien Greimas (阿爾吉爾達斯·朱利安·格雷馬斯).md
+- Amartya Sen (阿馬蒂亞·森).md
+- Amos Tversky (阿摩司·特沃斯基).md
+- Andrei Tarkovsky (安德烈·塔可夫斯基).md
+- Andrew Ng (吳恩達).md
+- Antoine Lavoisier (安托萬·拉瓦錫).md
+- Antonio Gramsci (葛蘭西).md
+- Archimedes (阿基米德).md
+- Aristotle (亞里斯多德).md
+- Arjun Appadurai (阿姜·阿帕杜萊).md
+- Arnold J. Toynbee (阿諾德·J·湯恩比).md
+- Arnold van Gennep (范熱內普).md
+- Arthur Schopenhauer (叔本華).md
+- Ashish Vaswani (Transformer) (阿希什·瓦斯瓦尼).md
+- August Kekulé (凱庫勒).md
+- Augusto Ponzio (龐齊奧).md
+- Avicenna (阿維森納).md
+- Axel Honneth (阿克塞爾·霍耐特).md
+- B. F. Skinner (B. F. 斯金納).md
+- Baruch de Spinoza (斯賓諾莎).md
+- Bell Hooks (貝爾·胡克斯).md
+- Benedict Anderson (班納迪克特·安德森).md
+- Benjamin Bloom (布魯姆).md
+- Benjamin Lee Whorf (班傑明·李·沃夫).md
+- Benoît Mandelbrot (伯努瓦·曼德布洛特).md
+- Benoît Paul Émile Clapeyron (埃米爾·克拉佩龍).md
+- Bernard Stiegler (伯納德·斯蒂格勒).md
+- Bernard Williams (伯納德·威廉士).md
+- Bernhard Riemann (波恩哈德·黎曼).md
+- Bertolt Brecht (貝托爾特·布萊希特).md
+- Bertrand Russell (羅素).md
+- Blaise Pascal (帕斯卡).md
+- Bonny Norton (邦妮·諾頓).md
+- Bronisław Malinowski (布羅尼斯拉夫·馬林諾夫斯基).md
+- Bruno Latour (布魯諾·拉圖爾).md
+- Byung-Chul Han (韓炳哲).md
+- C.S. Lewis (C.S.路易斯).md
+- CCRU (控制論研究組).md
+- Carey Jewitt (凱瑞·朱伊特).md
+- Carl Friedrich Gauss (卡爾·弗里德里希·高斯).md
+- Carl Jung (榮格).md
+- Carl Menger (卡爾·門格爾).md
+- Carl Rogers (卡爾·羅傑斯).md
+- Carl Rogers (卡爾·羅哲斯).md
+- Carl Sagan (卡爾·薩根).md
+- Carl Schmitt (卡爾·施密特).md
+- Carl von Clausewitz (卡爾·馮·克勞塞維茲).md
+- Carlo Ginzburg (卡洛·金茲伯格).md
+- Carlo Ginzburg (卡洛·金茲堡).md
+- Carol Chomsky (卡羅爾·喬姆斯基).md
+- Chantal Mouffe (香塔·墨菲).md
+- Charles Darwin (查爾斯·達爾文).md
+- Charles Horton Cooley (查爾斯·霍頓·庫利).md
+- Charles Sanders Peirce (查爾斯·桑德斯·皮爾士).md
+- Charles Taylor (查爾斯·泰勒).md
+- Charles Tilly (查爾斯·蒂利).md
+- Christopher Alexander (克里斯托弗·亞歷山大).md
+- Claude Levi-Strauss (李維-史陀).md
+- Claude Shannon (克勞德·夏農).md
+- Claude-Louis Navier (克勞德-路易·納維).md
+- Cleanth Brooks (克林斯·布魯克斯).md
+- Clifford Geertz (克利福德・紀爾茲).md
+- Confucius (孔子).md
+- Constantin Stanislavski (康斯坦丁·斯坦尼斯拉夫斯基).md
+- Cope & Kalantzis (科普與卡蘭茲).md
+- Daniel Dennett (丹尼爾·丹尼特).md
+- Daniel Goleman (丹尼爾·高曼).md
+- Daniel Kahneman (丹尼爾·康納曼).md
+- Dante Alighieri (但丁).md
+- Daron Acemoglu (戴倫·艾塞默魯).md
+- David Chalmers (大衛·查爾默斯).md
+- David Graeber (大衛·格雷伯).md
+- David Harvey (大衛·哈維).md
+- David Hilbert (大衛·希爾伯特).md
+- David Hume (休謨).md
+- David Ricardo (大衛·李嘉圖).md
+- David Wood (大衛·伍德) (Vygotskian).md
+- David Wood (大衛·伍德) (phenomenology).md
+- Democritus (德謨克利特).md
+- Derek Parfit (德里克·帕菲特).md
+- Dianetics 戴尼提.md
+- Dietrich Bonhoeffer (潘霍華).md
+- Dmitri Mendeleev (德米特里·門得列夫).md
+- Donald Knuth (高德納).md
+- Donald Norman (唐納德·諾曼).md
+- Donald Winnicott (唐納德·溫尼科特).md
+- Donna Haraway (唐娜·哈拉維).md
+- Doreen Massey (多琳·麥西).md
+- Douglas Hofstadter (道格拉斯·霍夫施塔特).md
+- Duns Scotus (司各脫).md
+- E. P. Thompson (E. P. 湯普森).md
+- E.H. Gombrich (E.H. 貢布里希).md
+- Edith Stein (伊迪絲·史坦).md
+- Edith Stein (伊迪絲·施泰因).md
+- Edmund Burke (埃德蒙·柏克).md
+- Edmund Husserl (胡塞爾).md
+- Edmund Leach (埃德蒙·利奇).md
+- Edsger W. Dijkstra (艾茲格·迪傑斯特拉).md
+- Edward Gibbon (愛德華·吉本).md
+- Edward Lorenz (愛德華·羅倫茲).md
+- Edward O. Wilson (愛德華·威爾森).md
+- Edward Said (愛德華·薩伊德).md
+- Edward Sapir (愛德華·薩丕爾).md
+- Edward Soja (愛德華·索雅).md
+- Edward T. Hall (愛德華·霍爾).md
+- Edward Thorndike (愛德華·桑代克).md
+- Eleanor Rosch (埃莉諾·羅施).md
+- Elinor Ostrom (埃莉諾·奧斯特羅姆).md
+- Emmanuel Lévinas (列維納斯).md
+- Emmengard_s Plural Rings.md
+- Enrico Fermi (恩里科·費米).md
+- Epictetus (愛比克泰德).md
+- Epicurus (伊比鳩魯).md
+- Eric Dietrich (艾瑞克·迪特里希).md
+- Eric Erikson (艾瑞克森).md
+- Erich Auerbach (埃里希·奧爾巴赫).md
+- Erich Fromm (弗洛姆).md
+- Erik Olin Wright (埃里克·奧林·賴特).md
+- Ernst Bloch (恩斯特·布洛赫).md
+- Ernst Cassirer (恩斯特·卡西勒).md
+- Ernst Engel (恩斯特·恩格爾).md
+- Erving Goffman (歐文·高夫曼).md
+- Erwin Panofsky (歐文·潘諾夫斯基).md
+- Erwin Schrödinger (埃爾溫·薛丁格).md
+- Esmond Ray Long - A history of pathology 病理學史.md
+- Ethan Nowak (伊桑·諾瓦克).md
+- Euclid (歐幾里得).md
+- Eve Kosofsky Sedgwick (伊芙·塞吉維克).md
+- Eve Sweetser (伊芙·史威瑟).md
+- F. de Saussure (索緒爾).md
+- Felix Hausdorff (費利克斯·豪斯多夫).md
+- Ferdinand Tönnies (斐迪南·滕尼斯).md
+- Fernand Braudel (費爾南·布勞岱爾).md
+- Ferruccio Rossi-Landi (費魯喬·羅西-蘭迪).md
+- Francis Crick (法蘭西斯·克里克).md
+- Francis Fukuyama (法蘭西斯·福山).md
+- Francisco Varela (弗朗西斯科·瓦雷拉).md
+- Frank Lloyd Wright (法蘭克·洛伊·萊特).md
+- Frankfurt School (法蘭克福學派).md
+- Frantz Fanon (法農).md
+- Franz Boas (法蘭茲·鮑亞士).md
+- Franz Kafka (卡夫卡).md
+- Frederic Wakeman Jr. (魏斐德).md
+- Fredric Jameson (詹明信).md
+- Friedrich Engels (恩格斯).md
+- Friedrich Hayek (哈耶克).md
+- Friedrich Kittler (基特勒).md
+- Friedrich Nietzsche (尼采).md
+- Friedrich Pollock (弗里德里希·波洛克).md
+- Fyodor Dostoevsky (杜斯妥也夫斯基).md
+- Félix Guattari (瓜塔里).md
+- G.C. Spivak (史碧娃克).md
+- G.I. Gurdjieff (葛吉夫).md
+- G.W.F. Hegel (黑格爾).md
+- Gail Ross (蓋兒·羅斯).md
+- Galileo Galilei (伽利略·伽利萊).md
+- Gaston Bachelard (加斯東·巴舍拉).md
+- Gayle Rubin (蓋爾·魯賓).md
+- Geoffrey Hinton (傑弗里·辛頓).md
+- Georg Simmel (齊美爾).md
+- George Gabriel Stokes (喬治·加布里埃爾·斯托克斯).md
+- George Lakoff (喬治·萊考夫).md
+- George Orwell (喬治·歐威爾).md
+- George Ritzer (喬治·瑞澤).md
+- George Siemens (喬治·西門子).md
+- Georges Bataille (巴塔耶).md
+- Georges Canguilhem (喬治·康吉萊姆).md
+- Georges Duby (喬治·杜比).md
+- Gerard Egan (傑拉德·伊根).md
+- Gerardus van der Leeuw (格拉杜斯·范·德·勒烏).md
+- Gilbert Ryle (吉爾伯特·賴爾).md
+- Gilbert Simondon (吉爾貝·西蒙棟).md
+- Gilles Deleuze (德勒茲).md
+- Giorgio Agamben (阿岡本).md
+- Gottfried Wilhelm Leibniz (萊布尼茲).md
+- Gottlob Frege (弗雷格).md
+- Gottlob Frege (戈特洛布·弗雷格).md
+- Grace Hopper (葛麗絲·霍普).md
+- Gregor Mendel (孟德爾).md
+- Gregory Bateson (葛瑞格里·貝特森).md
+- Grigori Perelman (格里戈里·佩雷爾曼).md
+- Groupe µ (繆小組).md
+- Gunther Kress (岡瑟·克瑞斯).md
+- Guy Debord (居伊·德波).md
+- György Lukács (盧卡奇).md
+- H. L. A. Hart (H. L. A. 哈特).md
+- H. P. Grice (保羅·格萊斯).md
+- H.P. Blavatsky (布拉瓦茨基夫人).md
+- Hannah Arendt (漢娜·鄂蘭).md
+- Hans Rosling (漢斯·羅斯林).md
+- Hans-Georg Gadamer (漢斯-格奧爾格·伽達默爾).md
+- Harlan Ellison (哈蘭·艾里森).md
+- Harold Bloom (哈羅德·布魯姆).md
+- Harold Innis (哈羅德·伊尼斯).md
+- Hartmut Rosa (哈特穆特·羅薩).md
+- Hayden White (海登·懷特).md
+- Heinrich Wölfflin (海因里希·沃夫林).md
+- Heinz von Foerster (海因茨·馮·佛爾斯特).md
+- Henri Bergson (柏格森).md
+- Henri Lefebvre (列斐伏爾).md
+- Henri Poincaré (昂利·龐加萊).md
+- Henry Giroux (季侯).md
+- Henry Jenkins (亨利·詹金斯).md
+- Heraclitus (赫拉克利特).md
+- Herbert Blumer (赫伯特·布魯默).md
+- Herbert H. Clark (赫伯特·克拉克).md
+- Herbert Marcuse (馬庫色).md
+- Herbert Spencer (赫伯特·史賓賽).md
+- Hermes Trismegistus (赫密斯·特里斯墨吉斯忒斯).md
+- Herodotus (希羅多德).md
+- Hesiod (赫西俄德).md
+- Hilary Putnam (希拉蕊·普特南).md
+- Homer (荷馬).md
+- Howard Gardner (霍華德·加德納).md
+- Howard S. Becker (霍華德·S·貝克爾).md
+- Hélène Cixous (埃萊娜·西蘇).md
+- I. M. Pei (貝聿銘).md
+- Ian Bogost (伊恩·博格斯特).md
+- Ian Hacking (伊恩·哈金).md
+- Ibn Khaldun (伊本·赫勒敦).md
+- Ilya Prigogine (伊利亞·普里高津).md
+- Immanuel Kant (康德).md
+- Imre Lakatos (伊姆雷·拉卡托斯).md
+- Isaac Newton (艾薩克·牛頓).md
+- Italo Calvino (伊塔羅·卡爾維諾).md
+- Ivan Pavlov (帕甫洛夫).md
+- Ivan Sechenov (謝切諾夫).md
+- J. L. Austin (J. L. 奧斯丁).md
+- J. R. R. Tolkien (J.R.R. 托爾金).md
+- J. Robert Oppenheimer (羅伯特·奧本海默).md
+- Jacques Derrida (德希達).md
+- Jacques Lacan (拉康).md
+- Jacques Le Goff (雅克·勒高夫).md
+- Jacques Rancière (洪席耶).md
+- James C. Scott (詹姆斯·C·斯科特).md
+- James Clerk Maxwell (詹姆斯·克拉克·麥克斯韋).md
+- James Joyce (詹姆斯·喬伊斯).md
+- James Lantolf (蘭托夫).md
+- James Marcia (詹姆斯·馬西亞).md
+- James Paul Gee (詹姆斯·保羅·吉).md
+- James Watson (詹姆斯·華生).md
+- Jan Blommaert (楊·布洛馬特).md
+- Jane Austen (簡·奧斯汀).md
+- Jane Jacobs (珍·雅各).md
+- Jared Diamond (賈德·戴蒙).md
+- Jean Baudrillard (尚·布希亞).md
+- Jean Berko Gleason (簡·伯科·格里森).md
+- Jean Piaget (皮亞傑).md
+- Jean-Baptiste Say (薩伊).md
+- Jean-François Lyotard (李歐塔).md
+- Jean-Jacques Rousseau (盧梭).md
+- Jean-Paul Sartre (沙特).md
+- Jeremy Bentham (邊沁).md
+- Jerome Bruner (布魯納).md
+- Jesper Hoffmeyer (傑斯普·霍夫邁爾).md
+- Johann Sebastian Bach (約翰·塞巴斯蒂安·巴赫).md
+- Johannes Kepler (約翰內斯·克卜勒).md
+- John Berger (約翰·伯格).md
+- John Bowlby (約翰·鮑比).md
+- John Cage (約翰·凱吉).md
+- John Calvin (約翰·加爾文).md
+- John Dewey (約翰·杜威).md
+- John Keynes (凱因斯).md
+- John King Fairbank (費正清).md
+- John Koenig (約翰·科尼格).md
+- John Locke (約翰·洛克).md
+- John McCarthy (約翰·麥卡錫).md
+- John Mearsheimer (約翰·米爾斯海默).md
+- John Nash (約翰·納什).md
+- John Searle (約翰·瑟爾).md
+- John Sinclair (約翰·辛克萊爾).md
+- John Sweller (約翰斯威勒).md
+- John von Neumann (約翰·馮·諾伊曼).md
+- Jonathan Spence (史景遷).md
+- Jordan Peterson (喬丹·彼得森).md
+- Jorge Luis Borges (豪爾赫·路易斯·波赫士).md
+- Joseph Campbell (坎伯).md
+- Joseph Nye (約瑟夫·奈).md
+- Joseph Schumpeter (約瑟夫·熊彼特).md
+- Joseph Stiglitz (約瑟夫·史迪格里茲).md
+- Joseph-Louis Lagrange (約瑟夫·拉格朗日).md
+- Judea Pearl (朱迪亞·珀爾).md
+- Judith Butler (茱蒂絲·巴特勒).md
+- Julia Kristeva (克莉絲蒂娃).md
+- Jürgen Habermas (哈伯瑪斯).md
+- Karen Yeung.md
+- Karl Barth (卡爾·巴特).md
+- Karl Jaspers (卡爾·雅斯佩斯).md
+- Karl Marx (馬克思).md
+- Karl Polanyi (卡爾·波蘭尼).md
+- Karl Popper (卡爾·波普爾).md
+- Kenneth Burke (肯尼斯·柏克).md
+- Kenneth Pomeranz (彭慕然).md
+- Kenneth Scott Latourette (賴德烈).md
+- Kenneth Waltz (肯尼思·華茲).md
+- Kenneth Waltz (肯尼斯·華爾茲).md
+- Kenneth Waltz (肯尼斯·華茲).md
+- Kurt Gödel (庫爾特·哥德爾).md
+- Kurt Lewin (庫爾特·勒溫).md
+- Laozi (老子).md
+- Lawrence Kohlberg (勞倫斯·柯爾伯格).md
+- Le Corbusier (勒·柯比意).md
+- Leo Strauss (列奧·施特勞斯).md
+- Leon Festinger (利昂·費斯廷格).md
+- Leonard Talmy (倫納德·塔爾米).md
+- Leonardo da Vinci (李奧納多·達文西).md
+- Leonhard Euler (萊昂哈德·歐拉).md
+- Leopold von Ranke (利奧波德·馮·蘭克).md
+- Lev Vygotsky (維高斯基).md
+- Lewis Mumford (路易斯·芒福德).md
+- Lewison et al. (劉易森等人).md
+- Lila Gleitman (萊拉·格萊特曼).md
+- Lim Fei Victor (林飛偉).md
+- Linus Pauling (萊納斯·鮑林).md
+- Louis Althusser (阿圖塞).md
+- Louis Hjelmslev (路易·葉爾姆斯列夫).md
+- Louis Hjelmslev (路易斯·葉爾姆斯列夫).md
+- Louis Pasteur (路易·巴斯德).md
+- Luce Irigaray (呂斯·伊瑞葛來).md
+- Lucien Febvre (呂西安·費弗爾).md
+- Ludwig Feuerbach (費爾巴哈).md
+- Ludwig Prandtl (路德維希·普朗特).md
+- Ludwig Wittgenstein (維根斯坦).md
+- Ludwig von Bertalanffy (路德維希·馮·貝塔郎非).md
+- Ludwig von Mises (路德維希·馮·米塞斯).md
+- Luke & Freebody (盧克與弗里博迪).md
+- Lynn Margulis (琳·馬古利斯).md
+- Lynn Thorndike (林恩·桑代克).md
+- M. A. K. Halliday (韓禮德).md
+- M. C. Escher (艾雪).md
+- Manuel Castells (曼紐·柯司特).md
+- Manuel DeLanda (曼紐爾·德蘭達).md
+- Marc Augé (馬克·歐傑).md
+- Marc Bloch (馬克·布洛克).md
+- Marcel Mauss (馬塞爾·莫斯).md
+- Marcus Aurelius (馬可·奧理略).md
+- Marcus Tullius Cicero (西塞羅).md
+- Maria Montessori (蒙特梭利).md
+- Marie Curie (瑪麗·居禮).md
+- Mark Fisher (馬克·費雪).md
+- Mark Forsyth (馬克·福賽斯).md
+- Mark Granovetter (馬克·格蘭諾維特).md
+- Mark Johnson (馬克·詹森).md
+- Marlene Dixon (瑪琳·迪克森).md
+- Marshall McLuhan (麥克魯漢).md
+- Marshall Sahlins (馬歇爾·薩林斯).md
+- Martha Nussbaum (瑪莎·努斯鮑姆).md
+- Martin Heidegger (海德格).md
+- Martin Luther (馬丁·路德).md
+- Marvin Minsky (馬文·閔斯基).md
+- Mary Ainsworth (瑪莉·安斯沃斯).md
+- Mary Beard (瑪麗·畢爾德).md
+- Mary Douglas (瑪莉·道格拉斯).md
+- Maurice Halbwachs (莫里斯·哈布瓦赫).md
+- Max Horkheimer (霍克海默).md
+- Max Planck (馬克斯·普朗克).md
+- Max Scheler (馬克斯·舍勒).md
+- Max Stirner (麥克斯·施蒂納).md
+- Max Weber (馬克斯·韋伯).md
+- Meister Eckhart (麥斯特·艾克哈特).md
+- Melanie Klein (梅蘭妮·克萊因).md
+- Merleau-Ponty (梅洛-龐蒂).md
+- Merrill Garrett (梅里爾·加勒特).md
+- Michael Apple (麥克·艾波).md
+- Michael Berzonsky (邁克爾·貝爾宗斯基).md
+- Michael Faraday (麥可·法拉第).md
+- Michael Polanyi (麥可·波蘭尼).md
+- Michael Porter (麥可·波特).md
+- Michael Sandel (邁可·桑德爾).md
+- Michael Silverstein (邁克爾·西爾弗斯坦).md
+- Michael Sugrue (邁克爾·蘇格魯).md
+- Michael Tomasello (邁克爾·托馬塞洛).md
+- Michael Walzer (邁克爾·沃爾澤).md
+- Michel Foucault (米歇爾·傅柯).md
+- Michel Henry (米歇爾·亨利).md
+- Michel Serres (米歇爾·賽荷).md
+- Michel de Certeau (米歇爾·德·塞托).md
+- Mihaly Csikszentmihalyi (米哈里·契克森米哈伊).md
+- Mikhail Bakhtin (巴赫金).md
+- Milton Friedman (米爾頓·佛利民).md
+- Milton Mayeroff (密爾頓·梅耶羅夫).md
+- Mircea Eliade (伊利亞德).md
+- Monique Wittig (莫尼克·維蒂格).md
+- Montesquieu (孟德斯鳩).md
+- Muzafer Sherif (穆扎費爾·謝里夫).md
+- Nancy Fraser (南希·弗雷澤).md
+- Nassim Nicholas Taleb (納西姆·尼可拉斯·塔雷伯).md
+- Natalie Zemon Davis (娜塔莉·澤蒙·戴維斯).md
+- Neil Postman (尼爾·波茲曼).md
+- Nick Land (尼克·蘭德).md
+- Nicolaus Copernicus (尼古拉·哥白尼).md
+- Nicos Poulantzas (尼科斯·普蘭查斯).md
+- Niels Bohr (尼爾斯·波耳).md
+- Noam Chomsky (諾姆·喬姆斯基).md
+- Norbert Elias (諾伯特·伊里亞斯).md
+- Norbert Wiener (諾伯特·維納).md
+- Norman Fairclough (諾曼·費爾克拉夫).md
+- Northrop Frye (諾斯洛普·佛萊).md
+- Oscar Wilde (王爾德).md
+- Oswald Spengler (奧斯瓦爾德·斯賓格勒).md
+- Otis Dudley Duncan (奧蒂斯·達德利·鄧肯).md
+- Padmasambhava (蓮花生大士).md
+- Paracelsus (帕拉塞爾蘇斯).md
+- Parmenides (巴門尼德).md
+- Pascual-Leone (帕斯夸爾-萊昂內).md
+- Paul B. Preciado (保羅·B·普雷西亞多).md
+- Paul Dirac (保羅·狄拉克).md
+- Paul Feyerabend (保羅·費耶阿本德).md
+- Paul Krugman (保羅·克魯曼).md
+- Paul Mangre (保羅·芒格雷).md
+- Paul Ricœur (保羅·利科).md
+- Paul Samuelson (保羅·薩繆爾森).md
+- Paul Tillich (田立克).md
+- Paul Virilio (保羅·維希留).md
+- Paulo Freire (保羅·弗雷勒).md
+- Peter De Costa (彼得·德科斯塔).md
+- Peter L. Berger (彼得·柏格).md
+- Peter McLaren (彼得·麥拉倫).md
+- Peter Singer (彼得·辛格).md
+- Peter Sloterdijk (彼得·斯勞特戴克).md
+- Peter Sloterdijk (彼得·斯洛特戴克).md
+- Philip A. Kuhn (孔飛力).md
+- Philip Zimbardo (菲利普·津巴多).md
+- Pierre Bourdieu (皮埃爾·布迪厄).md
+- Pierre Clastres (皮埃尔·克拉斯特).md
+- Pierre Teilhard de Chardin (德日進).md
+- Pierre-Simon Laplace (皮耶-西蒙·拉普拉斯).md
+- Plato (柏拉圖).md
+- Pythagoras (畢達哥拉斯).md
+- Quentin Meillassoux (昆汀·梅亞蘇).md
+- Quentin Skinner (昆汀·斯金納).md
+- Rachel Carson (瑞秋·卡森).md
+- Ray Bradbury (雷·布萊伯利).md
+- Ray Jackendoff (雷·傑肯道夫).md
+- Raya Dunayevskaya (拉亞·杜納耶夫斯卡婭).md
+- Raymond Aron (雷蒙·阿宏).md
+- Rem Koolhaas (雷姆·庫哈斯).md
+- René Descartes (笛卡兒).md
+- René Girard (勒內·吉拉爾).md
+- Richard Dawkins (理查·道金斯).md
+- Richard Feynman (理查·費曼).md
+- Richard Rorty (理查·羅蒂).md
+- Richard Sennett (理查·桑內特).md
+- Richard Thaler (理查·塞勒).md
+- Robert Boyle (羅伯特·波以耳).md
+- Robert E. Park (羅伯特·E·派克).md
+- Robert K. Merton (羅伯特·金·莫頓).md
+- Robert Keohane (羅伯特·基歐漢).md
+- Robert Nozick (羅伯特·諾齊克).md
+- Robert Selman (羅伯特·塞爾曼).md
+- Roger Penrose (羅傑·潘洛斯).md
+- Roger Weissberg (CASEL) (羅傑·魏斯伯格).md
+- Roland Barthes (羅蘭·巴特).md
+- Roman Jakobson (羅曼·雅各布森).md
+- Ron Darvin (羅恩·達爾文).md
+- Ronald Dworkin (羅納德·德沃金).md
+- Ronald Langacker (羅納德·蘭加克).md
+- Rosalind Franklin (羅莎琳·富蘭克林).md
+- Rosi Braidotti (羅西·布拉伊多蒂).md
+- Rousas John Rushdoony (魯薩斯·約翰·魯斯杜尼).md
+- Rudolf Carnap (魯道夫·卡爾納普).md
+- Rudolf Clausius (魯道夫·克勞修斯).md
+- Ruth Benedict (露絲·潘乃德).md
+- Régis Debray (雷吉斯·德布雷).md
+- Sam Altman (山姆·阿特曼).md
+- Sam Harris (薩姆·哈里斯).md
+- Samuel Beckett (薩繆爾·貝克特).md
+- Samuel P. Huntington (塞繆爾·P·亨廷頓).md
+- Sara Ahmed (薩拉·阿赫邁德).md
+- Saskia Sassen (薩斯基婭·薩森).md
+- Saul Kripke (索爾·克里普克).md
+- Seneca (塞內卡).md
+- Sherry Turkle (雪莉·特克爾).md
+- Shoshana Zuboff (休珊娜·祖博夫).md
+- Sigmund Freud (佛洛伊德).md
+- Sima Qian (司馬遷).md
+- Simon Baron-Cohen (西蒙·拜倫-柯恩).md
+- Simone de Beauvoir (西蒙·德·波娃).md
+- Simone de Beauvoir (西蒙·波娃).md
+- Sir Demis Hassabis (傑米斯·哈薩比斯 ).md
+- Slavoj Žižek (斯拉沃熱·齊澤克).md
+- Socrates (蘇格拉底).md
+- Solomon Asch (所羅門·阿希).md
+- St. Augustine (奧古斯丁).md
+- Stanislav Grof (斯坦尼斯拉夫·格羅夫).md
+- Stanley Fish (斯坦利·費希).md
+- Stanley Milgram (斯坦利·米爾格拉姆).md
+- Stella Ting-Toomey (丁靜華).md
+- Stephen Downes (史蒂芬·唐斯).md
+- Stephen Greenblatt (史蒂芬·格林布拉特).md
+- Steven Krashen (史蒂芬·克拉申).md
+- Steven Pinker (史蒂芬·平克).md
+- Strong Programme (強綱領).md
+- Stuart Hall (斯圖亞特·霍爾).md
+- Sun Tzu (孫子).md
+- Susan Carey (蘇珊·凱里).md
+- Susan Sontag (蘇珊·桑塔格).md
+- Søren Kierkegaard (祁克果；齊克果).md
+- T. S. Eliot (T.S. 艾略特).md
+- Tacitus (塔西佗).md
+- Terry Eagleton (泰瑞·伊格頓).md
+- Theo van Leeuwen (提奧·範·李文).md
+- Theodor Adorno (阿多諾).md
+- Thomas A. Sebeok (托馬斯·塞比奧克).md
+- Thomas Aquinas (阿奎那).md
+- Thomas More (托馬斯·摩爾).md
+- Thomas Nagel (湯瑪斯·內格爾).md
+- Thomas Paine (托馬斯·潘恩).md
+- Thomas Piketty (托馬斯·皮凱提).md
+- Thomas Sebeok (托馬斯·塞比奧克).md
+- Thorstein Veblen (托斯丹·韋伯倫).md
+- Thucydides (修昔底德).md
+- Tim Berners-Lee (蒂姆·柏納-李).md
+- Tim Ingold (蒂姆·英戈爾德).md
+- Ulrich Beck (烏爾利希·貝克).md
+- Umberto Eco (翁貝托·艾可).md
+- Umberto Maturana (溫貝托·馬圖拉納).md
+- Urie Bronfenbrenner (尤里·布朗芬布倫納).md
+- V. S. Ramachandran (維萊亞努爾·拉瑪錢德朗).md
+- Valentin Voloshinov (瓦倫丁·沃洛希諾夫).md
+- Victor Turner (維克多·特納).md
+- Victoria Welby (維多利亞·韋爾比).md
+- Viktor Shklovsky (維克多·什克洛夫斯基).md
+- Vilfredo Pareto (維爾弗雷多·帕累托).md
+- Vilém Flusser (維蘭·傅拉瑟).md
+- Virgil (維吉爾).md
+- Virginia Woolf (維吉尼亞·吳爾芙).md
+- Virtuality 虛擬性.md
+- Vladimir Lenin (列寧).md
+- Vladimir Propp (弗拉基米爾·普羅普).md
+- Voltaire (伏爾泰).md
+- W. E. B. Du Bois (W·E·B·杜波依斯).md
+- W.V.O. Quine (蒯因).md
+- Walter Gropius (華特·葛羅培斯).md
+- Walter Lippmann (沃爾特·李普曼).md
+- Walter Mignolo (華特·米尼奧羅).md
+- Walter Ong (華特·翁).md
+- Wassily Kandinsky (瓦西里·康定斯基).md
+- Wendy Brown (溫蒂·布朗).md
+- Werner Heisenberg (維爾納·海森堡).md
+- Wilhelm Wundt (威廉·馮特).md
+- Willem Levelt (威廉·勒菲爾特).md
+- William Gibson (威廉·吉布森).md
+- William Labov (威廉·拉波夫).md
+- William Shakespeare (威廉·莎士比亞).md
+- William of Ockham (奧坎).md
+- Yann LeCun (楊立昆).md
+- Yoshua Bengio (約書亞·班吉歐).md
+- Yrjö Engeström (伊爾約·恩格斯托姆).md
+- Yuk Hui (許煜).md
+- Yuri Lotman (尤里·洛特曼).md
+- Zeno of Citium (季蒂昂的芝諾).md
+- Zoltán Dörnyei (佐爾坦·多爾尼耶).md
+- Émile Durkheim (涂爾幹).md
+- Étienne Bonnot de Condillac (艾蒂安·博諾·德·孔狄亞克).md

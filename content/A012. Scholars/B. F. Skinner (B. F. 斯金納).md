@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - scholars
 aliases:
-relevance: "[[Ivan Pavlov (帕甫洛夫)_1]]"
+relevance: "[[Ivan Pavlov (帕甫洛夫)]]"
 relevance 2:
 disambiguation:
 banner:
