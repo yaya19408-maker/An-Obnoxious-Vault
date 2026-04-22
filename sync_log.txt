@@ -50962,3 +50962,147 @@ Exc 目錄 : .obsidian
       時間 :   0:00:00   0:00:00                       0:00:00   0:00:00
    已結束 : 2026年4月22日 下午 09:44:42
 
+[main 71aed643] Auto_Sync
+ 1 file changed, 144 insertions(+)
+To https://github.com/yaya19408-maker/An-Obnoxious-Vault.git
+   260cde81..71aed643  main -> main
+[2026/04/22 週三 21:44:45.67] Sync Finished 
+---------------------------------------- 
+[2026/04/22 週三 22:44:40.59] Sync Started 
+From https://github.com/yaya19408-maker/An-Obnoxious-Vault
+ * branch              main       -> FETCH_HEAD
+error: unable to unlink old 'sync_log.txt': Invalid argument
+fatal: Could not reset index file to revision 'origin/main'.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  已啟動 : 2026年4月22日 下午 10:44:42
+    來源 : D:\The saved\Obsidian\
+  目的地 : D:\The saved\quartz\content\
+
+    檔案 : *.*
+	    
+Exc 檔案 : pendingSync-gdrive-plugin
+	    *.zip
+	    *.rar
+	    
+Exc 目錄 : .obsidian
+	    .trash
+	    .makemd
+	    .smart-env
+	    .space
+	    
+    選項 : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                   8	D:\The saved\Obsidian\
+	                  12	D:\The saved\Obsidian\A000. 目錄\
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\
+	                   0	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\
+	                  30	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\動作\
+	                  11	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\
+	                   7	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\主客\
+	                  35	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\屬性\元素\
+	                   2	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\日夜\
+	                   1	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\字根\罕見\
+	                  33	D:\The saved\Obsidian\A001. 字根與語言\Affixes 詞綴\醫學詞綴 Medical Affixes\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\地球生成\
+	                  57	D:\The saved\Obsidian\A002. 自然與生物\地球生成\Visual Book of Paleoorganism\
+	                   2	D:\The saved\Obsidian\A002. 自然與生物\岩石 Petrology\
+	                   0	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\
+	                   4	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\動物 Zoology\
+	                  19	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\植物 Botany\
+	                  48	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\植物 Botany\樹木 Dendrology\
+	                  24	D:\The saved\Obsidian\A002. 自然與生物\植物及動物\生物 Biology\
+	                  89	D:\The saved\Obsidian\A002. 自然與生物\物理與化學 Physics and Chemistry\
+	                   9	D:\The saved\Obsidian\A003. 醫學與疾病\
+	                   1	D:\The saved\Obsidian\A003. 醫學與疾病\保健\
+	                  11	D:\The saved\Obsidian\A003. 醫學與疾病\現象\
+	                  23	D:\The saved\Obsidian\A003. 醫學與疾病\現象\呼吸 Breathing\
+	                   1	D:\The saved\Obsidian\A003. 醫學與疾病\現象\睡眠 Sleeping\
+	                   5	D:\The saved\Obsidian\A003. 醫學與疾病\現象\老化 Aging\
+	                  19	D:\The saved\Obsidian\A003. 醫學與疾病\疾病\
+	                   2	D:\The saved\Obsidian\A003. 醫學與疾病\疾病\Contents.md_Attachments\
+	                   6	D:\The saved\Obsidian\A003. 醫學與疾病\藥物\
+	                  22	D:\The saved\Obsidian\A003. 醫學與疾病\表觀遺傳學\
+	                  11	D:\The saved\Obsidian\A003. 醫學與疾病\解剖\
+	                  18	D:\The saved\Obsidian\A004. 筆記與讀物\
+	                   6	D:\The saved\Obsidian\A005. 多模態文獻\
+	                   2	D:\The saved\Obsidian\A005. 多模態文獻\Literacy, literacies, multiliteracies\
+	                  47	D:\The saved\Obsidian\A005. 多模態文獻\Literature\
+	                  12	D:\The saved\Obsidian\A005. 多模態文獻\Multimodal instruction\
+	                   3	D:\The saved\Obsidian\A005. 多模態文獻\Perception\
+	                  37	D:\The saved\Obsidian\A006. PDF與文檔\
+	                   9	D:\The saved\Obsidian\A007. 23年末的日記\
+	                   0	D:\The saved\Obsidian\A008. 心理學相關\
+	                   7	D:\The saved\Obsidian\A008. 心理學相關\A008-0. 心理學分支學科\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-1. 黑暗三角\
+	                   2	D:\The saved\Obsidian\A008. 心理學相關\A008-2. 核美學\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-3. 情結\
+	                   4	D:\The saved\Obsidian\A008. 心理學相關\A008-4. 效應\
+	                   8	D:\The saved\Obsidian\A008. 心理學相關\A008-5. 創傷\
+	                   2	D:\The saved\Obsidian\A008. 心理學相關\A008-6. 恐懼\
+	                   3	D:\The saved\Obsidian\A008. 心理學相關\A008-7. 格式塔\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-8. 記憶\
+	                   1	D:\The saved\Obsidian\A008. 心理學相關\A008-9. 同理心\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\信仰 Religion\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\偽科學和陰謀論 Pseudoscience and Conspiracy\
+	                  19	D:\The saved\Obsidian\A009. 學科分類\哲學 Philosophy\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\地理 Geography\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\拓樸學 Topology\
+	                   8	D:\The saved\Obsidian\A009. 學科分類\數學與幾何學 Mathematics and Geometry\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\歷史 History\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\法律 Law, 法學 Jurisprudence\
+	                   6	D:\The saved\Obsidian\A009. 學科分類\社會學 Sociology\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\神學 theology\
+	                   4	D:\The saved\Obsidian\A009. 學科分類\符號學 Semiotics\
+	                  20	D:\The saved\Obsidian\A009. 學科分類\細胞\
+	                   4	D:\The saved\Obsidian\A009. 學科分類\美術 Aesthetics\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\認知科學、神經科學、學習方法 Cognitive science, Neuroscience, Learning methods\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\認知科學、神經科學、學習方法 Cognitive science, Neuroscience, Learning methods\論 - 論證、辯論、論說、論據\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\修辭學 Rhetoric\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\敘事學 Narratology\
+	                   3	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\書寫系統 Writing System, -graphy\
+	                   2	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\翻譯 Translatology\
+	                   5	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\詩學與概念 Poetics & Concepts\
+	                  14	D:\The saved\Obsidian\A009. 學科分類\語言學 Linguistics\語言 Language\
+	                   4	D:\The saved\Obsidian\A009. 學科分類\資訊 Informatics\
+	                   1	D:\The saved\Obsidian\A009. 學科分類\音樂 Music\
+	                  14	D:\The saved\Obsidian\A010. 雜項與觀察\
+	                   0	D:\The saved\Obsidian\A011. 單字範疇及同義字\
+	                  15	D:\The saved\Obsidian\A011. 單字範疇及同義字\001. 政治類\
+	                   1	D:\The saved\Obsidian\A011. 單字範疇及同義字\002. 化學類\
+	                   1	D:\The saved\Obsidian\A011. 單字範疇及同義字\動詞\
+	                 586	D:\The saved\Obsidian\A012. Scholars\
+	                   0	D:\The saved\Obsidian\A013. Agent SKills\
+	                   1	D:\The saved\Obsidian\A013. Agent SKills\Xi Shi Historical Thinking Agent\
+	                   4	D:\The saved\Obsidian\A013. Agent SKills\Xi Shi Role-Play Historical Agent\
+	                   0	D:\The saved\Obsidian\Atlas\
+	                   0	D:\The saved\Obsidian\Atlas\Special\
+	                   2	D:\The saved\Obsidian\Atlas\Special\Excalidraw\
+	                 242	D:\The saved\Obsidian\Contents.md_Attachments\
+	                   5	D:\The saved\Obsidian\Contents.md_Attachments\banners\
+	                   1	D:\The saved\Obsidian\Excalidraw\
+	                  11	D:\The saved\Obsidian\Nodes\
+	                   0	D:\The saved\Obsidian\Utilities\
+	                   0	D:\The saved\Obsidian\Utilities\Excalidraw\
+	                  26	D:\The saved\Obsidian\Utilities\Images\
+	                   6	D:\The saved\Obsidian\Utilities\Templates\
+	                   1	D:\The saved\Obsidian\Utilities\圖\
+
+-------------------------------------------------------------------------------
+
+                  總計       已複製        略過        不符        失敗        額外
+      目錄 :       103         0       103         0         0         0
+      檔案 :      1693         0      1693         0         0         0
+     位元組 :  593.53 m         0  593.53 m         0         0         0
+      時間 :   0:00:00   0:00:00                       0:00:00   0:00:00
+   已結束 : 2026年4月22日 下午 10:44:42
+
