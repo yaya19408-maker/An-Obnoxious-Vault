@@ -222,7 +222,7 @@ Egan, G. (1976). Confrontation. _Group & Organization Studies_, _1_(2), 223-24
 
 
 # 同理心之後
-** [[Critical Literacy 批判識能]] ** 有別於批判思考的客觀論據，講究的是讓學生質詢多重觀點，甚至更遠地說，以主體間（intersubjective）觀點來形塑自己的觀點，最後導向以人為本的批判路徑，或是情意導向的同理路徑
+** [[AI Literacy in Critical Literacy 批判識能中的人工智慧識能]] ** 有別於批判思考的客觀論據，講究的是讓學生質詢多重觀點，甚至更遠地說，以主體間（intersubjective）觀點來形塑自己的觀點，最後導向以人為本的批判路徑，或是情意導向的同理路徑
 
 ** [[Creativity 創造力]] ** 依賴既有知識與框架，並從特定群體之觀點進行推論、理解、考量，最後推出新思路解決問題
 

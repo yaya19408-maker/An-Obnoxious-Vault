@@ -16,8 +16,8 @@ File Creation Date: 2025-02-19 14:01
 Last Modified: 2025-02-19 14:01
 File folder: Literacy, literacies, multiliteracies
 # Literacy/Literacies/Multiliteracies
-- literacy 素養
-	- multiliteracies 多元素養
+- literacy 識能
+	- multiliteracies 多元識能
 	- 會從讀寫中怎麼想、怎麼用、得到甚麼能力
 	- [[MMDL000. 多模態(教學) Multimodality]]
 	- critical thinking
@@ -28,4 +28,4 @@ File folder: Literacy, literacies, multiliteracies
 - Lightbrown (1985) talked about *pseudoacquisition*－apparent success that turns out to be only apparent.
 - word recognition rather than comprehension ability is developed through wide reading.
 
-[[Critical Literacy 批判識能]]
+[[AI Literacy in Critical Literacy 批判識能中的人工智慧識能]]
