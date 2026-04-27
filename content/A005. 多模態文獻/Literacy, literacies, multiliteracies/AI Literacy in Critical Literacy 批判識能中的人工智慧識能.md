@@ -5,7 +5,7 @@ tags:
   - reading
 aliases:
 relevance: "[[Literacy 識能]]"
-relevance 2:
+relevance 2: "[[AIL in CL.excalidraw]]"
 disambiguation:
 banner:
 media:
@@ -16,6 +16,8 @@ Date: 2026-04-23
 File Creation Date: 2026-04-21 14:43
 Last Modified: 2026-04-23 13:22
 File folder: Literacy, literacies, multiliteracies
+
+![[AIL in CL.excalidraw]]
 
 # 摘要
 
@@ -50,8 +52,8 @@ File folder: Literacy, literacies, multiliteracies
 ## 研究問題
 
 在本研究中，研究問題列舉如下：
-- 1. 學生在批判識能寫作專案中，以何種方式採納、修改或拒絕由 AI 生成的回饋？
-- 2. 學生對於批判識能寫作中的提示詞設計、AI 的情境對齊及其有用性有何看法？
+- 學生在批判識能寫作專案中，以何種方式採納、修改或拒絕由 AI 生成的回饋？
+- 學生對於批判識能寫作中的提示詞設計、AI 的情境對齊及其有用性有何看法？
 ---
 # 文獻探討
 ## 以識能與人工智慧進行寫作
@@ -108,6 +110,291 @@ File folder: Literacy, literacies, multiliteracies
 
 ## 批判識能寫作專案結構
 
-本研究具體將焦點放在寫作階段，學生被要求為他們的社會行動專案提交五個版本的草稿 。具體而言，寫作階段在閱讀先前研究後的第 6 週開始 。學生需要在關於決定社會行動的課堂小組討論後立即進行 1,200 字的手寫，且沒有人工智慧的協助，寫作任務的具體細節與要求可見附錄 A；課後，學生被指派使用人工智慧重寫他們的想法以獲得組織的粗略草稿，然而在這個階段學生尚未接受提示工程的指導 。在第 7 週，學生學習了如何有效地進行提示以進一步發展他們的寫作 。在第 8 週，學生透過真人回饋（包含講師、助教與來自其他小組的同儕）獲得指導並完善論文 。在第 9 週，學生需要最終確定並詳細結合所有元素 。
+本研究具體將焦點放在寫作階段，學生被要求為他們的社會行動專案提交五個版本的草稿 。具體而言，寫作階段在閱讀先前研究後的第 6 週開始 。學生需要在關於決定社會行動的課堂小組討論後立即進行 1,200 字的手寫，且沒有人工智慧的協助，寫作任務的具體細節與要求可見附錄 A；課後，學生被指派使用人工智慧重寫他們的想法以獲得組織的粗略草稿，然而在這個階段學生尚未接受提示工程的指導 。在第 7 週，學生學習了如何有效地進行提示以進一步發展他們的寫作 。在第 8 週，學生透過真人回饋（包含講師、助教與來自其他小組的同儕）獲得指導並完善論文 。在第 9 週，學生需要最終確定並詳細結合所有元素 。由於寫作任務與社會行動是由小組完成，前四個版本的論文草稿是獨立撰寫的，形式包含緒論、3 個分別帶有不同觀點的正文段落，以及結論，總字數為八百到一千字 。在完成個人論文後，每個小組需要協作撰寫一個小組的緒論與結論以收斂他們的個人論文 。整體結構如圖 1 所示；此外，鼓勵學生閱讀 5 篇文章，特別是官方報告、組織文本或研究論文，以透過基於 APA 第 7 版格式的引用與參考文獻來建立說服力 。每份草稿的具體細節列於表 1 。
 
-由於寫作任務與社會行動是由小組完成，前四個版本的論文草稿是獨立撰寫的，形式包含緒論、3 個分別帶有不同觀點的正文段落，以及結論，總字數為八百到一千字 。在完成個人論文後，每個小組需要協作撰寫一個小組的緒論與結論以收斂他們的個人論文 。整體結構如圖 1 所示；此外，鼓勵學生閱讀 5 篇文章，特別是官方報告、組織文本或研究論文，以透過基於 APA 第 7 版格式的引用與參考文獻來建立說服力 。每份草稿的具體細節列於表 1 。
+**圖 1. 合作寫作計劃結構**
+
+```mermaid
+graph TD
+    CP["Cover Page<br>(The grand topic with the course information)"] --> TOC["Table of Contents<br>(title, each author, page number)"]
+    TOC --> Intro["Introductory paragraphs for all the articles involved<br>(300-500 words)"]
+
+    Intro --> A1["Article 1<br><br>Intro<br>Body 1<br>Body 2<br>Body 3<br>Conclusion<br><br>(800-1000 words)"]
+    Intro --> A2["Article 2<br><br>Intro<br>Body 1<br>Body 2<br>Body 3<br>Conclusion<br><br>(800-1000 words)"]
+    Intro --> A3["Article 3<br><br>Intro<br>Body 1<br>Body 2<br>Body 3<br>Conclusion<br><br>(800-1000 words)"]
+    Intro --> A4["Article 4<br><br>Intro<br>Body 1<br>Body 2<br>Body 3<br>Conclusion<br><br>(800-1000 words)"]
+
+    A1 --> Concl["Concluding paragraphs for all the articles involved and proposed social actions<br>(300-500 words)"]
+    A2 --> Concl
+    A3 --> Concl
+    A4 --> Concl
+```
+**表 1. 寫作草稿版本差異與改動**
+
+| Versions | Technological assistance | Feedback sources                           | Prompt Instruction | Difference                                    |
+| :------- | :----------------------- | :----------------------------------------- | :----------------- | :-------------------------------------------- |
+| 1        | Independent              | -                                          | -                  | Group discussion is included before writing   |
+| 2        | AI is allowed            | AI                                         | Yes                | Outside sources are required                  |
+| 3        | AI is allowed            | AI                                         | Yes                | Using prompt strategy is required             |
+| 4        | AI is allowed            | instructor, AI, teaching assistants, peers | Yes                | Students are required to provide chat history |
+| 5        | AI is allowed            | AI, instructor                             | Yes                | Social actions are included                   |
+
+## **提示工程的結構**
+
+本研究繼承了 Google Workplace 的提示指南 101，其被廣泛稱為包含角色（persona）、任務（task）、情境（context）與格式（format）的 PTCF 框架 。在 PTCF 的基礎上，本研究納入了兩個額外的組成部分，以確保學生能更好地理解和詮釋 AI 回饋 。第一個組成部分稱為「範例（Example）」，其被用作一個實例來強制規定 AI 回應的語法，以便清楚地識別論點 。第二個組成部分稱為「語氣（Tone）」，其被用來指定 AI 輸出的文體風格 。此外，提示詞是以 Markdown 格式撰寫，使得學生與 AI 雙方都能有效率地理解格式化，而無需處理可能偏離最初意圖的複雜或模稜兩可的文本，且提示詞被用來將 AI 錨定於任務的委派，這意味著最初有了這項結構化的指示，AI 就能夠伴隨給定的情況執行任務與查詢 。提示工程設計的實例顯示如下：
+
+- **Persona:** Act as a critical literacy scholar who is good at deconstructing "normal things".
+- **Context:** I am a first-year university student in Taiwan in a course about critical literacy reading and writing based on the model of critical literacy by Lewison et al. (2002) . My current group project requires me to apply the first dimension of Critical Literacy, which is 'Disrupting the Commonplace', to the topic of [your topic].    
+- **Task:** help me identify 3 commonplaces that (Taiwanese society, global) holds. They could be beliefs that are often presented as neutral or 'it is what it is' or things or actions people do or take without critically understanding what they are and why they are.    
+- **Example:** For instance, a 'commonplace' might be: [the reason(s) why you picked this topic as the commonplace last week].
+- **Format:** Please present your answer as a bulleted list. For each commonplace assumption, provide:
+    1. the assumption itself;
+    2. brief explanation of why it is a commonplace;
+    3. a critical question that we can ask to disrupt it.
+- **Tone:** Use an academic, critical, and analytical tone.
+
+## **參與者（Participants）**
+
+在批判識能課程中，本研究招募了台灣北部某科技大學應用外語系的 33 名一年級將英語作為外語（EFL）的學生 。在進入大學之前，學生的入學管道與語言能力是多樣的，且其中一些人以前是非英語主修 。此外，他們具備使用 AI 進行寫作的基本經驗，包括腦力激盪、擬定大綱、語法、拼寫、改述或換句話說、字詞選擇、回饋、翻譯，以及銜接與連貫 。同時，在修習本課程之前，他們對批判識能沒有先備了解 。
+
+為綜觀整體課程的範疇，它可以分為供學生實踐的四個行動，包括閱讀研究材料以更佳地理解批判識能的定義與影響、進行學術寫作以為後續的現實世界社會行動制定策略、實施社會行動並記錄過程，以及透過多模態呈現一部短片 。除了每週三小時的課程環節外，另設有一小時的自願性小組諮詢環節，開放給那些想為其小組專案的發展尋求進一步建議或澄清的學生 。在 16 週的課程中，有兩個小組從社會行動到 AI 輔助寫作建議都展現出強烈的參與度 。考量到主動參與的這個面向，本研究立意抽樣（purposively selects）這兩個小組，共計十名大一新生 。
+
+第一組的主題稱為「背叛的低語：揭示不同觀點」 。該組的五名學生調查了「伊拉斯謨泡沫（Erasmus Bubble）」，即國際學生在當地社區社會文化融合方面所面臨的挑戰，並致力於透過舉辦跨文化公開會議與訪談參與者的看法，來顛覆台灣當地學生與國際學生之間社會文化障礙的根本原因 。整體而言，這個小組對其社會行動計畫與自行決策具有高度的自主性，並對 AI 回饋抱持嚴格的標準 。
+
+第二個抽樣小組由探討「女性衛生棉與補助之觀點」的五名學生組成，他們決心透過收集人們從平等到政策制定的意見，來揭示校園中「月經貧窮」的潛在社會現象 。儘管他們在早期階段對 AI 的使用與批判識能表現出相對較低的理解，但他們努力尋求來自 AI、課程講師與助教的任何可能協助，收集資訊，並評估可行的選項以完善他們的寫作與社會實踐 。
+
+這兩個小組之間的想法儘管不同，但極有可能與 AILit 框架強調共創並同時批判性評估 AI 輸出的訴求互補 。為了進一步具體說明反映在寫作專案上的參與者個人決策，本研究基於課堂觀察以及在他們文章中所反映出的觀點多樣性，立意抽樣了每組兩名學生（共計四名參與者） 。這四名參與者的材料被採用，以對他們的選擇策略與條件評估進行深描（thick descriptions） 。
+
+## **資料收集（Data Collection）**
+
+本研究採用 AILit 框架的視角，以檢視學生如何基於從寫作結構到一般條件的需求，來感知並採納、修改或拒絕 AI 生成的回饋。
+
+對應研究問題的收集資料概述顯示於表 2。為回應旨在調查他們如何採用回饋的第一個研究問題，本研究調查了第四版草稿與最終社會行動專案的摘錄和事後反思之間的文本差異，這些差異解釋了面對寫作結構時的決策，並附帶包含群組對話紀錄與其反思日誌的補充材料，這些材料解釋了他們如何描述自己對情境的理解以及對任務的考量。
+
+首先，藉由群組對話紀錄連同 PTCF 框架，將能直接觀察學生的提問，以及他們在先前「顛覆司空見慣的事物」與「詰問多元觀點」這兩個階段中，如何向 AI 描繪他們的現實世界情境。
+
+其次，在第四版草稿中，學生被要求提供與 AI 的完整對話，並解釋 (a) 文章中哪些部分是根據 AI 回饋進行了更改，(b) 在文章的這部分中，AI 回饋的哪些部分被採納、修改或拒絕，以及 (c) 他們是基於何種考量決定採納、修改與拒絕這部分文章中的資訊。
+
+第三，透過檢視他們的反思日誌，將能清楚地看出他們通常會以何種方式、基於何種考量，來採納、修改與拒絕 AI 回饋，以契合他們的需求、選擇與條件。
+
+同時，考量到他們的小組最終專案明確解釋了從現有研究到其後續社會行動的建構過程，AI 回饋在社會行動方面對其寫作的實際幫助，將能被溯因地（abductively）且直接地觀察到。
+
+藉由這些資訊來源，它提供了學生對 AI 回饋的關注與吸收範圍，以利於他們從與 AI 協作寫作到使用 AI 制定社會行動策略的進一步發展。
+
+為回應旨在調查對提示工程、情境對齊性與有用性整體影響的第二個研究問題，參與者的事後訪談將被轉錄，並連同 AILit 框架進行評估，以透過討論結構化提示詞的有用性、情境關聯性以及人機互動的整體有用性，來檢視參與者如何回應 AI 的能力與限制。
+
+訪談問題列舉如下：
+
+(1) 我們在課堂上學到了幾種提示策略（如指派角色、任務、情境、格式、範例與語氣）。哪種策略對你的主題最有效？哪種實際上沒用？為什麼？
+
+(2) 既然你的主題是基於當地或社區議題，你認為 AI 的回饋是與情境相關的，還是聽起來像西方的（Western）？你如何處理這個問題？
+
+(3) 透過這個專案，你覺得 AI 是有幫助的，還是製造了更多你需要去修復的混亂？為什麼？
+
+藉由訪談中的這些問題，本研究能夠分析學生對於 AI 介入批判識能寫作的即時想法，以及他們如何處理回饋，這對應了 AILit 框架中參與（engaging）與共創（creating）AI 的範疇。隨後，訪談問題引出了他們在課程結束後對 AI 能力與限制的看法，以確定他們是否決定在未來的學習過程中管理（manage）與設計（design）AI，正如 AILit 框架最後兩個範疇所呈現的，凸顯了在合乎倫理與以人為本的原則內將任務委派給 AI 的重要性。
+
+**表 2. 研究問題與資料**
+
+| Research Questions                                                                                                                                 | Scope                                               | Data Sources                                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. In what ways do students accept, modify, or reject the feedback generated by AI in their critical literacy writing projects?                    | Adopting strategies based on the writing structures | 1. Group chat history based on PTCF Framework<br>2. Drafts and projects: comparing both versions' texts (excerpts) and observing students' decisions in the chat history and post-reflection (draft) and how it links to their social actions (project) |
+|                                                                                                                                                    | Overall adopting strategies                         | 3. Reflection journals: students explanations of accepting, modifying, or rejecting AI feedback                                                                                                                                                         |
+| 2. What are the perceptions of students concerning the prompt design, contextual alignment of AI, and its usefulness in critical literacy writing? | Overall capabilities and limitations                | Semi-structured post-interviews on:<br>1. the effectiveness of prompt strategies<br>2. Context alignment of AI<br>3. Overall usefulness or confusion when writing with AI                                                                               |
+
+
+## **可信度（Trustworthiness）**
+
+關於資料收集與分析的可信度，本研究將採用多種方法以確保詮釋不具偏見。為了建立可信賴度（credibility），本研究利用資料三角交叉檢驗（data triangulation），透過交叉比對草稿、群組對話紀錄、反思日誌與半結構化事後訪談。這個過程使研究者能夠驗證學生決策的一致性。此外，將進行參與者檢核（member checking），由四名參與者與課程講師審查訪談逐字稿與初步分析，以確認詮釋與他們最初的意圖一致。
+
+在可轉換性（transferability）方面，如前所述，本研究招募了兩個小組中的四名參與者。儘管入學管道與學術背景多樣，學生們在進入大學前被要求提交關於他們英語能力程度以及在英文寫作中使用 AI 情況的自傳。這顯示他們的英語能力程度落在 CEFR B 2，且他們事先已具備使用 AI 的基本經驗。
+
+關於可靠性（dependability），所有的訪談逐字稿與反思都將被記錄，且僅供研究目的存取。
+
+為了確保可確認性（confirmability），文件與結果將進行同儕反饋（peer debriefing），以防止不利或過度主觀的詮釋。隱私與倫理考量透過為所有參與者使用化名，以及在訪談中就資料使用與保密取得知情同意來加以維護。
+
+## **預期結果（Expected Outcomes）**
+
+本研究預期，透過經濟合作暨發展組織（OECD, 2025）人工智慧識能框架的視角，學生能夠從人工智慧提供與組織的廣泛資訊中學習，並將資訊轉化為知識 。隨後，他們學會結構化地進行提示以獲得更好的輸出，然而他們很快就會體認到，人工智慧並非無所不知的存在，無法在給定的社會政治情境中無條件地幫助所有事情 。因此，他們成為批判性的評估者，基於源自理性的特定原因來決定他們是否選擇採納、修改或拒絕人工智慧的回饋，以揭示其真實的能力與限制 。透過這種方式，人工智慧在本研究中的角色變得具有相對性，它在早期階段可以成為學生學習批判識能的強大支持者，並讓學生學會將人工智慧視為質疑其能做好什麼與不能做好什麼的客體 。
+
+---
+# **REFERENCES**
+
+Alm, A., & Watanabe, Y. (2023). Integrating ChatGPT in Language Education: A Freirean Perspective. _Iranian Journal of Language Teaching Research_, _11_(3), 19-30. [https://doi.org/10.30466/ijltr.2023.121404](https://doi.org/10.30466/ijltr.2023.121404)
+
+ Alzubi, A. A. F., Nazim, M., & Alyami, N. (2025). Do AI-generative tools kill or nurture creativity in EFL teaching and learning?. _Education and Information Technologies_, _30_(11), 15147-15184. [https://doi.org/10.1007/s10639-025-13409-8](https://doi.org/10.1007/s10639-025-13409-8)
+
+Asadi, M., Ebadi, S., Salman, A. R., Taheri, R., & Mohammadi, L. (2025). Investigating the effects of AI-assisted teacher instruction on online IELTS writing. _Social Sciences & Humanities Open_, _12_, 101747. [https://doi.org/10.1016/j.ssaho.2025.101747](https://doi.org/10.1016/j.ssaho.2025.101747)
+
+Ashby, W. R. (1956). An introduction to cybernetics. [https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf](https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf)
+
+Arseven, T., & Bal, M. (2025). Critical literacy in artificial intelligence assisted writing instruction: A systematic review. _Thinking Skills and Creativity_, _57_, 101850. [https://doi.org/10.1016/j.tsc.2025.101850](https://doi.org/10.1016/j.tsc.2025.101850)
+
+Bai, L., & Wei, Y. (2024). Exploring EFL students’ integration and perceptions of ChatGPT's text revisions: A three-stage writing task study. _IEEE Transactions on Learning Technologies_, _17_, 2161-2172. [https://doi.org/10.1109/TLT.2024.3491864](https://doi.org/10.1109/TLT.2024.3491864)
+
+Banh, L., & Strobel, G. (2023). Generative artificial intelligence. _Electronic markets, 33_(1), 63. [https://doi.org/10.1007/s12525-023-00680-1](https://doi.org/10.1007/s12525-023-00680-1)
+
+Bearman, M., & Ajjawi, R. (2023). Learning to work with the black box: Pedagogy for a world with artificial intelligence. _British Journal of Educational Technology, 54_(5), 1160-1173. [https://doi.org/10.1111/bjet.13337](https://doi.org/10.1111/bjet.13337)
+
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In _Proceedings of the 2021 ACM conference on fairness, accountability, and transparency_ (pp. 610-623).
+
+Burriss, S. K., & Leander, K. (2024). Critical posthumanist literacy: Building theory for reading, writing, and living ethically with everyday artificial intelligence. _Reading Research Quarterly, 59_(4), 560-569. [https://doi.org/10.1002/rrq.565](https://doi.org/10.1002/rrq.565)
+
+Chen, Y., Zhang, X., & Hu, L. (2024). A progressive prompt-based image-generative AI approach to promoting students’ achievement and perceptions in learning ancient Chinese poetry. _Educational Technology & Society, 27_(2), 284-305. [https://www.jstor.org/stable/48766176](https://www.jstor.org/stable/48766176)
+
+Chen, Z., Wei, W., Zhu, X., & Yao, Y. (2026). Unpacking the rejection of L 2 students toward ChatGPT-generated feedback: An explanatory research. _ECNU Review of Education_, _9_(1), 20965311241305140.
+
+Comber, B., Janks, H., & Hruby, G. G. (2018). Texts, identities, and ethics: Critical literacy in a post-truth world. _Journal of Adolescent & Adult Literacy_, _62_(1), 95-99. [https://www.jstor.org/stable/26632941](https://www.jstor.org/stable/26632941)
+
+Dang, J., & Liu, L. (2024). Extended artificial intelligence aversion: People deny humanness to artificial intelligence users. _Journal of Personality and Social Psychology_. [https://psycnet.apa.org/doi/10.1037/pspi0000480](https://psycnet.apa.org/doi/10.1037/pspi0000480)
+
+Darvin, R. (2025 a). Identity and investment in the age of generative AI. _Annual Review of Applied Linguistics_, 1-18. [https://doi.org/10.1017/S0267190525100135](https://doi.org/10.1017/S0267190525100135)
+
+Darvin, R. (2025 b). The need for critical digital literacies in generative AI-mediated L 2 writing. _Journal of Second Language Writing, 67_, 101186. [https://doi.org/10.1016/j.jslw.2025.101186](https://doi.org/10.1016/j.jslw.2025.101186)
+
+Farlow, J. L., Abouyared, M., Rettig, E. M., Kejner, A., Patel, R., & Edwards, H. A. (2024). Gender Bias in Artificial Intelligence‐Written Letters of Reference. _Otolaryngology–Head and Neck Surgery_, _171_(4), 1027-1032. [https://doi.org/10.1002/ohn.806](https://doi.org/10.1002/ohn.806)
+
+Fathi, J., & Rahimi, M. (2026). Utilising artificial intelligence-enhanced writing mediation to develop academic writing skills in EFL students: a qualitative study. _Computer Assisted Language Learning_, _39_(1-2), 263-302. [https://doi.org/10.1080/09588221.2024.2374772](https://doi.org/10.1080/09588221.2024.2374772)
+
+Freire, P. (1970). Pedagogy of the Oppressed. New York: Continuum Books.
+
+Google Workplace (2024). _Prompting guide 101: A quick-start handbook for effective prompts._ Google Workplace with Gemini. [https://services.google.com/fh/files/misc/workspace_with_gemini_prompting_guide.pdf](https://services.google.com/fh/files/misc/workspace_with_gemini_prompting_guide.pdf)
+
+Graphite. io. (2024, May 8). _More articles are now created by Ai Than humans_. Graphite. [https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans](https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans)
+
+Guo, K., Pan, M., Li, Y., & Lai, C. (2024). Effects of an AI-supported approach to peer feedback on university EFL students' feedback quality and writing ability. _The Internet and Higher Education_, _63_, 100962. [https://doi.org/10.1016/j.iheduc.2024.100962](https://doi.org/10.1016/j.iheduc.2024.100962)
+
+Haiyan, M., & Rilong, L. (2016). Classroom EFL Writing: The Alignment-Oriented Approach. _English Language Teaching_, _9_(4), 76-82. [http://dx.doi.org/10.5539/elt.v9n4p76](http://dx.doi.org/10.5539/elt.v9n4p76)
+
+Han, J., & Li, M. (2024). Exploring ChatGPT-supported teacher feedback in the EFL context. _System_, _126_, 103502. [https://doi.org/10.1016/j.system.2024.103502](https://doi.org/10.1016/j.system.2024.103502)
+
+Hattie, J., & Timperley, H. (2007). The power of feedback. _Review of educational research_, _77_(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+
+Henderson, M., Ajjawi, R., Boud, D., & Molloy, E. (2019). Identifying feedback that has impact. In _The impact of feedback in higher education: Improving assessment outcomes for students_ (pp. 15-34). Cham: Springer International Publishing.
+
+Hoffman, R., & Beato, G. (2025). _Superagency: what could possibly go right with our AI future._ Authors Equity.
+
+Hu, W., Tian, J., & Li, Y. (2025). Enhancing student engagement in online collaborative writing through a generative AI-based conversational agent. _The Internet and Higher Education_, _65_, 100979. [https://doi.org/10.1016/j.iheduc.2024.100979](https://doi.org/10.1016/j.iheduc.2024.100979)
+
+Huang, X., Zou, D., Cheng, G., Chen, X., & Xie, H. (2023). Trends, research issues and applications of artificial intelligence in language education. _Educational Technology & Society_, _26_(1), 112-131. [https://www.jstor.org/stable/48707971](https://www.jstor.org/stable/48707971)
+
+Janks, H. (2014). Critical literacy's ongoing importance for education. _Journal of Adolescent & Adult Literacy, 57_(5), 349-356. [https://doi.org/10.1002/jaal.260](https://doi.org/10.1002/jaal.260)
+
+Janks, H. (2019). Critical literacy and the importance of reading with and against a text. _Journal of Adolescent & Adult Literacy_, _62_(5), 561-564. [https://www.jstor.org/stable/48554909](https://www.jstor.org/stable/48554909)
+
+Ji, J., Qiu, T., Chen, B., Zhang, B., Lou, H., Wang, K., ... & Gao, W. (2023). AI alignment: A comprehensive survey. _arXiv preprint arXiv:2310.19852_.
+
+Juzek, T. S., & Ward, Z. B. (2025, January). Why does ChatGPT “Delve” so much? Exploring the sources of lexical overrepresentation in Large Language Models. In _Proceedings of the 31 st international conference on computational linguistics_ (pp. 6397-6411). [https://aclanthology.org/2025.coling-main.426/](https://aclanthology.org/2025.coling-main.426/)
+
+Kalai, A. T., Nachum, O., Vempala, S. S., & Zhang, E. (2025). Why language models hallucinate. _arXiv preprint arXiv:2509.04664_.
+
+Kalantzis, M., & Cope, B. (2025). Literacy in the time of artificial intelligence. _Reading Research Quarterly_, _60_(1), e 591. [https://doi.org/10.1002/rrq.591](https://doi.org/10.1002/rrq.591)
+
+Kandlhofer, M., Steinbauer, G., Hirschmugl-Gaisch, S., & Huber, P. (2016, October). Artificial intelligence and computer science in education: From kindergarten to university. In _2016 IEEE frontiers in education conference (FIE)_ (pp. 1-9). IEEE, doi: 10.1109/FIE.2016.7757570. [https://doi.org/10.1109/FIE.2016.7757570](https://doi.org/10.1109/FIE.2016.7757570)
+
+Kendeou, P., McMaster, K. L., McNamara, D. S., & Wilke, B. C. (2023). Literacy. _Handbook of educational psychology_, 553-576.
+
+Knoth, N., Tolzin, A., Janson, A., & Leimeister, J. M. (2024). AI literacy and its implications for prompt engineering strategies. Computers and Education: Artificial Intelligence, 6, 100225. https://doi.org/10.1016/j.caeai.2024.100225
+
+Kong, S. C., Korte, S. M., Burton, S., Keskitalo, P., Turunen, T., Smith, D., ... & Beaton, M. C. (2025). Artificial Intelligence (AI) literacy–an argument for AI literacy in education. _Innovations in Education and Teaching International_, _62_(2), 477-483. [https://doi.org/10.1080/14703297.2024.2332744](https://doi.org/10.1080/14703297.2024.2332744)
+
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X. H., Beresnitzky, A. V., ... & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. _arXiv preprint arXiv:2506.08872_, _4_.
+
+Kress, G. (2005). _Before writing: Rethinking the paths to literacy_. Routledge.
+
+Kulhavy, R. W. (1977). Feedback in written instruction. _Review of educational research_, _47_(2), 211-232. [https://doi.org/10.3102/00346543047002211](https://doi.org/10.3102/00346543047002211)
+
+Kurniati, E., Emaliana, I., & Sahar, R. (2025). Empathy and epistemic beliefs empower critical, culturally responsive ChatGPT integration in learning English academic writing. _Cogent Education_, _12_(1), 2590919. [https://doi.org/10.1080/2331186X.2025.2590919](https://doi.org/10.1080/2331186X.2025.2590919)
+
+Leander, K. M., & Burriss, S. K. (2020). Critical literacy for a posthuman world: When people read, and become, with machines. _British Journal of Educational Technology_, _51_(4), 1262-1276. [https://doi.org/10.1111/bjet.12924](https://doi.org/10.1111/bjet.12924)
+
+Lee, H. P., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., & Wilson, N. (2025, April). The impact of generative AI on critical thinking: Self-reported reductions in cognitive effort and confidence effects from a survey of knowledge workers. In _Proceedings of the 2025 CHI conference on human factors in computing systems_ (pp. 1-22). [https://doi.org/10.1145/3706598.3713778](https://doi.org/10.1145/3706598.3713778)
+
+Lewison, M., Flint, A. S., & Van Sluys, K. (2002). Taking on critical literacy: The journey of newcomers and novices. _Language arts_, _79_(5), 382-392. [https://doi.org/10.58680/la2002255](https://doi.org/10.58680/la2002255)
+
+Li, Z., Liang, C., Peng, J., & Yin, M. (2024, November). How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?. In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_ (pp. 4849-4868), doi: [https://doi.org/10.18653/v1/2024.emnlp-main.279](https://doi.org/10.18653/v1/2024.emnlp-main.279) .
+
+Lin, C. J., & Hwang, G. J. (2025). Artificial intelligence-supported procedural scaffolding for promoting EFL students’ writing performance in flipped peer assessment activities. _Interactive Learning Environments_, 1-15. [https://doi.org/10.1080/10494820.2025.2532629](https://doi.org/10.1080/10494820.2025.2532629)
+
+Lin, S., & Crosthwaite, P. (2024). The grass is not always greener: Teacher vs. GPT-assisted written corrective feedback. _System_, _127_, 103529. [https://doi.org/10.1016/j.system.2024.103529](https://doi.org/10.1016/j.system.2024.103529)
+
+Liu, M., Zhang, L. J., & Biebricher, C. (2024). Investigating students’ cognitive processes in generative AI-assisted digital multimodal composing and traditional writing. _Computers & education_, _211_, 104977. [https://doi.org/10.1016/j.compedu.2023.104977](https://doi.org/10.1016/j.compedu.2023.104977)
+
+Long, D., & Magerko, B. (2020, April). What is AI literacy? Competencies and design considerations. In _Proceedings of the 2020 CHI conference on human factors in computing systems_ (pp. 1-16). [https://doi.org/10.1145/3313831.3376727](https://doi.org/10.1145/3313831.3376727)
+
+Luke, A. (2012). Critical literacy: Foundational notes. _Theory into practice_, _51_(1), 4-11. [https://doi.org/10.1080/00405841.2012.636324](https://doi.org/10.1080/00405841.2012.636324)
+
+Luke, A. (2013). Defining critical literacy. In _Moving critical literacies forward_ (pp. 19-31). Routledge.
+
+Luo, M., Hu, X., & Zhong, C. (2025). The collaboration of AI and teacher in feedback provision and its impact on EFL student’s argumentative writing. _Education and Information Technologies_, _30_(12), 17695-17715. [https://doi.org/10.1007/s10639-025-13488-7](https://doi.org/10.1007/s10639-025-13488-7)
+
+Monteith, S., Glenn, T., Geddes, J. R., Whybrow, P. C., Achtyes, E., & Bauer, M. (2024). Artificial intelligence and increasing misinformation. _The British Journal of Psychiatry_, _224_(2), 33-35. [https://doi.org/10.1192/bjp.2023.136](https://doi.org/10.1192/bjp.2023.136)
+
+Morrell, E. (2003). Writing the word and the world: Critical literacy as critical textual production.
+
+Naddaf, M. (2025). AI chatbots are sycophants—and it’s harming science. _Nature_, _647_, 13. [https://www.nature.com/articles/d41586-025-03390-0](https://www.nature.com/articles/d41586-025-03390-0)
+
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. _Computers and Education_, _2_, 100041. [https://doi.org/10.1016/j.caeai.2021.100041](https://doi.org/10.1016/j.caeai.2021.100041)
+
+Ng, D. T. K., Su, J., Leung, J. K. L., & Chu, S. K. W. (2024). Artificial intelligence (AI) literacy education in secondary schools: a review. _Interactive Learning Environments_, _32_(10), 6204-6224. [https://doi.org/10.1080/10494820.2023.2255228](https://doi.org/10.1080/10494820.2023.2255228)
+
+Nguyen, L., & Barrot, J. S. (2024). Detecting and assessing AI-generated and human-produced texts: The case of second language writing teachers. _Assessing Writing_, _62_, 100899. [https://doi.org/10.1016/j.asw.2024.100899](https://doi.org/10.1016/j.asw.2024.100899)
+
+Niloy, A. C., Akter, S., Sultana, N., Sultana, J., & Rahman, S. I. U. (2024). Is Chatgpt a menace for creative writing ability? An experiment. Journal of computer assisted learning, 40(2), 919-930. [https://doi.org/10.1111/jcal.12929](https://doi.org/10.1111/jcal.12929)
+
+OECD (2025). _Empowering students for the age of AI: An AI literacy framework for primary and secondary education (Review draft)_. OECD. Paris. [https://ailiteracyframework.org](https://ailiteracyframework.org)
+
+Pangrazio, L. (2026). The (im) possibility of AI literacy. _Learning, Media and Technology, 51_(1), 1-7. [https://doi.org/10.1080/17439884.2026.2615553](https://doi.org/10.1080/17439884.2026.2615553)
+
+Qin, X., Zhou, X., Chen, C., Wu, D., Zhou, H., Dong, X., ... & Lu, J. G. (2025). AI aversion or appreciation? A capability–personalization framework and a meta-analytic review. _Psychological bulletin_, _151_(5), 580. [https://doi.org/10.1037/bul0000477](https://doi.org/10.1037/bul0000477)
+
+Rad, H. S., Alipour, R., & Jafarpour, A. (2024). Using artificial intelligence to foster students’ writing feedback literacy, engagement, and outcome: A case of Wordtune application. _Interactive Learning Environments_, _32_(9), 5020-5040. [https://doi.org/10.1080/10494820.2023.2208170](https://doi.org/10.1080/10494820.2023.2208170)
+
+Salvagno, M., Taccone, F. S., & Gerli, A. G. (2023). Artificial intelligence hallucinations. _Critical Care_, _27_(1), 180. [https://www.jstor.org/stable/48707971](https://www.jstor.org/stable/48707971)
+
+Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., ... & Perez, E. (2023). Towards understanding sycophancy in language models. _arXiv preprint arXiv:2310.13548_.
+
+Shen, Y., & Chen, L. (2025). ‘Critical chatting’or ‘casual cheating’: how graduate EFL students utilize ChatGPT for academic writing. _Computer Assisted Language Learning_, 1-29. [https://doi.org/10.1080/09588221.2025.2479141](https://doi.org/10.1080/09588221.2025.2479141)
+
+Shroff, L. (2025, December 2). The people outsourcing their thinking to AI. _The Atlantic_. [https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/](https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/)
+
+Song, C., & Song, Y. (2023). Enhancing academic writing skills and motivation: assessing the efficacy of ChatGPT in AI-assisted language learning for EFL students. _Frontiers in psychology_, _14_, 1260843. [https://doi.org/10.3389/fpsyg.2023.1260843](https://doi.org/10.3389/fpsyg.2023.1260843)
+
+Stewart, O. G., & Rodgers, D. J. (2025). A critical AI media literacy framework: understanding layered bias and empowerment in artificial intelligence. _Learning, Media and Technology_, 1-13. [https://doi.org/10.1080/17439884.2025.2527179](https://doi.org/10.1080/17439884.2025.2527179)
+
+Sun, Y., Sheng, D., Zhou, Z., & Wu, Y. (2024). AI hallucination: towards a comprehensive classification of distorted information in artificial intelligence-generated content. _Humanities and Social Sciences Communications_, _11_(1), 1-14. [https://doi.org/10.1057/s41599-024-03811-x](https://doi.org/10.1057/s41599-024-03811-x)
+
+Thongsan, N. C., & Anderson, N. J. (2025). From Passive Answers to Active Inquiry: How AI Supports Critical Reading in EFL Classrooms. _LEARN Journal: Language Education and Acquisition Research Network_, _18_(2), 795-820. [https://doi.org/10.70730/KMKL8505](https://doi.org/10.70730/KMKL8505)
+
+Tiernan, P., Costello, E., Donlon, E., Parysz, M., & Scriney, M. (2023). Information and Media Literacy in the Age of AI: Options for the Future. _Education Sciences_, _13_(9), 906. [https://doi.org/10.3390/educsci13090906](https://doi.org/10.3390/educsci13090906)
+
+Vasquez, V. M., Janks, H., & Comber, B. (2019). Critical literacy as a way of being and doing. _Language arts, 96_(5), 300-311. [https://doi.org/10.58680/la201930093](https://doi.org/10.58680/la201930093)
+
+Veldhuis, A., Lo, P. Y., Kenny, S., & Antle, A. N. (2025). Critical Artificial Intelligence literacy: A scoping review and framework synthesis. _International Journal of Child-Computer Interaction_, _43_, 100708. [https://doi.org/10.1016/j.ijcci.2024.100708](https://doi.org/10.1016/j.ijcci.2024.100708)
+
+Walter, Y. (2024). Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education. _International journal of educational technology in higher education_, _21_(1), 15. [https://doi.org/10.1186/s41239-024-00448-3](https://doi.org/10.1186/s41239-024-00448-3)
+
+Wang, C., & Wang, Z. (2025). Investigating L 2 writers' critical AI literacy in AI-assisted writing: An APSE model. _Journal of Second Language Writing_, _67_, 101187. [https://doi.org/10.1016/j.jslw.2025.101187](https://doi.org/10.1016/j.jslw.2025.101187)
+
+Wang, D. (2024). Teacher- Versus AI-Generated (Poe Application) Corrective Feedback and Language Students’ Writing Anxiety, Complexity, Fluency, and Accuracy. _International Review of Research in Open and Distributed Learning, 25_(3), 37–56. [https://doi.org/10.19173/irrodl.v25i3.7646](https://doi.org/10.19173/irrodl.v25i3.7646)
+
+Warschauer, M., Tseng, W., Yim, S., Webster, T., Jacob, S., Du, Q., & Tate, T. (2023). The affordances and contradictions of AI-generated text for writers of English as a second or foreign language. _Journal of Second Language Writing_, _62_. [https://doi.org/10.1016/j.jslw.2023.101071](https://doi.org/10.1016/j.jslw.2023.101071)
+
+Wei, P., Wang, X., & Dong, H. (2023). The impact of automated writing evaluation on second language writing skills of Chinese EFL students: A randomized controlled trial. _Frontiers in Psychology_, _14_, 1249991. [https://doi.org/10.3389/fpsyg.2023.1249991](https://doi.org/10.3389/fpsyg.2023.1249991)
+
+Weninger, C. (2020). Investigating ideology through framing: A critical discourse analysis of a critical literacy lesson. _Classroom Discourse, 11_(2), 107-128. [https://doi.org/10.1080/19463014.2020.1748674](https://doi.org/10.1080/19463014.2020.1748674)
+
+Willems, T., Khan, S., Huang, Q., Camburn, B., Sockalingam, N., & Poon, K. W. (2025, December). To Use or to Refuse? Re-Centering Student Agency with Generative AI in Engineering Design Education. In _2025 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_ (pp. 1-8). IEEE.
+
+Woo, D. J., Wang, D., Guo, K., & Susanto, H. (2024). Teaching EFL students to write with ChatGPT: Students' motivation to learn, cognitive load, and satisfaction with the learning process. _Education and information technologies_, _29_(18), 24963-24990.  [https://doi.org/10.1007/s10639-024-12819-4](https://doi.org/10.1007/s10639-024-12819-4)
+
+Yan, D., & Zhang, S. (2024). L 2 writer engagement with automated written corrective feedback provided by ChatGPT: A mixed-method multiple case study. _Humanities and Social Sciences Communications_, _11_(1), 1-14. | [https://doi.org/10.1057/s41599-024-03543-y](https://doi.org/10.1057/s41599-024-03543-y)
+
+Yeung, K. (2019). ‘Hypernudge’: Big Data as a mode of regulation by design. In _The social power of algorithms_ (pp. 118-136). Routledge. [https://doi.org/10.1080/1369118X.2016.1186713](https://doi.org/10.1080/1369118X.2016.1186713)
+
+Yin, X., & Dou, K. (2025). An AI-assisted critical thinking intervention to enhance undergraduate EFL students’ writing proficiency. _Studies in Educational Evaluation_, _86_, 101480. [https://doi.org/10.1016/j.stueduc.2025.101480](https://doi.org/10.1016/j.stueduc.2025.101480)
+
+Zhan, Y., & Yan, Z. (2025). Students’ engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. _Assessment & Evaluation in Higher Education_, 1-14. [https://doi.org/10.1080/02602938.2025.2471821](https://doi.org/10.1080/02602938.2025.2471821)
+
+Zhang, J., & Zhang, Z. (2024). AI in teacher education: Unlocking new dimensions in teaching support, inclusive learning, and digital literacy. _Journal of Computer Assisted Learning, 40_(4), 1871-1885. [https://doi.org/10.1111/jcal.12988](https://doi.org/10.1111/jcal.12988)
+
+Zhang, Y., Li, Y., Cui, L., Cai, D., Liu, L., Fu, T., ... & Shi, S. (2025). 🧜 Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models. _Computational Linguistics_, _51_(4), 1373-1418. [https://doi.org/10.1162/COLI.a.16](https://doi.org/10.1162/COLI.a.16)
