@@ -102,7 +102,6 @@ Things to avoid:
 
 3. avoid mentioning Seven Constructs of Critical Literacy Pedagogy Scale from Casey Medlock Paul (2022) including:
 
-- relevant
 
 - reflexive
 
@@ -113,7 +112,5 @@ Things to avoid:
 - empowering
 
 - transformative
-
-- intersectional
 
 4. avoid generating long answers exceeding 100 words
