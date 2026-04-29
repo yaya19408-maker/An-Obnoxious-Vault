@@ -1,5 +1,22 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - scholars
+aliases:
+relevance:
+relevance 2:
+disambiguation:
+banner:
+media:
+---
 Date: 2026-04-06
-File Creation Date: 2026-04-06 02:36:33
+File CDate: 2026-04-29
+File Creation Date: 2026-04-18 14:49
+Last Modified: 2026-04-18 14:53
+File folder: A012. Scholars
+
+reation Date: 2026-04-06 02:36:33
 Last Modified: 2026-04-06 02:36:33
 File folder: A012. Scholars
 
