@@ -64,6 +64,10 @@ Scientists are uncertain of the exact cause of déjà vu, but some have theorize
 ### déjà vu的小結
 不過，解釋並不等於消解，科學也不旨在摧毀我們豐富而奇絕的主觀經驗。我們的大腦作為複雜精妙的信息處理器，偶爾出現一些無傷大雅的小故障，反倒為我們平凡無奇的日常經驗賦予了深邃的意義——“我覺得你很眼熟，可能我命中註定要和你在一起。”
 
+![[Liminal space 閾限空間#déjà vu 既視感，大腦錯誤的浪漫 déjà vu 既視感；似曾相識]]
+![[Liminal space 閾限空間#jamais vu 猶味感；往事如新]]
+![[Liminal space 閾限空間#presque vu, tip of the tongue (TOT) 舌尖現象]]
+
 
 參考文獻
 
