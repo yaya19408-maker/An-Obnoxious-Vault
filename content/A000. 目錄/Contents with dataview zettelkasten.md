@@ -8,7 +8,7 @@ cssclasses:
   - page-grid
 banner: "![[flowers.gif]]"
 ---
-
+ 
 ![[Anna]]
 
 # Linguistics
