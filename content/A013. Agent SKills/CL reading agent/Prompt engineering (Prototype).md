@@ -2,7 +2,6 @@
 cssclasses:
   - center-titles
 tags:
-  - scholars
 aliases:
 relevance:
 relevance 2:
