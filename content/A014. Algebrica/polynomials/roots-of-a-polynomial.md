@@ -6,15 +6,15 @@ Source: algebrica.org — CC BY-NC 4.0
 
 Let \\(p(x)\\) be a [polynomial](../polynomials/) with coefficients in a field \\(\mathbb{F}\\), typically \\(\mathbb{R}\\) or \\(\mathbb{C}\\). A root, or zero, of \\(p\\) is any element \\(r \in \mathbb{F}\\) such that:
 
-\\[
+$$
 p\(r\) = 0
-\\]
+$$
 
 Given a polynomial of the form:
 
-\\[
+$$
 p(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0
-\\]
+$$
 
 with \\(a_n \neq 0\\), the element \\(r\\) is a root precisely when the substitution \\(x = r\\) produces the value \\(p\(r\) = a_n r^n + a_{n-1} r^{n-1} + \cdots + a_1 r + a_0 = 0\\). The terms root and zero are used interchangeably.
 
@@ -28,9 +28,9 @@ For roots of odd multiplicity greater than one, that is \\(m \geq 3\\), the grap
 
 These properties follow from the local factorization:
 
-\\[
+$$
 p(x) = (x - r)^m q(x)
-\\]
+$$
 
 with \\(q\(r\) \neq 0\\). Since \\(q\\) is [continuous](../continuous-functions/) and nonzero at \\(r\\), it maintains a constant sign in some neighborhood of \\(r\\), so the sign of \\(p(x)\\) near \\(r\\) is determined entirely by the factor \\((x - r)^m\\).
 
@@ -46,31 +46,31 @@ A nonzero polynomial of degree \\(n\\) over any field has at most \\(n\\) roots,
 
 The notion of multiplicity refines the definition of a root by quantifying how many times a given value is a root. Let \\(p(x)\\) be a polynomial with coefficients in a field \\(\mathbb{F}\\), and let \\(r \in \mathbb{F}\\) be a root of \\(p(x)\\). The multiplicity of \\(r\\) is the largest positive integer \\(m\\) such that \\((x - r)^m\\) divides \\(p(x)\\) in \\(\mathbb{F}[x]\\), while \\((x - r)^{m+1}\\) does not. Equivalently, \\(p(x)\\) admits the factorization:
 
-\\[
+$$
 p(x) = (x - r)^m q(x)
-\\]
+$$
 
 with \\(q\(r\) \neq 0\\). The polynomial \\(q(x)\\) collects all the remaining factors of \\(p(x)\\), and the condition \\(q\(r\) \neq 0\\) guarantees that the exponent \\(m\\) cannot be increased.
 
 A root of multiplicity one is called a simple root. A root of multiplicity two or more is called a multiple root, with specific names attached to the lowest cases: a root of multiplicity two is a double root, a root of multiplicity three is a triple root. The sum of the multiplicities of all the roots of a polynomial of degree \\(n\\) cannot exceed \\(n\\). When equality holds, the polynomial decomposes completely into linear factors over \\(\mathbb{F}\\):
 
-\\[
+$$
 p(x) = a_n (x - r_1)^{m_1} (x - r_2)^{m_2} \cdots (x - r_k)^{m_k}
-\\]
+$$
 
 with \\(m_1 + m_2 + \cdots + m_k = n\\). Over the field of complex numbers, the fundamental theorem of algebra ensures that this complete decomposition always exists.
 
 The multiplicity admits a differential characterization in terms of the [derivatives](../derivatives/) of \\(p(x)\\). The element \\(r\\) is a root of multiplicity \\(m\\) of \\(p(x)\\) if and only if:
 
-\\[
+$$
 p\(r\) = p'\(r\) = p''\(r\) = \cdots = p^{(m-1)}\(r\) = 0
-\\]
+$$
 
 and
 
-\\[
+$$
 p^{(m)}\(r\) \neq 0
-\\]
+$$
 
 This criterion provides a constructive method for determining the multiplicity of a known root: successive derivatives of \\(p(x)\\) are evaluated at \\(r\\) until the first nonzero value is obtained, and the order of that derivative coincides with the multiplicity.
 
@@ -81,9 +81,9 @@ This criterion provides a constructive method for determining the multiplicity o
 
 Given a polynomial with integer coefficients:
 
-\\[
+$$
 p(x) = a_n x^n + \cdots + a_0 \in \mathbb{Z}[x]
-\\]
+$$
 
 the [rational root theorem](../polynomial-equations/) identifies a finite set of candidates for rational roots. If \\(r = s/q\\) in lowest terms, with \\(s, q \in \mathbb{Z}\\) and \\(q > 0\\), is a root of \\(p(x)\\), then necessarily \\(s \mid a_0\\) and \\(q \mid a_n\\).
 
@@ -94,37 +94,37 @@ The theorem reduces the search for rational roots to a finite collection of frac
 
 In the field of [complex numbers](../complex-numbers-introduction/) \\(\mathbb{C}\\), every non-constant polynomial has at least one root. Applying the factor theorem repeatedly, any polynomial of degree \\(n \geq 1\\) decomposes completely into linear factors over \\(\mathbb{C}\\):
 
-\\[
+$$
 p(x) = a_n (x - r_1)^{m_1}(x - r_2)^{m_2} \cdots (x - r_k)^{m_k}
-\\]
+$$
 
 where \\(m_1 + m_2 + \cdots + m_k = n\\). Counting roots with their multiplicities, a degree-\\(n\\) polynomial has exactly \\(n\\) roots in \\(\mathbb{C}\\). This property characterizes \\(\mathbb{C}\\) as an algebraically closed [field](../fields/). Over \\(\mathbb{R}\\), the complex roots of a real polynomial occur in conjugate pairs. If \\(r = \alpha + \beta i\\) with \\(\beta \neq 0\\) is a root of \\(p \in \mathbb{R}[x]\\), then \\(\bar{r} = \alpha - \beta i\\) is also a root, and the two factors combine into an irreducible quadratic over \\(\mathbb{R}\\):
 
-\\[
+$$
 (x - r)(x - \bar{r}) = x^2 - 2\alpha x + (\alpha^2 + \beta^2)
-\\]
+$$
 
 Every real polynomial of odd degree therefore has at least one real root. The factored form also establishes a direct relationship between roots and coefficients. Expanding the product:
 
-\\[
+$$
 a_n(x - r_1)(x - r_2)\cdots(x - r_n)
-\\]
+$$
 
 and comparing with the standard form:
 
-\\[
+$$
 a_n x^n + a_{n-1}x^{n-1} + \cdots + a_0
-\\]
+$$
 
 yields Vieta's formulas, which express each coefficient as an elementary symmetric polynomial in the roots. In particular:
 
-\\[
+$$
 r_1 + r_2 + \cdots + r_n = \frac{-a_{n-1}}{a_n}
-\\]
+$$
 
-\\[
+$$
 r_1 r_2 \cdots r_n = \frac{(-1)^n a_0}{a_n}
-\\]
+$$
 
 The quadratic case is treated in detail in the page on [trinomials](../trinomials/).
 
@@ -133,9 +133,9 @@ The quadratic case is treated in detail in the page on [trinomials](../trinomial
 
 For polynomials of degree 1 and 2, exact formulas are elementary. A linear polynomial \\(ax + b\\) has the unique root \\(x = -b/a\\). For a quadratic \\(ax^2 + bx + c\\), the roots are given by the quadratic formula:
 
-\\[
+$$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\\]
+$$
 
 The quantity \\(\Delta = b^2 - 4ac\\) is the discriminant.
 

@@ -7,9 +7,9 @@ https://algebrica.org/equations/
 
 An equation is a mathematical statement asserting that two expressions take the same value, typically written in the form \\( F(x) = G(x) \\), where one or more variables act as unknowns ranging over some specified [set](../types-of-numbers/), such as \\( \mathbb{R} \\) or \\( \mathbb{C} \\). To solve an equation is to determine every value of the variable, within the appropriate [domain](../determining-the-domain-of-a-function/), for which the equality holds. Many equations can be reorganized into the form:
 
-\\[
+$$
 F(x) = 0
-\\]
+$$
 
 a representation that simplifies their study, highlights their structure, and provides a unified framework for approaching different methods of solution.
 
@@ -43,9 +43,9 @@ Other operations can disrupt equivalence in less obvious ways. Multiplying both 
 
 Algebraic equations are equations in which both sides consist entirely of [polynomials](../polynomials/). A polynomial in one variable is a formal expression of the form
 
-\\[
+$$
 P(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \cdots + a_{1}x + a_{0}
-\\]
+$$
 
 where \\( n \\) is a non-negative integer, the coefficients \\( a_0, a_1, \ldots, a_n \\) belong to some fixed field (typically \\( \mathbb{R} \\) or \\( \mathbb{C} \\)), and \\( a_n \neq 0 \\) when \\( n \geq 1 \\). The [integer](../integers/) \\( n \\) is the degree of the polynomial. An algebraic equation then takes the form \\( P(x) = Q(x) \\), or equivalently \\( P(x) - Q(x) = 0 \\), which reduces the problem to finding the roots of a single polynomial. Algebraic equations are classified according to the degree of the polynomial involved.
 
@@ -68,9 +68,9 @@ Among higher-degree equations, [binomial](../binomial-equations/) and [trinomial
 
 [Rational equations](../rational-equations/) are equations that contain at least one fractional expression whose numerator and denominator are polynomials. In their most general form, they involve a ratio of polynomials on both sides, and can always be reduced to the form
 
-\\[
+$$
 \frac{P(x)}{Q(x)} = 0
-\\]
+$$
 
 by transferring all terms to one side and combining them over a common denominator, with the restriction that \\( Q(x) \neq 0 \\). A standard approach is to clear denominators by multiplying both sides by the least common multiple of all denominators in the equation, thereby transforming the problem into a polynomial equation. 
 
@@ -81,9 +81,9 @@ by transferring all terms to one side and combining them over a common denominat
 
 [Irrational equations](../irrational-equations/) have variables inside a radical. Typically, such equations have one radical, for example:
 
-\\[
-\sqrt[n]{\\,f(x)\\,} = g(x)
-\\]
+$$
+\sqrt[n]{\,f(x)\,} = g(x)
+$$
 
 where \\( f(x) \\) and \\( g(x) \\) are polynomials with real coefficients, and the standard technique consists of isolating the radical and raising both sides to the \\( n \\)-th power to eliminate it. When the equation contains more than one radical, this process must be applied iteratively. After each step, a new radical is isolated, and the procedure is repeated until none remain. Each time both sides are raised to a power, the transformation is not equivalence-preserving and may introduce extraneous solutions. 
 

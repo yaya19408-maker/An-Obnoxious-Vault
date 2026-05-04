@@ -63,15 +63,15 @@ As an example, the set \\(W = \{(x, y) \in \mathbb{R}^2 : y = 2x\}\\) is a subsp
 
 A set of vectors \\(\\{\mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n\\}\\) in \\(V\\) is called linearly independent if the only solution to the equation
 
-\\[
+$$
 \alpha_1 \mathbf{v}_1 + \alpha_2 \mathbf{v}_2 + \cdots + \alpha_n \mathbf{v}_n = \mathbf{0}
-\\]
+$$
 
 is \\(\alpha_1 = \alpha_2 = \cdots = \alpha_n = 0\\). A set of vectors that is not linearly independent is called linearly dependent, meaning that at least one vector in the set can be expressed as a [linear combination](../linear-combinations/) of the others. A basis of \\(V\\) is a linearly independent set of vectors that spans \\(V\\), meaning every vector in \\(V\\) can be written as a linear combination of the basis vectors. The representation of any vector in terms of a given basis is unique. If 
-\\[\mathbf{v} = \alpha_1 \mathbf{v}_1 + \cdots + \alpha_n \mathbf{v}_n = \beta_1 \mathbf{v}_1 + \cdots + \beta_n \mathbf{v}_n\\]
+$$\mathbf{v} = \alpha_1 \mathbf{v}_1 + \cdots + \alpha_n \mathbf{v}_n = \beta_1 \mathbf{v}_1 + \cdots + \beta_n \mathbf{v}_n$$
 
 then subtracting yields: 
-\\[(\alpha_1 - \beta_1)\mathbf{v}_1 + \cdots + (\alpha_n - \beta_n)\mathbf{v}_n = \mathbf{0}\\]
+$$(\alpha_1 - \beta_1)\mathbf{v}_1 + \cdots + (\alpha_n - \beta_n)\mathbf{v}_n = \mathbf{0}$$
 
 and linear independence forces \\(\alpha_k = \beta_k\\) for all \\(k\\).
 
@@ -81,9 +81,9 @@ One of the fundamental theorems of linear algebra states that any two bases of t
 
 The standard basis of \\(\mathbb{R}^n\\) consists of the \\(n\\) vectors \\(\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\\), where \\(\mathbf{e}_k\\) has a \\(1\\) in position \\(k\\) and \\(0\\) everywhere else. For example, in \\(\mathbb{R}^3\\) the standard basis is the following:
 
-\\[
+$$
 \mathbf{e}_1 = (1, 0, 0), \quad \mathbf{e}_2 = (0, 1, 0), \quad \mathbf{e}_3 = (0, 0, 1)
-\\]
+$$
 
 Every [vector](../vectors/) \\((a, b, c) \in \mathbb{R}^3\\) can be written uniquely as \\(a\\,\mathbf{e}_1 + b\\,\mathbf{e}_2 + c\\,\mathbf{e}_3\\), confirming that these three vectors form a basis and that \\(\dim \mathbb{R}^3 = 3\\).
 
@@ -92,21 +92,21 @@ Every [vector](../vectors/) \\((a, b, c) \in \mathbb{R}^3\\) can be written uniq
 
 A linear map, or linear transformation, is a function \\(\varphi : V \to W\\) between two vector spaces over the same field \\(F\\) that preserves the vector space structure. Explicitly, \\(\varphi\\) is linear if for all \\(\mathbf{u}, \mathbf{v} \in V\\) and all \\(\alpha \in F\\) the following two conditions hold:
 
-\\[\varphi(\mathbf{u} + \mathbf{v}) = \varphi(\mathbf{u}) + \varphi(\mathbf{v})\\]
-\\[ \varphi(\alpha \cdot \mathbf{v}) = \alpha \cdot \varphi(\mathbf{v})\\]
+$$\varphi(\mathbf{u} + \mathbf{v}) = \varphi(\mathbf{u}) + \varphi(\mathbf{v})$$
+$$ \varphi(\alpha \cdot \mathbf{v}) = \alpha \cdot \varphi(\mathbf{v})$$
 
 These two conditions can be combined into the single requirement that \\(\varphi(\alpha \mathbf{u} + \beta \mathbf{v}) = \alpha\varphi(\mathbf{u}) + \beta\varphi(\mathbf{v})\\) for all \\(\alpha, \beta \in F\\) and \\(\mathbf{u}, \mathbf{v} \in V\\). A linear map that is bijective is called a linear isomorphism, and two vector spaces are isomorphic if a linear isomorphism between them exists. A fundamental result states that every \\(n\\)-dimensional vector space over \\(F\\) is isomorphic to \\(F^n,\\) so finite-dimensional vector spaces are completely classified by their dimension and their scalar field.
 
 The kernel and image of a linear map \\(\varphi : V \to W\\) are defined as follows:
 
-\\[\ker(\varphi) = \\{\mathbf{v} \in V : \varphi(\mathbf{v}) = \mathbf{0}\\}\\]
-\\[\mathrm{im}(\varphi) = \\{\varphi(\mathbf{v}) : \mathbf{v} \in V\\}\\]
+$$\ker(\varphi) = \{\mathbf{v} \in V : \varphi(\mathbf{v}) = \mathbf{0}\}$$
+$$\mathrm{im}(\varphi) = \{\varphi(\mathbf{v}) : \mathbf{v} \in V\}$$
 
 Both \\(\ker(\varphi)\\) and \\(\mathrm{im}(\varphi)\\) are subspaces of \\(V\\) and \\(W\\) respectively. The dimension theorem, also known as the rank-nullity theorem, states that for any linear map between finite-dimensional spaces the following identity holds:
 
-\\[
+$$
 \dim V = \dim \ker(\varphi) + \dim \mathrm{im}(\varphi)
-\\]
+$$
 
 The dimension of \\(\mathrm{im}(\varphi)\\) is called the rank of \\(\varphi\\) and the dimension of \\(\ker(\varphi)\\) is called its nullity. The rank-nullity theorem is one of the central results of linear algebra and underlies the theory of [systems of linear equations](../systems-of-linear-equations/), the analysis of [matrices](../matrices/), and the classification of linear maps between finite-dimensional spaces.
 
@@ -115,23 +115,23 @@ The dimension of \\(\mathrm{im}(\varphi)\\) is called the rank of \\(\varphi\\) 
 
 Consider the linear map \\(\varphi : \mathbb{R}^3 \to \mathbb{R}^2\\) defined by the following assignment:
 
-\\[
-\varphi(x, y, z) = (x + y,\\; y + z)
-\\]
+$$
+\varphi(x, y, z) = (x + y,\; y + z)
+$$
 
 To verify linearity, one checks that:
  
-\\[\varphi(\mathbf{u} + \mathbf{v}) = \varphi(\mathbf{u}) + \varphi(\mathbf{v})\\] 
-\\[\varphi(\alpha \mathbf{v}) = \alpha \varphi(\mathbf{v})\\] 
+$$\varphi(\mathbf{u} + \mathbf{v}) = \varphi(\mathbf{u}) + \varphi(\mathbf{v})$$ 
+$$\varphi(\alpha \mathbf{v}) = \alpha \varphi(\mathbf{v})$$ 
 
 hold for all vectors and scalars, which follows immediately from the linearity of addition and scalar multiplication in \\(\mathbb{R}^3\\). The kernel consists of all vectors \\((x, y, z)\\) satisfying \\(x + y = 0\\) and \\(y + z = 0\\), that is, \\(x = -y\\) and \\(z = -y\\). Every element of \\(\ker(\varphi)\\) therefore has the form:
 
- \\[(-y, y, -y) = y(-1, 1, -1)\\] 
+ $$(-y, y, -y) = y(-1, 1, -1)$$ 
 
 for some \\(y \in \mathbb{R}\\), so the kernel is the one-dimensional subspace spanned by \\((-1, 1, -1)\\). The image is all of \\(\mathbb{R}^2\\), since for any \\((a, b) \in \mathbb{R}^2\\) the vector \\((a, 0, b)\\) satisfies \\(\varphi(a, 0, b) = (a, b)\\), which shows that \\(\varphi\\) is surjective and thus \\(\dim \mathrm{im}(\varphi) = 2\\). The rank-nullity theorem is verified:
 
-\\[
+$$
 \dim \mathbb{R}^3 = \dim \ker(\varphi) + \dim \mathrm{im}(\varphi) = 1 + 2 = 3
-\\]
+$$
 
 The solution is therefore that \\(\ker(\varphi)\\) is the line through the origin in direction \\((-1, 1, -1)\\) and \\(\mathrm{im}(\varphi) = \mathbb{R}^2\\).

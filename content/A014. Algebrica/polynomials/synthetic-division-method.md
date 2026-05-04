@@ -6,9 +6,9 @@ Source: algebrica.org — CC BY-NC 4.0
 
 The synthetic division (or Ruffini's rule) is a method for dividing a polynomial by a binomial of the form \\((x - a)\\). It is widely used to factorize [polynomials](../polynomials) and to simplify the resolution of [equations](../equations) of degree higher than two, especially when these cannot be reduced to [quadratic equations](../quadratic-equations), [monomials](../monomials), or standard [trinomials](../trinomials). When \\(a\\) is a [root](../roots-of-a-polynomial/) of a polynomial \\(P(x)\\) of degree \\(n\\) and the [binomial](../binomials/) \\((x - r)\\) is a factor of \\(P(x)\\) we can write:
 
-\\[
-P(x) = (x - r)\\, Q(x)
-\\]
+$$
+P(x) = (x - r)\, Q(x)
+$$
 where \\(Q(x)\\) is a polynomial of degree \\(n - 1\\).
 
 - - -
@@ -26,15 +26,15 @@ Although this method is often used in conjunction with the rational root theorem
 
 The rational root theorem is used to find the rational roots of a polynomial with integer coefficients, when they exist. Consider a polynomial of the form:
 
-\\[
+$$
 P(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \dotsb + a_{1}x + a_{0}
-\\]
+$$
 
 where the coefficients \\(a_n, a_{n-1}, \dotsc, a_0 \in \mathbb{Z}\\) and \\(a_n \neq 0\\). The rational root theorem states that if \\(P(x)\\) admits a rational root, then that root can always be written as:
 
-\\[
+$$
 r = \frac{p}{q}
-\\]
+$$
 
 where \\(p\\) and \\(q\\) are coprime integers, \\(p\\) is a divisor of the constant term \\(a_0\\) and \\(q\\) is a divisor of the leading coefficient \\(a_n\\). Both positive and negative divisors are admitted, since the sign of \\(r\\) depends on the signs of \\(p\\) and \\(q\\). In this way it is possible to reduce the search for rational solutions to a finite list of possible candidates, obtained by combining the divisors of \\(a_0\\) with those of \\(a_n\\).
 
@@ -46,15 +46,15 @@ where \\(p\\) and \\(q\\) are coprime integers, \\(p\\) is a divisor of the cons
 
 To illustrate how the method works, consider a polynomial \\(P(x)\\) of degree \\(n\\) with real coefficients:
 
-\\[
+$$
 P(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \dotsb + a_{1}x + a_{0}
-\\]
+$$
 
 Dividing \\(P(x)\\) by a binomial of the form \\((x - r)\\), with \\(r\\) real, the result can be written as:
 
-\\[
-P(x) = (x - r)\\, Q(x) + R
-\\]
+$$
+P(x) = (x - r)\, Q(x) + R
+$$
 
 \\(Q(x)\\), the quotient, is a polynomial of degree \\(n - 1\\). \\(R\\) is the remainder (a real constant) and, by the remainder theorem, coincides with the value of \\(P\(r\)\\). Moreover, if \\(r\\) is a root of \\(P(x)\\), the remainder is zero and \\((x - r)\\) becomes a factor of the polynomial.
 
@@ -77,139 +77,139 @@ After \\(n\\) iterations the procedure stops, and you have both the quotient and
 
 Let us examine a concrete example. Consider the polynomial:
 
-\\[
+$$
 P(x) = x^3 - 6x^2 + 11x - 6
-\\]
+$$
 
 We want to identify its rational roots using the rational root theorem. According to the theorem, any rational root must have the form:
 
-\\[
+$$
 r = \frac{p}{q}
-\\]
+$$
 
 where \\(p\\) divides the constant term \\(a_0 = -6\\) and \\(q\\) divides the leading coefficient \\(a_3 = 1\\). Since the only divisors of \\(1\\) are \\(\pm 1\\), the set of possible rational roots is:
 
-\\[
-r \in \\{\, \pm 1,\ \pm 2,\ \pm 3,\ \pm 6 \,\\}
-\\]
+$$
+r \in \{\, \pm 1,\ \pm 2,\ \pm 3,\ \pm 6 \,\}
+$$
 
 To determine which of these candidates is an actual root, we evaluate \\(P(x)\\) at each value. Testing \\(x = 1\\):
 
-\\[
+$$
 \begin{align}
-P(1) &= 1^3 - 6 \cdot 1^2 + 11 \cdot 1 - 6 \\\\[6pt]
-     &= 1 - 6 + 11 - 6 \\\\[6pt]
+P(1) &= 1^3 - 6 \cdot 1^2 + 11 \cdot 1 - 6 \[6pt]
+     &= 1 - 6 + 11 - 6 \[6pt]
      &= 0
 \end{align}
-\\]
+$$
 
 Since \\(P(1) = 0\\), we conclude that \\(x = 1\\) is a root of the polynomial, and we can therefore apply synthetic division to divide \\(P(x)\\) by \\((x - 1)\\).
 
 We begin by setting up the table. In the top row we insert the coefficients of \\(P(x)\\) in order of decreasing degree. If a coefficient of a certain degree were missing, we would write \\(0\\) in its place. To the left we place the value of the root, which is \\(1\\). The bottom row is initially empty and will be filled during the procedure.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &    &    &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &    &    &    \[4pt]
 \hline
   &   &    &    &
 \end{array}
-\\]
+$$
 
 We bring down the leading coefficient unchanged, placing it as the first entry of the bottom row.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &    &    &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &    &    &    \[4pt]
 \hline
   & 1 &    &    &
 \end{array}
-\\]
+$$
 
 Multiply the root by the value just written in the bottom row, and place the product in the middle row above the next coefficient.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 &    &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 &    &    \[4pt]
 \hline
   & 1 &    &    &
 \end{array}
-\\]
+$$
 
 Sum the coefficient in the top row with the product in the middle row, and write the result in the bottom row.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 &    &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 &    &    \[4pt]
 \hline
   & 1 & -5 &    &
 \end{array}
-\\]
+$$
 
 Multiply the root by the new value in the bottom row, and place the product above the next coefficient.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 & -5 &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 & -5 &    \[4pt]
 \hline
   & 1 & -5 &    &
 \end{array}
-\\]
+$$
 
 Sum the coefficient with the product, and write the result in the bottom row.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 & -5 &    \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 & -5 &    \[4pt]
 \hline
   & 1 & -5 &  6 &
 \end{array}
-\\]
+$$
 
 Repeat the multiplication for the last column.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 & -5 &  6 \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 & -5 &  6 \[4pt]
 \hline
   & 1 & -5 &  6 &
 \end{array}
-\\]
+$$
 
 Finally, sum the last coefficient with the product to obtain the remainder.
 
-\\[
+$$
 \begin{array}{c|cccc}
-  & 1 & -6 & 11 & -6 \\\\[4pt]
-1 &   &  1 & -5 &  6 \\\\[4pt]
+  & 1 & -6 & 11 & -6 \[4pt]
+1 &   &  1 & -5 &  6 \[4pt]
 \hline
   & 1 & -5 &  6 &  0
 \end{array}
-\\]
+$$
 
 The last entry of the bottom row is the remainder of the division, and in this case it is zero. This confirms that \\(x = 1\\) is a root of \\(P(x)\\) and that \\((x - 1)\\) is a factor of the polynomial. The preceding entries of the bottom row are the coefficients of the quotient \\(Q(x)\\), arranged in order of decreasing degree. Since the original polynomial has degree three, the quotient has degree two, and we obtain:
 
-\\[
+$$
 Q(x) = x^2 - 5x + 6
-\\]
+$$
 
 The polynomial can therefore be written as:
 
-\\[
+$$
 P(x) = (x - 1)(x^2 - 5x + 6)
-\\]
+$$
 
 The quadratic factor can be further decomposed by elementary techniques. The two numbers whose product is \\(6\\) and whose sum is \\(-5\\) are \\(-2\\) and \\(-3\\), so we can write:
 
-\\[
+$$
 x^2 - 5x + 6 = (x - 2)(x - 3)
-\\]
+$$
 
 Substituting this factorization into the previous expression, the polynomial \\(P(x)\\) admits the complete factorization \\(P(x) = (x - 1)(x - 2)(x - 3)\\), and its three roots are \\(1\\), \\(2\\) and \\(3\\).
 
@@ -234,24 +234,24 @@ Advancing through the iterations requires knowing a valid root, which makes find
 
 Suppose we want to divide the polynomial \\(P(x)\\) by the binomial \\(D(x)\\):
 
-\\[
+$$
 P(x) = x^3 - 3x^2 + 4x - 4
-\\]
-\\[
+$$
+$$
 D(x) = x - (1 + i)
-\\]
+$$
 
 As mentioned earlier, synthetic division only works with polynomials that have real coefficients and divisors of the form \\(x - r\\) with \\(r \in \mathbb{R}\\). In this example the divisor has the form \\(x - r\\), but the value \\(r = 1 + i\\) is a [complex number](../complex-numbers-introduction/) rather than a real one, and for the reason explained above the synthetic division table cannot be used to carry out the division.
 
 Consider now the case when \\(1 + i\\) is a root of the polynomial, evaluating \\(P(x)\\) at this value we obtain:
 
-\\[
+$$
 \begin{align}
-P(1 + i) &= (1 + i)^3 - 3(1 + i)^2 + 4(1 + i) - 4 \\\\[6pt]
-&= (-2 + 2i) - 6i + (4 + 4i) - 4 \\\\[6pt]
+P(1 + i) &= (1 + i)^3 - 3(1 + i)^2 + 4(1 + i) - 4 \[6pt]
+&= (-2 + 2i) - 6i + (4 + 4i) - 4 \[6pt]
 &= -2
 \end{align}
-\\]
+$$
 
 The nonzero result demonstrates that \\(1 + i\\) is not a root of \\(P(x)\\). Although division by \\(x - (1 + i)\\) is a valid operation, standard synthetic division is not applicable. Instead, polynomial long division must be used, as it is a general method that imposes no restrictions on the type of coefficients.
 

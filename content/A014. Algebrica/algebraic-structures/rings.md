@@ -17,13 +17,13 @@ A ring \\((R, +, \cdot)\\) is called commutative if \\(a \cdot b = b \cdot a\\) 
 
 Several consequences follow directly from the axioms. For any \\(a \in R\\), multiplication by the additive identity satisfies \\(a \cdot 0 = 0 \cdot a = 0\\). This is a consequence of distributivity. One writes:
 
-\\[a \cdot 0 = a \cdot (0 + 0) = a \cdot 0 + a \cdot 0\\]
+$$a \cdot 0 = a \cdot (0 + 0) = a \cdot 0 + a \cdot 0$$
 
 and then cancels \\(a \cdot 0\\) from both sides using the group structure of \\((R, +)\\). Similarly, for all \\(a, b \in R\\) one has the following identity:
 
-\\[
+$$
 (-a) \cdot b = a \cdot (-b) = -(a \cdot b)
-\\]
+$$
 
 In particular, \\((-1) \cdot a = -a\\) whenever \\(R\\) has a unity. These sign rules hold in any ring. 
 
@@ -85,7 +85,7 @@ The set \\(n\mathbb{Z}\\) of all multiples of a fixed integer \\(n\\) is an idea
 \\(\mathbb{Z}\\): for any \\(a = nk \in n\mathbb{Z}\\) and any \\(r \in \mathbb{Z}\\) 
 one has:
 
-\\[r \cdot a = n(rk) \in n\mathbb{Z}\\] 
+$$r \cdot a = n(rk) \in n\mathbb{Z}$$ 
 
 > Ideals are precisely the kernels of  ring homomorphisms, a fact that makes them the natural tool for constructing quotient rings and studying the structure of rings through their homomorphic images.
 
@@ -94,14 +94,14 @@ one has:
 
 A ring homomorphism is a [function](../functions/) between two rings that preserves both operations. Given two rings \\((R, +, \cdot)\\) and \\((S, \oplus, \odot)\\), a function \\(\varphi : R \to S\\) is a ring homomorphism if for all \\(a, b \in R\\):
 
-\\[\varphi(a + b) = \varphi(a) \oplus \varphi(b)\\] 
-\\[\varphi(a \cdot b) = \varphi(a) \odot \varphi(b)\\]
+$$\varphi(a + b) = \varphi(a) \oplus \varphi(b)$$ 
+$$\varphi(a \cdot b) = \varphi(a) \odot \varphi(b)$$
 
 The first condition requires that \\(\varphi\\) be a group homomorphism between the additive groups, and the second that it preserve multiplication. As a consequence, \\(\varphi\\) maps the additive identity of \\(R\\) to the additive identity of \\(S\\). If both rings are unital, one often additionally requires that \\(\varphi(1_R) = 1_S\\). The kernel and image of a ring homomorphism \\(\varphi : R \to S\\) are defined as in the case of groups:
 
-\\[
-\ker(\varphi) = \\{a \in R : \varphi(a) = 0_S\\} \\]
-\\[ \qquad \mathrm{im}(\varphi) = \\{\varphi(a) : a \in R\\}\\]
+$$
+\ker(\varphi) = \{a \in R : \varphi(a) = 0_S\} $$
+$$ \qquad \mathrm{im}(\varphi) = \{\varphi(a) : a \in R\}$$
 
 The kernel is always an ideal of \\(R\\), and the image is always a subring of \\(S\\). A homomorphism is injective if and only if its kernel contains only the additive identity of \\(R.\\)
 

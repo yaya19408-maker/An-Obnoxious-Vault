@@ -8,9 +8,9 @@ https://algebrica.org/real-numbers/
 
 The real numbers are introduced as a structure characterised by a combination of algebraic and order properties. These properties determine their behaviour and distinguish it from all other numerical fields. The real numbers form a [field](../fields/) under addition and multiplication. This means that both operations are associative and commutative, multiplication distributes over addition, and every nonzero real number admits a multiplicative inverse. The additive identity is \\(0\\) and the multiplicative identity is \\(1\\). The algebraic axioms underlying this structure are discussed in detail in [Properties of Real Numbers](../properties-of-real-numbers/). Beyond its algebraic structure, \\(\mathbb{R}\\) carries a total order relation, denoted \\(<\\): for any two elements \\(x, y \in \mathbb{R}\\), exactly one of the following three relations holds:
 
-\\[
+$$
 x < y \qquad x = y \qquad y < x
-\\]
+$$
 
 The order is compatible with the field operations. 
 
@@ -33,9 +33,9 @@ The formulation relies on the notion of an upper bound. A subset \\(S \subseteq 
 
 The completeness axiom of the real numbers can be stated as follows: every non-empty subset of \\(\mathbb{R}\\) that is bounded above has a [supremum](../supremum-and-infimum/) in \\(\mathbb{R}\\). This statement is known as the least upper bound property. The rational numbers fail to satisfy it. To see why, consider the following set:
 
-\\[
-S = \\{ q \in \mathbb{Q} : q^2 < 2 \\}
-\\]
+$$
+S = \{ q \in \mathbb{Q} : q^2 < 2 \}
+$$
 
 This set is non-empty and bounded above within \\(\mathbb{Q}\\), yet it has no least upper bound in \\(\mathbb{Q}\\). The value \\(\sqrt{2}\\), which plays the role of \\(\sup S\\), is irrational and therefore absent from \\(\mathbb{Q}\\). In \\(\mathbb{R}\\), the number \\(\sqrt{2}\\) exists and one has \\(\sup S = \sqrt{2}\\).
 
@@ -60,9 +60,9 @@ A Dedekind cut is a subset \\(A \subseteq \mathbb{Q}\\) satisfying three conditi
 
 To illustrate, the rational number \\(r \in \mathbb{Q}\\) corresponds to the cut \\(A_r = \\{ q \in \mathbb{Q} : q < r \\}\\). An irrational number such as \\(\sqrt{2}\\) corresponds instead to the cut:
 
-\\[
-A = \\{ q \in \mathbb{Q} : q < 0 \\} \cup \\{ q \in \mathbb{Q} : q > 0 \text{ and } q^2 < 2 \\}.
-\\]
+$$
+A = \{ q \in \mathbb{Q} : q < 0 \} \cup \{ q \in \mathbb{Q} : q > 0 \text{ and } q^2 < 2 \}.
+$$
 
 This set satisfies all three conditions, yet has no rational supremum in \\(\mathbb{Q}\\): the cut carves out a position on the rational line where no rational number sits, and it is precisely this gap that the construction fills by declaring \\(A\\) itself to be a real number.
 
@@ -70,9 +70,9 @@ This set satisfies all three conditions, yet has no rational supremum in \\(\mat
 
 The algebraic structure of \\(\mathbb{R}\\) is then built directly from set-theoretic operations on cuts. Addition is defined by setting:
 
-\\[
-A + B = \\{ p + q : p \in A,\\, q \in B \\}
-\\]
+$$
+A + B = \{ p + q : p \in A,\, q \in B \}
+$$
 
 The order is given by inclusion: \\(A \leq B\\) if and only if \\(A \subseteq B\\). One verifies that these definitions make \\(\mathbb{R}\\) into a totally ordered field. The completeness of \\(\mathbb{R}\\) in this construction has the following proof: given a non-empty collection \\(S\\) of cuts that is bounded above, the supremum is the union \\(\bigcup_{A \in S} A\\), which is itself a cut and is the least upper bound of \\(S\\) by construction.
 
@@ -83,32 +83,32 @@ The order is given by inclusion: \\(A \leq B\\) if and only if \\(A \subseteq B\
 
 A second construction of \\(\mathbb{R}\\) starts from a limitation of \\(\mathbb{Q}\\). Not every [Cauchy sequence](../cauchy-sequence/) of rational numbers converges to a rational number. A sequence \\((x_n)_{n \in \mathbb{N}}\\) in \\(\mathbb{Q}\\) is a Cauchy sequence if for every \\(\varepsilon \in \mathbb{Q}^+\\) there exists \\(N \in \mathbb{N}\\) such that:
 
-\\[
+$$
 m, n \geq N \implies |x_m - x_n| < \varepsilon
-\\]
+$$
 
 The terms of the sequence cluster together without the sequence needing to refer to a [limit](../limits/), which may not yet exist in \\(\mathbb{Q}\\). The sequence of rational approximations to \\(\sqrt{2}\\) is a standard example:
 
-\\[
+$$
 \left(1,\, \frac{3}{2},\, \frac{7}{5},\, \frac{17}{12},\, \ldots\right)
-\\]
+$$
 
 It is Cauchy in \\(\mathbb{Q}\\), yet its limit lies outside \\(\mathbb{Q}\\). Two Cauchy sequences \\((x_n)\\) and \\((y_n)\\) in \\(\mathbb{Q}\\) are declared equivalent if their difference tends to zero:
 
-\\[
+$$
 (x_n) \sim (y_n) \iff \lim_{n \to \infty} |x_n - y_n| = 0
-\\]
+$$
 
 One verifies that \\(\sim\\) is an equivalence relation. The real numbers are then defined as the set of equivalence classes:
 
-\\[
+$$
 \mathbb{R} := C/{\sim}
-\\]
+$$
 
 \\(C\\) denotes the collection of all Cauchy sequences in \\(\mathbb{Q}\\). Addition and multiplication are defined termwise:
 
-\\[[(x_n)] + [(y_n)] = [(x_n + y_n)]\\]
-\\[ [(x_n)] \cdot [(y_n)] = [(x_n y_n)]\\]
+$$[(x_n)] + [(y_n)] = [(x_n + y_n)]$$
+$$ [(x_n)] \cdot [(y_n)] = [(x_n y_n)]$$
 
 These operations are well-defined, meaning independent of the choice of representative. The order is given by \\([(x_n)] \leq [(y_n)]\\) when either \\((x_n) \sim (y_n)\\) or there exists \\(N \in \mathbb{N}\\) such that \\(x_n < y_n\\) for all \\(n \geq N\\). The rational numbers embed into \\(\mathbb{R}\\) via \\(q \mapsto [(q, q, q, \ldots)]\\) preserving both operations and order.
 

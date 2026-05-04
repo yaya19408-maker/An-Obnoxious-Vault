@@ -13,15 +13,15 @@ Although [real numbers](../real-numbers/) are frequently introduced via their al
 
 Consider a non-empty set \\( A \subseteq \mathbb{R} \\). A real number \\( M \\) is defined as an upper bound of \\( A \\) if:
 
-\\[ a \leq M \quad \forall \\, a \in A \\]
+$$ a \leq M \quad \forall \, a \in A $$
 
 If such a number exists, the set \\( A \\) is bounded above. Similarly, a real number \\( m \\) is a lower bound of \\( A \\) if:
 
-\\[ a \geq m \quad \forall \\, a \in A \\]
+$$ a \geq m \quad \forall \, a \in A $$
 
 In this case, \\( A \\) is bounded below. A set is considered bounded if it is both bounded above and below, that is, there exists \\( K > 0 \\) such that:
 
-\\[ |a| \leq K \quad \forall \\, a \in A \\]
+$$ |a| \leq K \quad \forall \, a \in A $$
 
 Upper bounds, when they exist, are generally not unique. For example, if \\( M \\) is an upper bound of \\( A \\), then \\( M + 1 \\) and \\( M + 100 \\) are also upper bounds. The same applies symmetrically to lower bounds. If \\( m \\) is a lower bound of \\( A \\), so is \\( m - 1 \\). The least upper bound is called the supremum, and the greatest lower bound is called the infimum.
 
@@ -36,14 +36,14 @@ Upper bounds, when they exist, are generally not unique. For example, if \\( M \
 ## Supremum
 
 Consider a non-empty subset \\( A \subseteq \mathbb{R} \\) that is bounded above. The supremum of \\( A \\), denoted \\( \sup A \\), is defined as its least upper bound. A real number \\( s \\) is equal to \\( \sup A \\) if and only if both of the following conditions are satisfied. The first condition says that \\( s \\) is an upper bound of \\( A \\):
-\\[ a \leq s \quad \forall \\, a \in A \\]
+$$ a \leq s \quad \forall \, a \in A $$
 
 The second condition ensures that any number strictly less than \\( s \\) is exceeded by some element of \\( A \\):
-\\[ \forall \\; \varepsilon > 0 \quad \exists \\, a \in A : a > s - \varepsilon \\]
+$$ \forall \; \varepsilon > 0 \quad \exists \, a \in A : a > s - \varepsilon $$
 
 Together, these conditions determine \\( s \\). There can be only one least upper bound. If both \\( s \\) and \\( s' \\) satisfy the definition, then we have:
 
-\\[ s \leq s' \\, \wedge \\, s' \leq s \\, \to s = s' \\]
+$$ s \leq s' \, \wedge \, s' \leq s \, \to s = s' $$
 
 An equivalent characterisation states that \\( s = \sup A \\) if and only if \\( s \\) is an upper bound of \\( A \\) and there exists a [sequence](../sequences/) \\( (a_n) \subseteq A \\) such that \\( a_n \to s \\).
 
@@ -54,15 +54,15 @@ An equivalent characterisation states that \\( s = \sup A \\) if and only if \\(
 
 Consider a non-empty subset \\( A \subseteq \mathbb{R} \\) that is bounded below. The infimum of \\( A \\), denoted \\( \inf A \\), is defined as its greatest lower bound. A real number \\( i \\) is equal to \\( \inf A \\) if and only if both of the following conditions are satisfied. The first condition says that \\( i \\) is a lower bound of \\( A \\):
 
-\\[ a \geq i \quad \forall \\, a \in A \\]
+$$ a \geq i \quad \forall \, a \in A $$
 
 The second condition ensures that any number strictly greater than \\( i \\) is preceded by some element of \\( A \\):
 
-\\[ \forall \\; \varepsilon > 0 \quad \exists \\, a \in A : a < i + \varepsilon \\]
+$$ \forall \; \varepsilon > 0 \quad \exists \, a \in A : a < i + \varepsilon $$
 
 Together, these conditions uniquely determine \\( i \\). There can be only one greatest lower bound. If both \\( i \\) and \\( i' \\) satisfy the definition, then we have
 
-\\[ i \geq i' \\, \wedge \\, i' \geq i \\, \to i = i' \\]
+$$ i \geq i' \, \wedge \, i' \geq i \, \to i = i' $$
 
 An equivalent characterisation states that \\( i = \inf A \\) if and only if \\( i \\) is a lower bound of \\( A \\) and there exists a [sequence](../sequences/) \\( (a_n) \subseteq A \\) such that \\( a_n \to i \\).
 
@@ -71,11 +71,11 @@ An equivalent characterisation states that \\( i = \inf A \\) if and only if \\(
 
 The relationship between supremum and maximum, as well as between infimum and minimum, is frequently misunderstood. The maximum of a set \\( A \\) is defined as an element of \\( A \\) that is greater than or equal to every other element. When a maximum exists we have:
 
-\\[ \max A = \sup A \\]
+$$ \max A = \sup A $$
 
 The supremum does not necessarily belong to the set \\( A \\). For example, consider \\( A = (0, 1) \\). Every element of \\( A \\) is strictly less than 1, so \\( \sup A = 1 \\). Since \\( 1 \notin A \\), the set \\( A \\) does not possess a maximum. The number 1 serves as the least upper bound, but it is not an element of \\( A \\). Similarly, \\( \inf A = 0 \\), yet \\( 0 \notin A \\), so \\( A \\) lacks a minimum. In contrast, for \\( B = [0,1] \\) we have:
 
-\\[ \sup B = \max B = 1 \qquad \inf B = \min B = 0 \\]
+$$ \sup B = \max B = 1 \qquad \inf B = \min B = 0 $$
 
 since the boundary points are included in the set. 
 
@@ -83,8 +83,8 @@ since the boundary points are included in the set.
 
 In general, the following holds:
 
-\\[ \max A \text{ exists} \to \max A = \sup A \\]
-\\[ \min A \text{ exists} \to \min A = \inf A \\]
+$$ \max A \text{ exists} \to \max A = \sup A $$
+$$ \min A \text{ exists} \to \min A = \inf A $$
 
 The converse does not hold in general. Whether a function actually attains its supremum is a non-trivial question. The [Weierstrass theorem](../weierstrass-theorem/) gives a sufficient condition: if a function is continuous on a closed and bounded interval, then the supremum and infimum are attained, and the maximum and minimum exist. Outside these conditions, the question must be examined case by case.
 
@@ -93,11 +93,11 @@ The converse does not hold in general. Whether a function actually attains its s
 
 The concepts of supremum and infimum extend naturally to [functions](../functions/). For a function \\( f : D \to \mathbb{R} \\), the supremum of \\( f \\) over \\( D \\) is defined as the supremum of its image:
 
-\\[ \sup_{x \in D} f(x) = \sup \{ f(x) : x \in D \} \\]
+$$ \sup_{x \in D} f(x) = \sup \{ f(x) : x \in D \} $$
 
 Similarly, the infimum is defined as:
 
-\\[ \inf_{x \in D} f(x) = \inf \{ f(x) : x \in D \} \\]
+$$ \inf_{x \in D} f(x) = \inf \{ f(x) : x \in D \} $$
 
 These quantities represent the least upper bound and greatest lower bound of the values assumed by \\( f \\), without requiring that these bounds are actually attained. 
 
@@ -114,10 +114,10 @@ The supremum and infimum of a function are not necessarily attained. For instanc
 
 The \\( \varepsilon \\)-characterisation of the supremum and infimum is more than a definitional detail; it is the form in which these concepts most frequently appear in proofs. This characterisation is often presented as a standalone property. If \\( s = \sup A \\), then for every \\( \varepsilon > 0 \\) there exists an element \\( a \in A \\) such that
 
-\\[ s - \varepsilon < a \leq s \\]
+$$ s - \varepsilon < a \leq s $$
 
 Equivalently, no number strictly less than \\( s \\) serves as an upper bound for \\( A \\). The analogous statement applies to the infimum: if \\( i = \inf A \\), then for every \\( \varepsilon > 0 \\) there exists \\( a \in A \\) such that:
 
-\\[ i \leq a < i + \varepsilon. \\]
+$$ i \leq a < i + \varepsilon. $$
 
 This property is used throughout analysis whenever one needs to extract elements of a set arbitrarily close to its supremum or infimum, and it appears naturally in existence arguments such as the proof of the Bolzano-Weierstrass theorem and the construction of the [Riemann integral](../riemann-integrability-criteria/).

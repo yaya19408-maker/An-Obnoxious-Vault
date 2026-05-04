@@ -7,17 +7,17 @@ https://algebrica.org/hyperbolic-tangent-and-cotangent/
 
 The hyperbolic tangent and cotangent arise from the hyperbolic sine and cosine in exactly the same way that the circular [tangent and cotangent](../tangent-and-cotangent/) arise from the circular [sine and cosine](../sine-and-cosine/). Given the [hyperbolic sine and cosine](../hyperbolic-sine-and-cosine/), both introduced in relation to the right branch of the equilateral [hyperbola](https://algebrica.org/hyperbola/):
 
-\\[
+$$
 X^{2} – Y^{2} = 1
-\\]
+$$
 
 The hyperbolic tangent is defined as their ratio, provided that \\(\cosh(x)\\) is not zero. Since \\(\cosh(x) \geq 1\\) for all real \\(x\\), the denominator is never zero, and the hyperbolic tangent is therefore defined on the entire real line. The hyperbolic cotangent involves the reciprocal ratio and requires \\(\sinh(x) \neq 0\\), which excludes only \\(x = 0\\).
 
 Once the point \\(P(\cosh(x), \sinh(x))\\) on the hyperbola has been identified as the one corresponding to a signed hyperbolic sector of area \\(x/2\\), the hyperbolic tangent and cotangent can be read from its coordinates. The hyperbolic tangent is the ratio of the vertical coordinate to the horizontal coordinate:
 
-\\[
+$$
 \tanh(x) := \frac{\sinh(x)}{\cosh(x)}
-\\]
+$$
 
 > To make the construction more intuitive, consider the unit hyperbola \\( x^2 - y^2 = 1 \\) and the point \\( P = (\cosh x, \sinh x) \\), associated with a hyperbolic angle \\( x \\). Draw the [line](../lines/) passing through the origin \\( O \\) and \\( P \\), and consider the vertical line \\( x = 1 \\). Their intersection defines the point \\( T \\), which has coordinates \\( T = (1, \tanh x) \\), since the slope of the line \\( OP \\) is \\( \sinh x/ \cosh x = \tanh x \\). The vertical segment joining \\( (1,0) \\) to \\( T \\) therefore represents geometrically the length of the hyperbolic tangent.
 
@@ -25,9 +25,9 @@ Once the point \\(P(\cosh(x), \sinh(x))\\) on the hyperbola has been identified 
 
 The hyperbolic cotangent is the reciprocal ratio, that is, the horizontal coordinate divided by the vertical one:
 
-\\[
+$$
 \coth(x) := \frac{\cosh(x)}{\sinh(x)}
-\\]
+$$
 
 > As in the case illustrated above for the hyperbolic tangent, to make the construction more intuitive, consider the unit hyperbola \\( x^2 - y^2 = 1 \\) and the point \\( P = (\\cosh x, \\sinh x) \\), associated with a hyperbolic angle \\( x \\). Draw the [line](../lines/) passing through the origin \\( O \\) and \\( P \\), and consider the horizontal line \\( y = 1 \\). Their intersection defines the point \\( S \\), which has coordinates \\( S = (\\coth x, 1) \\), since the slope of the line \\( OP \\) is \\( \\sinh x / \\cosh x = \\tanh x \\), and thus its reciprocal gives \\( \\coth x = \\cosh x / \\sinh x \\). The horizontal segment joining \\( (0,1) \\) to \\( S \\) therefore represents geometrically the length of the hyperbolic cotangent.
 
@@ -40,38 +40,38 @@ In this geometric picture, the hyperbolic tangent and cotangent measure a kind o
 
 The hyperbolic tangent and cotangent satisfy an identity that follows directly from the [fundamental hyperbolic identity](https://algebrica.org/hyperbolic-sine-and-cosine/). Starting from:
 
-\\[
+$$
 \cosh^{2}(x) – \sinh^{2}(x) = 1
-\\]
+$$
 
 and dividing both sides by \\(\cosh^{2}(x)\\), which is always positive, we obtain the identity for the hyperbolic tangent:
 
-\\[
+$$
 1 – \tanh^{2}(x) = \frac{1}{\cosh^{2}(x)}
-\\]
+$$
 
 Analogously, dividing the fundamental identity by \\(\sinh^{2}(x)\\) for \\(x \neq 0\\) gives the identity for the hyperbolic cotangent:
 
-\\[
+$$
 \coth^{2}(x) – 1 = \frac{1}{\sinh^{2}(x)}
-\\]
+$$
 
 Both identities record a direct consequence of the hyperbola equation: the coordinates of the point \\(P\\) are constrained to satisfy \\(X^{2} – Y^{2} = 1\\), and dividing by either coordinate squared translates this constraint into a relation involving the ratio functions.
 
 - - -
 ## Hyperbolic identities
 
-- \\[\text{1. } \quad \tanh(x+y) = \frac{\tanh(x) + \tanh(y)}{1 + \tanh(x)\\,\tanh(y)}\\]
+- $$\text{1. } \quad \tanh(x+y) = \frac{\tanh(x) + \tanh(y)}{1 + \tanh(x)\,\tanh(y)}$$
 
-- \\[\text{2. } \quad \tanh(x-y) = \frac{\tanh(x) – \tanh(y)}{1 – \tanh(x)\\,\tanh(y)}\\]
+- $$\text{2. } \quad \tanh(x-y) = \frac{\tanh(x) – \tanh(y)}{1 – \tanh(x)\,\tanh(y)}$$
 
-- \\[\text{3. } \quad \tanh(2x) = \frac{2\\,\tanh(x)}{1 + \tanh^{2}(x)}\\]
+- $$\text{3. } \quad \tanh(2x) = \frac{2\,\tanh(x)}{1 + \tanh^{2}(x)}$$
 
-- \\[\text{4. } \quad \coth(x+y) = \frac{1 + \coth(x)\\,\coth(y)}{\coth(x) + \coth(y)}\\]
+- $$\text{4. } \quad \coth(x+y) = \frac{1 + \coth(x)\,\coth(y)}{\coth(x) + \coth(y)}$$
 
-- \\[\text{5. } \quad \coth(x-y) = \frac{-1 + \coth(x)\\,\coth(y)}{\coth(x) – \coth(y)}\\]
+- $$\text{5. } \quad \coth(x-y) = \frac{-1 + \coth(x)\,\coth(y)}{\coth(x) – \coth(y)}$$
 
-- \\[\text{6. } \quad \tanh(x)\\,\coth(x) = 1\\]
+- $$\text{6. } \quad \tanh(x)\,\coth(x) = 1$$
 
 > The addition and subtraction formulas for the hyperbolic tangent and cotangent closely mirror their circular counterparts, but are governed by the algebra of the equilateral hyperbola. The last identity simply states that \\(\tanh\\) and \\(\coth\\) are reciprocal functions wherever both are defined.
 
@@ -80,26 +80,26 @@ Both identities record a direct consequence of the hyperbola equation: the coord
 
 Using the analytical expressions of the hyperbolic sine and cosine in terms of the [exponential function](../exponential-function/), we can write the hyperbolic tangent directly. Substituting:
 
-\\[ \sinh(x) = \frac{e^{x} – e^{-x}}{2}\\]
-\\[ \cosh(x) = \frac{e^{x} + e^{-x}}{2}\\]
+$$ \sinh(x) = \frac{e^{x} – e^{-x}}{2}$$
+$$ \cosh(x) = \frac{e^{x} + e^{-x}}{2}$$
 
 into the definition \\(\tanh(x) = \sinh(x)/\cosh(x)\\) and simplifying the factor \\(1/2\\) that appears in both numerator and denominator, we obtain:
 
-\\[
+$$
 \tanh(x) = \frac{e^{x} – e^{-x}}{e^{x} + e^{-x}}
-\\]
+$$
 
 An equivalent and often more compact form is obtained by multiplying numerator and denominator by \\(e^{-x}\\):
 
-\\[
+$$
 \tanh(x) = \frac{1 – e^{-2x}}{1 + e^{-2x}}
-\\]
+$$
 
 or, equivalently, by multiplying by \\(e^{x}\\):
 
-\\[
+$$
 \tanh(x) = \frac{e^{2x} – 1}{e^{2x} + 1}
-\\]
+$$
 
 All three expressions are equivalent and each makes apparent a different aspect of the function: in the first form, the numerator and denominator are the analytically defined [hyperbolic sine and cosine](../hyperbolic-sine-and-cosine/) themselves. In the latter two, the exponential growth as \\(x \to +\infty\\) or \\(x \to -\infty\\) becomes immediately visible, and from them one can read off at once that the function tends to \\(1\\) and \\(-1\\) respectively.
 
@@ -108,15 +108,15 @@ All three expressions are equivalent and each makes apparent a different aspect 
 
 The derivation of the analytical expression for the hyperbolic cotangent follows the same pattern. Substituting the expressions of \\(\sinh(x)\\) and \\(\cosh(x)\\) into the definition \\(\coth(x) = \cosh(x)/\sinh(x)\\), and again cancelling the common factor \\(1/2\\), we get:
 
-\\[
+$$
 \coth(x) = \frac{e^{x} + e^{-x}}{e^{x} – e^{-x}}
-\\]
+$$
 
 As before, multiplying numerator and denominator by \\(e^{-x}\\) or by \\(e^{x}\\) gives the equivalent forms:
 
-\\[
+$$
 \coth(x) = \frac{1 + e^{-2x}}{1 – e^{-2x}} = \frac{e^{2x} + 1}{e^{2x} – 1}
-\\]
+$$
 
 The latter expressions show that for large positive \\(x\\) the function approaches \\(1\\) from above, while for large negative \\(x\\) it approaches \\(-1\\) from below, with a vertical asymptote at \\(x = 0\\) in both cases.
 

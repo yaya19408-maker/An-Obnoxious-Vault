@@ -20,9 +20,9 @@ A group \\((G, \cdot)\\) is called abelian, or commutative, if in addition \\(a 
 
 Several consequences follow from the previous axioms. If \\(a \cdot b = a \cdot c\\) for some \\(a, b, c \in G\\), then multiplying both sides on the left by \\(a^{-1}\\) gives \\(b = c\\). This is the left cancellation law. The right cancellation law holds by an analogous argument. Together they imply that the equation \\(a \cdot x = b\\) has a unique solution \\(x = a^{-1} \cdot b\\) in \\(G\\) for any given \\(a, b \in G\\). The inverse of a product satisfies the following identity:
 
-\\[
+$$
 (a \cdot b)^{-1} = b^{-1} \cdot a^{-1}
-\\]
+$$
 
 This reversal of order is a consequence of the associativity axiom and is sometimes called the "sock-shoe" property. To undo the operation of first putting on a sock and then a shoe, one must first remove the shoe and then the sock. The order of a group \\(G\\), denoted \\(|G|\\), is the cardinality of the underlying set. A group with finitely many elements is called a finite group, otherwise it is infinite.
 
@@ -63,10 +63,10 @@ Given a set \\(\{1, 2, \ldots, n\}\\), a permutation is a bijection from this se
 
 As a concrete illustration, consider \\(S_3\\), which has order \\(6\\). Let \\(\sigma\\) be the permutation sending \\(1 \mapsto 2\\), \\(2 \mapsto 3\\), \\(3 \mapsto 1\\), and let \\(\tau\\) be the permutation sending \\(1 \mapsto 2\\), \\(2 \mapsto 1\\), \\(3 \mapsto 3\\). 
 
-\\[
-\sigma = \begin{pmatrix} 1 & 2 & 3 \\\\ 2 & 3 & 1 \end{pmatrix} \qquad
-\tau = \begin{pmatrix} 1 & 2 & 3 \\\\ 2 & 1 & 3 \end{pmatrix}
-\\]
+$$
+\sigma = \begin{pmatrix} 1 & 2 & 3 \ 2 & 3 & 1 \end{pmatrix} \qquad
+\tau = \begin{pmatrix} 1 & 2 & 3 \ 2 & 1 & 3 \end{pmatrix}
+$$
 
 To compute \\(\sigma \circ \tau\\), one applies \\(\tau\\) first and then \\(\sigma\\). 
 The element \\(1\\) is sent by \\(\tau\\) to \\(2\\), and then \\(\sigma\\) sends \\(2\\) 
@@ -75,15 +75,15 @@ and then \\(\sigma\\) sends \\(1\\) to \\(2\\), so \\(2 \mapsto 2\\). Finally, \
 is fixed by \\(\tau\\), and \\(\sigma\\) sends \\(3\\) to \\(1\\), so \\(3 \mapsto 1\\). 
 Thus
 
-\\[
-\sigma \circ \tau = \begin{pmatrix} 1 & 2 & 3 \\\\ 3 & 2 & 1 \end{pmatrix}
-\\]
+$$
+\sigma \circ \tau = \begin{pmatrix} 1 & 2 & 3 \ 3 & 2 & 1 \end{pmatrix}
+$$
 
 An analogous computation yields
 
-\\[
-\tau \circ \sigma = \begin{pmatrix} 1 & 2 & 3 \\\\ 1 & 3 & 2 \end{pmatrix}
-\\]
+$$
+\tau \circ \sigma = \begin{pmatrix} 1 & 2 & 3 \ 1 & 3 & 2 \end{pmatrix}
+$$
 
 Since \\(\sigma \circ \tau \neq \tau \circ \sigma\\), the group \\(S_3\\) is indeed non-abelian.
 
@@ -107,7 +107,7 @@ The real numbers with multiplication, \\((\mathbb{R}, \cdot)\\), come even close
 
 A group \\(G\\) is called cyclic if there exists an element \\(g \in G\\) such that every element of \\(G\\) can be written as a power of \\(g\\), that is:
 
-\\[G = \{g^n : n \in \mathbb{Z}\}\\]
+$$G = \{g^n : n \in \mathbb{Z}\}$$
 
 Such an element \\(g\\) is called a generator of \\(G\\). Every cyclic group is isomorphic either to \\(\mathbb{Z}\\) if it is infinite, or to \\(\mathbb{Z}/n\mathbb{Z}\\) for some positive integer \\(n\\) if it is finite.
 
@@ -127,21 +127,21 @@ As an example, consider the set of even integers \\(2\mathbb{Z} = \{\ldots, -4, 
 
 A group homomorphism is a [function](../functions/) between two groups that preserves the group structure. Given two groups \\((G, \cdot)\\) and \\((H, \star)\\), a function \\(\varphi : G \to H\\) is a homomorphism if for all \\(a, b \in G\\) holds:
 
-\\[
+$$
 \varphi(a \cdot b) = \varphi(a) \star \varphi(b)
-\\]
+$$
 
 This condition requires that applying \\(\varphi\\) after performing the operation in \\(G\\) yields the same result as first applying \\(\varphi\\) to each element and then performing the operation in \\(H\\). Several basic properties follow from this definition. A homomorphism \\(\varphi : G \to H\\) necessarily maps the identity of \\(G\\) to the identity of \\(H\\), and satisfies \\(\varphi(a^{-1}) = \varphi(a)^{-1}\\) for all \\(a \in G.\\) Two particularly important subsets associated with a homomorphism \\(\varphi : G \to H\\) are the kernel and the image. The kernel is defined as:
 
-\\[
+$$
 \ker(\varphi) = \{a \in G : \varphi(a) = e_H\}
-\\]
+$$
 
 In this case \\(e_H\\) denotes the identity of \\(H\\), and the image is defined as:
 
-\\[
+$$
 \mathrm{im}(\varphi) = \{\varphi(a) : a \in G\}
-\\]
+$$
 
 The kernel is always a subgroup of \\(G\\), and the image is always a subgroup of \\(H\\). Moreover, a homomorphism is injective if and only if its kernel contains only the identity element of \\(G.\\)
 
@@ -149,13 +149,13 @@ The kernel is always a subgroup of \\(G\\), and the image is always a subgroup o
 
 A homomorphism \\(\varphi : G \to H\\) that is injective and surjective is called an isomorphism. When an isomorphism exists between \\(G\\) and \\(H\\), the two groups are said to be isomorphic, written \\(G \cong H\\). Isomorphic groups are structurally identical. They differ only in the names of their elements and their operation, not in any property that is intrinsic to their group structure. As an example, consider the group \\((\mathbb{Z}/2\mathbb{Z}, +)\\) and the group \\((\{1,-1\}, \times)\\) under ordinary multiplication. Define \\(\varphi : \mathbb{Z}/2\mathbb{Z} \to \{1,-1\}\\) by setting \\(\varphi(0) = 1\\) and \\(\varphi(1) = -1\\). Since:
 
-\\[
+$$
 \begin{align}
-\varphi(1+1) &= \varphi(0) \\\\[6pt]
-&= 1 \\\\[6pt]
-&= (-1)(-1) \\\\[6pt]
+\varphi(1+1) &= \varphi(0) \[6pt]
+&= 1 \[6pt]
+&= (-1)(-1) \[6pt]
 &= \varphi(1)\cdot\varphi(1)
 \end{align}
-\\]
+$$
 
 the function \\(\varphi\\) preserves the group operation. As it is also bijective, it is an isomorphism, and therefore \\(\mathbb{Z}/2\mathbb{Z} \cong \\{1,-1\\}\\).

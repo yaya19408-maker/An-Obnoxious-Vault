@@ -16,45 +16,45 @@ Intervals are classified according to whether their endpoints are included or ex
 ## Bounded intervals
 
 A bounded interval is one that is contained within a finite portion of the real line, that is, one for which there exist real numbers \\( a \\) and \\( b \\) with \\( a \leq b \\) such that the interval is a subset of \\( [a, b] \\). The open interval with endpoints \\( a \\) and \\( b \\) is the set of all real numbers strictly between \\( a \\) and \\( b \\), excluding both endpoints. It is defined as follows:
-\\[
+$$
 (a, b) = \{x \in \mathbb{R} : a < x < b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] | \\[ b\\] |     |
+|     | $$ a$$ | $$ b$$ |     |
 |:----|----------|----------|-----|
 |     | sign+l-in-o-h     | sign+r-in-o-h     |     |
 [/field_math]
 
 The closed interval with endpoints \\( a \\) and \\( b \\) is the set of all real numbers between \\( a \\) and \\( b \\), including both endpoints. It is defined as follows:
-\\[
+$$
 [a, b] = \{x \in \mathbb{R} : a \leq x \leq b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] | \\[ b\\] |     |
+|     | $$ a$$ | $$ b$$ |     |
 |:----|----------|----------|-----|
 |     | sign+l-in-c-h    | sign+r-in-c-h     |     |
 [/field_math]
 
 The two half-open intervals with endpoints \\( a \\) and \\( b \\) include one endpoint and 
 exclude the other. They are defined as follows:
-\\[
+$$
 [a, b) = \{x \in \mathbb{R} : a \leq x < b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] | \\[ b\\] |     |
+|     | $$ a$$ | $$ b$$ |     |
 |:----|----------|----------|-----|
 |     | sign+l-in-c-h    | sign+r-in-o-h     |     |
 [/field_math]
 
-\\[
+$$
 (a, b] = \{x \in \mathbb{R} : a < x \leq b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] | \\[ b\\] |     |
+|     | $$ a$$ | $$ b$$ |     |
 |:----|----------|----------|-----|
 |     | sign+l-in-o-h    | sign+r-in-c-h     |     |
 [/field_math]
@@ -69,42 +69,42 @@ a real number, the symbols \\( +\infty \\) and \\( -\infty \\) are used purely a
 conventions to indicate that the interval has no finite bound in the corresponding direction. 
 Consequently, the endpoints \\( +\infty \\) and \\( -\infty \\) are always excluded, and 
 the corresponding bracket is always a parenthesis. The four unbounded intervals are defined as follows.
-\\[
+$$
 [a, +\infty) = \{x \in \mathbb{R} : x \geq a\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] |     |
+|     | $$ a$$ |     |
 |:----|----------|-----|
 |     | sign+l-c-h    |     |
 [/field_math]
 
-\\[
+$$
 (a, +\infty) = \{x \in \mathbb{R} : x > a\}
-\\]
+$$
 
 [field_math]
-|     | \\[ a\\] |     |
+|     | $$ a$$ |     |
 |:----|----------|-----|
 |     | sign+l-o-h    |     |
 [/field_math]
 
-\\[
+$$
 (-\infty, b] = \{x \in \mathbb{R} : x \leq b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ b\\] |     |
+|     | $$ b$$ |     |
 |:----|----------|-----|
 |     | sign+r-c-h    |     |
 [/field_math]
 
-\\[
+$$
 (-\infty, b) = \{x \in \mathbb{R} : x < b\}
-\\]
+$$
 
 [field_math]
-|     | \\[ b\\] |     |
+|     | $$ b$$ |     |
 |:----|----------|-----|
 |     | sign+r-o-h    |     |
 [/field_math]
@@ -118,7 +118,7 @@ Given two intervals, one may form new sets by combining them through the standar
 set-theoretic operations of intersection and union. The intersection \\( I \cap J \\) is the set of all points belonging to both intervals simultaneously. The intersection of two intervals is always an interval, possibly empty or degenerate. Consider for example \\( I = (1, 5) \\) and \\( J = (3, 7) \\). The values belonging to both are precisely those in \\( (3, 5) \\).
 
 [field_math]
-|     | \\[ 1\\] | \\[ 3\\] | \\[ 5\\] | \\[ 7\\] |     |
+|     | $$ 1$$ | $$ 3$$ | $$ 5$$ | $$ 7$$ |     |
 |:----|----------|----------|----------|----------|-----|
 |     | sign+l-in-o |   | sign+r-in-o |  |     |
 |     |  | sign+l-in-o |  | sign+r-in-o |     |
@@ -137,7 +137,7 @@ example, \\( I = (1, 5) \\) and \\( J = (3, 7) \\). Since the two intervals over
 union is the interval \\( (1, 7) \\).
 
 [field_math]
-|     | \\[ 1\\] | \\[ 3\\] | \\[ 5\\] | \\[ 7\\] |     |
+|     | $$ 1$$ | $$ 3$$ | $$ 5$$ | $$ 7$$ |     |
 |:----|----------|----------|----------|----------|-----|
 |     | sign+l-in-o |  | sign+r-in-o |  |     |
 |     |  | sign+l-in-o |  | sign+r-in-o |     |
@@ -153,9 +153,9 @@ A concept closely related to intervals and central to mathematical analysis is t
 neighborhood of a point. Given a point \\( x_0 \in \mathbb{R} \\) and a real number 
 \\( \varepsilon > 0 \\), the open interval:
 
-\\[
-(x_0 - \varepsilon,\\, x_0 + \varepsilon)
-\\]
+$$
+(x_0 - \varepsilon,\, x_0 + \varepsilon)
+$$
 
 is called the \\( \varepsilon \\)-neighborhood of \\( x_0 \\), or simply a neighborhood of 
 \\( x_0 \\). It consists of all points whose distance from \\( x_0 \\) is strictly less than 
@@ -163,7 +163,7 @@ is called the \\( \varepsilon \\)-neighborhood of \\( x_0 \\), or simply a neigh
 where \\( |\cdot| \\) denotes the [absolute value](../absolute-value/).
 
 [field_math]
-|     | \\[ x_0 - \varepsilon\\] | \\[ x_0\\] | \\[ x_0 + \varepsilon\\] |     |
+|     | $$ x_0 - \varepsilon$$ | $$ x_0$$ | $$ x_0 + \varepsilon$$ |     |
 |:----|--------------------------|------------|--------------------------|-----|
 |     | sign+l-in-o-h | sign+s-h | sign+r-in-o-h |     |
 [/field_math]
@@ -178,9 +178,9 @@ neighborhood of an endpoint contains points outside the interval.
 
 The length of a bounded interval with endpoints \\( a \\) and \\( b \\) is defined as \\( b - a \\), regardless of whether the endpoints are included or excluded. That is, the four intervals \\( (a, b) \\), \\( [a, b) \\), \\( (a, b] \\), and \\( [a, b] \\) all have the same length, given by the following expression.
 
-\\[
+$$
 \ell(I) = b-a
-\\]
+$$
 
 This reflects the fact that a single point has no extent: adding or removing a finite number of points from an interval does not alter its length. A degenerate interval \\( [a, a] \\) has length \\( \ell([a,a]) = 0 \\), consistently with this observation. Unbounded intervals have infinite length, in the sense that for every \\( M > 0 \\) there exist points in the 
 interval whose distance exceeds \\( M \\), so no finite value can be assigned as their length.
@@ -199,7 +199,7 @@ with no gaps. The condition of connectedness rules out sets such as \\( (1, 2) \
 which fail to be intervals precisely because they can be separated into two disjoint open pieces.
 
 [field_math]
-|     | \\[ 1\\] | \\[ 2\\] | \\[ 3\\] | \\[ 4\\] |     |
+|     | $$ 1$$ | $$ 2$$ | $$ 3$$ | $$ 4$$ |     |
 |:----|----------|----------|----------|----------|-----|
 |     | sign+l-in-o-h | sign+r-in-o-h |  |  |     |
 |     |  |  | sign+l-in-o-h | sign+r-in-o-h |     |

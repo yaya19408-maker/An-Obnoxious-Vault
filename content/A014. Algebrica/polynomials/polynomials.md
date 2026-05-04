@@ -6,20 +6,20 @@ Source: algebrica.org — CC BY-NC 4.0
 
 Let \\(\mathbb{R}\\) represent the field of real numbers. A polynomial in one variable \\(x\\) with coefficients in \\(\mathbb{R}\\) is defined as an expression of the following form:
 
-\\[a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{1}x+a_{0}\\]
+$$a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{1}x+a_{0}$$
 
 \\(n\\) is a non-negative integer and \\(a_0, a_1, \ldots, a_n \in \mathbb{R}\\) are referred to as the coefficients, with \\(a_n \neq 0\\). Each term \\(a_k x^k\\) is known as a monomial of degree \\(k\\). Polynomials are typically denoted by \\(P(x)\\) or \\(p(x)\\). The [set](../sets/) of all polynomials in \\(x\\) with real coefficients is denoted by \\(\mathbb{R}[x]\\). This set forms a [ring](../rings/) under two standard operations. For two polynomials:
 
-\\[P(x) = \sum_{k=0}^{n} a_k x^k\\] 
-\\[Q(x) = \sum_{k=0}^{m} b_k x^k\\]
+$$P(x) = \sum_{k=0}^{n} a_k x^k$$ 
+$$Q(x) = \sum_{k=0}^{m} b_k x^k$$
 
 their sum is defined by adding the coefficients of corresponding degrees:
 
-\\[(P + Q)(x) = \sum_{k=0}^{\max(n,m)} (a_k + b_k) \\, x^k\\]
+$$(P + Q)(x) = \sum_{k=0}^{\max(n,m)} (a_k + b_k) \, x^k$$
 
 The product of two polynomials is defined by the Cauchy convolution of their coefficient sequences:
 
-\\[(P \cdot Q)(x) = \sum_{k=0}^{n+m} \left( \sum_{j=0}^{k} a_j b_{k-j} \right) x^k\\]
+$$(P \cdot Q)(x) = \sum_{k=0}^{n+m} \left( \sum_{j=0}^{k} a_j b_{k-j} \right) x^k$$
 
 Coefficients with indices exceeding the degree of the respective polynomial are defined to be zero. Under these two operations, \\(\mathbb{R}[x]\\) forms a commutative ring with identity and is an integral domain, since the product of two nonzero polynomials is never the zero polynomial.
 
@@ -30,7 +30,7 @@ Coefficients with indices exceeding the degree of the respective polynomial are 
 
 The degree of a polynomial \\(P(x)\\) is defined as the largest integer \\(k\\) such that the coefficient \\(a_k\\) is nonzero. This degree is denoted as \\(\deg P\\) or \\(\deg P(x)\\). For example, consider the polynomial:
 
-\\[P(x) = 2x^3 - 5x^2 + 3x - 7\\]
+$$P(x) = 2x^3 - 5x^2 + 3x - 7$$
 
 \\(P(x)\\) has degree 3, since the largest exponent appearing with a nonzero coefficient is 3. A polynomial may still be of degree 3 even if some intermediate terms are absent: the polynomial \\(P(x) = 4x^3 + x - 2\\) is also of degree 3, despite the absence of the quadratic term.
 
@@ -38,14 +38,14 @@ The degree is well defined due to the requirement that \\(a_n \neq 0\\) in the d
 
 The zero polynomial, where all coefficients are zero, is the only polynomial that is not assigned a degree in the usual sense. By convention, \\(\deg 0 = -\infty\\), a choice motivated by the requirement that the following identity remain valid even when one of the two factors is the zero polynomial:
 
-\\[\deg(P \cdot Q) = \deg P + \deg Q\\]
+$$\deg(P \cdot Q) = \deg P + \deg Q$$
 
 - - -
 ## Interpolation and degree of a polynomial
 
 An important implication of the concept of polynomial degree is its role in interpolation. Given \\(n+1\\) distinct points \\(\alpha_0, \alpha_1, \dots, \alpha_n \in \mathbb{R}\\) and corresponding values \\(\beta_0, \beta_1, \dots, \beta_n \in \mathbb{R}\\), there exists a unique polynomial \\(p(x) \in \mathbb{R}[x]\\) of degree at most \\(n\\) that satisfies the following conditions:
 
-\\[p(\alpha_i) = \beta_i \quad \forall \, i = 0, 1, \dots, n\\]
+$$p(\alpha_i) = \beta_i \quad \forall \, i = 0, 1, \dots, n$$
 
 This result demonstrates a direct relationship between the degree of a polynomial and the number of data points necessary for its unique determination. Specifically, a polynomial of degree at most \\(n\\) is uniquely specified by \\(n+1\\) distinct interpolation nodes. The process of constructing such a polynomial is known as polynomial interpolation. Several explicit methods are available for this purpose, with the Lagrange interpolation formula being the most classical approach.
 
@@ -54,7 +54,7 @@ This result demonstrates a direct relationship between the degree of a polynomia
 
 The degree of a polynomial directly influences the shape of its graph in the Cartesian plane, determining the overall behaviour and geometry of the curve. A first-degree polynomial, also referred to as a linear polynomial, produces a graph that is a straight line of the form:
 
-\\[y = mx + q\\]
+$$y = mx + q$$
 
 In this equation, \\(m\\) represents the slope (also known as the angular coefficient), and \\(q\\) denotes the y-intercept. For example, the equation \\(y = 2x + 1\\) defines a specific straight line. The graph shows the equation of the line \\( y = 2x + 1 \\).
 
@@ -64,7 +64,7 @@ In this equation, \\(m\\) represents the slope (also known as the angular coeffi
 
 Second-degree polynomials, also known as quadratic polynomials, have a graph that corresponds to a [parabola](../parabola) of the form:
 
-\\[y = ax^2 + bx + c \\]
+$$y = ax^2 + bx + c $$
 
 \\(a\\) determines the concavity of the parabola, \\(b\\) and \\(c\\) jointly determine 
 the position of the vertex, and \\(c\\) represents the y-intercept. The graph shows the equation of the parabola \\( y = x^2 + 4x - 4.\\) In this case, the parabola opens upward since the coefficient of \\( x^2 \\) is positive.
@@ -72,7 +72,7 @@ the position of the vertex, and \\(c\\) represents the y-intercept. The graph sh
 - - -
 
 Third-degree polynomials, also known as cubic polynomials, have a graph that corresponds to a cubic curve of the form:  
-\\[y = ax^3 + bx^2 + cx + d \\]
+$$y = ax^3 + bx^2 + cx + d $$
 where \\( a \\) determines the overall shape and orientation of the curve, \\( b \\) and \\( c \\) influence the curvature and inflection points, and \\( d \\) represents the y-intercept.
 
 - - -
@@ -99,7 +99,7 @@ Consequently, the description of the polynomial’s behavior for \\(x \to -\inft
 - - -
 
 To clarify the concept further, let us consider the case in the third row with the following polynomial:
-\\[ x^3 + 5x^2 + 5x + 1 \\]
+$$ x^3 + 5x^2 + 5x + 1 $$
 
 In this case the polynomial exhibits the characteristic end behavior of a cubic function with a positive leading coefficient. As \\(x\\) moves toward \\(-\infty\\), the term of highest degree dominates and forces the graph to decrease without bound, causing the curve to descend on the left side. Conversely, as \\(x\\) approaches \\(+\infty\\), the leading term becomes increasingly positive and drives the entire expression upward, making the graph rise indefinitely on the right side.
 
@@ -126,64 +126,64 @@ The [sum or difference](../adding-and-subtracting-polynomials/) of two polynomia
 
 The sum or difference of the two polynomials is obtained by adding or subtracting the corresponding coefficients of the like terms.
 
-\\[
+$$
 \begin{align*}
-P(x) + Q(x) &= (ax^n + bx^{n-1} + \ldots + z) + (px^n + qx^{n-1} + \ldots + w) \\\\[0.6em]
-&= (a+p)x^n + (b+q)x^{n-1} + \ldots + (z+w) \\\\[0.6em]
-P(x)-Q(x) &= (ax^n + bx^{n-1} + \ldots + z) - (px^n + qx^{n-1} + \ldots + w) \\\\[0.6em]
+P(x) + Q(x) &= (ax^n + bx^{n-1} + \ldots + z) + (px^n + qx^{n-1} + \ldots + w) \[0.6em]
+&= (a+p)x^n + (b+q)x^{n-1} + \ldots + (z+w) \[0.6em]
+P(x)-Q(x) &= (ax^n + bx^{n-1} + \ldots + z) - (px^n + qx^{n-1} + \ldots + w) \[0.6em]
 &= (a-p)x^n + (b-q)x^{n-1} + \ldots + (z-w)
 \end{align*}
-\\]
+$$
 
 - - -
 ## Example 1
 
 Given two polynomial \\(P(x)\\) and \\(Q(x)\\), calculate the sum \\(P(x)\\) + \\(Q(x)\\):
 
-\\[ P(x) = x^2 + 3x-1  \\]
-\\[ Q(x) = 2x^2-x + 5 \\]
+$$ P(x) = x^2 + 3x-1  $$
+$$ Q(x) = 2x^2-x + 5 $$
 
 Their sum is given by:
 
-\\\[ P(x) + Q(x) = \left( x^2 + 3x-1 \right) + (2x^2-x + 5) \\]
+\$$ P(x) + Q(x) = \left( x^2 + 3x-1 \right) + (2x^2-x + 5) $$
 
 - - -
 
 Removing the parentheses and collecting terms of equal degree we obtain:
 
-\\[
-\\begin{align}
-P(x) + Q(x) &= x^2 + 3x - 1 + 2x^2 - x + 5 \\\\[0.5em]
-&= (x^2 + 2x^2) + (3x - x) + (-1 + 5) \\\\[0.5em]
+$$
+\begin{align}
+P(x) + Q(x) &= x^2 + 3x - 1 + 2x^2 - x + 5 \[0.5em]
+&= (x^2 + 2x^2) + (3x - x) + (-1 + 5) \[0.5em]
 &= 3x^2 + 2x + 4
-\\end{align}
-\\]
+\end{align}
+$$
 
 The result of the two polynomials \\(P(x) + Q(x)\\) is expressed as: 
 
-\\[3x^2 + 2x + 4 \\]
+$$3x^2 + 2x + 4 $$
 
 - - -
 ## Example 2
 
 Consider two polynomials \\(P(x)\\) and \\(Q(x)\\) of degree \\(n\\). As established above, their sum or difference is a polynomial of degree at most \\(n\\). The following example illustrates the case in which the degree strictly decreases.
 
-\\[ P(x) = 2x^2+3x-1 \\]
-\\[ Q(x) = 2x^2-x+5 \\]
+$$ P(x) = 2x^2+3x-1 $$
+$$ Q(x) = 2x^2-x+5 $$
 
 The difference \\(P(x)-Q(x)\\) is:
 
-\\[ P(x)-Q(x) = \left( 2x^2+3x-1 \right)-\left( 2x^2-x+5 \right) \\]
+$$ P(x)-Q(x) = \left( 2x^2+3x-1 \right)-\left( 2x^2-x+5 \right) $$
 
 Expanding and collecting terms of equal degree:
 
-\\[
+$$
 \begin{align*}
-P(x)-Q(x) &= 2x^2+3x-1-2x^2+x-5 \\\\[0.5em]
-&= (2x^2-2x^2)+(3x+x)+(-1-5) \\\\[0.5em]
+P(x)-Q(x) &= 2x^2+3x-1-2x^2+x-5 \[0.5em]
+&= (2x^2-2x^2)+(3x+x)+(-1-5) \[0.5em]
 &= 4x-6
 \end{align*}
-\\]
+$$
 
 > The leading terms of degree \\(n=2\\) cancel exactly, reducing the result to a polynomial of degree \\(n-1=1\\). This confirms that the degree of a sum or difference can be strictly less than the degree of the summands.
 
@@ -192,7 +192,7 @@ P(x)-Q(x) &= 2x^2+3x-1-2x^2+x-5 \\\\[0.5em]
 
 [Dividing two polynomials](../polynomial-division/) is a more complex process compared to their addition or subtraction. Given two polynomials \\( P(x) \\) and \\( D(x) \\), it is always possible to determine two polynomials \\( Q(x) \\) and \\( R(x) \\) such that:
 
-\\[P(x) = Q(x) D(x) + R(x) \\]
+$$P(x) = Q(x) D(x) + R(x) $$
 
 - \\( Q(x) \\) is the quotient of the division.  
 - \\( R(x) \\) is the remainder.  
@@ -204,9 +204,9 @@ P(x)-Q(x) &= 2x^2+3x-1-2x^2+x-5 \\\\[0.5em]
 
 When the division between two polynomials is expressed as a reduced quotient (without explicitly showing the remainder), we obtain a rational function defined as:
 
-\\[
+$$
 R(x) = \frac{P(x)}{Q(x)}
-\\]
+$$
 
 where \\( P(x) \\) and \\( Q(x) \\) are polynomials and \\( Q(x) \ne 0 \\).
 
@@ -223,9 +223,9 @@ The existence of roots over \\( \mathbb{C} \\) is guaranteed by the [Fundamental
 
 Under the assumption that all roots are known, any polynomial \\( P(x) \\) with \\( P(0) \ne 0 \\) admits a factored representation in terms of its roots:
 
-\\[
+$$
 P(x) = P(0) \prod_{\rho} \left(1 - \frac{x}{\rho} \right)
-\\]
+$$
 
 where the product runs over all roots \\( \rho \\) of the polynomial, real or complex, counted with multiplicity. This representation expresses the polynomial entirely in terms of the values at which it vanishes, and makes the role of each root explicit in the structure of the expression.
 
@@ -243,7 +243,7 @@ The manipulation of polynomials, together with a thorough understanding of their
 
 A [polynomial equation](../polynomial-equations/) is an equation of the form:
 
-\\[a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0} = 0\\]
+$$a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0} = 0$$
 
 Polynomial equations are classified according to the degree of the leading term. Depending on their degree, they are referred to as [linear](../linear-equations) (degree 1), [quadratic](../quadratic-equations) (degree 2), [cubic](../cubic-equations) (degree 3), or of higher degree when \\(n > 3\\).
 
@@ -252,12 +252,12 @@ Polynomial equations are classified according to the degree of the leading term.
 
 A [polynomial function](../polynomial-function/) is a [function](../functions) of the form:
 
-\\[y = a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0} \\]
+$$y = a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0} $$
 
 
 Let \\( p(x) \\) and \\( q(x) \\) be two polynomials. If the two polynomial functions are equal for every value of \\( x \\), that is:
 
-\\[ p(x) = q(x) \quad \text{for all } x \\]
+$$ p(x) = q(x) \quad \text{for all } x $$
   
 then the two polynomials are exactly the same, meaning they have the same coefficients. This is known as the identity principle of polynomials.
 

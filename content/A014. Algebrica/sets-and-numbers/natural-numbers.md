@@ -22,15 +22,15 @@ To the left of \\(0\\), the line continues with the negative integers \\(-1, -2,
 
 The axiomatic approach characterises \\(\\mathbb{N}\\)as a set that satisfies a minimal list of properties, from which every other fact about natural numbers can be derived. The Peano axioms describe a set \\(\\mathbb{N}\\) together with a distinguished element \\(0\\) and a function \\(S : \\mathbb{N} \\to \\mathbb{N}\\), called the successor [function](../functions/), subject to the following conditions:
 
-\\[
-\\begin{align}
-&\\text{(P1)} \\quad 0 \\in \\mathbb{N} \\\\[6pt]
-&\\text{(P2)} \\quad \\forall \\, n \\in \\mathbb{N}, \\ S(n) \\in \\mathbb{N} \\\\[6pt]
-&\\text{(P3)} \\quad \\forall \\, n \\in \\mathbb{N}, \\ S(n) \\neq 0\\\\[6pt]
-&\\text{(P4)} \\quad \\forall \\, m, n \\in \\mathbb{N}, \\ S(m) = S(n) \\implies m = n\\\\[6pt]
-&\\text{(P5)} \\quad \\text{induction axiom}
-\\end{align}
-\\]
+$$
+\begin{align}
+&\text{(P1)} \quad 0 \in \mathbb{N} \[6pt]
+&\text{(P2)} \quad \forall \, n \in \mathbb{N}, \ S(n) \in \mathbb{N} \[6pt]
+&\text{(P3)} \quad \forall \, n \in \mathbb{N}, \ S(n) \neq 0\[6pt]
+&\text{(P4)} \quad \forall \, m, n \in \mathbb{N}, \ S(m) = S(n) \implies m = n\[6pt]
+&\text{(P5)} \quad \text{induction axiom}
+\end{align}
+$$
 
 + The first axiom ensures the existence of an initial element, which acts as the starting point of the construction. 
 + The second states that the successor operation never leaves the set, so that every natural number has a natural number as its successor. 
@@ -44,22 +44,22 @@ The fifth axiom, the [principle of induction](../principle-of-mathematical-induc
 
 The Peano axioms characterise \\(\\mathbb{N}\\) up to isomorphism, but they do not exhibit an explicit model. A concrete realisation was proposed by John von Neumann within the framework of set theory, and it is by now the standard reference construction. In this construction the natural number \\(0\\) is identified with the empty set, and the successor of a natural number is defined as the union of that number with the singleton containing it. The definitions are the following:
 
-\\[
-\\begin{align}
-&0 = \\varnothing \\\\[6pt]
-&S(n) = n \\cup \\{n\\}
-\\end{align}
-\\]
+$$
+\begin{align}
+&0 = \varnothing \[6pt]
+&S(n) = n \cup \{n\}
+\end{align}
+$$
 
 Applying the successor function repeatedly produces an explicit sequence of sets that realises the natural numbers. The first few elements are as follows:
 
-\\[
-\\begin{align}
-&1 = \\{0\\} = \\{\\varnothing\\} \\\\[6pt]
-&2 = \\{0, 1\\} = \\{\\varnothing, \\{\\varnothing\\}\\} \\\\[6pt]
-&3 = \\{0, 1, 2\\}
-\\end{align}
-\\]
+$$
+\begin{align}
+&1 = \{0\} = \{\varnothing\} \[6pt]
+&2 = \{0, 1\} = \{\varnothing, \{\varnothing\}\} \[6pt]
+&3 = \{0, 1, 2\}
+\end{align}
+$$
 
 A notable feature of this construction is that each natural number coincides with the set of all its predecessors, so that the number \\(n\\) has exactly \\(n\\) elements. This provides a direct and elegant link between the ordinal and the cardinal aspects of \\(\\mathbb{N}\\).
 
@@ -70,12 +70,12 @@ Once the successor function is available, the two fundamental arithmetic operati
 
 Addition is defined, for every \\(m \\in \\mathbb{N}\\), by the recursive clauses:
 
-\\[
-\\begin{align}
-&m + 0 = m \\\\[6pt]
+$$
+\begin{align}
+&m + 0 = m \[6pt]
 &m + S(n) = S(m + n)
-\\end{align}
-\\]
+\end{align}
+$$
 
 The first clause specifies that adding zero leaves the number unchanged, while the second reduces the addition of a successor to the successor of an addition, thereby propagating the definition to all natural numbers.
 
@@ -83,12 +83,12 @@ The first clause specifies that adding zero leaves the number unchanged, while t
 
 Multiplication is defined in a similar way, for every \\(m \\in \\mathbb{N}\\), by the clauses:
 
-\\[
-\\begin{align}
-&m \\cdot 0 = 0 \\\\[6pt]
-&m \\cdot S(n) = m \\cdot n + m
-\\end{align}
-\\]
+$$
+\begin{align}
+&m \cdot 0 = 0 \[6pt]
+&m \cdot S(n) = m \cdot n + m
+\end{align}
+$$
 
 Multiplication is therefore constructed on top of addition, according to the idea that multiplying by a successor corresponds to adding one further copy of the multiplicand.
 
@@ -102,17 +102,17 @@ From the recursive definitions, together with the induction axiom, one can prove
 
 These properties are summarised as follows:
 
-\\[
-\\begin{align}
-&(a + b) + c = a + (b + c) \\\\[6pt]
-&a + b = b + a \\\\[6pt]
-&a + 0 = a, \\\\[6pt]
-&(a \\cdot b) \\cdot c = a \\cdot (b \\cdot c) \\\\[6pt]
-&a \\cdot b = b \\cdot a \\\\[6pt]
-&a \\cdot 1 = a \\\\[6pt]
-&a \\cdot (b + c) = a \\cdot b + a \\cdot c
-\\end{align}
-\\]
+$$
+\begin{align}
+&(a + b) + c = a + (b + c) \[6pt]
+&a + b = b + a \[6pt]
+&a + 0 = a, \[6pt]
+&(a \cdot b) \cdot c = a \cdot (b \cdot c) \[6pt]
+&a \cdot b = b \cdot a \[6pt]
+&a \cdot 1 = a \[6pt]
+&a \cdot (b + c) = a \cdot b + a \cdot c
+\end{align}
+$$
 
 A further property, which distinguishes \\(\\mathbb{N}\\) from more general algebraic structures, is the absence of zero divisors. If the product of two natural numbers equals zero, then at least one of the two factors must be zero.
 
@@ -121,9 +121,9 @@ A further property, which distinguishes \\(\\mathbb{N}\\) from more general alge
 
 The set \\(\\mathbb{N}\\) is equipped with a total order, which can be defined directly in terms of addition. Given two natural numbers \\(m\\) and \\(n\\), the relation \\(m \\leq n\\) holds if and only if there exists a natural number \\(k\\) such that the following equality is satisfied:
 
-\\[
+$$
 n = m + k.
-\\]
+$$
 
 In this definition the element \\(k\\) measures the gap between \\(m\\) and \\(n\\), and its existence corresponds to the intuitive idea that \\(n\\) can be reached from \\(m\\) by a finite number of successor steps. The relation so defined is reflexive, antisymmetric, transitive, and total, so that any two natural numbers are comparable.
 
@@ -134,15 +134,15 @@ A distinctive feature of this order is the well-ordering property. Every non-emp
 
 As an illustration of how the recursive definitions interact with the algebraic properties, we compute the sum \\(2 + 3\\) directly from the definition of addition. The computation relies exclusively on the recursive clauses and on the fact that \\(3 = S(S(S(0)))\\). We start from the outer successor and apply the recursive clause for addition at each step:
 
-\\[
-\\begin{align}
-2 + 3 &= 2 + S(S(S(0))) \\\\[6pt]
-&= S(2 + S(S(0))) \\\\[6pt]
-&= S(S(2 + S(0))) \\\\[6pt]
-&= S(S(S(2 + 0))) \\\\[6pt]
+$$
+\begin{align}
+2 + 3 &= 2 + S(S(S(0))) \[6pt]
+&= S(2 + S(S(0))) \[6pt]
+&= S(S(2 + S(0))) \[6pt]
+&= S(S(S(2 + 0))) \[6pt]
 &= S(S(S(2)))
-\\end{align}
-\\]
+\end{align}
+$$
 
 Since \\(S(S(S(2)))\\) is, by definition, the natural number obtained from \\(2\\) by applying the successor function three times, the final value coincides with the natural number \\(5\\).
 

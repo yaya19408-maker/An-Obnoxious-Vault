@@ -6,9 +6,9 @@ https://algebrica.org/polynomial-equations/
 
 A polynomial equation is an equation in which one side consists of a [polynomial](../polynomials) expression and the other is zero. The general form of such an equation is the following:
 
-\\[
+$$
 a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0 = 0
-\\]
+$$
 
 In this expression:
 
@@ -24,21 +24,21 @@ A value \\(x_0\\) that satisfies the equation is called a [root](../roots-of-a-p
 
 The degree of a polynomial equation determines much of its behaviour and governs how many solutions one may expect to find. A polynomial equation of degree one is called a [linear equation](../linear-equations/). Its general form is the following:
 
-\\[
+$$
 a_1 x + a_0 = 0
-\\]
+$$
 
 Since \\(a_1 \neq 0\\), this equation has exactly one real solution, which is obtained by isolating \\(x\\).
 
-\\[
+$$
 x = -\frac{a_0}{a_1}
-\\]
+$$
 
 A polynomial equation of degree two is called a [quadratic equation](../quadratic-equations/). Its general form is the following:
 
-\\[
+$$
 a_2 x^2 + a_1 x + a_0 = 0
-\\]
+$$
 
 The solutions of a quadratic equation are described by the [quadratic formula](../quadratic-formula/), which expresses them in terms of the discriminant \\(\Delta = a_1^2 - 4 a_2 a_0\\). A polynomial equation of degree three is called a cubic equation, and one of degree four is called a quartic equation. 
 
@@ -66,33 +66,33 @@ The multiplicity of a root has a [geometric interpretation](../roots-of-a-polyno
 
 When the coefficients of a polynomial equation are [integers](../integers/), it is possible to identify all candidates for rational roots without solving the equation directly. Suppose the equation is the following.
 
-\\[
+$$
 a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0 = 0
-\\]
+$$
 
 If \\(x = p/q\\) is a rational root expressed in lowest terms, then \\(p\\) must be a divisor of the constant term \\(a_0\\) and \\(q\\) must be a divisor of the leading coefficient \\(a_n\\). This result, known as the Rational Root Theorem, reduces the search for rational solutions to a finite list of candidates. As an illustration, consider the following equation.
 
-\\[
+$$
 2x^3 - 3x^2 - 11x + 6 = 0
-\\]
+$$
 
 The divisors of the constant term \\(6\\) are \\(\pm 1, \pm 2, \pm 3, \pm 6\\), and the divisors of the leading coefficient \\(2\\) are \\(\pm 1, \pm 2\\). The rational root candidates are therefore all fractions of the form \\(p/q\\) drawn from these two sets. Testing \\(x = 3\\) by direct substitution gives the following.
 
-\\[
+$$
 2(27) - 3(9) - 11(3) + 6 = 54 - 27 - 33 + 6 = 0
-\\]
+$$
 
 Since \\(x = 3\\) is a root, the factor \\((x - 3)\\) divides the polynomial. Performing the division yields the following factorisation.
 
-\\[
+$$
 2x^3 - 3x^2 - 11x + 6 = (x - 3)(2x^2 + 3x - 2)
-\\]
+$$
 
 The residual quadratic \\(2x^2 + 3x - 2\\) can be factored as \\((2x - 1)(x + 2)\\), giving the complete factorisation.
 
-\\[
+$$
 2x^3 - 3x^2 - 11x + 6 = (x - 3)(2x - 1)(x + 2)
-\\]
+$$
 
 The three real roots are therefore \\(x = 3\\), \\(x = 1/2\\), and \\(x = -2\\).
 
@@ -102,14 +102,14 @@ The three real roots are therefore \\(x = 3\\), \\(x = 1/2\\), and \\(x = -2\\).
 
 The coefficients of a polynomial equation are not independent of its roots: they are related to them through a set of identities known as Vieta's formulas. For a monic polynomial equation of degree \\(n\\) with roots \\(x_1, x_2, \ldots, x_n\\), these identities take the following form.
 
-\\[
+$$
 \begin{align}
-x_1 + x_2 + \cdots + x_n &= -c_{n-1} \\\\[6pt]
-\sum_{i < j} x_i x_j &= c_{n-2} \\\\[6pt]
-&\vdots \\\\[6pt]
+x_1 + x_2 + \cdots + x_n &= -c_{n-1} \[6pt]
+\sum_{i < j} x_i x_j &= c_{n-2} \[6pt]
+&\vdots \[6pt]
 x_1 x_2 \cdots x_n &= (-1)^n c_0
 \end{align}
-\\]
+$$
 
 In other words, each coefficient is an elementary symmetric polynomial in the roots. The derivation and a detailed discussion of the quadratic case are given in the entry on [trinomials](../trinomials/).
 
@@ -118,37 +118,37 @@ In other words, each coefficient is an elementary symmetric polynomial in the ro
 
 Many equations that do not appear polynomial at first sight can be reduced to polynomial form through algebraic manipulation, after which the methods discussed in this entry apply directly. A rational equation such as the following
 
-\\[
+$$
 x + \frac{1}{x} = 3
-\\]
+$$
 
 becomes polynomial upon multiplying both sides by \\(x\\), yielding \\(x^2 - 3x + 1 = 0\\). An [irrational equation](../irrational-equations/) such as:
 
-\\[
+$$
 \sqrt{x + 1} + x = 5
-\\]
+$$
 
 becomes polynomial after isolating the radical and squaring both sides. Isolating the radical gives the following.
 
-\\[
+$$
 \sqrt{x + 1} = 5 - x
-\\]
+$$
 
 Squaring both sides yields the following:
 
-\\[
+$$
 x + 1 = (5 - x)^2 = 25 - 10x + x^2
-\\]
+$$
 
 Rearranging, we obtains the quadratic equation:
 
-\\[
+$$
 x^2 - 11x + 24 = 0
-\\]
+$$
 
 whose solutions are \\(x = 3\\) and \\(x = 8\\). Substituting back into the original equation, \\(x = 3\\) satisfies it, while \\(x = 8\\) does not, since:
 
-\\[\sqrt{9} + 8 = 11 \neq 5\\]
+$$\sqrt{9} + 8 = 11 \neq 5$$
 
 The value \\(x = 8\\) is an extraneous solution introduced by the squaring step.
 
@@ -169,21 +169,21 @@ The Galois group of a general polynomial of degree five or higher is not solvabl
 
 To appreciate what this means concretely, consider this equations:
 
-\\[
+$$
 x^5 - 1 = 0
-\\]
+$$
 
 The equations factors as: 
-\\[(x - 1)(x^4 + x^3 + x^2 + x + 1) = 0\\] 
+$$(x - 1)(x^4 + x^3 + x^2 + x + 1) = 0$$ 
 
 and its five roots are the fifth roots of unity, which can be written explicitly in terms of radicals and trigonometric values. 
 
 
 Now consider the following equation:
 
-\\[
+$$
 x^5 - x - 1 = 0
-\\]
+$$
 
 This equation has no such closed form. Its real root cannot be expressed by any finite combination of arithmetic operations and radicals applied to the coefficients. Both equations have degree five, but their algebraic structure differs in a way that determines whether a radical formula is possible.
 
@@ -192,8 +192,8 @@ This equation has no such closed form. Its real root cannot be expressed by any 
 
 When an analytic solution is unavailable or impractical, polynomial equations are typically solved by numerical methods. The most widely used of these is Newton's method, which generates successive approximations to a root by iterating the following update rule:
 
-\\[
+$$
 x_{k+1} = x_k - \frac{p(x_k)}{p'(x_k)}
-\\]
+$$
 
 Starting from an initial estimate \\(x_0\\) sufficiently close to a simple root, the [sequence](../sequences/) \\((x_k)\\) converges quadratically to that root, meaning that the number of correct decimal digits roughly doubles with each iteration. Other methods, such as the bisection method and Brent's method, sacrifice speed for guaranteed convergence and are preferred when robustness is a priority.

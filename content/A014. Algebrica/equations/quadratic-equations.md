@@ -8,7 +8,7 @@ https://algebrica.org/quadratic-equations/
 A quadratic equation is a second-degree [polynomial equation](../polynomial-equations/)
 in one variable. Its standard form is the following:
 
-\\[ ax^2 + bx + c = 0 \\]
+$$ ax^2 + bx + c = 0 $$
 
 where \\(a\\), \\(b\\), and \\(c\\) are real coefficients, \\(x\\) is the unknown, and \\(a \neq 0\\).
 
@@ -19,7 +19,7 @@ where \\(a\\), \\(b\\), and \\(c\\) are real coefficients, \\(x\\) is the unknow
 
 Quadratic equations are the simplest case of [trinomial equation](../trinomial-equations/), which has the general form:
 
-\\[ ax^{2n} + bx^{n} + c = 0 \\]
+$$ ax^{2n} + bx^{n} + c = 0 $$
 
 Setting \\(n = 1\\) recovers the standard quadratic form \\(ax^2 + bx + c = 0.\\) For \\(n \geq 2\\) the equation can be reduced to a quadratic in the auxiliary variable \\(y = x^n\\) and solved with the same techniques.
 
@@ -44,7 +44,7 @@ The real solutions of the equation \\(ax^2 + bx + c = 0\\) correspond to the poi
 A quadratic equation is [incomplete](../incomplete-quadratic-equations/) when either the
 coefficient \\(b\\) or \\(c\\) is equal to zero. In this case the equation takes a simpler form and can be solved directly, without applying the general formula. The first step in solving a quadratic equation is to rewrite it in standard form:
 
-\\[ax^2 + bx + c = 0\\]
+$$ax^2 + bx + c = 0$$
 
 This form allows the coefficients to be identified and the [discriminant](../quadratic-formula/) \\(\Delta = b^2 - 4ac\\) to be computed. The discriminant determines the nature of the solutions: 
 
@@ -62,7 +62,7 @@ The [fundamental theorem of algebra](../roots-of-a-polynomial/) guarantees that 
 
  Given a quadratic equation in the standard form \\(ax^2+bx+c = 0\\), the [quadratic formula](../quadratic-equations/quadratic-formula/) is:
 
-\\[ x_{1,2} = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}} \\]
+$$ x_{1,2} = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}} $$
 
 + \\(a\\), \\(b\\), \\(c\\) are real coefficients and \\(a \neq 0\\).
 + The \\(\pm\\) symbol reflects the existence of two solutions, corresponding to the two signs.
@@ -71,7 +71,7 @@ The [fundamental theorem of algebra](../roots-of-a-polynomial/) guarantees that 
 
 A further property of the discriminant is the following:
 
-\\[ \Delta = a^2(x_1 - x_2)^2 \\]
+$$ \Delta = a^2(x_1 - x_2)^2 $$
 
 This identity shows directly that \\(\Delta \geq 0\\) when the roots are real, and that
 \\(\Delta = 0\\) if and only if the two roots coincide.
@@ -83,12 +83,12 @@ This identity shows directly that \\(\Delta \geq 0\\) when the roots are real, a
 
 A quadratic equation can be [factored](../factoring-quadratic-equations/) into the following form:
 
-\\[ ax^2 + bx + c = 0 \quad \Longleftrightarrow \quad a(x - x_1)(x - x_2) = 0 \\]
+$$ ax^2 + bx + c = 0 \quad \Longleftrightarrow \quad a(x - x_1)(x - x_2) = 0 $$
 
 where \\(x_1\\) and \\(x_2\\) are the roots of the equation. By [Vieta's formulas](../trinomials/), the roots satisfy the following relations:
 
-\\[ x_1 + x_2 = -\frac{b}{a}\\]
-\\[ x_1 \cdot x_2 = \frac{c}{a} \\]
+$$ x_1 + x_2 = -\frac{b}{a}$$
+$$ x_1 \cdot x_2 = \frac{c}{a} $$
 
 This method is effective when the roots can be identified by inspection or by simple
 trial, but becomes impractical for equations with irrational or complex roots, where the
@@ -100,9 +100,9 @@ trial, but becomes impractical for equations with irrational or complex roots, w
 + Rewrite the equation in standard form: \\( ax^2 + bx + c = 0 \\).  
 + Calculate the discriminant: \\( \Delta = b^2 - 4ac \\).  
 + Use the quadratic formula:  
-   \\[
+   $$
    x = \frac{-b \pm \sqrt{\Delta}}{2a}
-   \\]  
+   $$  
 + Simplify the result.  
 + If \\( \Delta \geq 0 \\), the solutions are real; if \\( \Delta < 0 \\), the solutions are complex conjugates.
 
@@ -114,11 +114,11 @@ trial, but becomes impractical for equations with irrational or complex roots, w
 A natural extension of the study of quadratic equations is to consider the case in which the coefficients are not fixed numbers but depend on an external parameter. In this setting we speak of [quadratic equations with a parameter](../quadratic-equations-with-parameters/),
 also called literal quadratic equations, which take the form:
 
-\\[ a(k)\\,x^2 + b(k)\\,x + c(k) = 0, \quad a(k) \neq 0 \\]
+$$ a(k)\,x^2 + b(k)\,x + c(k) = 0, \quad a(k) \neq 0 $$
 
 Varying the parameter \\(k\\) alters the equation and, consequently, the nature of its solutions. The analysis relies on the discriminant:
 
-\\[ \Delta(k) = b(k)^2 - 4\\,a(k)\\,c(k) \\]
+$$ \Delta(k) = b(k)^2 - 4\,a(k)\,c(k) $$
 
 which, exactly as in the classical case, determines whether the equation admits two
 distinct real solutions, a repeated solution, or a pair of complex conjugate solutions.

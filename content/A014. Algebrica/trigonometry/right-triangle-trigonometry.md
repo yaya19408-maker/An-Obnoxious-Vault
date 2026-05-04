@@ -22,12 +22,12 @@ The name SOH-CAH-TOA is a mnemonic that encodes the three primary trigonometric 
 
 The SOH group gives the sine of the angle and its reciprocal, the cosecant:
 
-\\[
+$$
 \begin{align}
-\sin(\theta) &= \frac{y}{h} \\\\[6pt]
+\sin(\theta) &= \frac{y}{h} \[6pt]
 \csc(\theta) &= \frac{h}{y}
 \end{align}
-\\]
+$$
 
 > Rearranging the SOH relation gives \\(y = h \sin(\theta)\\), which returns the length of the opposite leg whenever the angle and the hypotenuse are known. The CAH and TOA relations can be rearranged in the same way to recover any missing side from the other two pieces of information.
 
@@ -35,21 +35,21 @@ The SOH group gives the sine of the angle and its reciprocal, the cosecant:
 
 The CAH group gives the cosine and its reciprocal, the secant:
 
-\\[
+$$
 \begin{align}
-\cos(\theta) &= \frac{x}{h} \\\\[6pt]
+\cos(\theta) &= \frac{x}{h} \[6pt]
 \sec(\theta) &= \frac{h}{x}
 \end{align}
-\\]
+$$
 
 The TOA group gives the tangent and its reciprocal, the cotangent:
 
-\\[
+$$
 \begin{align}
-\tan(\theta) &= \frac{y}{x} \\\\[6pt]
+\tan(\theta) &= \frac{y}{x} \[6pt]
 \cot(\theta) &= \frac{x}{y}
 \end{align}
-\\]
+$$
 
 The tangent can also be written directly in terms of sine and cosine, since \\(y/x = (y/h)/(x/h)\\). This gives the identity \\(\tan(\theta) = \sin(\theta)/\cos(\theta)\\), and by reciprocation \\(\cot(\theta) = \cos(\theta)/\sin(\theta)\\). The six trigonometric functions are therefore not independent of each other: sine and cosine alone determine all of them.
 
@@ -58,15 +58,15 @@ The tangent can also be written directly in terms of sine and cosine, since \\(y
 
 The sine and cosine of the same angle are not independent quantities: they satisfy the [Pythagorean identity](../pythagorean-identity/), which in any right triangle with acute angle \\(\theta\\) takes the form:
 
-\\[
+$$
 \sin^2(\theta) + \cos^2(\theta) = 1
-\\]
+$$
 
 The identity is a direct consequence of the [Pythagorean theorem](../pythagorean-theorem/). Starting from \\(x^2 + y^2 = h^2\\) and dividing both sides by \\(h^2\\), the equation becomes:
 
-\\[
+$$
 \left(\frac{y}{h}\right)^2 + \left(\frac{x}{h}\right)^2 = 1
-\\]
+$$
 
 The two ratios on the left coincide with \\(\sin(\theta)\\) and \\(\cos(\theta)\\) by the SOH and CAH relations, which gives the identity in its standard form. The same conclusion follows geometrically from the [unit circle](../unit-circle/). A point on the circle has coordinates \\((\cos(\theta), \sin(\theta))\\), and the equation of the circle, \\(x^2 + y^2 =1\\), is exactly the [Pythagorean identity](../pythagorean-identity/) rewritten in those coordinates.
 
@@ -88,21 +88,21 @@ Consider a right triangle in which the leg opposite to the acute angle \\(\theta
 
 The two legs and the angle \\(\theta\\) are linked by the TOA relation, which expresses the tangent of the angle as the ratio between the opposite and the adjacent leg:
 
-\\[
+$$
 \tan(\theta) = \frac{y}{x}
-\\]
+$$
 
 Substituting the known values, the equation becomes:
 
-\\[
+$$
 \tan(30^\circ) = \frac{5}{x}
-\\]
+$$
 
 Since the unknown \\(x\\) appears in the denominator, we multiply both sides by \\(x\\) to bring it to the numerator, and then divide by \\(\tan(30^\circ)\\) to isolate it on the left:
 
-\\[
+$$
 x = \frac{5}{\tan(30^\circ)}
-\\]
+$$
 
 The tangent of \\(30^\circ\\) is equal to \\(1/\sqrt{3}\\), so the expression simplifies to \\(x = 5\sqrt{3}\\), which is approximately \\(8.66\\). The adjacent leg therefore measures about \\(8.66\\) units.
 

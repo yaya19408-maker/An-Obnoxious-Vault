@@ -8,9 +8,9 @@ https://algebrica.org/modulo-operator/
 
 The modulo operator is one of the most frequently used operations in [integer](../integers/) arithmetic. Given two integers, it returns the remainder left over after dividing the first by the second. This operator plays a central role in number theory, computer science, and the construction of several algebraic structures. In formal terms, fiven two integers \\(a\\) and \\(n\\) with \\(n > 0\\), the modulo operator is defined as follows:
 
-\\[
+$$
 a \bmod n = r
-\\]
+$$
 
 \\(r\\) is the unique integer satisfying \\(0 \le r < n\\) and \\(a = qn + r\\) for some integer \\(q\\). The integer \\(q\\) is the quotient of the division of \\(a\\) by \\(n\\), and \\(r\\) is the remainder. The existence and uniqueness of this decomposition is guaranteed by the division algorithm for integers. The number \\(n\\) is called the modulus. When \\(a\\) is positive, the value of \\(a \bmod n\\) coincides with the intuitive notion of the remainder learned in elementary arithmetic. For example, \\(17 \bmod 5 = 2\\), since \\(17 = 3 \cdot 5 + 2\\). The quotient is \\(3\\) and the remainder is \\(2\\).
 
@@ -28,9 +28,9 @@ This convention is not universal. In several programming languages the `%` opera
 
 Closely related to the modulo operator is the notion of congruence. Two integers \\(a\\) and \\(b\\) are said to be congruent modulo \\(n\\) if they leave the same remainder when divided by \\(n\\), or equivalently if their difference is a multiple of \\(n\\). This relation is written as follows:
 
-\\[
+$$
 a \equiv b \pmod{n}
-\\]
+$$
 
 The equivalent characterisation in terms of divisibility states that \\(a \equiv b \pmod{n}\\) if and only if \\(n \mid (a - b)\\). For example, \\(17 \equiv 2 \pmod 5\\) because \\(17 - 2 = 15\\) is divisible by \\(5\\), and equivalently because both \\(17\\) and \\(2\\) leave remainder \\(2\\) when divided by \\(5\\).
 
@@ -44,13 +44,13 @@ It is important to distinguish the operator \\(a \bmod n\\), which produces a sp
 
 Congruence modulo \\(n\\) behaves well under the standard arithmetic operations, which is precisely what makes modular arithmetic a powerful tool. If \\(a \equiv b \pmod n\\) and \\(c \equiv d \pmod n\\), then the following identities hold:
 
-\\[
+$$
 \begin{align}
-a + c &\equiv b + d \pmod n \\\\[6pt]
-a - c &\equiv b - d \pmod n \\\\[6pt]
+a + c &\equiv b + d \pmod n \[6pt]
+a - c &\equiv b - d \pmod n \[6pt]
 a \cdot c &\equiv b \cdot d \pmod n
 \end{align}
-\\]
+$$
 
 In other words, one can replace any integer by a congruent one before performing addition, subtraction, or multiplication, and the result will still be congruent modulo \\(n\\). This property is what allows computations with very large numbers to be reduced modulo \\(n\\) at any intermediate step, a trick that is essential in cryptography and in many algorithmic contexts.
 
@@ -90,22 +90,22 @@ The behaviour of multiplication is noticeably less regular than that of addition
 
 For a fixed modulus \\(n\\), the equivalence relation of congruence partitions the set of integers into \\(n\\) disjoint subsets, called residue classes or equivalence classes modulo \\(n\\). The residue class of an integer \\(a\\) is the set of all integers congruent to \\(a\\) modulo \\(n\\):
 
-\\[
-[a]_n = \\{ a + kn : k \in \mathbb{Z} \\}
-\\]
+$$
+[a]_n = \{ a + kn : k \in \mathbb{Z} \}
+$$
 
 Two integers belong to the same residue class if and only if they are congruent modulo \\(n\\). The set of all residue classes modulo \\(n\\) is usually denoted \\(\mathbb{Z}/n\mathbb{Z}\\) and contains exactly \\(n\\) elements, represented by the possible remainders \\(0, 1, 2, \ldots, n-1\\).
 
 As a concrete case, take \\(n = 4\\). The integers split into four residue classes:
 
-\\[
+$$
 \begin{align}
-[0]_4 &= \\{ \ldots, -8, -4, 0, 4, 8, \ldots \\} \\\\[6pt]
-[1]_4 &= \\{ \ldots, -7, -3, 1, 5, 9, \ldots \\} \\\\[6pt]
-[2]_4 &= \\{ \ldots, -6, -2, 2, 6, 10, \ldots \\} \\\\[6pt]
-[3]_4 &= \\{ \ldots, -5, -1, 3, 7, 11, \ldots \\}
+[0]_4 &= \{ \ldots, -8, -4, 0, 4, 8, \ldots \} \[6pt]
+[1]_4 &= \{ \ldots, -7, -3, 1, 5, 9, \ldots \} \[6pt]
+[2]_4 &= \{ \ldots, -6, -2, 2, 6, 10, \ldots \} \[6pt]
+[3]_4 &= \{ \ldots, -5, -1, 3, 7, 11, \ldots \}
 \end{align}
-\\]
+$$
 
 Every integer belongs to exactly one of these four classes, and the union of the four classes is all of \\(\mathbb{Z}\\).
 
@@ -123,8 +123,8 @@ As a slightly less trivial example, one can use modular arithmetic to compute th
 
 The residue classes modulo \\(n\\) can be added and multiplied in a way that is compatible with the arithmetic of the integers. Defining:
 
-\\[
+$$
 [a]_n + [b]_n = [a+b]_n \qquad [a]_n \cdot [b]_n = [a \cdot b]_n
-\\]
+$$
 
 yields two well-defined operations on \\(\mathbb{Z}/n\mathbb{Z}\\), thanks to the compatibility of congruence with addition and multiplication. Under these operations \\(\mathbb{Z}/n\mathbb{Z}\\) becomes a finite commutative ring, and when \\(n\\) is prime it becomes a field. The modulo operator is therefore not only a computational device but also the arithmetic foundation on which an entire family of finite algebraic structures is built.
