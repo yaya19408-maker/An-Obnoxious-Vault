@@ -1,0 +1,46 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：手掌</font>
+- ‌‌‌<font color="#f79646">變體：無</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞palma（意為palm of the hand，即手掌）</font>
+- ‌‌‌<font color="#f79646">用途：構成手掌相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**palmar**</font> adj. 掌中的，手掌的 
+
+<font color="sky blue">**palmar fascia**</font> 掌心筋膜（掌心的一層結締組織）
+
+<font color="sky blue">**palmar aponeurosis**</font> 掌腱膜（覆蓋手掌並與手指相連的寬而平的肌腱，為手部提供支撐，讓手部穩定）
+
+<font color="sky blue">**palmar digital veins**</font> 掌指靜脈（位於手指掌側的靜脈）
+
+<font color="sky blue">**palmar interossei**</font> 掌間肌（位於掌骨之間的小肌肉，幫助手指向手掌中間內收）
+
+<font color="sky blue">**palmaris longus**</font> 掌長肌（位於前臂的細長肌肉，與手部的掌腱膜相連，幫助彎曲手腕和手）
+
+<font color="sky blue">**palmar flexion**</font> 掌心彎曲（手掌向掌心的彎曲）
+
+<font color="sky blue">**palmar grasp reflex**</font> 掌心抓握反射（嬰兒的一種自動反射，手指圍繞放在手掌上的物體捲曲）
+
+<font color="sky blue">**palmar erythema**</font> 掌心紅斑（手掌發紅或潮紅，常與肝病或懷孕有關）
+
+<font color="sky blue">**palmar crease**</font> 掌部皺紋（手掌皮膚上的一條線或褶皺，可作為某些遺傳性疾病的診斷標誌）
+
+<font color="sky blue">**palmar fasciitis**</font> 手掌筋膜炎 
+
+<font color="sky blue">**palmar hyperhidrosis**</font> 掌心多汗症
+

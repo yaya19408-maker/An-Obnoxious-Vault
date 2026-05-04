@@ -1,0 +1,60 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：硬化</font>
+- ‌‌‌<font color="#f79646">變體：sclero</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞skleros（意為hard或rigid，即硬的或僵硬的）</font>
+- ‌‌‌<font color="#f79646">用途：構成硬化相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**sclerosis**</font> n. 硬化症（身體組織變硬或變厚）
+
+<font color="sky blue">**multiple sclerosis**</font> 多發性硬化症（一種影響中樞神經系統的慢性自身免疫性疾病）
+
+<font color="sky blue">**scleriasis**</font> n. 硬皮病；瞼硬結
+
+<font color="sky blue">**scleroma**</font> n. 硬結病
+
+<font color="sky blue">**sclerotic**</font> adj. 硬化的
+
+<font color="sky blue">**sclerous**</font> adj. 硬化的
+
+<font color="sky blue">**scleroid**</font> adj. 硬化的，硬的
+
+<font color="sky blue">**arteriosclerosis**</font> n. 動作硬化（症）
+
+<font color="sky blue">**atherosclerosis**</font> n. 動脈粥樣硬化（以動脈中的斑塊堆積為特徵的疾病）
+
+<font color="sky blue">**scleroderma**</font> n. 硬皮病（一種結締組織疾病，導致皮膚和其他器官的硬化和增厚）
+
+<font color="sky blue">**sclerodermatous**</font> adj. 硬皮病的；硬皮的
+
+<font color="sky blue">**sclerodermous**</font> adj. [動物]硬皮的
+
+<font color="sky blue">**sclerodermatitis**</font> n. 硬化性皮炎（皮膚的炎症導致硬化和增厚）
+
+<font color="sky blue">**scleronychia**</font> n. 指甲硬化（指甲增厚和變硬）
+
+<font color="sky blue">**sclerodactyly**</font> n. 指端硬化，肢端硬化（手指和手掌的皮膚變硬和變緊）
+
+<font color="sky blue">**scleromyxedema**</font> n. 硬化性黏液水腫（一種罕見的皮膚病，其特點是皮膚變硬和變厚，以及皮下出現小腫塊）
+
+<font color="sky blue">**sclerotic bone lesions**</font> 硬化性骨病變（由於受傷、感染或其他原因造成的骨組織的異常硬化）
+
+<font color="sky blue">**sclerometer**</font> n. 硬度計
+
+<font color="sky blue">**scleroprotein**</font> n. 硬蛋白，硬朊
+

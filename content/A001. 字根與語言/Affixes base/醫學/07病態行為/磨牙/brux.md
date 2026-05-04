@@ -1,0 +1,46 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：磨牙</font>
+- ‌‌‌<font color="#f79646">變體：bruxo</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞brychein（意為to gnash the teeth或to grind the teeth together，即咬牙或磨牙）</font>
+- ‌‌‌<font color="#f79646">用途：構成磨牙相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**bruxism**</font> n. 夜間磨牙；磨牙症（在睡眠或清醒時磨牙或咬牙）
+
+<font color="sky blue">**bruxomania**</font> n. 磨牙癖（對磨牙或咬牙的不正常的專注）
+
+<font color="sky blue">**bruxophagia**</font> n. 習慣性磨牙併吞嚥牙齒的一種病
+
+<font color="sky blue">**bruxing**</font> n. 磨牙或咬牙的行為（通常與壓力或焦慮有關）
+
+<font color="sky blue">**bruxer**</font> n. 習慣性磨牙或咬牙的人
+
+<font color="sky blue">**bruxism causes**</font> 磨牙症的成因
+
+<font color="sky blue">**bruxism symptoms**</font> 磨牙症症狀（如下巴疼痛或頭痛）
+
+<font color="sky blue">**bruxism treatment**</font> 磨牙症的治療
+
+<font color="sky blue">**bruxism severity**</font> 磨牙症的嚴重程度
+
+<font color="sky blue">**bruxism types**</font> 磨牙症型別（如清醒磨牙症、睡眠磨牙症或混合磨牙症）
+
+<font color="sky blue">**bruxism effects**</font> 磨牙症的影響（磨牙症對牙齒、頜骨和口腔健康的負面影響，如牙齒磨損、頜骨疼痛和牙齦疾病）
+
+<font color="sky blue">**bruxism side effects**</font> 磨牙症的副作用（磨牙症治療的潛在副作用，如口腔痠痛、下頜不適或睡眠困難）
+

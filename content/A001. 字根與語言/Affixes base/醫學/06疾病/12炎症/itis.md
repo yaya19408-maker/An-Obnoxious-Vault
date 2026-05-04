@@ -1,0 +1,60 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- <font color="#f79646">含義：炎症</font>
+- ‌‌‌<font color="#f79646">變體：無</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞itis（意為inflammation或swelling，即炎症或腫脹）</font>
+- ‌‌‌<font color="#f79646">用途：構成炎症相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**arthritis**</font> n. 關節炎 
+
+<font color="sky blue">**bronchitis**</font> n. 支氣管炎
+
+<font color="sky blue">**tendinitis**</font> n. 肌腱炎
+
+<font color="sky blue">**tonsillitis**</font> n. 扁桃體炎  
+
+<font color="sky blue">**conjunctivitis**</font> n. 結膜炎
+
+<font color="sky blue">**dermatitis**</font> n. 皮炎
+
+<font color="sky blue">**sinusitis**</font> n. 鼻竇炎
+
+<font color="sky blue">**pharyngitis**</font> n. 咽炎
+
+<font color="sky blue">**laryngitis**</font> n. 喉炎
+
+<font color="sky blue">**otitis**</font> n. 耳炎
+
+<font color="sky blue">**nephritis**</font> n. 腎炎
+
+<font color="sky blue">**gastritis**</font> n. 胃炎
+
+<font color="sky blue">**hepatitis**</font> n. 肝炎
+
+<font color="sky blue">**myocarditis**</font> n. 心肌炎
+
+<font color="sky blue">**colitis**</font> n. 結腸炎
+
+<font color="sky blue">**cystitis**</font> n. 膀胱炎
+
+<font color="sky blue">**adenitis**</font> n. 腺炎；淋巴腺炎
+
+<font color="sky blue">**adrenalitis**</font> n. 腎上腺炎
+
+<font color="sky blue">**angiopancreatitis**</font> n. 胰血管炎
+

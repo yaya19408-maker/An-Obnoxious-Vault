@@ -1,0 +1,56 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：激素</font>
+- ‌‌‌<font color="#f79646">變體：horme, hormo, hormono</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞hormaein（意為to set in motion或to spur on，即刺激…使其開始運動）</font>
+- ‌‌‌<font color="#f79646">用途：構成激素相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**hormesis**</font> n. 毒物興奮效應（暴露於低劑量的壓力源對生物體產生有益影響的現象）
+
+<font color="sky blue">**hormone**</font> adj. 激素的 n.（刺激生長的）荷爾蒙，激素（由腺體產生的化學物質，調節各種身體功能）
+
+<font color="sky blue">**ectohormone**</font> n. 外激素
+
+<font color="sky blue">**hormetic**</font> adj. 本能的；策動力的
+
+<font color="sky blue">**hormonal**</font> adj. 荷爾蒙的，激素的
+
+<font color="sky blue">**hormonal imbalance**</font> 荷爾蒙不平衡
+
+<font color="sky blue">**hormone therapy**</font> 荷爾蒙療法（使用荷爾蒙來控制或治療各種疾病的方法）
+
+<font color="sky blue">**hormonotherapy**</font> n. 激素療法
+
+<font color="sky blue">**hormone receptor**</font> 激素受體（細胞表面的一種蛋白質，與特定激素結合，引發反應）
+
+<font color="sky blue">**hormone replacement therapy**</font> 激素替代療法（一種激素療法，用於替代身體不再產生的激素）
+
+<font color="sky blue">**hormone-sensitive**</font> adj.（細胞或組織）對激素敏感的
+
+<font color="sky blue">**hormone-dependent**</font> adj.（疾病）受激素影響的，依賴激素的
+
+<font color="sky blue">**hormonogenesis**</font> n. 激素生成（腺體產生和分泌激素的過程）
+
+<font color="sky blue">**hormonology**</font> n. 內分泌學（研究荷爾蒙及其對人體的影響）
+
+<font color="sky blue">**hormonally controlled**</font>（身體機能）受荷爾蒙調節或控制的
+
+<font color="sky blue">**hormonally induced**</font>（身體變化或疾病）由荷爾蒙引發的
+
+<font color="sky blue">**hormonoprivia**</font> n. 激素缺乏；激素減少
+

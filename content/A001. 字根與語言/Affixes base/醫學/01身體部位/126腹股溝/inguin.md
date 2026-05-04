@@ -1,0 +1,56 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：腹股溝</font>
+- ‌‌‌<font color="#f79646">變體：inguino, inguen, ingueno</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞inguen（意為groin，即腹股溝）</font>
+- ‌‌‌<font color="#f79646">用途：構成腹股溝相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**inguen**</font> n. 腹股溝（等於 groin）  
+
+<font color="sky blue">**inguinal**</font> adj. 腹股溝的；鼠蹊部的
+
+<font color="sky blue">**inguinolabial**</font> adj. 腹股溝陰唇的
+
+<font color="sky blue">**inguinopelvic**</font> adj. 腹股溝骨盆的
+
+<font color="sky blue">**inguinovesical**</font> adj. 腹股溝膀胱的
+
+<font color="sky blue">**inguinofemoral**</font> adj. 腹股溝股骨的
+
+<font color="sky blue">**inguinoscrotal**</font> adj. 腹股溝陰囊的
+
+<font color="sky blue">**inguinovaginal**</font> adj. 腹股溝陰道的
+
+<font color="sky blue">**inguinodermal**</font> adj. 腹股溝皮膚的
+
+<font color="sky blue">**inguinocutaneous**</font> adj. 腹股溝區的皮膚和底層組織的
+
+<font color="sky blue">**inguinal ligament**</font> 腹股溝韌帶（一條從恥骨到髖骨的組織帶，將腹部和大腿分開）
+
+<font color="sky blue">**inguinofemoral lymph nodes**</font> 腹股溝股骨淋巴結（位於腹股溝和大腿上部區域的淋巴結）
+
+<font color="sky blue">**inguinocrural**</font> adj. 腹股溝股的（即腹股溝和腿的上部的）
+
+<font color="sky blue">**inguinal hernia**</font> 腹股溝疝氣（當一部分腸子或其他組織透過腹壁的薄弱點突出時，在腹股溝區發生的疝氣）
+
+<font color="sky blue">**inguinodynia**</font> n. 腹股溝疼痛
+
+<font color="sky blue">**granuloma inguinale**</font> 性病肉芽腫；腹股溝肉芽腫    
+
+<font color="sky blue">**inguinotome**</font> n. 腹股溝刀（用於切割腹股溝區域的組織的手術器械）
+

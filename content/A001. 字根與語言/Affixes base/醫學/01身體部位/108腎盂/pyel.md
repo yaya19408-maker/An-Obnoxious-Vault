@@ -1,0 +1,62 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：腎盂</font>
+- ‌‌‌<font color="#f79646">變體：pyelo</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞pýelon（意為renal pelvis，即腎盂）</font>
+- ‌‌‌<font color="#f79646">用途：構成腎盂相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**pyelo-ureteral junction**</font> 腎盂-輸尿管交界處（尿液進入輸尿管並流向膀胱）
+
+<font color="sky blue">**pyelopathy**</font> n. 腎盂病
+
+<font color="sky blue">**pyelonephritis**</font> n. 腎盂腎炎（腎臟和腎盂的炎症，通常由細菌感染引起，以發燒、腹痛和排尿症狀為特徵）
+
+<font color="sky blue">**pyelitis**</font> n. 腎盂炎（腎盂的炎症，可由感染、結石或其他因素引起）
+
+<font color="sky blue">**pyelocystitis**</font> n. 腎盂膀胱炎；膀胱腎盂腎炎（腎盂和膀胱的炎症，通常由細菌感染引起，以尿頻、尿急和尿痛為特徵）
+
+<font color="sky blue">**pyelophlebitis**</font> n. 腎盂靜脈炎
+
+<font color="sky blue">**pyeloureterectasis**</font> n. 腎盂輸尿管擴張
+
+<font color="sky blue">**pyelometry**</font> n. 腎盂測量法
+
+<font color="sky blue">**pyelonephroscopy**</font> n. 腎盂腎鏡檢查（使用一個靈活的或剛性的範圍來觀察和治療腎盂和腎臟，通常是為了清除結石、腫瘤或障礙物）
+
+<font color="sky blue">**pyelogram**</font> n. 腎盂造影
+
+<font color="sky blue">**pyelography**</font> n. 腎盂造影術
+
+<font color="sky blue">**pyelogram retrograde**</font> 逆行腎盂造影（透過輸尿管或腎盂內的導管注射造影劑，並觀察尿路和任何障礙物、腫瘤或異常情況的一種診斷性影像檢查）
+
+<font color="sky blue">**pyelography antegrade**</font> 順行腎盂造影（使用造影劑透過腎造瘻管直接注入腎盂，並觀察尿路和任何障礙物、腫瘤或異常情況的一種診斷性影像檢查）
+
+<font color="sky blue">**pyeloscopy**</font> n. 腎盂X射線檢查
+
+<font color="sky blue">**pyelolithotomy**</font> n. 腎盂石切除術
+
+<font color="sky blue">**pyelonephrolithotomy**</font> n. 腎盂腎石切除術（從腎盂或腎臟中取出結石的外科手術，通常透過背部或側腹的切口）
+
+<font color="sky blue">**pyelostomy**</font> n. 腎盂造口術（在腎盂中開一個新的開口，通常用於緩解尿路梗阻或排出感染的尿液）
+
+<font color="sky blue">**pyelotomy**</font> n. 腎盂切開術
+
+<font color="sky blue">**pyeloplasty**</font> n. 腎盂成形術（包括重建或修復腎盂和輸尿管，通常用於糾正先天或後天的梗阻）
+
+<font color="sky blue">**pyeloplication**</font> n. 腎盂摺疊術
+

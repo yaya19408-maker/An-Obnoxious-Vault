@@ -1,0 +1,52 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：血管內皮</font>
+- ‌‌‌<font color="#f79646">變體：endothelio</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞endon（意為within，即在…內部）和thele（意為nipple或bud，即乳頭或蓓蕾）</font>
+- ‌‌‌<font color="#f79646">用途：構成血管內皮相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**endothelioid**</font> adj. 內皮般的；類似內覆組織的
+
+<font color="sky blue">**endothelium**</font> n.（血管和淋巴管的）內皮細胞（排列在血管和淋巴管內表面的薄層細胞）
+
+<font color="sky blue">**endothelial progenitor cell**</font> 內皮祖細胞（一種幹細胞，可以分化成內皮細胞並幫助修復受損的血管）
+
+<font color="sky blue">**endothelial microparticle**</font> 內皮微粒子（內皮細胞脫落到血液中的一個小片段，常被用作心血管疾病的生物標誌物）
+
+<font color="sky blue">**endothelium-derived relaxing factor**</font> 內皮細胞鬆弛因子（由內皮細胞產生的一種化合物，有助於放鬆血管中的平滑肌細胞並改善血流）
+
+<font color="sky blue">**endothelial-specific receptor**</font> 內皮細胞特異性受體（在內皮細胞表面特異性表達的受體，常被用作藥物輸送或成像的靶點）
+
+<font color="sky blue">**endothelial cell adhesion molecule**</font> 內皮細胞粘附分子（內皮細胞表面的一種分子，有助於介導白細胞的粘附和遷移，經常參與炎症和免疫反應）
+
+<font color="sky blue">**endothelial permeability**</font> 內皮滲透性（物質能夠透過內皮並進入周圍組織的程度）
+
+<font color="sky blue">**endothelial activation**</font> 內皮細胞啟用（內皮細胞被啟用並釋放炎症分子的過程，常常導致心血管疾病的發生）
+
+<font color="sky blue">**endothelioma**</font> n. 內皮瘤（從血管或淋巴管的內皮細胞中產生的一種罕見的腫瘤）
+
+<font color="sky blue">**angioendothelioma**</font> n. 血管內皮瘤，血管內皮細胞瘤
+
+<font color="sky blue">**endothelial dysfunction**</font> 內皮功能障礙（內皮細胞功能不正常的一種情況，常常導致心血管疾病的發生）
+
+<font color="sky blue">**endothelial dysfunction syndrome**</font> 內皮功能紊亂綜合徵（與內皮功能紊亂有關的一系列疾病，包括糖尿病、高血壓和心力衰竭）
+
+<font color="sky blue">**endothelial injury**</font> 內皮損傷
+
+<font color="sky blue">**endotheliosis**</font> n. 內皮增生
+

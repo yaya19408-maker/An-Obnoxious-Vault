@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：玻璃體</font>
+- ‌‌‌<font color="#f79646">變體：hyalo</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞hyalos（意為glass、crystal或transparent，即玻璃、水晶或透明的）</font>
+- ‌‌‌<font color="#f79646">用途：構成玻璃體相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**hyaloid membrane**</font> 玻璃體膜（覆蓋在眼睛玻璃體上的一層薄薄的、透明的膜）
+
+<font color="sky blue">**hyalitis**</font> n. 玻璃體炎
+
+<font color="sky blue">**hyaloiditis**</font> n. 玻璃體炎（眼球玻璃體膜的炎症，通常由受傷、感染或潛在的疾病引起）
+

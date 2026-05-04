@@ -1,0 +1,46 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：月經</font>
+- ‌‌‌<font color="#f79646">變體：meno, meni, mena</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞menos（意為month或menstruation，即月份或月經）</font>
+- ‌‌‌<font color="#f79646">用途：構成月經相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**menarche**</font> n. 月經初潮（女孩第一次月經的開始）
+
+<font color="sky blue">**menstruation**</font> n. 月經，行經，月經期間（婦女月經週期中子宮內膜的脫落）
+
+<font color="sky blue">**catamenia**</font> n. 月經
+
+<font color="sky blue">**menhidrosis**</font> n. 月經代償性出汗，出汗倒經
+
+<font color="sky blue">**menorrhagia**</font> n. 月經過多（大量或長時間的月經出血）
+
+<font color="sky blue">**amenia**</font> n. 無月經；經閉
+
+<font color="sky blue">**dysmenorrhea**</font> n. 月經困難；痛經
+
+<font color="sky blue">**menostasis**</font> n. 絕經；閉經（月經量的停止或減少）
+
+<font color="sky blue">**menolipsis**</font> n. 停經
+
+<font color="sky blue">**menopause**</font> n. 經絕期（婦女的月經週期結束，通常發生在50歲左右）
+
+<font color="sky blue">**menopausal symptoms**</font> 經絕期綜合徵，更年期綜合徵（婦女在更年期出現的症狀，如潮熱、盜汗和情緒變化）
+
+<font color="sky blue">**menagogue**</font> n. 通經藥
+

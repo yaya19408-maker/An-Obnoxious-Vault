@@ -1,0 +1,50 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：炭疽</font>
+- ‌‌‌<font color="#f79646">變體：anthrac, anthraco</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞anthrax（意為coal，即煤炭）</font>
+- ‌‌‌<font color="#f79646">用途：構成炭疽相關詞彙（得此病者皮膚焦痂色如煤炭）</font>
+
+
+---
+
+
+<font color="sky blue">**anthrax**</font> n. 炭疽病（由炭疽桿菌引起的細菌感染，可影響皮膚、肺部或胃腸道）
+
+<font color="sky blue">**anthracosis**</font> n. 炭末沉著病，煤肺病，礦工黑肺病（由吸入煤塵引起的肺部疾病）
+
+<font color="sky blue">**anthracosis of the lymph nodes**</font> 淋巴結煤肺病（由於煤肺病而導致的淋巴結腫大）
+
+<font color="sky blue">**anthracoid**</font> adj. 似炭癰的，似癰的，癰狀的
+
+<font color="sky blue">**anthracoid bacilli**</font> 類炭疽桿菌（與Bacillus anthracis相似的細菌，但不具有致病性）
+
+<font color="sky blue">**anthracoid fever**</font> 類炭疽熱（與炭疽病症狀相似的發燒，但由不同的生物體引起）
+
+<font color="sky blue">**anthracoid mastitis**</font> 類炭疽性乳腺炎（乳房組織的炎症，類似於炭疽病的症狀，但由不同的生物體引起）
+
+<font color="sky blue">**anthracotic lymphadenitis**</font> 炭肺性淋巴結炎（由於煤肺病導致的淋巴結腫大）
+
+<font color="sky blue">**anthracotic pigmentation**</font> 炭肺性色素沉著（因煤肺病而導致的肺部變色）
+
+<font color="sky blue">**anthracic**</font> adj. 炭疽的，炭疽樣的
+
+<font color="sky blue">**anthrax vaccine**</font> 炭疽疫苗 
+
+<font color="sky blue">**anthracemia**</font> n. 一氧化碳中毒，炭疽菌血症（血液中存在的炭疽細菌）
+
+<font color="sky blue">**anthracnose of the eye**</font> 眼部炭疽病（一種影響眼部的真菌感染，引起黑色病變）
+
+<font color="sky blue">**anthracnose**</font> n.（真菌引起的植物）炭疽病（在葉子和莖上引起黑色病變）
+

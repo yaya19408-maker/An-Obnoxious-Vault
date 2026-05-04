@@ -1,0 +1,57 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：尺骨</font>
+- ‌‌‌<font color="#f79646">變體：ulno</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞ulna（意為elbow或forearm bone，即肘或前臂骨）</font>
+- ‌‌‌<font color="#f79646">用途：構成尺骨相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**ulna**</font> n. 尺骨 
+
+<font color="sky blue">**ulnad**</font> n. 向尺的一側
+
+<font color="sky blue">**ulnaris**</font> adj. 尺骨的
+
+<font color="sky blue">**ulnar**</font> adj. 尺骨的
+
+<font color="sky blue">**ulnar deviation**</font> 尺骨偏斜
+
+<font color="sky blue">**ulnar collateral ligament**</font> 尺骨副韌帶（連線尺骨和上臂肱骨的韌帶，有助於穩定肘關節）
+
+<font color="sky blue">**ulnar nerve**</font> 尺骨神經（貫穿前臂的一條神經，為小指和無名指的一部分提供感覺）
+
+<font color="sky blue">**ulnocarpal joint**</font> 尺腕關節（腕部尺骨和腕骨之間的關節）
+
+<font color="sky blue">**ulnar styloid process**</font> 尺骨末端的一個骨性突起（有助於穩定腕關節）
+
+<font color="sky blue">**ulnar variance**</font> 尺骨差異（對前臂中尺骨和橈骨之間長度差異的測量）
+
+<font color="sky blue">**ulnolunate ligament**</font> 尺骨月骨韌帶（連線尺骨和腕部月骨的一條韌帶）
+
+<font color="sky blue">**ulnocarpal abutment**</font> 尺骨和腕骨相互摩擦，引起疼痛和炎症的一種情況 
+
+
+ 
+
+
+ 
+
+
+
+
+
+

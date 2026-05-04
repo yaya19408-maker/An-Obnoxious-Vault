@@ -1,0 +1,74 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：丘疹</font>
+- ‌‌‌<font color="#f79646">變體：papulo, papuli</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞papula（意為pimple，即丘疹）</font>
+- ‌‌‌<font color="#f79646">用途：構成丘疹相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**papule**</font> n. [等於papula] 丘疹（皮膚上凸起的小疙瘩，直徑通常小於1釐米）
+
+<font color="sky blue">**papulosis**</font> n. 丘疹病
+
+<font color="sky blue">**papulosis lymphomatoid**</font> 丘疹樣淋巴瘤（一種罕見的皮膚病，以出現類似腫瘤的丘疹為特徵）
+
+<font color="sky blue">**maculopapular**</font> adj. 斑丘疹的
+
+<font color="sky blue">**papuliferous**</font> adj. 產生（或含有）丘疹的
+
+<font color="sky blue">**papulopustular**</font> adj. 與丘疹和膿皰有關的
+
+<font color="sky blue">**papulopustular rosacea**</font> 丘疹膿皰性紅斑痤瘡（一種紅斑痤瘡型別，在面部引起丘疹和膿皰）
+
+<font color="sky blue">**papulopustular acne**</font> 丘疹膿皰性痤瘡（一種在面部和身體上引起丘疹和膿皰的痤瘡型別）
+
+<font color="sky blue">**papulopustular folliculitis**</font> 丘疹膿皰性毛囊炎（一種毛囊炎，在毛囊周圍引起丘疹和膿皰）
+
+<font color="sky blue">**papulovesicle**</font> n. 丘皰疹（一種小的、凸起的病變，同時含有丘疹和水泡成分）
+
+<font color="sky blue">**papulovesicular**</font> adj. 丘疹水皰性的
+
+<font color="sky blue">**papulovesicular rash**</font> 丘疹水皰性皮疹（以丘疹和充滿液體的水皰為特徵的皮疹）
+
+<font color="sky blue">**papulovesicular dermatitis**</font> 丘疹水皰性皮炎（一種以丘疹和水泡為特徵的皮膚炎症）
+
+<font color="sky blue">**papulovesicular eczema**</font> 丘疹水皰性溼疹（一種引起丘疹和充滿液體的水皰的溼疹）
+
+<font color="sky blue">**papulonecrotic**</font> adj. 導致丘疹死亡的，即丘疹壞死的
+
+<font color="sky blue">**papulonecrotic tuberculid**</font> 丘疹壞死性結核疹（一種與結核病有關的罕見的皮膚病，導致丘疹壞死）
+
+<font color="sky blue">**papulonecrotic cutaneous tuberculosis**</font> 丘疹壞死性皮膚結核病（一種罕見的結核病，導致丘疹壞死）
+
+<font color="sky blue">**papulonecrotic sarcoidosis**</font> 丘疹壞死性肉狀瘤病（是一種罕見的肉瘤病，會導致丘疹壞死）
+
+<font color="sky blue">**papulonodular**</font> adj. 丘疹結節的
+
+<font color="sky blue">**papulonodular dermatosis**</font> 丘疹結節性皮膚病（一組以丘疹和結節為特徵的皮膚病）
+
+<font color="sky blue">**papulonodular secondary syphilis**</font> 丘疹結節性繼發性梅毒（梅毒的一個階段，在皮膚上引起丘疹和結節）
+
+<font color="sky blue">**papular urticaria**</font> 丘疹性蕁麻疹（ 一種過敏反應，導致皮膚上出現瘙癢的丘疹）
+
+<font color="sky blue">**papulosquamous**</font> adj. 丘疹鱗屑性的
+
+<font color="sky blue">**papulosquamous syphilids**</font> 丘疹鱗屑性梅毒疹
+
+<font color="sky blue">**papulosquamous disorders**</font> 丘疹鱗屑性皮膚病（一組以丘疹和鱗屑為特徵的皮膚病）
+
+<font color="sky blue">**papular mucinosis**</font> 丘疹性粘蛋白增多症（一種罕見的皮膚病，以含有粘液的丘疹為特徵）
+

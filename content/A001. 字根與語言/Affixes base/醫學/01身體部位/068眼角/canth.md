@@ -1,0 +1,46 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：眼角；眥</font>
+- ‌‌‌<font color="#f79646">變體：cantho</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞kanthos（意為corner of the eye或outer corner of the eye，即眼角或外眼角）</font>
+- ‌‌‌<font color="#f79646">用途：構成眼角（尤指外眼角）相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**canthal tendon**</font> 眼角肌腱（一條纖維組織帶，將眼皮的外角連線到眼窩的骨頭上）
+
+<font color="sky blue">**canthal ligament**</font> 眥韌帶（一條纖維組織帶，將眼瞼的外角連線到眼窩的骨頭上，提供支撐和穩定）
+
+<font color="sky blue">**canthal angle**</font> 眼角（即上下眼瞼在外眼角相接處形成的角度）
+
+<font color="sky blue">**canthitis**</font> n. 眥炎 
+
+<font color="sky blue">**cantholysis**</font> n. 眥切開術（將眼瞼外角從其與內眥骨的連線處釋放出來的手術方法，通常用於治療某些眼部疾病）
+
+<font color="sky blue">**canthotomy**</font> n. 眼角切開術（切開眼瞼外角的手術方法，通常用於緩解眼睛的壓力或腫脹）
+
+<font color="sky blue">**canthoplasty**</font> n. 眼角整形術
+
+<font color="sky blue">**canthorrhaphy**</font> n. 眥縫合術
+
+<font color="sky blue">**canthopexy**</font> n. 眥固定術
+
+<font color="sky blue">**canthaxanthin**</font> n. 角黃素（在某些食物和補充劑中發現的一種類胡蘿蔔素，常被用於抗氧化和提高皮膚顏色）
+
+<font color="sky blue">**cantharellus**</font> n. 雞油菌屬（一種食用菌屬，又稱雞油菌，常被用於烹飪和藥用）
+
+<font color="sky blue">**cantharidin**</font> n. 斑蝥素（一種從水泡甲蟲中提取的有毒化合物，常被用於傳統醫學和獸藥）
+

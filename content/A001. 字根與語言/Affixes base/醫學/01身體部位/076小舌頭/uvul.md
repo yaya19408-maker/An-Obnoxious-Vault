@@ -1,0 +1,49 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：懸雍垂</font>
+- ‌‌‌<font color="#f79646">變體：uvulo</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞uvula（意為little grape或grape cluster，即小葡萄或葡萄串）</font>
+- ‌‌‌<font color="#f79646">用途：構成懸雍垂相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**uvula**</font> n. [複數為uvulae] 懸雍垂；小舌
+
+<font color="sky blue">**uvular**</font> adj. 懸雍垂的；小舌音的
+
+<font color="sky blue">**uvularis**</font> n. 懸雍垂肌
+
+<font color="sky blue">**uvuloglossopharyngeal complex**</font> 懸雍垂舌咽複合體（喉嚨後面的肌肉和組織複合體，包括懸雍垂、軟顎、舌頭和咽部）
+
+<font color="sky blue">**uvulopalatoglossal arch**</font> 懸雍垂顎咽弓（從懸雍垂延伸到舌根的組織褶皺，形成口腔和咽部之間的部分界限）
+
+<font color="sky blue">**uvulopalatal channel**</font> 懸雍垂通道（懸雍垂和軟顎之間的空間）
+
+<font color="sky blue">**uvulomandibular reflex**</font> 懸雍垂反射（當懸雍垂和軟顎因咽喉後部的刺激而向上和向前移動時發生的一種反射）
+
+<font color="sky blue">**uvulitis**</font> n. 懸雍垂炎
+
+<font color="sky blue">**uvuloptosis**</font> n. 懸雍垂下垂（懸雍垂不正常地向下移位或伸長）
+
+<font color="sky blue">**bifid uvula**</font> 懸雍垂裂
+
+<font color="sky blue">**uvulectomy**</font> 懸雍垂切除術
+
+<font color="sky blue">**uvulopalatopharyngoplasty**</font> n. [縮寫為UPPP] 懸雍垂顎咽成形術（該手術需要切除咽喉部的多餘組織，包括懸雍垂，以治療睡眠呼吸暫停）
+
+<font color="sky blue">**uvulovagopalatopharyngoplasty**</font> n. 懸雍垂顎咽成形術
+
+<font color="sky blue">**uvulopalatal flap**</font> 懸雍垂顎皮瓣術（用於修復顎裂的外科技術，從懸雍垂上取下組織，用於閉合顎裂的縫隙）

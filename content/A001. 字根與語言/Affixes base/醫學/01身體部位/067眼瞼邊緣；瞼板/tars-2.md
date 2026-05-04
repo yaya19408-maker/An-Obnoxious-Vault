@@ -1,0 +1,32 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：瞼板</font>
+- ‌‌‌<font color="#f79646">變體：tarso</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞tarsos（意為flat surface，即平滑的表面）</font>
+- ‌‌‌<font color="#f79646">用途：構成瞼板相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**tarsal plate**</font> 瞼板（在眼瞼內提供支撐的、厚的、纖維狀的結締組織帶）
+
+<font color="sky blue">**tarsal gland**</font> 瞼板腺（位於眼瞼內的一個腺體，產生和分泌油脂以潤滑眼睛）
+
+<font color="sky blue">**tarsal conjunctiva**</font> 瞼板部（瞼）結膜（覆蓋瞼板和眼瞼內部的薄而透明的膜
+
+<font color="sky blue">**tarsal cyst**</font> 瞼板腺囊腫，霰粒腫（瞼板內形成的囊腫，通常由瞼板腺堵塞引起）
+
+<font color="sky blue">**tarsorrhaphy**</font> n. 瞼縫合術，瞼緣縫合術（部分或完全關閉眼瞼的手術方法，通常用於治療角膜擦傷或其他眼部疾病）
+

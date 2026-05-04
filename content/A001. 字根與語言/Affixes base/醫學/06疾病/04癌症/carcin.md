@@ -1,0 +1,58 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：癌症</font>
+- ‌‌‌<font color="#f79646">變體：carcino</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞karkinos（意為crab，即螃蟹）</font>
+- ‌‌‌<font color="#f79646">用途：構成癌症相關詞彙（這裡是一個比喻用法，因為據說癌症生長的凸起部分像螃蟹腿，伸向四面八方）</font>
+
+
+---
+
+
+<font color="sky blue">**carcinoma**</font> n. 癌（一種始於構成皮膚或器官內壁的細胞的癌症）
+
+<font color="sky blue">**carcinogen**</font> n. 致癌物
+
+<font color="sky blue">**carcinogenic**</font> adj. 致癌的；致癌物的
+
+<font color="sky blue">**carcinogenicity**</font> n. 致癌力，致癌性（一種物質或藥劑的致癌能力）
+
+<font color="sky blue">**carcinogenesis**</font> n. 癌變（正常細胞轉變為癌細胞的過程）
+
+<font color="sky blue">**carcinomatosis**</font> n. 癌擴散（癌細胞擴散到身體的多個部位）
+
+<font color="sky blue">**carcinolysis**</font> n. 癌溶解，癌細胞溶解（通常透過使用化療或放療來破壞癌細胞）
+
+<font color="sky blue">**carcinomatoid**</font> adj. 癌樣的，類似癌症的
+
+<font color="sky blue">**carcinoid**</font> adj. 類似癌症的，即良性腫瘤的 n. 良性腫瘤（一種生長緩慢的腫瘤，通常在消化系統或肺部開始）
+
+<font color="sky blue">**carcinoid syndrome**</font> 類癌綜合徵（由某些型別的類癌引起的一組症狀，包括潮紅、腹瀉和喘息）      
+
+<font color="sky blue">**carcinoma in situ**</font> 原位癌（一種沒有擴散到原始部位以外的癌症）
+
+<font color="sky blue">**carcinoma erysipeloides**</font> 丹毒樣癌（一種罕見的皮膚癌，表現為紅腫的皮疹）
+
+<font color="sky blue">**carcinoma of unknown primary**</font> 原發病灶不明的癌症（一種無法確定原發腫瘤位置的癌症）
+
+<font color="sky blue">**carcinemia**</font> n. 癌血癥，癌性惡病質
+
+<font color="sky blue">**carcinomatous meningitis**</font> 癌性腦膜炎（一種罕見的癌症併發症，癌細胞擴散到大腦和脊髓周圍的膜上）
+
+<font color="sky blue">**carcinophobia**</font> n. 恐癌症（對患癌症的過度恐懼）
+
+<font color="sky blue">**carcinectomy**</font> n. 癌切除術
+
+補充：表示腫瘤的詞根“[[../05脹；腫脹；腫瘤；結節；結核；疝/onco]]”也與“癌症”密切相關
+· 表示“腫瘤”的詞根詞綴見[[../05脹；腫脹；腫瘤；結節；結核；疝/脹；腫脹；腫瘤；結節；結核；疝]]

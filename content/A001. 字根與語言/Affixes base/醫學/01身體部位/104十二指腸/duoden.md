@@ -1,0 +1,56 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：十二指腸</font>
+- ‌‌‌<font color="#f79646">變體：duodeno</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞duodenum（意為twelve fingers，即十二個手指）</font>
+- ‌‌‌<font color="#f79646">用途：構成十二指腸相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**duodenum**</font> n. 十二指腸（小腸的第一部分，接收來自胃部的已經被部分消化的食物）
+
+<font color="sky blue">**duodenal**</font> adj. 十二指腸的
+
+<font color="sky blue">**duodenal bulb**</font> 十二指腸球部（ 十二指腸最寬的部分和最近端，它圍繞著胰腺的頭部彎曲，位於胃的幽門之外）
+
+<font color="sky blue">**duodenal juice**</font> 十二指腸液（由十二指腸腺體產生的鹼性分泌物，它能中和胃酸，並含有消化碳水化合物、蛋白質和脂質的酶）
+
+<font color="sky blue">**duodenal papilla**</font> 十二指腸乳頭（位於十二指腸壁內的小隆起或乳頭狀結構，總膽管和胰管在此進入並向小腸釋放其分泌物）
+
+<font color="sky blue">**duodenal ulcer**</font> 十二指腸潰瘍（十二指腸內壁的潰瘍或病變，通常由酸分泌過多、幽門螺旋桿菌感染或長期使用非甾體類抗炎藥引起）
+
+<font color="sky blue">**duodenitis**</font> n. 十二指腸炎（十二指腸內壁的炎症，可由感染、藥物、酒精或其他因素引起）
+
+<font color="sky blue">**duodenal switch**</font> 十二指腸轉位手術（一種減肥手術，包括切除一大部分的胃，改道小腸以繞過十二指腸的第一部分，導致熱量和營養的吸收減少。）
+
+<font color="sky blue">**duodenal atresia**</font> 十二指腸閉鎖（一種先天性的出生缺陷，十二指腸被堵住或沒有，使食物無法透過）
+
+<font color="sky blue">**duodenal perforation**</font> 十二指腸穿孔（十二指腸壁的破裂或孔洞，可由外傷、炎症、潰瘍或腸梗阻引起，如果不及時治療，可導致腹膜炎或敗血癥）
+
+<font color="sky blue">**duodenal stenosis**</font> 十二指腸狹窄（十二指腸管腔的狹窄或收縮，可由疤痕組織、炎症、腫瘤或先天性異常引起，可導致食物、膽汁或胰液流動受阻）
+
+<font color="sky blue">**duodenal varices**</font> 十二指腸靜脈曲張（發生在十二指腸粘膜下的異常擴張和迂迴的靜脈，在因肝硬化或其他原因導致門靜脈高壓的患者中可引起出血或破裂）
+
+<font color="sky blue">**duodenal adenocarcinoma**</font> 十二指腸腺癌（一種惡性腫瘤，產生於十二指腸上皮的腺體，可引起腹痛、噁心、嘔吐、體重減輕和黃疸，通常用手術、化療和放射治療）
+
+<font color="sky blue">**duodenography**</font> n. 十二指腸造影術
+
+<font color="sky blue">**duodenal intubation**</font> 十二指腸插管（為診斷或治療目的，將管子透過鼻、口或口鼻插入十二指腸的過程，如獲得活組織檢查、移除異物或給藥）
+
+<font color="sky blue">**duodenal suction**</font> 十二指腸抽吸（使用連線到抽吸裝置的鼻胃管或鼻腸管清除胃或十二指腸內容物，可用於緩解胃腸道梗阻，防止誤吸，或監測消化功能）
+
+<font color="sky blue">**duodenectomy**</font> n. 十二指腸切除術
+

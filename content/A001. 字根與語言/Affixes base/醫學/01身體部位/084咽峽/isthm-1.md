@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：咽峽</font>
+- ‌‌‌<font color="#f79646">變體：isthmo</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞isthmos（意為a narrow passage or neck of land connecting two larger bodies of land，即狹長的通道或連線兩個較大的陸地的一個頸狀狹長地帶）</font>
+- ‌‌‌<font color="#f79646">用途：構成咽峽相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**isthmoparalysis**</font> n. 咽峽麻痺（咽峽的肌肉癱瘓，可導致吞嚥困難）
+
+<font color="sky blue">**isthmoplegia**</font> n. 咽峽麻痺
+
+<font color="sky blue">**isthmospasm**</font> n. 咽峽痙攣
+

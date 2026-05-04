@@ -1,0 +1,58 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：盲腸</font>
+- ‌‌‌<font color="#f79646">變體：ceco, caeco [其中caeco為英式用法]</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞caecus（意為blind，即盲的）</font>
+- ‌‌‌<font color="#f79646">用途：構成盲腸相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**cecum**</font> n. 盲腸（連線小腸和大腸的袋狀結構，位於腹部的右側 ）
+
+<font color="sky blue">**caecal**</font> adj. 盲腸的
+
+<font color="sky blue">**cecocentral**</font> adj. 中心盲點的
+
+<font color="sky blue">**cecocolic**</font> adj. 盲結腸的
+
+<font color="sky blue">**cecocolon**</font> n. 盲腸結腸（盲結腸）
+
+<font color="sky blue">**caecum diverticulum**</font> 盲腸憩室（在盲腸壁上形成的囊狀突起，可能發炎或感染，引起疼痛和發燒，需要手術切除）
+
+<font color="sky blue">**cecitis**</font> n. 盲腸炎（盲腸的炎症，可由感染、炎症性腸病或缺血引起）
+
+<font color="sky blue">**caeco-appendicitis**</font> n. 盲腸-闌尾炎（盲腸和闌尾的炎症，可引起腹痛、發燒和噁心，需要透過手術切除闌尾）
+
+<font color="sky blue">**caecum cancer**</font> 盲腸癌（一種產生於盲腸細胞的惡性腫瘤，可引起腹痛、直腸出血和體重減輕，通常用手術、化療和放射治療）
+
+<font color="sky blue">**caecal volvulus**</font> 盲腸捲曲（盲腸圍繞自身扭曲並阻塞，引起嚴重腹痛、嘔吐和脫水，需要緊急手術解開或切除盲腸的一種情況）
+
+<font color="sky blue">**caecolith**</font> n. 盲腸結石（在盲腸腔內形成的堅硬的鈣化塊，可引起阻塞或穿孔）
+
+<font color="sky blue">**cecography**</font> n. 盲腸造影術（一種放射成像技術，使用造影劑來觀察盲腸並檢測異常情況，如腫瘤、息肉或炎症）
+
+<font color="sky blue">**caecoileostomy**</font> n. 盲迴腸吻合術，盲腸迴腸吻合術（ 將盲腸與迴腸連線起來的外科手術，以繞過結腸的受損或病變部分）
+
+<font color="sky blue">**caeco-colostomy**</font> n. 盲腸結腸吻合術（連線盲腸和結腸的手術，以繞過受損或患病的大腸部分）
+
+<font color="sky blue">**cecorrhaphy**</font> n. 盲腸縫合術（修復盲腸撕裂或破裂的一種外科手術，其原因可能是外傷、阻塞或缺血）
+
+<font color="sky blue">**cecostomy**</font> n. 盲腸造口術（在盲腸上開一個新的口子，以便進行糞便分流或減壓）
+
+<font color="sky blue">**caecotomy**</font> n. 盲腸切開手術
+
+<font color="sky blue">**cecopexy**</font> n. 盲腸固定術（將盲腸固定在腹壁上以防止其扭曲或脫垂的一種手術方法）
+

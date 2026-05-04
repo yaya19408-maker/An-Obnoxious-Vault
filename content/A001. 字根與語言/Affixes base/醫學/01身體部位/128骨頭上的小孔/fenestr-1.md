@@ -1,0 +1,55 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：骨頭上的小孔</font>
+- ‌‌‌<font color="#f79646">變體：fenestra</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞fenestra（意為window，即窗戶）</font>
+- ‌‌‌<font color="#f79646">用途：構成骨頭上的小孔相關詞彙（本指體內窗戶狀的開孔）</font>
+
+
+---
+
+
+<font color="sky blue">**fenestration surgery**</font> 開窗手術（在骨頭上開一個小口或視窗，如顱骨或鼻竇，以改善引流或緩解壓力）
+
+<font color="sky blue">**fenestration**</font> n. 骨開窗術（在骨頭上開一個小口或視窗，如顱骨，以減輕壓力或排出液體）
+
+
+<font color="sky blue">**fenestra vestibuli**</font> 前庭門（內耳骨上的一個開口，允許聲音傳到耳蝸）
+
+<font color="sky blue">**fenestra cochleae**</font> 耳蝸門（內耳骨上的一個開口，將前庭和鼓室分開）
+
+<font color="sky blue">**fenestra rotunda**</font> 耳廓門（在內耳骨上的一個開口，將前庭和鼓室分開： 內耳骨上的一個圓形開口，可供液體透過）
+
+
+<font color="sky blue">**fenestrated capillary**</font> 有孔的毛細血管（一種具有小孔或開口的毛細血管，允許液體和小分子透過）
+
+<font color="sky blue">**fenestrated endothelium**</font> 有孔的內皮組織
+
+<font color="sky blue">**fenestration of the heart**</font> 心臟開窗術（在心臟上開小口或視窗以改善血流）
+
+<font color="sky blue">**fenestration of the liver**</font> 肝臟開窗術（在肝臟上開出小口或視窗，以改善引流或緩解壓力）
+
+<font color="sky blue">**fenestrated graft**</font> 有孔的移植（一種外科移植手術，有小的開口或視窗，可以讓血液或其他液體透過）
+
+
+<font color="sky blue">**fenestrated drape**</font> 有孔的手術布（具有小開口或小視窗的手術布，允許在保持無菌條件下進入手術部位）
+
+<font color="sky blue">**fenestrated sheath**</font> 有孔的護套（具有小開口或視窗的醫療裝置，可以插入其他醫療儀器或裝置）   
+
+<font color="sky blue">**fenestrated tracheostomy tube**</font> 有孔的氣管造口管（ 一種具有小開口或視窗的氣管造口管，可以改善氣流和分泌物的排出）
+
+<font color="sky blue">**fenestrated tube**</font> 有孔的管子（具有小的開口或視窗的醫療管或導管，可以讓液體或氣體透過
+
+<font color="sky blue">**fenestrated stent**</font> 有孔的支架（用於撐開堵塞或狹窄的血管或其他管狀結構的醫療裝置，有小的開口或視窗，可供液體或氣體透過）
+

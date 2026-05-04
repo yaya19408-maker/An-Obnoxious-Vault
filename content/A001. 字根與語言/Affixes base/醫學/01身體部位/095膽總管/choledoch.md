@@ -1,0 +1,55 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：膽總管</font>
+- ‌‌‌<font color="#f79646">變體：choledocho</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞chole（意為bile，即膽汁）和doche（意為receiving，即接收）</font>
+- ‌‌‌<font color="#f79646">用途：構成膽總管相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**choledochus**</font> n. 膽總管（它將膽汁從肝臟和膽囊輸送到小腸）
+
+<font color="sky blue">**choledochal**</font> adj. 膽總管的
+
+<font color="sky blue">**choledochitis**</font> n. 膽總管炎（通常由細菌感染或梗阻引起）
+
+<font color="sky blue">**choledocholithiasis**</font> n. 膽總管結石症（膽總管記憶體在膽結石，可引起疼痛和其他症狀）
+
+<font color="sky blue">**choledochal cyst**</font> 膽總管囊腫（一種先天性畸形，總膽管擴張或擴大，可引起腹痛和其他症狀）
+
+<font color="sky blue">**choledochal carcinoma**</font> 膽總管癌
+
+<font color="sky blue">**choledochectasia**</font> n. 膽總管擴張
+
+<font color="sky blue">**choledochography**</font> n. 膽總管造影術
+
+<font color="sky blue">**choledochocholedochostomy**</font> n. 膽總管端端吻合術
+
+<font color="sky blue">**choledochojejunostomy**</font> n. 膽總管空腸吻合術（將總膽管與空腸相連，空腸即小腸的第二部分）
+
+<font color="sky blue">**choledochoduodenostomy**</font> n. 膽總管十二指腸吻合術（將總膽管與十二指腸相連，十二指腸即小腸的第一部分）
+
+<font color="sky blue">**choledochoenterostomy**</font> n. 膽總管小腸吻合術（將總膽管與腸道相連的外科手術，通常用於緩解膽管梗阻）
+
+<font color="sky blue">**choledochoplasty**</font> n. 膽總管整形術（拓寬或重建膽總管以改善膽汁流動的一種手術）
+
+<font color="sky blue">**choledochostomy**</font> n. 膽總管造口術（將總膽管與小腸相連的外科手術，通常用於緩解膽管梗阻）   
+
+<font color="sky blue">**choledochotomy**</font> n. 膽總管切開術（進入總膽管的手術切口，通常用於清除結石或其他阻塞物）
+
+<font color="sky blue">**choledochectomy**</font> n. 膽總管部分切除術
+
+<font color="sky blue">**choledocholithotomy**</font> n. 膽總管石切除術（從總膽管中取出膽結石的外科手術，通常使用內窺鏡）

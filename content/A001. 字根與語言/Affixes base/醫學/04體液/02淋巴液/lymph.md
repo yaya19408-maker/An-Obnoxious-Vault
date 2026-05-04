@@ -1,0 +1,50 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：淋巴</font>
+- ‌‌‌<font color="#f79646">變體：lympho</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞lympha（意為clear spring water，即清澈的泉水）</font>
+- ‌‌‌<font color="#f79646">用途：構成淋巴相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**lymph**</font> n. 淋巴，淋巴液（一種透過淋巴系統迴圈的無色液體，在免疫系統中發揮作用）
+
+<font color="sky blue">**lymphatic system**</font> 淋巴系統（一個由血管、組織和器官組成的網路，幫助維持液體平衡和抗感染）   
+
+<font color="sky blue">**lymphatic vessels**</font> 淋巴管（其作用是將淋巴液運送至全身）
+
+<font color="sky blue">**lymphocyte**</font> n. 淋巴細胞（一種白血球，在免疫系統中發揮作用）
+
+<font color="sky blue">**lymphoid tissue**</font> 淋巴組織（含有淋巴細胞的組織，在免疫系統中發揮作用）
+
+<font color="sky blue">**lymphokine**</font> n. 淋巴因子（淋巴細胞產生的一種蛋白質，調節免疫反應）
+
+<font color="sky blue">**lymphoma**</font> n. 淋巴瘤（ 一種影響淋巴系統細胞的癌症）
+
+<font color="sky blue">**lymphangioma**</font> n. 淋巴管瘤（由淋巴管組成的一種良性腫瘤）
+
+<font color="sky blue">**lymphosarcoma**</font> n. 淋巴肉瘤（一種影響淋巴細胞和淋巴組織的癌症）
+
+<font color="sky blue">**lymphadenopathy**</font> n. 淋巴結病（通常以腫大或炎症為特徵）
+
+<font color="sky blue">**lymphedema**</font> n. 淋巴水腫（多餘的淋巴液積聚在組織中，導致腫脹和不適）
+
+<font color="sky blue">**lymphocytosis**</font> n. 淋巴細胞增多症 
+
+<font color="sky blue">**lymphangitis**</font> n. 淋巴管炎
+
+<font color="sky blue">**lymphangiography**</font> n. 淋巴管造影術
+

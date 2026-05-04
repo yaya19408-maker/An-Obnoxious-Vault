@@ -1,0 +1,45 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：迴腸</font>
+- ‌‌‌<font color="#f79646">變體：ileo</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞ileum（意為the lower part of the small intestine或the final and longest segment of the small intestine，即小腸下部或迴腸）</font>
+- ‌‌‌<font color="#f79646">用途：構成迴腸相關的醫學詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**ileum**</font> n. 迴腸
+
+<font color="sky blue">**ileocecal**</font> n. 回盲腸（指回腸和盲腸之間的交界處，其標誌是迴盲瓣）
+
+<font color="sky blue">**ileocolic**</font> n. 回結腸（指回腸和結腸，通常用來描述它們在迴盲瓣處連線的區域）
+
+<font color="sky blue">**ileocecal sphincter**</font> 回盲腸括約肌（ileocecal valve的別稱，它調節從小腸到大腸的物質流動）
+
+<font color="sky blue">**ileitis**</font> n. 迴腸炎
+
+<font color="sky blue">**ileocolitis**</font> n. 迴腸結腸炎
+
+<font color="sky blue">**ileocecal tuberculosis**</font> 回盲腸結核
+
+<font color="sky blue">**ileocecal intussusception**</font> 迴腸盲腸套迭
+
+<font color="sky blue">**ileocecectomy**</font> n. 回盲腸切除術
+
+<font color="sky blue">**ileocecal resection**</font> 回盲腸切除術
+
+<font color="sky blue">**ileostomy**</font> n. 迴腸造口術
+
+

@@ -1,0 +1,55 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：上顎</font>
+- ‌‌‌<font color="#f79646">變體：palato</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞palatum（意為palate或the roof of the mouth，即上顎）</font>
+- ‌‌‌<font color="#f79646">用途：構成上顎相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**palate**</font> n. 顎；味覺
+
+<font color="sky blue">**palatal**</font> adj. 顎的；顎音的 n. 顎音, 舌面中音
+
+<font color="sky blue">**glossopalatine**</font> adj. 舌顎的
+
+<font color="sky blue">**palatoglossal**</font> arch 顎舌弓（口腔後部的一個拱形肌肉，構成口腔和咽部之間的部分界限）
+
+<font color="sky blue">**palatoglossus muscle**</font> 顎舌肌
+
+<font color="sky blue">**palatopharyngeus**</font> n. 顎嚥肌
+
+<font color="sky blue">**palatine bone**</font> 顎骨（顱骨上的一塊骨頭，構成硬顎和鼻腔底部的一部分）
+
+<font color="sky blue">**palatine tonsils**</font> 顎扁桃體（位於咽喉後部兩側的兩團淋巴組織，有助於抵禦感染）
+
+<font color="sky blue">**palatine uvula**</font> 顎部懸雍垂（位於軟顎後面的一個小的、肉質的突起，有助於在吞嚥時關閉鼻腔）
+
+<font color="sky blue">**palatine nerve**</font> 顎神經（上頜神經的一個分支，向硬顎和軟顎以及上頜的牙齦和牙齒提供感覺）
+
+<font color="sky blue">**palatine rugae**</font> 顎部皺襞（硬顎上的脊或組織褶皺，在咀嚼和吞嚥時有助於抓取和操縱食物）
+
+<font color="sky blue">**palatopharyngeal arch**</font> 顎咽弓（口腔後部的一個拱形肌肉，構成口腔和咽部之間的部分界限）
+
+<font color="sky blue">**palatine fissure**</font> 顎裂（硬顎上的一條深溝或裂縫，將頭骨的上頜骨分開）
+
+<font color="sky blue">**palatitis**</font> n. 顎炎
+
+<font color="sky blue">**palatodynia**</font> n. 顎痛
+
+<font color="sky blue">**palatal myoclonus**</font> 顎肌陣攣（一種以顎部肌肉快速、不自主收縮為特徵的神經系統疾病）
+
+<font color="sky blue">**palatoplasty**</font> n. 顎部整形術（對顎裂或其他顎部畸形進行修復的一種手術）

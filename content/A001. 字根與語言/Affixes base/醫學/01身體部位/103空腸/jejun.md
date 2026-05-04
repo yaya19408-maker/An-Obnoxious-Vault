@@ -1,0 +1,57 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：空腸</font>
+- ‌‌‌<font color="#f79646">變體：jejuno</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞jejunus（意為empty，即空的）</font>
+- ‌‌‌<font color="#f79646">用途：構成空腸相關詞彙</font>
+
+---
+
+<font color="sky blue">**jejunum**</font> n. 空腸（小腸的第二部分，位於十二指腸和迴腸之間，食物的大部分營養物質在這裡被吸收） 
+
+<font color="sky blue">**jejunal**</font> adj. 空腸的
+
+<font color="sky blue">**jejunal artery**</font> n. 空腸動脈
+
+<font color="sky blue">**jejunitis**</font> n. 空腸炎
+
+<font color="sky blue">**jejunojejunostomy**</font> n. 空腸空腸吻合術（在空腸的兩段之間建立新的連線的外科手術，通常是為了繞過腸道的病變或梗阻部分）
+
+<font color="sky blue">**jejunal ulcer**</font> 空腸潰瘍
+
+<font color="sky blue">**jejunoileitis**</font> n. 空腸迴腸炎（ 空腸和迴腸的炎症，這是克羅恩病的一種常見型別，可引起腹痛、腹瀉和體重下降）
+
+<font color="sky blue">**jejunogastric intussusception**</font> 空腸胃梗阻（ 一種罕見的情況，即空腸透過手術開出的口子伸縮到胃裡，引起梗阻和疼痛）
+
+<font color="sky blue">**jejunal diverticulosis**</font> 空腸憩室病（一種在空腸壁上形成小包或小囊的情況，這些小包或小囊可能會發炎或感染，引起腹痛和腹脹）
+
+<font color="sky blue">**jejunal duplication**</font> 空腸重複（ 一種罕見的先天性異常，即形成空腸的重複段，可引起梗阻、出血或炎症，需要手術切除）
+
+<font color="sky blue">**jejunal atresia**</font> 空腸閉鎖（一種先天性的出生缺陷，即空腸被堵塞或缺失，使食物無法透過，需要透過手術矯正）
+
+<font color="sky blue">**jejunal lymphoma**</font> 空腸淋巴瘤（一種起源於空腸淋巴細胞的癌症，可引起腹痛、腹瀉和體重減輕，通常用化療和放療治療）
+
+<font color="sky blue">**jejunogastric reflux**</font> 空腸胃反流（空腸內容物迴流到胃裡，引起胃酸反流和燒心）    : A condition in which the contents of the jejunum flow back into the stomach, causing acid reflux and heartburn.
+
+<font color="sky blue">**duodenojejunostomy**</font> n. 十二指腸空腸吻合術
+
+<font color="sky blue">**esophagojejunostomy**</font> n. 食管空腸吻合術
+
+<font color="sky blue">**jejunectomy**</font> n. 空腸切除術
+
+<font color="sky blue">**jejunostomy**</font> n. 空腸造口術（在空腸上開一個新口，以便進行腸道餵養或減壓的外科手術，通常透過一根管子從腹壁插入）
+
+<font color="sky blue">**jejunoileal autotransplantation**</font> 空腸迴腸自體移植術（切除空腸和迴腸的病變段，保留其血液供應，並將其移植到同一病人的不同位置，通常用於治療腸繫膜缺血或克羅恩病）
+
+<font color="sky blue">**jejunoileal bypass**</font> 空腸分流術（一種減肥手術，涉及繞過大部分小腸，包括空腸和迴腸，導致卡路里和營養物質的吸收減少）

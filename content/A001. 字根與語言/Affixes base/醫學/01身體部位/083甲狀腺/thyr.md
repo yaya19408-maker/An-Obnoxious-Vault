@@ -1,0 +1,54 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：甲狀腺</font>
+- ‌‌‌<font color="#f79646">變體：thyre, thyrea, thyreo, thyreosis, thyro, thyroid, thyroido, thyroidism</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞nucha（意為thyreos，即盾牌）</font>
+- ‌‌‌<font color="#f79646">用途：構成甲狀腺相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**thyroid**</font> n. 甲狀腺；甲狀軟骨；甲狀腺劑 adj. 甲狀腺的；盾狀的 
+
+<font color="sky blue">**thyroid gland**</font> 甲狀腺（位於頸部的蝴蝶狀內分泌腺，產生甲狀腺激素，調節新陳代謝）
+
+<font color="sky blue">**thyroid hormone**</font> 甲狀腺激素【由甲狀腺產生的任何一種激素，包括甲狀腺素（t4）和三碘甲狀腺素（t3），它們調節代謝和生長】
+
+<font color="sky blue">**thyroglossal**</font> adj. 甲狀舌（管）的
+
+<font color="sky blue">**hyperthyrea**</font> n. 甲狀腺機能亢進
+
+<font color="sky blue">**hyperthyroidism**</font> n. 甲狀腺機能亢進
+
+<font color="sky blue">**hypothyrea**</font> n. 甲狀腺機能減退
+
+<font color="sky blue">**hypothyroidism**</font> 甲狀腺機能減退
+
+<font color="sky blue">**thyreoitis**</font> n. 甲狀腺炎
+
+<font color="sky blue">**thyroid storm**</font> 甲狀腺風暴（甲狀腺功能亢進症的一種危及生命的併發症，其特點是發燒、心跳加快和其他嚴重的甲狀腺激素過剩症狀） 
+
+<font color="sky blue">**thyroid nodule**</font> 甲狀腺結節（甲狀腺的贅生物或腫塊，可能是良性或惡性的）
+
+<font color="sky blue">**thyroid carcinoma**</font> 甲狀腺癌（產生於甲狀腺的癌症，可分為乳頭狀、濾泡狀、髓質狀或無性系）
+
+<font color="sky blue">**thyroid eye disease**</font> 甲狀腺眼病
+
+<font color="sky blue">**thyroid function test**</font> 甲狀腺功能檢查（用於測量甲狀腺激素水平和診斷甲狀腺疾病的血液檢查，如甲減或甲亢）
+
+<font color="sky blue">**thyroidectomy**</font> n. 甲狀腺切除術（清除全部或部分甲狀腺的外科手術，通常為了治療甲狀腺癌或甲狀腺功能亢進症）
+
+
+<font color="#f79646">補充：詞根strum可表示“甲狀腺腫”</font>

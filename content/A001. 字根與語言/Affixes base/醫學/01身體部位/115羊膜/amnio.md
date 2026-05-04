@@ -1,0 +1,56 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：羊膜</font>
+- ‌‌‌<font color="#f79646">變體：無</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞amnion（意為membrane around the fetus，即羊膜）</font>
+- ‌‌‌<font color="#f79646">用途：構成羊膜相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**amniotic membrane**</font> 羊膜（襯託羊膜囊的薄而透明的膜，在醫學上可用於促進傷口癒合或組織修復）
+
+<font color="sky blue">**amniotic sac**</font> 羊膜囊（包裹和保護子宮內胎兒的薄膜，包含羊水和臍帶）
+
+<font color="sky blue">**amniochorion**</font> n. 羊膜絨毛膜
+
+<font color="sky blue">**amniochorial**</font> adj. 羊膜絨毛膜的
+
+<font color="sky blue">**amniotic fluid**</font> 羊水（圍繞和保護子宮內胎兒的透明或淡黃色液體，並幫助調節其溫度和發育）
+
+<font color="sky blue">**amniotic stem cells**</font> 羊水幹細胞（源自羊水或羊膜的幹細胞，可分化為各種型別的細胞，用於組織修復或移植）
+
+<font color="sky blue">**amniotic fluid index**</font> 羊水指數（對子宮內羊水數量的測量，通常在懷孕期間透過超聲檢查進行）  
+
+<font color="sky blue">**amniotic fluid volume**</font> 羊水容量（子宮內羊水的總量，通常在超聲檢查時以毫升或釐米為單位測量）  
+
+<font color="sky blue">**amniotic fluid color**</font> 羊水的顏色（可以表明胎兒的健康或狀況，如蛻膜染色、血性液體或透明液體） 
+
+<font color="sky blue">**amnionitis**</font> n. 羊膜炎
+
+<font color="sky blue">**amniotic fluid embolism**</font> 羊水栓塞（一種罕見的、危及生命的妊娠或分娩併發症，羊水進入母體血液，可引起心臟或呼吸衰竭）
+
+<font color="sky blue">**amniotic fluid leak**</font> 羊水漏（在分娩前或分娩過程中，羊水從羊膜囊中漏出或破裂的情況，會增加感染或早產的風險）
+
+<font color="sky blue">**amniotic fluid disorders**</font> 羊水紊亂（懷孕期間影響羊水數量或質量的醫學狀況或異常，如少水羊、多水羊或胎糞染色）
+
+<font color="sky blue">**amniotic band syndrome**</font> 羊膜帶綜合徵（一種先天性疾病，胎兒被羊膜囊的纖維帶纏繞或限制，可導致畸形或肢體截斷）
+
+<font color="sky blue">**amniocentesis complications**</font> 羊水穿刺術併發症（羊膜穿刺的潛在風險或併發症，如感染、出血或流產）
+
+<font color="sky blue">**amniocentesis**</font> n. 羊膜穿刺術（從子宮中抽取少量羊水，並對其進行遺傳或染色體異常的檢測）  
+
+<font color="sky blue">**amnioinfusion**</font> n. 羊水灌注（將無菌鹽水或其他液體注入子宮，補充或增加羊水的數量，通常是為了減輕對胎兒的壓力或促進分娩）
+

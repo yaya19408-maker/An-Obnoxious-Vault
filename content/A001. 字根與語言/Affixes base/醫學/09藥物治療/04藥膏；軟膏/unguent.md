@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：軟膏</font>
+- ‌‌‌<font color="#f79646">變體：ungui</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞unguentum（意為ointment或perfumed oil，即軟膏或芳香油，常用來治療疾病、讓人放鬆或讓皮膚變得更美）</font>
+- ‌‌‌<font color="#f79646">用途：構成軟膏相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**unguent**</font> n. 藥膏，軟膏（一種柔軟的、油性的物質，用作藥用或美容製劑）
+
+<font color="sky blue">**unguentary**</font> adj. 藥膏的，軟膏的
+
+<font color="sky blue">**unguiferous**</font> adj. 產生或含有一種軟膏或藥膏的
+

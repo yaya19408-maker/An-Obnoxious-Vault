@@ -1,0 +1,44 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：迷路</font>
+- ‌‌‌<font color="#f79646">變體：無</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞labyrinthos（意為a complex, confusing network of paths or passageways，即迷宮）</font>
+- ‌‌‌<font color="#f79646">用途：構成迷路相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**labyrinth**</font> n. 內耳；迷路（即內耳的複雜結構，包括耳蝸和半規管，在聽力和平衡方面起著重要作用）
+
+<font color="sky blue">**labyrinthine artery**</font> 迷路動脈（向內耳和迷路供血的動脈）
+
+<font color="sky blue">**labyrinthine reflex**</font> 迷路反射（透過調整頸部和四肢肌肉的張力來應對頭部和身體的運動，從而幫助維持平衡和方向）
+
+<font color="sky blue">**labyrinthine dysfunction**</font> 迷路功能障礙（泛指任何影響內耳或迷路功能的狀況或疾病，常常導致聽力損失、眩暈和其他症狀）
+
+<font color="sky blue">**labyrinthitis**</font> n. 迷路炎（內耳或迷路的炎症，通常由感染、創傷或潛在的疾病引起）
+
+<font color="sky blue">**labyrinthine fistula**</font> 迷路瘻管（內耳或迷路與周圍結構之間的異常開口或通道，常引起聽力損失、眩暈和其他症狀）
+
+<font color="sky blue">**labyrinthine ossification**</font> 迷路骨化（骨組織在迷路內生長，常常導致聽力損失、眩暈和其他併發症）
+
+<font color="sky blue">**labyrinthine concussion**</font> 迷路震盪（一種腦外傷，涉及內耳或迷路的損傷，常常導致聽力損失、眩暈和其他症狀）
+
+<font color="sky blue">**labyrinthine hydrops**</font> 迷路積水（一種內耳或迷路內積聚過多液體的情況，常常導致聽力損失、眩暈和其他症狀）
+
+<font color="sky blue">**labyrinthine migraine**</font> 迷路性偏頭痛（一種偏頭痛，往往表現出眩暈、頭暈和其他與內耳或迷路功能障礙有關的症狀）
+
+<font color="sky blue">**labyrinthectomy**</font> n. 迷路切除術
+

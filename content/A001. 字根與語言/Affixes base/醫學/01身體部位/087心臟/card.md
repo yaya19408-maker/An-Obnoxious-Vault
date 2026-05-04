@@ -1,0 +1,66 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：心臟</font>
+- ‌‌‌<font color="#f79646">變體：cardi, cardio</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞kardia（意為heart，即心臟）</font>
+- ‌‌‌<font color="#f79646">用途：構成心臟相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**cardiac**</font> adj. 心臟的
+
+<font color="sky blue">**cardiology**</font> n. 心臟病學
+
+<font color="sky blue">**cardiologist**</font> n. 心臟病學家；心臟科醫生
+
+<font color="sky blue">**cardiomyopathy**</font> n. 心肌病（一種心肌疾病，可導致心臟功能下降，出現氣短和疲勞等症狀）
+
+<font color="sky blue">**cardiopulmonary**</font> adj. 心肺的
+
+<font color="sky blue">**cardiovascular**</font> adj. 心血管的
+
+<font color="sky blue">**cardiovascular system**</font> 心血管系統
+
+<font color="sky blue">**cardiogenic**</font> adj. 心源性的，由心臟引起的，起源於心臟的
+
+<font color="sky blue">**carditis**</font> n. 心臟炎
+
+<font color="sky blue">**cardiomegaly**</font> n. 心臟肥大（心臟增大，可由各種情況引起，包括高血壓、心臟瓣膜病和心力衰竭）
+
+<font color="sky blue">**cardiovascular disease**</font> 心血管疾病（包括冠狀動脈疾病和中風等）
+
+<font color="sky blue">**cardiac arrest**</font> 心臟停搏（心臟功能突然喪失，如果不立即治療，常常導致死亡）
+
+<font color="sky blue">**cardiogenic shock**</font> 心源性休克（當心髒不能泵送足夠的血液以滿足身體的需要時會發生心源性休克）
+
+<font color="sky blue">**bradycardia**</font> n. 心動緩慢  
+
+<font color="sky blue">**tachycardia**</font> n. 心動過速
+
+<font color="sky blue">**cardiac catheterization**</font> 心導管檢查（將一根細管插入腹股溝或手臂的血管中，並引導至心臟，以診斷和治療各種心臟疾病）
+
+<font color="sky blue">**cardiogram**</font> n. 心電圖  
+
+<font color="sky blue">**electrocardiogram**</font> n. 心電圖  
+
+<font color="sky blue">**cardiometer**</font> n. 心力計，心力測量器  
+
+<font color="sky blue">**cardiac output**</font> 心輸出量（心臟每分鐘泵出的血液量，它由心率和每搏量決定）
+
+<font color="sky blue">**cardiopulmonary resuscitation (CPR)**</font> 心肺復甦術（用於喚醒停止呼吸和沒有脈搏的人）
+
+<font color="sky blue">**cardiotonic**</font> adj. 強心的 n. 強心劑（一種能加強心臟收縮的物質，如用於治療心力衰竭的強心劑）
+

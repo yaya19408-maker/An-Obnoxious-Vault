@@ -1,0 +1,50 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：昏迷</font>
+- ‌‌‌<font color="#f79646">變體：無</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞koma（意為deep sleep，即沉睡）</font>
+- ‌‌‌<font color="#f79646">用途：構成昏迷相關詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**coma**</font> n. 昏迷（持續6小時以上的無意識狀態，病人不能被喚醒，對刺激沒有反應）
+
+<font color="sky blue">**comatose**</font> n. 昏迷（處於昏迷狀態，或類似於昏迷的狀態）
+
+<font color="sky blue">**coma scale**</font> 昏迷量表（用於評估頭部受傷或其他狀況的病人的意識水平的評分系統）
+
+<font color="sky blue">**comatogenic**</font> adj. 導致昏迷的
+
+<font color="sky blue">**coma vigil**</font> 醒狀昏迷，睜眼昏迷（病人清醒但無反應，類似於昏迷的狀況）
+
+<font color="sky blue">**coma cocktail**</font> 昏迷雞尾酒（用於治療昏迷症狀的藥物組合，包括鎮靜劑和抗驚厥劑）
+
+<font color="sky blue">**coma depasse**</font> 昏迷不醒（一種不可逆轉的昏迷狀態，病人預計不會恢復）
+
+<font color="sky blue">**coma hallucinosis**</font> 昏迷幻覺（病人在昏迷時出現生動的幻覺）
+
+<font color="sky blue">**coma blisters**</font> 昏迷水皰（在昏迷病人的皮膚上可能形成充滿液體的水皰）
+
+<font color="sky blue">**coma dysautonomia**</font> 昏迷失調症（昏迷病人的自律神經系統不能正常運轉）
+
+<font color="sky blue">**coma therapy**</font> 昏迷治療（用於治療昏迷病人的一種療法，包括物理治療和語言治療）
+
+<font color="sky blue">**coma arousal therapy**</font> 昏迷喚醒療法（一種用於刺激病人的大腦活動並提高其從昏迷中恢復的機會的療法）
+
+<font color="sky blue">**coma-induced neuropathy**</font> 昏迷引起的神經病變（由於長期處於昏迷狀態而可能發生的神經損傷）
+
+<font color="sky blue">**coma recovery syndrome**</font> 昏迷恢復綜合徵（病人開始從昏迷中恢復時可能出現的一組症狀，包括混亂、激動和幻覺）
+

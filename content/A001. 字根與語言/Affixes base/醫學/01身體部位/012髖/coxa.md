@@ -1,0 +1,50 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：髖關節；髖骨</font>
+- ‌‌‌<font color="#f79646">變體：coxo-, cox</font>
+- ‌‌‌<font color="#f79646">來源：拉丁單詞coxa（意為hip，即臀部）</font>
+- ‌‌‌<font color="#f79646">用途：構成髖關節或髖骨相關的醫學詞彙</font>
+
+
+---
+
+
+<font color="sky blue">**coxa**</font> n. 髖；無名骨；（昆蟲類或節肢動物的）基節
+
+<font color="sky blue">**coxal**</font> adj. 腰節的；（昆蟲）基節的
+
+<font color="sky blue">**coxal bone**</font>  髖骨（由髂骨、峽骨和恥骨組成） 
+
+<font color="sky blue">**coxofemoral joint**</font> 髖股關節（ 髖骨和股骨之間的關節，負責腿部運動）
+
+<font color="sky blue">**coxopodite**</font> n.（甲殼類昆蟲的）底節（昆蟲腿的臀部部分，與胸部相連）
+
+<font color="sky blue">**coxagra**</font> n. 髖關節痛風
+
+<font color="sky blue">**coxitis**</font> n. 髖關節炎（髖關節的炎症，常由感染或受傷引起）
+
+<font color="sky blue">**coxarthrosis**</font> n. 髖關節變性病；髖關節骨關節炎（一種影響髖關節的退行性關節病，引起疼痛和僵硬）
+
+<font color="sky blue">**coxalgic gait**</font> 髖痛步態（由髖關節疼痛或功能障礙引起的一種跛行或異常的行走模式）
+
+<font color="sky blue">**coxarthropathy**</font> n. 髖關節病（任何影響髖關節的疾病的總稱）
+
+<font color="sky blue">**coxarthrosis deformans**</font> 髖關節畸形（一種影響髖關節的骨關節炎，引起骨刺和關節畸形）
+
+<font color="sky blue">**coxalgie**</font> n.  髖關節疼痛（髖關節區域的疼痛，可由各種情況引起，如關節炎、滑囊炎或肌肉拉傷）
+
+<font color="sky blue">**coxectomy**</font> n.  髖關節切除術（透過手術切除部分髖關節骨，通常用於治療髖關節骨折或腫瘤）
+
+<font color="sky blue">**coxankylometer**</font> n. 髖關節翻度計
+

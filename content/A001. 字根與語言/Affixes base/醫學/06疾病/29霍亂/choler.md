@@ -1,0 +1,54 @@
+---
+cssclasses:
+  - center-titles
+tags:
+  - affixes
+aliases: 
+relevance: 
+relevance 2: 
+disambiguation: 
+banner: 
+media:
+---
+
+- ‌‌‌<font color="#f79646">含義：霍亂</font>
+- ‌‌‌<font color="#f79646">變體：cholera, choleri, cholero</font>
+- ‌‌‌<font color="#f79646">來源：希臘單詞kholē（意為bile，即膽汁）</font>
+- ‌‌‌<font color="#f79646">用途：構成霍亂相關詞彙（該詞根還可表示膽汁，具體請檢視膽汁組）</font>
+
+
+---
+
+
+<font color="sky blue">**cholera**</font> n. 霍亂（一種高度傳染性的細菌疾病，引起嚴重的腹瀉和脫水）
+
+<font color="sky blue">**choleric**</font> adj. 霍亂的
+
+<font color="sky blue">**choleraic**</font> adj. 霍亂的；屬於霍亂的；具霍亂性質的
+
+<font color="sky blue">**choleriform**</font> adj. 類似於霍亂的
+
+<font color="sky blue">**cholera toxin**</font> 霍亂毒素（由引起霍亂的細菌產生的毒素）
+
+<font color="sky blue">**cholera stool**</font> 霍亂大便（用於描述霍亂特有的水樣腹瀉的術語）
+
+<font color="sky blue">**cholera vaccine**</font> 霍亂疫苗
+
+<font color="sky blue">**cholera transmission**</font> 霍亂傳播（霍亂在人與人之間傳播的過程，通常透過被汙染的水或食物來傳播）
+
+<font color="sky blue">**cholera treatment**</font> 霍亂的治療
+
+<font color="sky blue">**cholera prevention**</font> 霍亂的預防
+
+<font color="sky blue">**cholera resistance**</font> 霍亂抵抗力（個人或人群抵抗霍亂感染或從霍亂中恢復的能力）
+
+<font color="sky blue">**cholera bed**</font> 霍亂床（專門用於治療霍亂患者的床）
+
+<font color="sky blue">**cholera outbreak**</font> 霍亂爆發（某一地區的霍亂病例突然增加）
+
+<font color="sky blue">**cholera pandemic**</font> 霍亂大流行（霍亂在世界範圍內的爆發）
+
+<font color="sky blue">**cholera epidemic**</font> 霍亂流行（霍亂在特定地區或人群中的大範圍爆發）
+
+<font color="sky blue">**cholera belt**</font> 霍亂地帶（世界上霍亂流行的地區，包括非洲、亞洲和南美洲的部分地區）
+
