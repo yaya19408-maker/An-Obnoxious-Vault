@@ -18,13 +18,13 @@ $$
 \sin^2(\theta) + \cos^2(\theta) = 1
 $$
 
-Dividing both sides of this identity by \\(\cos^2(\theta)\\), provided \\(\cos(\theta) \neq 0\\), yields the corresponding identity involving the tangent and the [secant](../secant-and-cosecant/):
+Dividing both sides of this identity by $\cos^2(\theta)$, provided $\cos(\theta) \neq 0$, yields the corresponding identity involving the tangent and the [secant](../secant-and-cosecant/):
 
 $$
 1 + \tan^2(\theta) = \sec^2(\theta)
 $$
 
-An analogous division by \\(\sin^2(\theta)\\), under the assumption \\(\sin(\theta) \neq 0\\), produces the identity involving the cotangent and the cosecant:
+An analogous division by $\sin^2(\theta)$, under the assumption $\sin(\theta) \neq 0$, produces the identity involving the cotangent and the cosecant:
 
 $$
 1 + \cot^2(\theta) = \csc^2(\theta)
@@ -39,7 +39,7 @@ $$
 \end{align}
 $$
 
-> The first identity is valid for \\(\cos(\theta) \neq 0\\), the second for \\(\sin(\theta) \neq 0\\). Together, the Pythagorean and quotient identities are sufficient to re-express any trigonometric expression in terms of sine and cosine alone, a reduction that is often the first step in the simplification of more elaborate formulas.
+> The first identity is valid for $\cos(\theta) \neq 0$, the second for $\sin(\theta) \neq 0$. Together, the Pythagorean and quotient identities are sufficient to re-express any trigonometric expression in terms of sine and cosine alone, a reduction that is often the first step in the simplification of more elaborate formulas.
 
 - - -
 ## Reference angles and reflections
@@ -50,7 +50,7 @@ $$
 \frac{\pi}{2} \pm \alpha,\, \quad \pi \pm \alpha,\, \quad \frac{3\pi}{2} \pm \alpha,\, \quad 2\pi - \alpha
 $$
 
-can be rewritten as a function of the acute angle \\(\alpha\\), with an appropriate adjustment of the sign determined by the quadrant in which the angle lies. Consider the angle:
+can be rewritten as a function of the acute angle $\alpha$, with an appropriate adjustment of the sign determined by the quadrant in which the angle lies. Consider the angle:
 
 $$
 \frac{\pi}{2} + \alpha
@@ -65,7 +65,7 @@ $$
 \end{align}
 $$
 
-The vertical segment associated with the sine of \\(\alpha\\) in the first quadrant has the same length as the horizontal segment associated with the cosine of \\(\frac{\pi}{2} + \alpha\\) in the second quadrant, while the sign of the cosine becomes negative because the second quadrant lies to the left of the vertical axis. The same procedure applied to every angle of the form listed above produces a full catalogue of reduction formulas, discussed in detail in the page on [reduction formulas and reference angles](../reduction-formulas-and-reference-angles/).
+The vertical segment associated with the sine of $\alpha$ in the first quadrant has the same length as the horizontal segment associated with the cosine of $\frac{\pi}{2} + \alpha$ in the second quadrant, while the sign of the cosine becomes negative because the second quadrant lies to the left of the vertical axis. The same procedure applied to every angle of the form listed above produces a full catalogue of reduction formulas, discussed in detail in the page on [reduction formulas and reference angles](../reduction-formulas-and-reference-angles/).
 
 - - -
 
@@ -98,7 +98,7 @@ $$
 - - -
 ## Double-angle
 
-The double-angle formulas express the trigonometric functions of an angle \\(2\theta\\) in terms of the trigonometric functions of \\(\theta\\). For sine and cosine the following identities hold:
+The double-angle formulas express the trigonometric functions of an angle $2\theta$ in terms of the trigonometric functions of $\theta$. For sine and cosine the following identities hold:
 
 $$
 \begin{align}
@@ -107,7 +107,7 @@ $$
 \end{align}
 $$
 
-The cosine double-angle formula admits two equivalent forms obtained by applying the [Pythagorean identity](../pythagorean-identity/) \\(\sin^2\theta + \cos^2\theta = 1\\):
+The cosine double-angle formula admits two equivalent forms obtained by applying the [Pythagorean identity](../pythagorean-identity/) $\sin^2\theta + \cos^2\theta = 1$:
 
 $$
 \begin{align}
@@ -133,7 +133,7 @@ $$
 \sin(a + b) = \sin(a)\cos(b) + \cos(a)\sin(b)
 $$
 
-Setting \\(a = b = \theta\\), the left-hand side becomes \\(\sin(2\theta)\\) and the right-hand side reduces to two identical terms:
+Setting $a = b = \theta$, the left-hand side becomes $\sin(2\theta)$ and the right-hand side reduces to two identical terms:
 
 $$
 \sin(2\theta) = \sin(\theta)\cos(\theta) + \cos(\theta)\sin(\theta)
@@ -145,7 +145,7 @@ $$
 \sin(2\theta) = 2\sin(\theta)\cos(\theta)
 $$
 
-The same reasoning applied to the sum identity for the cosine, with \\(a = b = \theta\\), yields the double-angle formula for the cosine.
+The same reasoning applied to the sum identity for the cosine, with $a = b = \theta$, yields the double-angle formula for the cosine.
 
 - - -
 ## Example
@@ -156,7 +156,7 @@ $$
 \int \frac{1 - \cos(2\theta)}{2}\,d\theta
 $$
 
-The integrand contains a cosine of a doubled angle, which makes a direct computation awkward. The double-angle identity \\(\cos(2\theta) = 1 - 2\sin^2(\theta)\\) allows the numerator to be rewritten as:
+The integrand contains a cosine of a doubled angle, which makes a direct computation awkward. The double-angle identity $\cos(2\theta) = 1 - 2\sin^2(\theta)$ allows the numerator to be rewritten as:
 
 $$
 1 - \cos(2\theta) = 1 - \left(1 - 2\sin^2(\theta)\right) = 2\sin^2(\theta)
@@ -168,7 +168,7 @@ $$
 \int \frac{2\sin^2(\theta)}{2}\,d\theta = \int \sin^2(\theta)\,d\theta
 $$
 
-The identity has reduced the problem to the integration of \\(\sin^2(\theta)\\), which is a standard form. The same double-angle identity can now be applied in the opposite direction to linearise the square, writing:
+The identity has reduced the problem to the integration of $\sin^2(\theta)$, which is a standard form. The same double-angle identity can now be applied in the opposite direction to linearise the square, writing:
 
 $$\sin^2(\theta) = \frac{1 - \cos(2\theta)}{2}$$
 
@@ -181,7 +181,7 @@ $$\int \sin^2(\theta)\,d\theta = \frac{\theta}{2} - \frac{\sin(2\theta)}{4} + c$
 - - -
 ## Half-angle formulas
 
-The half-angle formulas express the trigonometric functions of \\(\frac{\theta}{2}\\) in terms of the trigonometric functions of \\(\theta\\). For sine and cosine the following identities hold:
+The half-angle formulas express the trigonometric functions of $\frac{\theta}{2}$ in terms of the trigonometric functions of $\theta$. For sine and cosine the following identities hold:
 
 $$
 \begin{align}
@@ -190,7 +190,7 @@ $$
 \end{align}
 $$
 
-The sign on the right-hand side is determined by the quadrant in which the half-angle \\(\frac{\theta}{2}\\) lies, and must be selected according to the geometric position of the angle on the [unit circle](../unit-circle/).
+The sign on the right-hand side is determined by the quadrant in which the half-angle $\frac{\theta}{2}$ lies, and must be selected according to the geometric position of the angle on the [unit circle](../unit-circle/).
 
 The half-angle formulas for tangent and cotangent can be written either in radical form or in rational form. The rational form is generally preferred because it avoids the ambiguity of the sign:
 
@@ -201,12 +201,12 @@ $$
 \end{align}
 $$
 
-> The derivation of the half-angle formulas follows from the two alternative forms of the cosine double-angle identity. Writing \\(\cos(\theta) = 1 - 2\sin^2(\theta/2)\\) and solving for \\(\sin(\theta/2)\\) yields the half-angle formula for the sine; the analogous manipulation on \\(\cos(\theta) = 2\cos^2(\theta/2) - 1\\) produces the half-angle formula for the cosine.
+> The derivation of the half-angle formulas follows from the two alternative forms of the cosine double-angle identity. Writing $\cos(\theta) = 1 - 2\sin^2(\theta/2)$ and solving for $\sin(\theta/2)$ yields the half-angle formula for the sine; the analogous manipulation on $\cos(\theta) = 2\cos^2(\theta/2) - 1$ produces the half-angle formula for the cosine.
 
 - - -
 ## Parametric formulas
 
-The parametric formulas express the trigonometric functions of an angle \\(\theta\\) in terms of the single auxiliary variable:
+The parametric formulas express the trigonometric functions of an angle $\theta$ in terms of the single auxiliary variable:
 
 $$
 t = \tan\left(\frac{\theta}{2}\right)
@@ -230,7 +230,7 @@ $$
 \end{align}
 $$
 
-The substitution is valid whenever \\(\theta \neq \pi + 2k\pi\\) with \\(k \in \mathbb{Z}\\), since at those values the tangent of the half-angle is undefined. The practical importance of the parametric formulas lies in their ability to reduce a trigonometric expression to a rational function of a single algebraic variable, a property widely exploited in the integration of rational functions of sine and cosine through the Weierstrass substitution.
+The substitution is valid whenever $\theta \neq \pi + 2k\pi$ with $k \in \mathbb{Z}$, since at those values the tangent of the half-angle is undefined. The practical importance of the parametric formulas lies in their ability to reduce a trigonometric expression to a rational function of a single algebraic variable, a property widely exploited in the integration of rational functions of sine and cosine through the Weierstrass substitution.
 
 - - -
 ## Werner's formulas
@@ -245,7 +245,7 @@ $$
 \end{align}
 $$
 
-Each identity follows by adding or subtracting the appropriate pair of sum and difference formulas. For example, adding the expansions of \\(\cos(\alpha - \beta)\\) and \\(\cos(\alpha + \beta)\\) cancels the sine terms and leaves twice the product \\(\cos(\alpha)\cos(\beta)\\), from which the second identity is immediate. These formulas are particularly useful in the integration of products of trigonometric functions and in the analysis of the interference of waves in physics, where the product of two sinusoidal signals is naturally decomposed into components at the sum and difference frequencies.
+Each identity follows by adding or subtracting the appropriate pair of sum and difference formulas. For example, adding the expansions of $\cos(\alpha - \beta)$ and $\cos(\alpha + \beta)$ cancels the sine terms and leaves twice the product $\cos(\alpha)\cos(\beta)$, from which the second identity is immediate. These formulas are particularly useful in the integration of products of trigonometric functions and in the analysis of the interference of waves in physics, where the product of two sinusoidal signals is naturally decomposed into components at the sum and difference frequencies.
 
 - - -
 ## Prosthaphaeresis formulas
@@ -267,4 +267,4 @@ $$
 \alpha = \frac{p+q}{2},\quad \beta = \frac{p-q}{2}
 $$
 
-so that \\(p = \alpha + \beta\\) and \\(q = \alpha - \beta\\). Replacing these values in Werner's identities and multiplying both sides by two yields the prosthaphaeresis formulas. Their name derives from the Greek words for addition and subtraction, and reflects the historical role they played in pre-logarithmic astronomy, where they were used to convert multiplications into additions and thus simplify numerical computation.
+so that $p = \alpha + \beta$ and $q = \alpha - \beta$. Replacing these values in Werner's identities and multiplying both sides by two yields the prosthaphaeresis formulas. Their name derives from the Greek words for addition and subtraction, and reflects the historical role they played in pre-logarithmic astronomy, where they were used to convert multiplications into additions and thus simplify numerical computation.

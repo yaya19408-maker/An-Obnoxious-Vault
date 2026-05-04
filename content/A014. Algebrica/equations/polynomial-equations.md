@@ -12,12 +12,12 @@ $$
 
 In this expression:
 
-+ \\(n\\) is a non-negative integer called the degree of the equation.
-+ The coefficients \\(a_0, a_1, \ldots, a_n\\) are real or [complex numbers](../complex-numbers-introduction/).
-+ The leading coefficient \\(a_n\\) is assumed to be non-zero.
-+ The unknown \\(x\\) is the variable for which a solution is sought. 
++ $n$ is a non-negative integer called the degree of the equation.
++ The coefficients $a_0, a_1, \ldots, a_n$ are real or [complex numbers](../complex-numbers-introduction/).
++ The leading coefficient $a_n$ is assumed to be non-zero.
++ The unknown $x$ is the variable for which a solution is sought. 
 
-A value \\(x_0\\) that satisfies the equation is called a [root](../roots-of-a-polynomial/), or a solution, of the polynomial equation.
+A value $x_0$ that satisfies the equation is called a [root](../roots-of-a-polynomial/), or a solution, of the polynomial equation.
 
 - - -
 ## Degree and classification
@@ -28,7 +28,7 @@ $$
 a_1 x + a_0 = 0
 $$
 
-Since \\(a_1 \neq 0\\), this equation has exactly one real solution, which is obtained by isolating \\(x\\).
+Since $a_1 \neq 0$, this equation has exactly one real solution, which is obtained by isolating $x$.
 
 $$
 x = -\frac{a_0}{a_1}
@@ -40,21 +40,21 @@ $$
 a_2 x^2 + a_1 x + a_0 = 0
 $$
 
-The solutions of a quadratic equation are described by the [quadratic formula](../quadratic-formula/), which expresses them in terms of the discriminant \\(\Delta = a_1^2 - 4 a_2 a_0\\). A polynomial equation of degree three is called a cubic equation, and one of degree four is called a quartic equation. 
+The solutions of a quadratic equation are described by the [quadratic formula](../quadratic-formula/), which expresses them in terms of the discriminant $\Delta = a_1^2 - 4 a_2 a_0$. A polynomial equation of degree three is called a cubic equation, and one of degree four is called a quartic equation. 
 
 > Beyond degree four, equations are generally referred to by their numerical degree: degree-five equations, degree-six equations, and so forth.
 
 - - -
 ## The Fundamental Theorem of Algebra
 
-The existence and count of roots of a polynomial equation are governed by the Fundamental Theorem of Algebra, which guarantees that every polynomial equation of degree \\(n \geq 1\\) with complex coefficients has exactly \\(n\\) roots in \\(\mathbb{C}\\), counted with multiplicity. 
+The existence and count of roots of a polynomial equation are governed by the Fundamental Theorem of Algebra, which guarantees that every polynomial equation of degree $n \geq 1$ with complex coefficients has exactly $n$ roots in $\mathbb{C}$, counted with multiplicity. 
 
-The implications of this theorem, including the factorisation into linear factors over \\(\mathbb{C}\\) and the conjugate-pair structure of [complex roots](../quadratic-equations-with-complex-solutions/) of real polynomials, are discussed in the entry on [roots of a polynomial](../roots-of-a-polynomial/).
+The implications of this theorem, including the factorisation into linear factors over $\mathbb{C}$ and the conjugate-pair structure of [complex roots](../quadratic-equations-with-complex-solutions/) of real polynomials, are discussed in the entry on [roots of a polynomial](../roots-of-a-polynomial/).
 
 - - -
 ## Multiplicity of roots
 
-A root \\(x_0\\) is said to have multiplicity \\(m\\) if the factor \\((x - x_0)^m\\) divides the polynomial but \\((x - x_0)^{m+1}\\) does not. 
+A root $x_0$ is said to have multiplicity $m$ if the factor $(x - x_0)^m$ divides the polynomial but $(x - x_0)^{m+1}$ does not. 
 
 + A root of multiplicity one is called a simple root. 
 + A root of multiplicity two is called a double root, and so on.
@@ -70,37 +70,37 @@ $$
 a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0 = 0
 $$
 
-If \\(x = p/q\\) is a rational root expressed in lowest terms, then \\(p\\) must be a divisor of the constant term \\(a_0\\) and \\(q\\) must be a divisor of the leading coefficient \\(a_n\\). This result, known as the Rational Root Theorem, reduces the search for rational solutions to a finite list of candidates. As an illustration, consider the following equation.
+If $x = p/q$ is a rational root expressed in lowest terms, then $p$ must be a divisor of the constant term $a_0$ and $q$ must be a divisor of the leading coefficient $a_n$. This result, known as the Rational Root Theorem, reduces the search for rational solutions to a finite list of candidates. As an illustration, consider the following equation.
 
 $$
 2x^3 - 3x^2 - 11x + 6 = 0
 $$
 
-The divisors of the constant term \\(6\\) are \\(\pm 1, \pm 2, \pm 3, \pm 6\\), and the divisors of the leading coefficient \\(2\\) are \\(\pm 1, \pm 2\\). The rational root candidates are therefore all fractions of the form \\(p/q\\) drawn from these two sets. Testing \\(x = 3\\) by direct substitution gives the following.
+The divisors of the constant term $6$ are $\pm 1, \pm 2, \pm 3, \pm 6$, and the divisors of the leading coefficient $2$ are $\pm 1, \pm 2$. The rational root candidates are therefore all fractions of the form $p/q$ drawn from these two sets. Testing $x = 3$ by direct substitution gives the following.
 
 $$
 2(27) - 3(9) - 11(3) + 6 = 54 - 27 - 33 + 6 = 0
 $$
 
-Since \\(x = 3\\) is a root, the factor \\((x - 3)\\) divides the polynomial. Performing the division yields the following factorisation.
+Since $x = 3$ is a root, the factor $(x - 3)$ divides the polynomial. Performing the division yields the following factorisation.
 
 $$
 2x^3 - 3x^2 - 11x + 6 = (x - 3)(2x^2 + 3x - 2)
 $$
 
-The residual quadratic \\(2x^2 + 3x - 2\\) can be factored as \\((2x - 1)(x + 2)\\), giving the complete factorisation.
+The residual quadratic $2x^2 + 3x - 2$ can be factored as $(2x - 1)(x + 2)$, giving the complete factorisation.
 
 $$
 2x^3 - 3x^2 - 11x + 6 = (x - 3)(2x - 1)(x + 2)
 $$
 
-The three real roots are therefore \\(x = 3\\), \\(x = 1/2\\), and \\(x = -2\\).
+The three real roots are therefore $x = 3$, $x = 1/2$, and $x = -2$.
 
 - - -
 
 ## Vieta's formulas
 
-The coefficients of a polynomial equation are not independent of its roots: they are related to them through a set of identities known as Vieta's formulas. For a monic polynomial equation of degree \\(n\\) with roots \\(x_1, x_2, \ldots, x_n\\), these identities take the following form.
+The coefficients of a polynomial equation are not independent of its roots: they are related to them through a set of identities known as Vieta's formulas. For a monic polynomial equation of degree $n$ with roots $x_1, x_2, \ldots, x_n$, these identities take the following form.
 
 $$
 \begin{align}
@@ -122,7 +122,7 @@ $$
 x + \frac{1}{x} = 3
 $$
 
-becomes polynomial upon multiplying both sides by \\(x\\), yielding \\(x^2 - 3x + 1 = 0\\). An [irrational equation](../irrational-equations/) such as:
+becomes polynomial upon multiplying both sides by $x$, yielding $x^2 - 3x + 1 = 0$. An [irrational equation](../irrational-equations/) such as:
 
 $$
 \sqrt{x + 1} + x = 5
@@ -146,13 +146,13 @@ $$
 x^2 - 11x + 24 = 0
 $$
 
-whose solutions are \\(x = 3\\) and \\(x = 8\\). Substituting back into the original equation, \\(x = 3\\) satisfies it, while \\(x = 8\\) does not, since:
+whose solutions are $x = 3$ and $x = 8$. Substituting back into the original equation, $x = 3$ satisfies it, while $x = 8$ does not, since:
 
 $$\sqrt{9} + 8 = 11 \neq 5$$
 
-The value \\(x = 8\\) is an extraneous solution introduced by the squaring step.
+The value $x = 8$ is an extraneous solution introduced by the squaring step.
 
-In both cases the reduction introduces constraints that must be checked: multiplying by \\(x\\) requires \\(x \neq 0\\), and squaring may introduce extraneous solutions that do not satisfy the original equation. 
+In both cases the reduction introduces constraints that must be checked: multiplying by $x$ requires $x \neq 0$, and squaring may introduce extraneous solutions that do not satisfy the original equation. 
 
 The reduction technique and the verification of solutions are treated in detail in the entries on [rational equations](../rational-equations/) and [irrational equations](../irrational-equations/).
 
@@ -196,4 +196,4 @@ $$
 x_{k+1} = x_k - \frac{p(x_k)}{p'(x_k)}
 $$
 
-Starting from an initial estimate \\(x_0\\) sufficiently close to a simple root, the [sequence](../sequences/) \\((x_k)\\) converges quadratically to that root, meaning that the number of correct decimal digits roughly doubles with each iteration. Other methods, such as the bisection method and Brent's method, sacrifice speed for guaranteed convergence and are preferred when robustness is a priority.
+Starting from an initial estimate $x_0$ sufficiently close to a simple root, the [sequence](../sequences/) $(x_k)$ converges quadratically to that root, meaning that the number of correct decimal digits roughly doubles with each iteration. Other methods, such as the bisection method and Brent's method, sacrifice speed for guaranteed convergence and are preferred when robustness is a priority.

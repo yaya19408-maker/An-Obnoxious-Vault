@@ -4,21 +4,21 @@ Source: algebrica.org — CC BY-NC 4.0
 
 ## Definition
 
-A binomial refers to a [polynomial](../polynomials) that contains exactly two non-zero terms. Its general form is expressed as \\( (a + b)\\) or \\( (a - b) \\).
+A binomial refers to a [polynomial](../polynomials) that contains exactly two non-zero terms. Its general form is expressed as $ (a + b)$ or $ (a - b) $.
 
-In this context, \\(a\\) and \\(b\\) represent non-zero, unlike terms, meaning they cannot be combined into a single term. The degree of a binomial corresponds to the highest degree among its terms. For example, \\(x^3 + 2\\) is a binomial of degree 3, whereas \\(3x - 5\\) is a binomial of degree \\(1\\).
+In this context, $a$ and $b$ represent non-zero, unlike terms, meaning they cannot be combined into a single term. The degree of a binomial corresponds to the highest degree among its terms. For example, $x^3 + 2$ is a binomial of degree 3, whereas $3x - 5$ is a binomial of degree $1$.
 
 Binomials exhibit properties that facilitate algebraic manipulation. Among these properties are [notable products](../notable-products), which are specific products involving [powers](../powers), binomials, and [trinomials](../trinomials). These products are fundamental for solving equations and for identifying common mathematical patterns.
 
 - - -
 ## Multiplying two binomials: The FOIL Method
 
-When multiplying two binomials, such as \\((a + b)(c + d)\\) we use the FOIL method to expand the expression. FOIL is an acronym that helps remember the four steps:
+When multiplying two binomials, such as $(a + b)(c + d)$ we use the FOIL method to expand the expression. FOIL is an acronym that helps remember the four steps:
 
-- F (First): multiply the first terms: \\( a \cdot c \\)
-- O (Outer): multiply the outer terms: \\( a \cdot d \\)
-- I (Inner): multiply the inner terms: \\( b \cdot c \\)
-- L (Last): multiply the last terms: \\( b \cdot d \\)
+- F (First): multiply the first terms: $ a \cdot c $
+- O (Outer): multiply the outer terms: $ a \cdot d $
+- I (Inner): multiply the inner terms: $ b \cdot c $
+- L (Last): multiply the last terms: $ b \cdot d $
 
 Putting it all together we have:
 
@@ -38,10 +38,10 @@ $$(x + 3)(x + 5)$$
   
 We can apply the FOIL method, which helps recall the correct order of steps when multiplying the terms of each binomial.  
 
-+ First, multiply the first terms: \\(x \cdot x = x^2\\).  
-+ Then, multiply the outer terms: \\(x \cdot 5 = 5x\\).  
-+ Next, multiply the inner terms: \\(3 \cdot x = 3x\\).  
-+ Finally, multiply the last terms: \\(3 \cdot 5 = 15\\).  
++ First, multiply the first terms: $x \cdot x = x^2$.  
++ Then, multiply the outer terms: $x \cdot 5 = 5x$.  
++ Next, multiply the inner terms: $3 \cdot x = 3x$.  
++ Finally, multiply the last terms: $3 \cdot 5 = 15$.  
 
 Combining all the results, we get:  
 $$
@@ -64,17 +64,17 @@ $$
 
 We can apply the FOIL method, following the same order of multiplication.  
 
-+ First, multiply the first terms: \\(2x \cdot x = 2x^2\\).  
-+ Then, multiply the outer terms: \\(2x \cdot 4i = 8xi\\).  
-+ Next, multiply the inner terms: \\(-i \cdot x = -xi\\).  
-+ Finally, multiply the last terms: \\(-i \cdot 4i = -4i^2\\).  
++ First, multiply the first terms: $2x \cdot x = 2x^2$.  
++ Then, multiply the outer terms: $2x \cdot 4i = 8xi$.  
++ Next, multiply the inner terms: $-i \cdot x = -xi$.  
++ Finally, multiply the last terms: $-i \cdot 4i = -4i^2$.  
 
 Combining all results, we get:  
 $$
 2x^2 + 8xi - xi - 4i^2
 $$  
 
-Now simplify by combining like terms and recalling that \\(i^2 = -1\\):  
+Now simplify by combining like terms and recalling that $i^2 = -1$:  
 $$
 2x^2 + 7xi - 4(-1) = 2x^2 + 7xi + 4
 $$
@@ -88,7 +88,7 @@ $$
 - - -
 ## Associative, distributive and commutative properties
 
-The associative property states that when adding or multiplying three or more binomials, the grouping does not affect the final result. For addition, given three binomials \\((a + b)\\), \\((c + d)\\), and \\((e + f)\\), the following holds:
+The associative property states that when adding or multiplying three or more binomials, the grouping does not affect the final result. For addition, given three binomials $(a + b)$, $(c + d)$, and $(e + f)$, the following holds:
 
 $$((a + b) + (c + d)) + (e + f) = (a + b) + ((c + d) + (e + f))$$
 
@@ -110,7 +110,7 @@ a(b - c) &= ab - ac
 \end{align}
 $$
 
-In these expressions, \\(a\\), \\(b\\), and \\(c\\) may represent real numbers, variables, or more complex algebraic expressions. For example, when applied to a binomial:
+In these expressions, $a$, $b$, and $c$ may represent real numbers, variables, or more complex algebraic expressions. For example, when applied to a binomial:
 
 $$x(x + 3) = x^2 + 3x$$
 
@@ -118,7 +118,7 @@ The distributive property serves as a foundational tool for expanding and [facto
 
  - - -
 
-The commutative property states that the order of terms in the addition or multiplication of binomials does not influence the final outcome. For example, given two binomials \\((a + b)\\) and \\((c + d)\\), exchanging their order does not change the overall value.
+The commutative property states that the order of terms in the addition or multiplication of binomials does not influence the final outcome. For example, given two binomials $(a + b)$ and $(c + d)$, exchanging their order does not change the overall value.
 
 In the case of addition:
 $$(a + b) + (c + d) = (c + d) + (a + b)$$
@@ -143,18 +143,18 @@ These identities result from repeated application of the distributive property a
 - - -
 ## Expansion of a binomial expression
 
-For any [natural number](../natural-numbers) \\( n \\), the expansion of a binomial \\( (a + b)^n \\) is given by the [binomial theorem](../binomial-theorem):
+For any [natural number](../natural-numbers) $ n $, the expansion of a binomial $ (a + b)^n $ is given by the [binomial theorem](../binomial-theorem):
 
 $$
 (a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n - k}b^k
 $$
 
-Where \\( \dbinom{n}{k} \\) represents the [binomial coefficient](../binomial-coefficient/) calculated as:  
+Where $ \dbinom{n}{k} $ represents the [binomial coefficient](../binomial-coefficient/) calculated as:  
   $$
   \binom{n}{k} = \frac{n!}{k!(n - k)!}
   $$
 
-The sum indicates that all terms are summed for \\( k \\) ranging from \\( 0 \\) to \\( n \\) and \\( a^{n - k}b^k \\) represents the partial terms of the expansion.
+The sum indicates that all terms are summed for $ k $ ranging from $ 0 $ to $ n $ and $ a^{n - k}b^k $ represents the partial terms of the expansion.
 
 - - -
 
