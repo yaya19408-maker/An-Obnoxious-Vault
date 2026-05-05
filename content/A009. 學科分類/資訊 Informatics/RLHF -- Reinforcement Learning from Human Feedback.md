@@ -395,3 +395,135 @@ Tülu 3 是一個完全開源的範例，展示了 RLHF 在多階段後訓練中
 自其被發現以來，指令微調（口語上也簡稱為指令調整）已發展成熟，並成為許多語言建模流程中的標準實踐。就其核心而言，IFT 是將語言模型適應到期望任務分布的最簡單方法。它作為 RLHF 的基礎，透過為模型準備被稱為問答的指令格式，並且是試圖將現代技術應用於新領域的人使用的第一個工具。如果沒有基礎層級的指令遵循能力，我們在本書中討論的大多數流程——從偏好資料收集到線上 RLHF 最佳化——都無法執行。
 
 一般而言，指令微調在其他地方有廣泛的涵蓋，其核心是監督式學習，因此本章重點關注對 RLHF 實踐者最重要的實務細節：訓練資料的格式化和結構化方式。在後續訓練階段會直接利用有關資料和格式化的決策，為模型吸收後訓練資料建立共通語言。
+
+4.1 聊天模板與指令結構
+
+後訓練過程始於定義一種模式來格式化使用者查詢，以便透過分詞器處理資訊的語言模型能夠輕鬆讀取。
+
+使用預訓練語言模型時，提示相當簡單。 模型只認識少數幾個標記：序列起始標記（例如 <bos_token>）、序列結束標記（例如 <eos_token>）以及填充標記（用於管理包含空白元件的批次訓練）。 這代表要提示基礎模型，使用者需輸入一系列標記讓模型接續，例如：
+
+```
+<bos_token> The capital of the United States is
+```
+
+接著，模型會生成標記，直到耗盡其上下文視窗，或者生成序列結束標記為止。
+
+從指令微調到 RLHF 及其他方法的所有後訓練階段，皆依賴此格式化來訓練模型。 處理與使用者互動結構的工具稱為聊天模板。
+
+下方是我們將要拆解的範例：
+
+```
+{% if messages[0]['role'] == 'system' %}
+    {# If the conversation begins with a system message, treat it as a special first turn. We set an offset so the user/assistant alternation check lines up correctly. #}
+    {% set offset = 1 %}
+{% else %}
+    {# No system message: user should be the first non-empty turn. #}
+    {% set offset = 0 %}
+{% endif %}
+
+{# Emit the beginning-of-sequence token (model-specific). #}
+{{ bos_token }}
+
+{# Serialize each message into the model's chat-markup tokens. #}
+{% for message in messages %}
+    {# Enforce role alternation: (system), user, assistant, user, assistant, The boolean expression compares "is this a user message?" against whether the current index (plus offset) is expected to be user or assistant. #}
+    {% if (message['role'] == 'user') != ((loop.index0 + offset) % 2 == 0) %}
+        {{ raise_exception('Conversation roles must alternate user/assistant/user/assistant/...') }}
+    {% endif %}
+    {# Wrap each message with special tokens: <|im_start|><role>\n message content (trimmed) <|im_end|>\n This produces a single flat token sequence the LM can train on. #}
+    {{ '<|im_start|>' + message['role'] + '\n' + message['content'] | trim + '<|im_end|>\n' }}
+{% endfor %}
+
+{# Optionally append an "assistant" start tag with no content. This cues generation to continue from the assistant role. #}
+{% if add_generation_prompt %}
+    {{ '<|im_start|>assistant\n' }}
+{% endif %}
+```
+
+這是將 Python 中包含訊息與角色的字典列表轉換為語言模型可據以預測之標記的原始程式碼。
+
+傳遞至模型的所有資訊都會被分配一個角色。 傳統的三個角色是 system、user 與 assistant。
+
+system 標籤僅用於對話的第一條訊息；它以文字形式保存給代理的指令，這些指令不會從使用者端接收，也不會暴露給使用者。 這些系統提示用於為模型提供額外上下文，例如日期和時間，或是修補行為。 作為一個有趣的例子，可以告訴模型類似 You are a friendly chatbot who always responds in the style of a pirate 的內容。
+
+接下來，另外兩個角色很直觀：user 保存來自使用 AI 的人的訊息，而 assistant 保存來自模型（作為 AI 助理進行互動）的回應。
+
+為了將所有這些資訊轉換為標記，我們使用開頭列出的程式碼。 模型有一系列特殊標記，可將各種訊息彼此分隔開來。 如果我們使用範例查詢 How many helicopters can a human eat in one sitting? 執行上述程式碼，傳遞給模型的標記序列將如下所示：
+
+```
+<|im_start|>system
+You are a friendly chatbot who always responds in the style of a pirate<|im_end|>
+<|im_start|>user
+How many helicopters can a human eat in one sitting?<|im_end|>
+<|im_start|>assistant
+```
+
+請注意序列中最後的標記是 <|im_start|>assistant。 這就是模型知道要繼續生成標記，直到最後生成其序列結束標記的方式，在此例中為 <|im_end|>。
+
+透過將所有問答對資料（以及下游的偏好微調資料）封裝成此格式，現代語言模型能以完美的完全一致性來遵循它。 這是經指令微調的模型用來與使用者，以及與在 GPU 或其他運算設備上運行的模型交換資訊的語言。
+
+該行為可以直接擴展到多輪對話，如下所示：
+
+```
+<|im_start|>system
+You are a friendly chatbot who always responds in the style of a pirate<|im_end|>
+<|im_start|>user
+How many helicopters can a human eat in one sitting?<|im_end|>
+<|im_start|>assistant
+Oh just 6.<|im_end|>
+<|im_start|>user
+Are you sure about that?<|im_end|>
+<|im_start|>assistant
+```
+
+在開放生態系統中，將聊天模板應用於訊息列表的標準方法是使用 Jinja 程式碼片段，這是一種儲存在分詞器配置中的輕量級 Python 模板語言，設定為 apply_chat_template。
+
+上述聊天模板是 OpenAI 聊天標記語言 (ChatML) 的衍生物，這是早期標準化訊息格式的嘗試。 現在，OpenAI 與其他模型供應商使用層次化系統，使用者可以在其中配置系統訊息，不過還有一些可能會或可能不會向使用者揭露的更高級別指令 [68]。
+
+還存在許多其他的聊天模板。 其他一些範例包括 Zephyr 的模板 [26]：
+
+```
+<|system|>
+You are a friendly chatbot who always responds in the style of a pirate</s>
+<|user|>
+How many helicopters can a human eat in one sitting?</s>
+<|assistant|>
+```
+
+或是 Tülu 的模板：
+
+Plaintext
+
+```
+<|user|>
+How are you doing?
+<|assistant|>
+I'm just a computer program, so I don't have feelings, but I'm functioning as expected. How can I assist you today?<|endoftext|>
+```
+
+除此之外，許多聊天模板還包含用於工具使用等任務的格式化與其他標記。
+
+## 4.2 指令微調的最佳實踐
+
+指令微調作為後訓練以及建立有幫助的語言模型的基礎已經確立。有許多方法可以達成成功的指令微調。例如，結合部分模型參數量化的有效微調，讓訓練變得非常容易上手。此外，在對話對齊等狹窄領域中（即沒有數學或程式碼等較難的技能），小而專注的資料集就能達到強大的效能。在 ChatGPT 發布後不久，如 No Robots 等僅有一萬個樣本的人類資料集曾是當時最先進的技術。幾年後，大規模合成資料集在大多數任務上的表現最佳。
+
+仍有幾個原則不變：
+
+* 高品質資料對效能有決定性影響。補全是模型實際學習的內容（在許多情況下，不會對提示進行預測，因此模型不會學習預測提示）。
+* 大約 100 萬個提示可用於建立具備出色 RLHF 與後訓練能力的模型。進一步擴展仍有幫助，但回報會迅速遞減。
+* 最好的提示是那些與感興趣的下游任務分布相似的提示。
+* 如果在指令微調之後進行多個訓練階段，模型可以從指令微調資料的某些雜訊中恢復。優化整體最佳化過程比優化每個單獨階段更為重要。
+
+### 4 .3 實作細節
+
+雖然損失函數與預訓練相同，但有幾個關鍵的實作細節與預訓練所使用的設定不同[cite: 1]。許多實踐（例如決定使用哪種類型的平行處理來將模型切分到多個 GPU 上）與預訓練相同，只是使用的機器總數通常較少（這是基於下方列出的第一個技術變更）：[cite: 1]
+
+* 較小的批次大小：與預訓練相比，指令微調（以及其他後訓練技術如偏好微調）使用小得多的批次大小，以在較窄的資料分布上良好地最佳化，同時保留模型從預訓練獲得的泛化能力[cite: 1]。例如，OLMo 2 的 7B 模型預訓練使用 1024 封裝列 (packed-rows) 的批次大小，13B 模型則使用 2048；這些模型的總上下文長度為 4096 個標記，且批次中的每一列都是填滿序列長度的文件組合[cite: 1]。對於後訓練，這兩個模型僅使用 256 個提示的批次大小[58]，而不需要填滿整個序列長度（因此每批次中非遮罩標記的數量要少得多）[cite: 1]。較小的批次大小意味著這些訓練工作無法像預訓練那樣切分到那麼多設備上——在實務上，分散式訓練設定有每個設備的最小批次大小限制，因此如果你試圖為 SFT 保留較小的全局批次大小，你能使用的 GPU 總數會較少[cite: 1]。實務上，批次大小迫使每個訓練工作分配較少同時運作的 GPU 並非限制因素，因為 SFT 的訓練標記數量遠小於預訓練，而且在後訓練中需要為多個種子 (seeds) 進行訓練，以獲得最佳的最終效能[cite: 1]。
+
+* 提示遮罩：在預訓練時，批次中的每個標記都以自迴歸方式進行預測，並將損失應用於它們[cite: 1]。在指令微調中，提示標記會被遮罩，因此模型不會學習精確預測使用者查詢——而只會學習預測回應[cite: 1]。這同樣適用於其他後訓練演算法[cite: 1]。
+
+* 多輪對話遮罩：對於多輪對話，常見的遮罩選擇有兩種[cite: 1]。(1) 僅最後一輪：損失僅包含最後一輪助理回覆的標記，而所有先前的上下文（包含先前的助理回覆）皆被遮罩[cite: 1]。長對話仍可被「展開」成多個訓練樣本：對於 N 輪的對話，每個範例預測一個助理回應，同時遮罩所有先前的上下文並排除任何未來的對話輪次[cite: 1]。(2) 僅遮罩使用者輪次：所有使用者輪次皆被遮罩，但每個助理輪次皆包含在損失中[cite: 1]。如果您希望獲得更多（較短）的訓練範例，您仍可在此設定中進行展開，但主要差異在於模型會直接針對中間的助理回覆進行訓練[cite: 1]。
+
+* 與預訓練相同的損失函數：指令微調使用與預訓練語言模型相同的自迴歸損失函數，但在資料處理、遮罩（僅針對完整序列進行訓練，而預訓練文件可拆分至不同批次）等方面有實質差異[cite: 1]。
+
+* 學習率：SFT 通常使用比預訓練小一到兩個數量級的學習率，以最佳地管理不同的最佳化動態（較小的資料集、較小的批次，以及強大的預訓練初始化，都傾向於較保守的更新）[cite: 1]。例如，OLMo 2 預訓練的峰值學習率為 $3\times10^{-4}$，而 SFT 則為 $1\times10^{-5}$ [58][cite: 1]。OLMo 3 使用較高的 SFT 學習率 $5-8\times10^{-5}$ [18]，部分原因是其訓練基礎設施使用了序列封裝 (sequence packing) 技術，將多個範例裝入每個訓練序列中，從而增加了以有用標記衡量之有效批次大小[cite: 1]。較大的批次會產生變異較低的梯度估計，進而支援較高的學習率而不會破壞訓練穩定性——這種關係被稱為線性縮放法則[cite: 1]。通常會在訓練步驟的一小部分內對學習率進行預熱 (warmed up)，然後線性衰減[cite: 1]。在實務上，團隊通常會掃描多個學習率，並在保留的評估套件上選擇最佳的檢查點 [18][cite: 1]。
