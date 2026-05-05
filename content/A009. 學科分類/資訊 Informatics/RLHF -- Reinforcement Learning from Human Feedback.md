@@ -15,6 +15,11 @@ File Creation Date: 2026-05-04 23:39
 Last Modified: 2026-05-04 23:39
 File folder: 資訊 Informatics
 
+#  [IBM--What is LLM reinforcement learning?](https://www.ibm.com/think/topics/llm-reinforcement-learning)
+
+> Reinforcement learning from human feedback put LLM post-training on the map. The concept is straightforward: human annotators review multiple model outputs, rank them by preference and those human-labeled comparisons become training data for a reward model. This method turns human judgement into a signal that scales.
+
+# [Lambert Nathan (2025). Reinforcement learning from human feedback. _arXiv preprint arXiv:2504.12501_](https://arxiv.org/pdf/2504.12501#page=9.24)
 # 1 引言 (Introduction)
 
 ![[Pasted image 20260505111840.png]]
@@ -283,3 +288,48 @@ $$x_{t+1}=x_{t}+\Delta t\dot{x}_{t}, \dot{x}_{t+1}=\dot{x}_{t}+\Delta t\ddot{x}_
 $$\theta_{t+1}=\theta_{t}+\Delta t\dot{\theta}_{t}, \dot{\theta}_{t+1}=\dot{\theta}_{t}+\Delta t\ddot{\theta}_{t}$$ 
 
 這是上述一般設定的一個具體實例：策略選擇 $a_{t}$，轉移函數推進狀態，獎勵在情節中累積。
+
+### 3.1.3 操縱標準 RL 設定
+
+用於 RLHF 的 RL 制定被視為一個較不具開放性的問題，其中 RL 的幾個關鍵部分被設定為特定定義，以適應語言模型。 標準 RL 與用於語言模型的 RLHF 設定之間的差異總結於表 1。
+![[Pasted image 20260505150004.png]]
+
+1. 從獎勵函數切換到獎勵模型。 在 RLHF 中，使用人類偏好的學習模型 $r_{\theta}(s_{t},a_{t})$（或任何其他分類模型）來替代環境獎勵函數。 這使設計者在方法靈活性與對最終結果的控制力上有實質提升，代價為實作的複雜性。 在標準 RL 中，獎勵被視為環境中靜態的一部分，無法被設計學習代理的人改變或操縱。
+2. 不存在狀態轉移。 在 RLHF 中，該領域的初始狀態是從訓練數據集中取樣的提示，而動作則是對該提示的補全（在標準 RLHF 設定中，提示是固定的，且模型的補全並不定義下一個提示）。 一個提示與一個補全的組合構成了一個完整的情節或部署，這在經典 RL 問題中由許多重複的狀態-動作、狀態-動作鏈組成。
+3. 回應級別的獎勵且無折扣。 RLHF 的獎勵歸因針對由多個生成標記組成的整個動作序列進行，不同於細粒度的方式（這種單步結構在 RL 文獻中有時被稱為多臂老虎機問題）。 為了幫助用於 RLHF 的 RL 演算法將每個標記視為同一動作的一部分，實作通常使用 $\gamma=1$ 的折扣因子（無折扣），不同於標準 RL 中 $\gamma<1$ 用於平衡許多順序決策中的短期與長期獎勵。
+
+鑑於問題的單輪性質，最佳化可以在沒有時間視界與折扣因子的情況下重寫（並帶有明確的獎勵模型）：
+
+$$max\mathbb{E}_{\tau\sim\pi}[r_{\theta}(s_{t},a_{t})].$$
+
+在許多方面，結果是雖然 RLHF 深受 RL 最佳化器與問題制定的啟發，但實際實作與傳統 RL 差異極大。
+
+### 3.1.4 微調與正規化
+
+在傳統 RL 問題中，代理必須從隨機初始化的策略開始學習，但在 RLHF 中，我們從具有許多初始能力的強大預訓練基礎模型開始。 這種針對 RLHF 的強大先驗導出了一種需求，即防止最佳化偏離初始策略太遠。 為了在微調方案中取得成功，RLHF 技術採用多種類型的正規化來控制最佳化。 目標是在不讓模型屈服於過度最佳化的情況下，仍允許獎勵最大化發生，如第 14 章所述。 對最佳化函數最常見的修改是在當前 RLHF 策略與最佳化起點的距離上加入 KL 散度懲罰。 訓練模型時設定的 $\beta$ 超參數控制此約束的強度，較大的 $\beta$ 使模型更接近其起點，較小的 $\beta$ 則賦予最佳化器更多追求獎勵的自由：
+
+$$max \mathbb{E}_{\tau\sim\pi}[r_{\theta}(s_{t},a_{t})]-\beta\mathcal{D}_{KL}(\pi(\cdot|s_{t})||\pi_{ref}(\cdot|s_{t})).$$
+![[Pasted image 20260505150522.png]]
+### 3.1.5 最佳化工具
+
+在此書中，我們詳細介紹了解決此最佳化問題的流行技術。 後訓練的流行工具包括：
+
+- **reward modeling 獎勵建模**（第 5 章）：其中訓練一個模型以捕捉從收集的偏好數據中獲得的訊號，且隨後可以輸出指示未來文本品質的標量獎勵。
+- **instruction fine-tuning 指令微調**（第 4 章）：RLHF 的先決條件，透過模仿預選範例來教導模型現今大多數語言模型互動中使用的問答格式。
+- **rejection sampling 拒絕採樣**（第 9 章）：最基本的 RLHF 技術，其中指令微調的候選補全由模仿人類偏好的獎勵模型進行過濾。
+- **policy gradients 策略梯度**（第 6 章）：在 RLHF 的經典範例中使用的 RL 演算法，用於根據來自獎勵模型的訊號更新語言模型的參數。
+- **direct alignment algorithms 直接對齊演算法**（第 8 章）：直接從成對偏好數據最佳化策略的演算法，而非先學習中間獎勵模型隨後再進行最佳化。
+
+現代經 RLHF 訓練的模型總是利用指令微調，隨後採用其他最佳化選項的混合方式。
+
+## 3.2 語言模型後訓練中 RL 的微妙優勢
+
+> RL stages can fix rough edges on the model, making them easier to chat with or more robust (this could come by training them to have numerical stability with inference tools like VLLM).
+
+在接下來的章節中，我們將介紹許多用於後訓練的最佳化工具 其中許多工具，例如拒絕採樣（第 9 章）和像 DPO 這樣的直接對齊演算法（第 8 章），都比讓 RL 運作要簡單得多 儘管替代方案很簡單，基於 RL 的方法仍繼續勝出 相對於指令微調或類 DPO 演算法，實作 RL 需要更大的基礎設施投入，但冒著過於口語化的風險，它提供的梯度更新「通常對模型有很大幫助」 這很難量化，但會以幾種重複出現的形式表現出來：
+
+- RL 階段可以「修復」模型的粗糙邊緣，使它們更容易交談或更強健（robustness）（這可以透過訓練它們在使用像 vLLM 這樣的推理工具時具有數值穩定性來達成）。雖然文獻中尚不清楚其確切原因，但其真實性反映在現今 RL 日益增加的存在感中
+- RL 可以精確地進行。模型在學習提示分布所在位置方面做得很好，且 RL 往往不會「壓扁」模型的通用能力
+- 一個很好的例子是 Tülu 3 僅在數學提示上進行 RL 訓練，同時維持在廣泛任務套件中的能力    
+
+總體而言，語言模型上的 RL 損失具有強大、可擴展、有效且靈活的特性，這開啟了廣大的新實驗領域 引領我們走上這條道路的最初方法是 RLHF 的研究
