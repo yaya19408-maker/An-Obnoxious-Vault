@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - center-titles
+  - center-images
 tags:
   - informatics
 aliases:
@@ -19,7 +20,7 @@ File folder: 資訊 Informatics
 
 > Reinforcement learning from human feedback put LLM post-training on the map. The concept is straightforward: human annotators review multiple model outputs, rank them by preference and those human-labeled comparisons become training data for a reward model. This method turns human judgement into a signal that scales.
 
-# [Lambert Nathan (2025). Reinforcement learning from human feedback. _arXiv preprint arXiv:2504.12501_](https://arxiv.org/pdf/2504.12501#page=9.24)
+# [Reinforcement learning from human feedback](https://arxiv.org/pdf/2504.12501#page=9.24)
 # 1 引言 (Introduction)
 
 ![[Pasted image 20260505111840.png]]
@@ -329,7 +330,27 @@ $$max \mathbb{E}_{\tau\sim\pi}[r_{\theta}(s_{t},a_{t})]-\beta\mathcal{D}_{KL}(\p
 在接下來的章節中，我們將介紹許多用於後訓練的最佳化工具 其中許多工具，例如拒絕採樣（第 9 章）和像 DPO 這樣的直接對齊演算法（第 8 章），都比讓 RL 運作要簡單得多 儘管替代方案很簡單，基於 RL 的方法仍繼續勝出 相對於指令微調或類 DPO 演算法，實作 RL 需要更大的基礎設施投入，但冒著過於口語化的風險，它提供的梯度更新「通常對模型有很大幫助」 這很難量化，但會以幾種重複出現的形式表現出來：
 
 - RL 階段可以「修復」模型的粗糙邊緣，使它們更容易交談或更強健（robustness）（這可以透過訓練它們在使用像 vLLM 這樣的推理工具時具有數值穩定性來達成）。雖然文獻中尚不清楚其確切原因，但其真實性反映在現今 RL 日益增加的存在感中
-- RL 可以精確地進行。模型在學習提示分布所在位置方面做得很好，且 RL 往往不會「壓扁」模型的通用能力
+- RL 可以精確地進行。模型在學習提示分布所在位置方面做得很好，且 RL 往往不會壓扁（flatten）模型的通用能力
 - 一個很好的例子是 Tülu 3 僅在數學提示上進行 RL 訓練，同時維持在廣泛任務套件中的能力    
 
 總體而言，語言模型上的 RL 損失具有強大、可擴展、有效且靈活的特性，這開啟了廣大的新實驗領域 引領我們走上這條道路的最初方法是 RLHF 的研究
+
+## 3.3 正統訓練方法
+
+隨著時間的推移，各種模型被確定為RLHF的特定標準方案，或更廣泛意義上的訓練後最佳化方案。這些方案反映了當時的數據實踐和模型能力。隨著方案的不斷完善，訓練具有相同特徵的模型變得越來越容易，所需的資料量也越來越少。訓練後最佳化的一個總體趨勢是：採用更多最佳化步驟，使用更多訓練演算法，並結合更多樣化的訓練資料集和評估方法。
+### 3.3.1 InstructGPT
+
+> This recipe is the foundation of modern RLHF, but recipes have evolved substantially to include more stages and more data
+
+在 ChatGPT 最初問世之際，語言模型後訓練的廣泛接受（標準）方法包含三個主要步驟，其中 RLHF 為核心部分，在基礎語言模型（在大型網路文本上訓練的下一個標記預測模型）之上採取的這三個步驟總結於下方的圖 8 中：
+
+![[Pasted image 20260505155140.png]]
+1. 在約 1 萬個範例上進行指令微調：這教導模型遵循問答格式，並從主要由人類編寫的數據中學習一些基礎技能
+2. 在約 10 萬個成對提示上訓練獎勵模型（論文使用了 3.3 萬個提示）：該模型從指令微調後的檢查點開始訓練，並捕捉人們希望在最終訓練中模擬的多元價值. 獎勵模型是 RLHF 的優化目標
+3. 在另外約 10 萬個提示上，對指令微調後的模型進行 RLHF 訓練（論文中使用了精確的 3.1 萬個，未記錄提示是否或在多大程度上從其他階段重複使用）：模型針對獎勵模型進行優化，使用一組可能獨立的提示，在接受評分前生成回應
+
+一旦 RLHF 完成，模型便準備好部署給使用者. 該配方是現代 RLHF 的基礎，但配方已大幅演進，包含更多階段與更多數據
+
+### 3.3.2 Tülu 3
+
+

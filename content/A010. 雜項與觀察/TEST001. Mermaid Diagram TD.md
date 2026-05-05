@@ -89,16 +89,33 @@ return (
 ```jsx:
 <MusicPlayer></MusicPlayer>
 ```
-```dataview  
+`dataview  
 TABLE 
 FROM "A001. 字根與語言"  
-```
+``
 
 ```dataview
 list
 from #psychology 
 ```
 
+```mermaid
+graph TD
+%% 定義節點 (Nodes)
+M["感知自我效能<br>(Perceived Self-Efficacy)"]
+X["外語焦慮<br>(FLA)"]
+Y["語言學習策略<br>(LLS)"]
+
+%% 定義路徑與標籤 (Edges & Labels)
+ X -->|"Path a: 負向影響"| M
+ M -->|"Path b: 正向影響"| Y
+ X -->|"Path c': 直接效應"| Y
+
+   %% 視覺排版優化 (可選的樣式設定，讓中介變數更凸顯)
+  style M fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+  style X fill:#ffebee,stroke:#c62828,stroke-width:2px
+  style Y fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+```
 
 ```mermaid  
 graph TD  
