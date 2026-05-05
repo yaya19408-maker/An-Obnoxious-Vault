@@ -153,3 +153,23 @@ RLHF 存在於「偏好微調」領域並佔據主導地位偏好微調比指令
     - 技術路徑整合了指令微調、RLHF 與提示設計
     - 閉源實驗室報告顯示大型模型深受多階段後訓練影響
     - 創新焦點集中於可驗證獎勵強化學習 (RLVR) 與推理能力訓練
+
+## 1.5 本書範疇
+
+- ### 1.5.1 章節摘要
+    - 提供引言背景、歷史重要作品與訓練目標設計概述
+    - 核心訓練管線章節涉及多項關鍵技術：
+        - Instruction Tuning：將語言模型適配至問答格式
+        - Reward Modeling：從偏好數據訓練獎勵模型作為最佳化目標
+        - Reinforcement Learning (i.e. Policy Gradients)：用於更新參數的技術與演算法
+        - Reasoning and Inference-time Scaling
+        - Direct Alignment Algorithms：Algorithms that optimize the RLHF objective directly from pairwise preference data rather than learning a reward model first
+        - Rejection Sampling: A basic technique for using a reward model with instruction tuning to align models
+    - 數據與偏好部分涵蓋偏好數據收集、合成數據、AI 反饋以及工具調用技術
+    - 實務考量章節包含過度最佳化、正規化工具、評估方法與產品特性分析
+- ### 1.5.2 目標受眾
+    - 針對具備語言建模、強化學習與一般機器學習入門經驗的讀者設計
+- ### 1.5.3 本書使用方法
+    - 鑑於學術結果常具噪聲且難以複製，建議閱讀多篇論文以建立穩健直覺
+    - 內容定位為提供嘗試初步實作或進入文獻研究的最少必要知識
+    - 讀者可參閱學術風格引用以獲取特定論點的權威來源
