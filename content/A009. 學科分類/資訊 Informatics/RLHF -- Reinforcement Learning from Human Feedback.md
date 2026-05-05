@@ -542,7 +542,7 @@ I'm just a computer program, so I don't have feelings, but I'm functioning as ex
 
 在整章中，我們使用 x 來表示提示，並用 y 來表示補全 這種符號表示法在語言模型文獻中很常見，其中的方法運作於完整的提示與補全對上，有別於個別的標記
 
-5.1 訓練 Bradley-Terry 獎勵模型
+## 5 .1 訓練 Bradley-Terry 獎勵模型
 
 獎勵模型的經典實作源自 Bradley-Terry 偏好模型。對於如何為 RLHF 訓練標準獎勵模型有兩種流行的表達式，它們在數學上是等價的。首先，Bradley-Terry 偏好模型定義了在兩個項目 i 與 j 的成對比較中，評審偏好 i 勝過 j 的機率：
 
@@ -562,12 +562,17 @@ $$P(y_{1}>y_{2}|x)=\frac{exp(r_{\theta}(y_{1}|x))}{exp(r_{\theta}(y_{1}|x))+exp(
 
 我們將偏好的補全表示為 $y_{c}$（選擇的），並將拒絕的補全表示為 $y_{r}$。產生的損失促使獎勵模型為人類偏好的補全分配高於被拒絕補全的分數，並使用 sigmoid 將分數差異轉換為機率。透過最大化上述函數的對數概似（或替代地最小化負對數概似），我們可以得出以下損失來訓練獎勵模型：
 
-$$\theta^{*}=arg~max_{\theta}P(y_{c}>y_{r}|x)=arg~max_{\theta}\frac{exp(r_{\theta}(y_{c}|x))}{exp(r_{\theta}(y_{c}|x))+exp(r_{\theta}(y_{r}|x))}$$
-$$=arg~max_{\theta}\frac{exp(r_{\theta}(y_{c}|x))}{exp(r_{\theta}(y_{c}|x))(1+\frac{exp(r_{\theta}(y_{r}|x))}{exp(r_{\theta}(y_{c}|x))})}$$
-$$=arg~max_{\theta}\frac{1}{1+\frac{exp(r_{\theta}(y_{r}|x))}{exp(r_{\theta}(y_{c}|x))}}$$
-$$=arg~max_{\theta}\frac{1}{1+exp(-(r_{\theta}(y_{c}|x)-r_{\theta}(y_{r}|x)))}$$
-$$=arg~max_{\theta}\sigma(r_{\theta}(y_{c}|x)-r_{\theta}(y_{r}|x))$$
-$$=arg~min_{\theta}-log(\sigma(r_{\theta}(y_{c}|x)-r_{\theta}(y_{r}|x)))$$
+$$
+\begin{aligned}
+\theta^* = \arg\max_\theta P(y_c > y_r \mid x) &= \arg\max_\theta \frac{\exp(r_\theta(y_c \mid x))}{\exp(r_\theta(y_c \mid x)) + \exp(r_\theta(y_r \mid x))} \\
+&= \arg\max_\theta \frac{\exp(r_\theta(y_c \mid x))}{\exp(r_\theta(y_c \mid x)) \left( 1 + \frac{\exp(r_\theta(y_r \mid x))}{\exp(r_\theta(y_c \mid x))} \right)} \\
+&= \arg\max_\theta \frac{1}{1 + \frac{\exp(r_\theta(y_r \mid x))}{\exp(r_\theta(y_c \mid x))}} \\
+&= \arg\max_\theta \frac{1}{1 + \exp(-(r_\theta(y_c \mid x) - r_\theta(y_r \mid x)))} \\
+&= \arg\max_\theta \sigma(r_\theta(y_c \mid x) - r_\theta(y_r \mid x)) \\
+&= \arg\min_\theta - \log(\sigma(r_\theta(y_c \mid x) - r_\theta(y_r \mid x)))
+\end{aligned}
+$$
+
 
 第一種形式是如上推導的對數 sigmoid 表達式，如其他研究所述：
 
