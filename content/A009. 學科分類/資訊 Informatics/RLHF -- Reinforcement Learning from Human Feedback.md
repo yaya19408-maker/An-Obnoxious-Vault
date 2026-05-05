@@ -17,6 +17,8 @@ File folder: 資訊 Informatics
 
 # 1 引言 (Introduction)
 
+![[Pasted image 20260505111840.png]]
+
 人類回饋強化學習（Reinforcement Learning from Human Feedback, RLHF）是一種將人類資訊融入 AI 系統的技術RLHF 的出現主要是為了擬定難以明確界定的問題解決方案。在與人類直接互動的系統中，由於個人偏好往往具有難以表達的本質，這類問題隨處可見這涵蓋了與數位系統互動的各個內容領域
 
 RLHF 的早期應用通常在控制問題和其他傳統強化學習（RL）領域，目標是優化特定行為以解決任務。RLHF 領域最初的核心思想是：「我們能否僅靠基本的偏好訊號引導優化過程，來解決困難問題。」RLHF 最廣為人知的原因是 ChatGPT 的發布，以及隨後大語言模型（LLMs）和其他基礎模型的快速發展
@@ -141,7 +143,7 @@ RLHF 存在於「偏好微調」領域並佔據主導地位偏好微調比指令
     - 早期模型如 Alpaca、Vicuna、Koala 與 Dolly 採用指令微調路徑
     - 技術手段側重於在 Llama 基礎上使用 Self-Instruct 風格的合成數據
     - 評估模式依賴感官判斷
-- 對強化學習技術的懷疑期
+- 對 RL技術的懷疑期
     - 開源社群最初質疑強化學習的必要性
     - 盛行觀點認為指令微調足以達成模型對齊目標
     - Anthropic 等早期堅持強化學習路徑的機構隨後取得技術領先
@@ -156,15 +158,17 @@ RLHF 存在於「偏好微調」領域並佔據主導地位偏好微調比指令
 
 ## 1.5 本書範疇
 
+> To develop strong intuitions, readers are encouraged to read multiple papers on each topic rather than taking any single result as definitive.
+
 - ### 1.5.1 章節摘要
     - 提供引言背景、歷史重要作品與訓練目標設計概述
     - 核心訓練管線章節涉及多項關鍵技術：
         - Instruction Tuning：將語言模型適配至問答格式
-        - Reward Modeling：從偏好數據訓練獎勵模型作為最佳化目標
-        - Reinforcement Learning (i.e. Policy Gradients)：用於更新參數的技術與演算法
-        - Reasoning and Inference-time Scaling
-        - Direct Alignment Algorithms：Algorithms that optimize the RLHF objective directly from pairwise preference data rather than learning a reward model first
-        - Rejection Sampling: A basic technique for using a reward model with instruction tuning to align models
+        - Reward Modeling：從偏好數據訓練獎勵模型作為 RL 訓練最佳化或用於數據過濾
+        - Reinforcement Learning (i.e. Policy Gradients)：在整個 RLHF 過程中用於優化獎勵模型與其他訊號的核心強化學習技術
+        - Reasoning and Inference-time Scaling：新RL訓練方法對於後訓練與 RLHF 推論時間擴展的作用
+        - Direct Alignment Algorithms：Algorithms that optimize the RLHF objective directly from pairwise preference data rather than learning a reward model first（直接從成對偏好數據優化 RLHF 目標，無須先學習獎勵模型的演算法）
+        - Rejection Sampling: A basic technique for using a reward model with instruction tuning to align models（結合獎勵模型與指令微調以對齊模型的基礎技術）
     - 數據與偏好部分涵蓋偏好數據收集、合成數據、AI 反饋以及工具調用技術
     - 實務考量章節包含過度最佳化、正規化工具、評估方法與產品特性分析
 - ### 1.5.2 目標受眾
@@ -173,3 +177,109 @@ RLHF 存在於「偏好微調」領域並佔據主導地位偏好微調比指令
     - 鑑於學術結果常具噪聲且難以複製，建議閱讀多篇論文以建立穩健直覺
     - 內容定位為提供嘗試初步實作或進入文獻研究的最少必要知識
     - 讀者可參閱學術風格引用以獲取特定論點的權威來源
+
+## 1.6 RLHF 的未來
+
+>RLHF will be seen as the bridge that enabled further investment of RL methods for fine-tuning large base models.
+
+隨著在語言建模領域的投入，傳統 RLHF 方法出現了許多變體。 RLHF 在口語上已成為多種重疊方法的代名詞。 RLHF 屬於**偏好微調** (PreFT) 技術的一個子集，包含**直接對齊演算法**，這些是 DPO 下游的方法類別，藉由直接在偏好數據上進行梯度步驟來解決偏好學習問題，不必學習中間獎勵模型。 RLHF 是與語言模型**後訓練**快速進展最相關的工具，這涵蓋了在主要使用網路數據進行大規模自回歸訓練之後的所有訓練步驟。 本教科書廣泛概述了 RLHF 及其直接鄰近的方法，如指令微調以及建立 RLHF 訓練環境所需的其他實施細節。
+
+隨著利用強化學習微調語言模型的成功案例增多，例如 OpenAI 的o1推理模型，RLHF 將被視為促使強化學習方法進一步用於微調大型基礎模型的橋樑。 與此同時，雖然在不久的將來，注意力可能會更集中於 RLHF 的強化學習部分，將其作為最大化具價值任務表現的手段，但 RLHF 的核心在於它是觀察現代人工智慧形式所遇重大問題的透鏡。 我們要如何將人類價值觀與目標的複雜性映射到日常使用的系統中？ 本書希望能為這些問題數十年的研究與教訓奠定基礎。
+
+# 2 關鍵文獻
+![[Pasted image 20260505111754.png]]
+## 2 .1 起源至 2018 年：基於偏好的RL
+
+隨著深度強化學習的成長，該領域近期變得普及，並發展為許多大型科技公司對大型語言模型應用的廣泛研究。 儘管如此，今日使用的許多技術仍與早期基於偏好之強化學習文獻中的核心技術有著深度的關聯。
+
+首批採用類似現代 RLHF 方法的論文之一是 TAMER。
+
+> TAMER: Training an Agent Manually via Evaluative Reinforcement proposed an approach in which humans iteratively scored an agent's actions to learn a reward model, which was used to learn the action policy. Other concurrent or soon after work proposed an actor-critic algorithm, COACH, where human feedback (both positive and negative) is used to tune the advantage function.
+
+主要參考文獻 Christiano et al. (2017)，是將 RLHF 應用於雅達利遊戲（Atari games）中代理軌跡間偏好的應用。 這項引入RLHF的研究，緊隨DeepMind在深度Q網路 (Deep Q-Networks, DQN) 強化學習方面的開創性研究之後，該研究表明強化學習代理能夠從零開始學習並解決受歡迎的電子遊戲。 該研究顯示，在某些領域中，人類在軌跡之間進行選擇比直接與環境互動更為有效。 這使用了一些巧妙的條件，但依然令人印象深刻。
+
+![[Pasted image 20260505111728.png]]
+
+這個方法隨著更直接的獎勵建模而得到擴展，而在早期 RLHF 研究中採用深度學習的巔峰，是僅僅一年後透過神經網路模型對 TAMER 進行的擴展。
+
+這個時代開始過渡，因為獎勵模型作為一個普遍概念被提出來作為研究對齊的方法，超越了單純作為解決強化學習問題工具的範疇。
+
+## 2.2 在2019~2022 年：LM上來自人類偏好的RL
+
+> Reinforcement learning from human feedback, also referred to regularly as reinforcement
+> learning from human preferences in its early days, was quickly adopted by AI labs increasingly turning to scaling large language models.
+
+這項工作的大部分始於 2019 年的 GPT-2 與 2020 年的 GPT-3 之間。 2019 年最早的研究 Fine-Tuning Language Models from Human Preferences 與現代 RLHF 工作以及我們將在本書中涵蓋的內容有許多顯著相似之處。 許多經典術語，例如學習獎勵模型、KL 距離、回饋圖表等，都在這篇論文中正式化，只是最終模型的評估任務與能力與人們今日所做的有所不同。
+
+從這裡開始，RLHF 被應用於各種任務。 重要範例包括一般摘要 [2]、書籍的遞迴摘要 [40]、指令遵循 (InstructGPT) [3]、瀏覽器輔助問答 (WebGPT) [4]、以引用支持答案 (Gopher Cite) [41] 以及一般對話 (Sparrow) [42]。
+
+除了應用之外，許多開創性論文定義了 RLHF 未來的關鍵領域，包括關於以下內容的論文：1. 獎勵模型過度最佳化 [43]：強化學習最佳化器對基於偏好數據訓練的模型產生過度擬合的能力；2. 語言模型作為對齊研究的一般領域 [23]；以及 3. 紅隊演練 [44]：評估語言模型安全的過程。
+
+完善用於對話模型應用的 RLHF 工作持續進行。 Anthropic 繼續將其廣泛用於早期版本的 Claude [5]，並且早期的 RLHF 開源工具也開始出現 [45], [46], [47]。
+
+## 2.3 從 2023 至今：LLM 到 agent
+
+> ChatGPT: We trained this model using Reinforcement Learning from Human Feedback
+> (RLHF), using the same methods as InstructGPT, but with slight differences in
+> the data collection setup.
+
+從那時起，RLHF 已被廣泛應用於領先的語言模型中。 眾所周知，它被用於 Anthropic 為 Claude 開發的憲法 AI、Meta 的 Llama 2與 Llama 3、Nvidia 的 Nemotron 、Ai2 的 Tülu 3等模型。  今日，RLHF 正發展成為一個更廣泛的偏好微調 (PreFT) 領域，包含新的應用，例如第 5 章涵蓋的用於中間推理步驟的過程獎勵；第 8 章涵蓋的受直接偏好最佳化 (DPO)啟發的直接對齊演算法；以及第 7 章涵蓋的從程式碼或數學執行回饋中學習, 以及受 OpenAI的 o1啟發的其他線上推理方法。  
+
+## 3 訓練方法概述
+
+> Here we introduce the core objective of RLHF, which is optimizing a proxy reward for human preferences with a distance-based regularizer (along with showing how it relates to classical RL problems).
+
+## 3.1 問題定義
+![[Pasted image 20260505112756.png]]
+RLHF的最佳化建立在標準強化學習設定之上。 在RL中，代理根據環境狀態 $s_{t}$ 取樣自策略 $\pi(a_{t}|s_{t})$ 的動作 $a_{t}$，以最大化獎勵 $r(s_{t},a_{t})$ [54]。 策略是一個將每個狀態映射到動作機率分布的函數。 演變為現代 RLHF 文獻的早期策略存在於所謂的深度強化學習中，即使用神經網路來學習該函數。 傳統上，環境根據轉移（動力學） $p(s_{t+1}|s_{t},a_{t})$ 演變，並具有初始狀態分布 $\rho_{0}(s_{0})$。 策略與動力學共同誘導出軌跡分布。 軌跡的總體機率是初始狀態機率、策略所做的每個動作選擇以及環境產生的每個狀態轉移的乘積：
+
+$$p_{\pi}(\tau)=\rho_{0}(s_{0})\prod_{t=0}^{T-1}\pi(a_{t}|s_{t})p(s_{t+1}|s_{t},a_{t}).$$
+
+在視界為 $T$ 的有限情節中，RL代理的目標是解決以下最佳化問題，其中 $\gamma$ 是 0 到 1 之間的折扣因子，用於平衡近期與未來獎勵的理想程度：
+
+$$max_{\pi}\mathbb{E}_{\tau\sim p_{\pi}}[\sum_{t=0}^{T-1}\gamma^{t}r(s_{t},a_{t})]$$
+
+給定策略的預期回報通常表示為 $J(\pi)$，其最佳值寫作 $J^{*}=max_{\pi}J(\pi)$。
+
+對於持續性任務，通常取 $T\rightarrow\infty$ 並依賴折扣 $(\gamma<1)$ 來保持目標定義明確。 第 6 章討論了最佳化此表達式的多種方法。
+
+標準RL迴圈的圖示如圖 4 所示（請將此與圖 7 中的 RLHF 迴圈進行比較）。
+
+### 3.1.1 恆溫器（Thermostat）
+
+
+為了建立 RL 的基本直覺，請考慮一個試圖將房間維持在目標溫度 $70^{\circ}F$ 的恆溫器。 在 RL 中，代理從對任務一無所知開始，必須透過試錯來發現良好的策略。 恆溫器範例具有以下組成部分（請參閱圖 5 以了解各部分如何映射到等式 1（Eq. 1）中的軌跡分布）：
+
+- 狀態 (s)：當前房間溫度，例如 $65^{\circ}F$。
+- 動作 ( $a_{t}$ )：打開或關閉加熱器。
+- 獎勵 (r)：當溫度在目標的 $2^{\circ}$ 範圍內時為 +1，否則為 0。
+- 策略 ( $\pi$ )：根據當前溫度決定加熱器開啟或關閉的規則。 恆溫器可能會學習到一種策略，儘管其是否為最佳取決於環境的確切轉移動力：
+
+$$\pi(a_{t}=on|s_{t})=\begin{cases}1&if~s_{t}<70^{\circ}F\\ 0&otherwise\end{cases}$$
+
+- 轉移：加熱器開啟時房間變暖，關閉時房間變冷。 代理透過其動作影響這些動力，但潛在的物理過程（房間加熱或冷卻的速度）超出了其控制範圍。
+![[Pasted image 20260505113809.png]]
+
+最初，恆溫器的策略基本上是隨機的，無論當前溫度如何，它都會隨意開啟和關閉加熱器，導致房間溫度劇烈波動。 經過多次試錯，代理發現當房間寒冷時開啟加熱器，當溫暖時關閉加熱器會獲得更多獎勵，並逐漸收斂至合理的策略。 這是 RL 的核心迴圈：觀察狀態、選擇動作、接收獎勵，並隨時間更新策略以獲得更多獎勵。
+
+### 3.1.2 範例 **RL** 任務：**CartPole**
+
+對於一個具有連續動力學的更豐富範例，請考慮經典的 **CartPole**（倒立擺）控制任務，該任務出現在許多 **RL** 教科書、課程甚至研究論文中。 恆溫器僅有一個狀態變量和一個二元動作，**CartPole** 則涉及四個連續狀態變量和基於物理的轉移，使其成為 **RL** 演算法的標準基準。
+
+圖 6：顯示狀態變量 $(x,\dot{x},\theta,\dot{\theta})$ 與動作的 **CartPole** 環境。
+![[Pasted image 20260505114309.png]]
+*   **狀態 ( $s_{t}$ )**：小車位置/速度以及擺桿角度/角速度，
+$$s_{t}=(x_{t},\dot{x}_{t},\theta_{t},\dot{\theta}_{t}).$$ 
+*   **動作 ( $a_{t}$ )**：對小車施加左/右水平力，例如 $a_{t}\in\{-F,+F\}.$ 
+*   **獎勵 (r)**：一個簡單的獎勵是擺桿保持平衡且小車留在軌道上的每一步（例如 $|x_{t}|\le2.4$ 且 $|\theta_{t}|\le12^{\circ}$） $r_{t}=1$，當違反任一界限時情節終止。
+*   **動力學 / 轉移 ( $p(s_{t+1}|s_{t},a_{t})$ )**：在許多環境中，動力學是確定性的（因此 $p$ 是一個點質量），且可以透過步長 $\Delta t$ 的歐拉積分寫作 $s_{t+1}=f(s_{t},a_{t}).$ 
+
+一個標準的簡化 **CartPole** 更新使用常數小車質量 $m_{c}$、擺桿質量 $m_{p}$、擺桿半長 $l$ 和重力 $g$（$\alpha$ 是一個具有加速度單位的質量歸一化中間變量）：
+
+$$\alpha=\frac{a_{t}+m_{p}l\dot{\theta}_{t}^{2}sin~\theta_{t}}{m_{c}+m_{p}}$$ 
+$$\ddot{\theta}_{t}=\frac{g~sin~\theta_{t}-cos~\theta_{t}\alpha}{l(\frac{4}{3}-\frac{m_{p}cos^{2}\theta_{t}}{m_{c}+m_{p}})}$$ 
+$$\ddot{x}_{t}=\alpha-\frac{m_{p}l\ddot{\theta}_{t}cos~\theta_{t}}{m_{c}+m_{p}}$$ 
+$$x_{t+1}=x_{t}+\Delta t\dot{x}_{t}, \dot{x}_{t+1}=\dot{x}_{t}+\Delta t\ddot{x}_{t}$$ 
+$$\theta_{t+1}=\theta_{t}+\Delta t\dot{\theta}_{t}, \dot{\theta}_{t+1}=\dot{\theta}_{t}+\Delta t\ddot{\theta}_{t}$$ 
+
+這是上述一般設定的一個具體實例：策略選擇 $a_{t}$，轉移函數推進狀態，獎勵在情節中累積。
