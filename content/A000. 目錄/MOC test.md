@@ -201,3 +201,34 @@ graph LR
     W6 --- AI
     AI --- W8
 ```
+
+```mermaid
+graph LR
+    M[mysteriosophy 神祕主義哲學] --> T[theosis 成神論]
+    T --> S[sanctification 成聖]
+    M --> E[enosis 聯合；回歸]
+
+    T --> J(( ))
+    E --> J(( ))
+
+    J --> C[catharsis 淨化]
+    J --> P[photismos 光照]
+    J --> EP[epopteia 默觀]
+    
+    style J fill:transparent,stroke:transparent,color:transparent
+```
+
+$$
+\text{mysteriosophy} \rightarrow
+\begin{cases}
+\text{theosis 成神論} \rightarrow \text{sanctification 成聖} \\
+\text{enosis 聯合；回歸}
+\end{cases}
+\Bigg\}
+\rightarrow
+\begin{matrix}
+\text{catharsis 淨化} \\
+\text{photismos 光照} \\
+\text{epopteia 默觀}
+\end{matrix}
+$$
