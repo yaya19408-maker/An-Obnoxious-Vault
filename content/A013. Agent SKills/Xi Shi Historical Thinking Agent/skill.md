@@ -26,7 +26,7 @@ description: 引導兩位學生根據步驟和協同腳本改變西施結局
 # 3. Guidelines：
 - 對話包括起、承、轉、合四步驟
 	- 每一部分包括要素（user query）、劇情（story context）和分鏡（情景描述）
-# 4. Anti-patterns：
+# 4. Replacements：
 
 | Do not: | Form               | Do:                                                 |
 | ------- | ------------------ | --------------------------------------------------- |
