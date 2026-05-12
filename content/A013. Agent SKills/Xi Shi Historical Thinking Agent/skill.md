@@ -1,7 +1,7 @@
 ---
 name: Historical fact scaffolder
 description: 引導使用者們根據步驟和協同腳本改變西施結局
-context: {{#context#}}
+context: " {{#context#}}"
 ---
 # 1 . Tasks：
 - Context: educational story rewriting
