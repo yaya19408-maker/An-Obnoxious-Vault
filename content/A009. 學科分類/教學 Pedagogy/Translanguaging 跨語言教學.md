@@ -117,3 +117,59 @@ LLMs lacks humans' communicative intent on meaning-making despite expressing bea
 # Waluyo , B., & Rouaghe, F. (2025). Beyond teacher-led approaches: Student-initiated translanguaging with artificial intelligence tools in foreign language acquisition. 
 _SAGE Open, 15_(3), 21582440251362998.
 
+## 1. Keywords
+
+translanguaging, AI translation tools, input hypothesis, communicative competence
+
+## 2. RQs
+
+- How do students make use of AI translation tools for mixing their languages?
+- What is the effect of these digital tools on their speaking skills?
+
+## 3. Intro
+
+AI tools are changing how people learn a new language. This paper looks at how students by themselves use AI translation tools to mix their first language and English. Past works look at how teachers guide this, but this paper looks at student choice in learning English as a foreign language.
+
+## 4. Lit Rev with 5 Core Literature
+
+The text notes past work on digital tools and language use:
+
+- Williams (1994) gave the first idea of using two languages together in one learning space.
+    
+- Baker (2011) and Wei (2018) developed this into a theory where a person uses all their language power together to get a better understanding.
+    
+- Krashen (1983, 1989) gave the Input Hypothesis, saying language comes from input that a person can understand but is a little hard.
+    
+- Other works mentioned include Gasˇevic ́ et al. (2023) on AI integration, and Garcı ́a & Otheguy (2020) on moving between languages.
+    
+
+## 5. Framework
+
+The framework combines two main ideas: Translanguaging Theory and the Optimal Input Hypothesis. It looks at how AI tools give students understandable input and let them use their full language stock to make sense of hard texts.
+
+## 6. Context
+
+The study took place at a university in Thailand. The people in the study were 69 undergraduate students from different fields of study.
+
+## 7. Methodology
+
+This study used a mixed-method design:
+
+- Quantitative data came from surveys and speaking tests, analyzed with path analysis.
+    
+- Qualitative data came from written student stories, analyzed by looking at key ideas.
+    
+- Students used an e-book with fables and QR codes on their phones or tablets.
+    
+
+## 8. Findings
+
+- **Good:** Students rely heavily on AI tools to get a better understanding of complex texts, learn new words, and build their language comfort. Convenience is a major reason for use.
+    
+- **Bad:** The tools did not give a clear push to speaking skills. The path analysis showed no balance between AI tool use and higher speaking scores. Too much dependency may stop a person from full language mastery.
+    
+
+## 9. Limitations/Implications
+
+- **Limitations:** The study focused mostly on reading and understanding, and the number of students was small (69 students from one university).
+- **Implications:** AI tools are great for reading helper work but do not automatically make speaking better. Teachers need to find a good balance so students do not rely too much on technology.
