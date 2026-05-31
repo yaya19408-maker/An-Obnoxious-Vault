@@ -51,7 +51,7 @@ how low to mid proficiency level Chinese students use ERNIE bot (文心一言) t
 | Ask AI how to express Chinese idiom                                        |    AI for translation     |          transforming ideas into Eng w/ GAI |
 | Ideas from AI were good cuz being too lazy                                 | reliance for convenience  |                       mixed emotions to GAI |
 | remember some words from AI and use them later in writing                  |   memorizing & applying   |    perceived impact on language development |
-# Findings
+## Findings
 1. Praxis: active translanguaging by solving complicated problems using L1 and multimodal resources for inspirations
 > “_Our English proficiency is not high enough, so we may not construct a grammatically correct sentence if asking AI directly in English. And if I ask it in broken English, it might not understand me either. Asking AI in Chinese allows it to understand what I want to ask, helping it better understand my needs.” (Xie, interview excerpt)_
 
@@ -85,4 +85,35 @@ Sense of cognitive gap:
 
 Fear of overreliance:
 > _“I think the ideas it (ERNIE Bot) gave me were quite good. Sometimes I might just be too lazy to think about the topic on my own.” (Chen, interview excerpt)_
+
+
+
+# Jeon , J., Wei, L., Tai, K. W., & Lee, S. (2025). Generative AI and its dilemmas: exploring AI from a translanguaging perspective. 
+_Applied Linguistics, 46_(4), 709-717.
+
+from AI system perspective
+
+## Purposes
+AI as stochastic parrot (Bender et al., 2021) heavily relying on statistical probability can marginalize some groups, this study, hence, aims to analyze three major pedagogical dilemma via translanguaging.
+
+## Lit rev
+1. Bender et al. (2021): AI = stochastic parrot = assembling words based on the probability of observed language use forms, lacking true understanding of meaning
+2. Payne et al. (2024): AI has bias and standardize language use, indirectly ignoring the re-emergence of marginalized voices
+3. Li (2018); Tai (2024): translanguaging = inclusive, multilingual, sociociultural, and semiotic $\rightarrow$ creative & meaning-oriented
+4. Kuteeva & Andersson (2024): LLM's limitations in applied linguistics = statistical output standardization represses language diversity
+
+## Findings
+### 3 dilemmas
+1. creativity-standardization dilemma
+user prompts "departyment" (政府部門：department + party), AI gives seemingly reasonable response but fails to understand sociopolitical sarcasm and criticism.
+
+2. inclusivity-fixity dilemma
+LLMs look language only on the static and fixed form rather than fluidic and inclusive as a language should be.
+
+3. meaning-form dilemma
+LLMs lacks humans' communicative intent on meaning-making despite expressing beautifully and flawlessly.
+
+
+# Waluyo , B., & Rouaghe, F. (2025). Beyond teacher-led approaches: Student-initiated translanguaging with artificial intelligence tools in foreign language acquisition. 
+_SAGE Open, 15_(3), 21582440251362998.
 
