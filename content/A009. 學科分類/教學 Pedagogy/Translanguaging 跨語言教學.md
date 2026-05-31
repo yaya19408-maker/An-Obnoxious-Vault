@@ -28,4 +28,8 @@ RQs:
 Lit rev:
 1. Garcia & Li (2014): use bilingual or multilingual resources to deliver complex thoughts
 2. Sasaki (2023): L1 is peak at EFL writing and use AI to reach
-3. Velasco & Garcia (2014): 
+3. Velasco & Garcia (2014); Zheng & Drybrough (2023): translanguaging $\in$ SRL for writing
+4. Tseng & Warchauer (2023): AI-assisted language learning $\rightarrow$ AI literacy
+
+Methodology:
+1. Framework: AI literacy $\ni$ 
