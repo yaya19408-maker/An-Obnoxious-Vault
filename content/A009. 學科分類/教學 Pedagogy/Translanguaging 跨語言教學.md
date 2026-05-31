@@ -63,7 +63,7 @@ but some reported ineffective instances
 
 > _“If I can’t come up with any ideas, I sometimes ask AI to create a mind map and it will list out many possible points in Chinese, and then I’ll pick some points that I like to write about.” (Yang, interview excerpt)_
 
-but some reponted limitations on their thinking (anchoring effect in psychology)
+but some reported limitations on their thinking (anchoring effect in psychology)
 > other participants reported forming the content of their essays initially in Chinese. They believed that brainstorming in Chinese imposed fewer limitations on their thinking, as they “only had a much smaller vocabulary in English compared to Chinese” (Shi, interview excerpt). For example, when they wrote the essays about addiction to technology, they brainstormed the potential harms of overusing technology in Chinese, and later translated them into English. Therefore, content knowledge was often elicited in their native language before being expressed in English writing.
 
 3. Actual model use: did not follow
